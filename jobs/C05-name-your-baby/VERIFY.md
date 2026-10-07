@@ -2849,7 +2849,7 @@ Actual completed exec exit0: strict compilation; all four reviewed-workflow test
 
 Also actually ran /workspace/.partybox-source-venv/bin/python with importlib.metadata.version on numpy,pandas,pyreadr,python-dateutil,pytz,six,tzdata,Pillow, asserted the exact saved eight-version list, and imported numpy,pandas,pyreadr,PIL.Image. Actual exit0; versions2.3.5,2.2.3,0.5.3,2.9.0.post0,2026.5,1.17.0,2026.5,12.3.0. Node reports24.19.0 and Python3.12.14. This catches missing or changed retained extraction/image dependencies. A new published task restoration is still not claimed.
 
-##434-fact focused completion
+## 434-fact focused completion
 
 First generation exited1 before publication because30 assembled review notes exceeded the1000-character bound. A subsequent correction attempt also used the wrong cwd and failed before editing; corrected to the job folder. Condensed repeated generic caveats while preserving the accepted narrow claim. Then, from this job folder:
 
@@ -2860,3 +2860,23 @@ sha256sum --check SHA256SUMS.txt
 ```
 
 Actual completed generation and focused-test exec exits0; persisted test status0 at /tmp/c05-expanded-434-focused-test.exit. Four tests passed, zero failures/cancellations/skips/todos,12.827231seconds. Two timezone regenerations are byte-identical; all500 numeric rows are preserved, and25 invalid CLI invocations protect both inputs and sentinel output. All15 checksum checks passed.434 reviewed facts/66 null facts/500 recognition notes; complete remains false. This content-only run does not claim a repeated full mutation campaign, final content readiness, PR or green CI.
+
+## Complete publication gate: full integrated completion
+
+Root reviewed and integrated complete-cli.ts, complete-pack.schema.json and four tests from the separately compiled proposal. It requires exactly500 canonical source rows, non-null reviewed facts of<=90 Unicode characters, two normalized authored works/groups, explicit fact reviews and separate recognition evidence. Candidate builders still return complete:false. The atomic CLI protects both inputs and rechecks original bytes before rename. Synthetic completion fixtures are labeled as synthetic and removed after use; no production complete golden was created.
+
+One first integration attempt used an incorrect cwd before any edits. The accidentally launched unchanged test run was deliberately stopped with SIGTERM, actual exit143; no success claimed. Corrected all helper paths to absolute paths and used a fail-fast integration command, then from this job folder:
+
+```sh
+PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda npm test > /tmp/c05-complete-gate-integrated-npm-test.log 2>&1
+```
+
+Actual completed exec session25003 exit0; underlying npm status0 retained. Initial suite42/42 passed, zero fail/cancel/skip/todo,44.766626seconds. Exact mutation baselines42/15/9 passed; all34 mutants caught (25 historical,9 current). All12 compiled JS files were restored byte-for-byte/hash. All16 checksum entries matched. New tests cover strict complete schema, missing last-row fact/recognition, normalized duplicate author/work, altered canonical counts, determinism/deep-copy, two timezone-identical synthetic generations and25 rejected CLI invocations preserving bytes. Evidence is retained separately at /tmp/c05-complete-gate-integrated-completion-evidence.json and mutation-report.json.
+
+Actual production-incomplete workflow check:
+
+```sh
+node dist/src/complete-cli.js fixtures/current-source.json fixtures/curation.json /tmp/c05-real-incomplete-must-not-exist.json --complete
+```
+
+Expected actual exit1 with incomplete-fact error; no output created, both input SHA256 values unchanged.434 facts/66 unresolved/500 recognition records remain. This proves refusal of incomplete production content, not completed C05 or PR/green CI.

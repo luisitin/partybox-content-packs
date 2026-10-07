@@ -19,6 +19,7 @@ facts from two authored works apiece. Recognition has 500 editorial accepts;
 66 facts remain unresolved. Its numeric fields match the base pack.
 `complete` remains
 false. The historical 30-name sample is retained separately.
+`npm run generate:complete` publishes only after all500 evidence gates pass.
 
 With Node 24 and Python 3.12, from this folder:
 
