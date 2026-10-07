@@ -1,0 +1,340 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.invalid/C05/current-source.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source",
+    "analysis",
+    "annualCounts",
+    "curation"
+  ],
+  "properties": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "publisher",
+        "url",
+        "sha256",
+        "license",
+        "snapshotDate",
+        "coverageStartYear",
+        "coverageEndYear",
+        "datasetIdentifier",
+        "licenseDeclarationUrl"
+      ],
+      "properties": {
+        "publisher": {
+          "const": "US Social Security Administration"
+        },
+        "url": {
+          "const": "https://www.ssa.gov/oact/babynames/names.zip"
+        },
+        "sha256": {
+          "const": "cd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724"
+        },
+        "license": {
+          "const": "CC0"
+        },
+        "snapshotDate": {
+          "const": "2026-10-07"
+        },
+        "coverageStartYear": {
+          "const": 1880
+        },
+        "coverageEndYear": {
+          "const": 2025
+        },
+        "datasetIdentifier": {
+          "const": "US-GOV-SSA-338"
+        },
+        "licenseDeclarationUrl": {
+          "const": "https://www.ssa.gov/data/data.json"
+        }
+      }
+    },
+    "analysis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "startYear",
+        "endYear",
+        "gridEndYear"
+      ],
+      "properties": {
+        "startYear": {
+          "const": 1880
+        },
+        "endYear": {
+          "const": 2025
+        },
+        "gridEndYear": {
+          "const": 2029
+        }
+      }
+    },
+    "annualCounts": {
+      "type": "array",
+      "minItems": 63643,
+      "maxItems": 63643,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "year",
+          "sex",
+          "name",
+          "count"
+        ],
+        "properties": {
+          "year": {
+            "type": "integer",
+            "minimum": 1880,
+            "maximum": 2025
+          },
+          "sex": {
+            "enum": [
+              "F",
+              "M"
+            ]
+          },
+          "name": {
+            "type": "string",
+            "pattern": "^[A-Za-z]{2,15}$"
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 5,
+            "maximum": 9007199254740991
+          }
+        }
+      }
+    },
+    "curation": {
+      "type": "array",
+      "maxItems": 500,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "fact",
+          "factStatus",
+          "factReferences",
+          "factReview",
+          "recognitionVerified",
+          "recognitionReview"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^ssa:[FM]:[A-Za-z]{2,15}$"
+          },
+          "fact": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 90,
+                "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+              }
+            ]
+          },
+          "factStatus": {
+            "enum": [
+              "unverified",
+              "reviewed"
+            ]
+          },
+          "factReferences": {
+            "type": "array",
+            "maxItems": 8,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "url",
+                "publisher",
+                "author",
+                "title",
+                "workId",
+                "quote"
+              ],
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s/@]+(?:/[^\\s]*)?$"
+                },
+                "publisher": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 200,
+                  "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+                },
+                "author": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 200,
+                  "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+                },
+                "title": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 200,
+                  "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+                },
+                "workId": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 200,
+                  "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+                },
+                "quote": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 2000,
+                  "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+                }
+              }
+            }
+          },
+          "factReview": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/definitions/review"
+              }
+            ]
+          },
+          "recognitionVerified": {
+            "type": "boolean"
+          },
+          "recognitionReview": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/definitions/review"
+              }
+            ]
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "type": "object",
+              "properties": {
+                "factStatus": {
+                  "const": "reviewed"
+                }
+              }
+            },
+            "then": {
+              "type": "object",
+              "properties": {
+                "fact": {
+                  "type": "string"
+                },
+                "factReferences": {
+                  "type": "array",
+                  "minItems": 2
+                },
+                "factReview": {
+                  "$ref": "#/definitions/review"
+                }
+              }
+            },
+            "else": {
+              "type": "object",
+              "properties": {
+                "factReview": {
+                  "type": "null"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "type": "object",
+              "properties": {
+                "fact": {
+                  "type": "null"
+                }
+              }
+            },
+            "then": {
+              "type": "object",
+              "properties": {
+                "factReferences": {
+                  "type": "array",
+                  "maxItems": 0
+                },
+                "factStatus": {
+                  "const": "unverified"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "type": "object",
+              "properties": {
+                "recognitionVerified": {
+                  "const": true
+                }
+              }
+            },
+            "then": {
+              "type": "object",
+              "properties": {
+                "recognitionReview": {
+                  "$ref": "#/definitions/review"
+                }
+              }
+            },
+            "else": {
+              "type": "object",
+              "properties": {
+                "recognitionReview": {
+                  "type": "null"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reviewer",
+        "note"
+      ],
+      "properties": {
+        "reviewer": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200,
+          "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000,
+          "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+        }
+      }
+    }
+  }
+}

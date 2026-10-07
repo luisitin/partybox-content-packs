@@ -10,3 +10,5 @@
 - Sample facts remain null and unverified. Two historical reference candidates are recorded for later review; they do not establish full coverage or current scholarly accuracy.
 - Build-time Python reads the pinned RDA. Strict ES2022 TypeScript game logic has no runtime dependencies, network calls, clocks or implicit randomness.
 - Use the existing isolated checkout, preserve concurrent files/claims, and create no worktree unless explicitly requested.
+- The official 2026 source has observed years 1880–2025. Its 2020s subtotal covers six observed years; 2026–2029 are unobserved, not suppressed or zero. Full-pack peaks compare observed published subtotals without projections or annual-density normalization. Every chart must label the partial period. Missing published rows within observed years are recorded separately.
+- The current official archive revises older published counts. Historical mirror comparisons may corroborate patterns but cannot verify current totals or serve as a second independent authored fact source.

@@ -1,17 +1,22 @@
-# C05 Name Your Baby — historical sample
+# C05 Name Your Baby
 
-**Incomplete: current-source expansion, independent facts and editorial checks are in progress.**
+**Incomplete: independent facts and recognition review are still in progress.**
 
-Thirty names preserve their SSA sex category and thirteen complete decades from
-1880–2009. Peak count means the largest decade sum of published annual counts
-in that window. It is not an annual maximum, a share or a current lifetime peak.
-The source mirror ends in 2017; its partial 2010s decade is excluded.
+`data/current-candidates.json` holds 500 names from the official SSA snapshot
+covering 1880–2025. Peak count is the largest observed decade subtotal of
+published annual counts for one exact spelling and recorded F/M category.
+The 2020s contain six observed years (2020–2025), not a completed decade.
+Charts must label that partial period; counts are not projected or normalized.
+Missing published years and unobserved future years are separate fields.
+Neither missing rows nor zero published subtotals prove zero births.
 
-Sparkline cells count published years and omitted years separately. No published
-row does not establish zero births. Recognition and fact verification are false;
-short facts are null. Historical usage is an editorial candidate filter only.
+The checksum-pinned CC0 official ZIP is retained under `fixtures/` so SSA
+revisions cannot silently change this build. Candidate filters require 50,000
+published occurrences and a peak at least 15% above its runner-up. Usage is
+not recognition review. Facts remain null until independently reviewed.
+`complete` remains false. The historical 30-name sample is retained separately.
 
-From this folder with Node 24 and Python 3.12:
+With Node 24 and Python 3.12, from this folder:
 
 ```sh
 npm --cache=/workspace/.npm-cache ci --ignore-scripts
@@ -21,21 +26,22 @@ curl --fail --location --output /tmp/c05-babynames.rda \
   'https://raw.githubusercontent.com/hadley/babynames/4391c25ea10b8b0589cdbab63067de3bc8b3a628/data/babynames.rda'
 PARTYBOX_SOURCE_PYTHON=/tmp/c05-source-venv/bin/python \
   PARTYBOX_SOURCE_FILE=/tmp/c05-babynames.rda npm test
+npm run generate:current
 npm run generate:sample
 sha256sum --check SHA256SUMS.txt
 ```
 
-Regenerate the source fixture from the checksum-pinned full mirror:
+Regenerate current source input without touching tracked files:
 
 ```sh
-/tmp/c05-source-venv/bin/python tools/extract_sample.py \
-  --source /tmp/c05-babynames.rda --output /tmp/c05-refresh.json
-cmp fixtures/source.json /tmp/c05-refresh.json
+python3 tools/extract_current.py \
+  --source fixtures/ssa-names-2026-10-07.zip --output /tmp/c05-current.json
+cmp fixtures/current-source.json /tmp/c05-current.json
 ```
 
-The generator uses exact spelling/category, >=50,000 total reported occurrences,
-a >=15% peak/runner-up gap, and descending usage to select 30 distinct names.
-Tests exercise independent aggregation and selection over 10,000 cases each,
-required seeds, schemas, repeat generation, file preservation and 25 mutations.
-CI downloads the same pinned mirror; no fetching happens at play time.
-See SOURCES, VERIFY, CONFLICTS and NEXT for evidence and limits.
+The historical mirror covers 1880–2017; its sample analyzes 1880–2009 only.
+It does not validate exact current counts, which SSA has revised. Tests cover
+strict input/provenance, schemas, differential/property cases, repeatability,
+partial decades, file preservation and semantic mutations. CI uses the same
+immutable inputs. Runtime game logic is pure and offline, with no dependencies.
+See SOURCES, VERIFY, CONFLICTS and NEXT for evidence and remaining checks.

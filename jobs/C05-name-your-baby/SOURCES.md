@@ -63,3 +63,45 @@ https://www.ssa.gov/oact/babynames/names.zip
 HEAD returned200 at2026-10-07T17:20:22Z. A successful ordinary-TLS GET at17:22:05Z downloaded7,860,026bytes, SHA256 cd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724. ZIP CRCs all pass;146 annual files cover1880–2025 and includeNationalReadMe.pdf. The full archive is cached outside the checkout. Its source/readme semantics and full500-row expansion remain in progress; the existing committed sample still uses the explicitly historical pinned mirror. Earlier CONNECT403 evidence is historical and is no longer an active block.
 
 GitHub repository API access also now succeeds with existing authentication. A current cloud status reports network enforcement state unknown; direct successful requests establish these destinations work, but do not establish draft publication or new-machine readiness.
+
+## Historical fact references (candidate coverage only)
+
+Charlotte Mary Yonge — History of Christian Names
+
+https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt
+
+SHA256 aa58b800d24d941c858d981ca92b103e5409aaf90d6dcc30291097141aef4f6c. Public domain in the USA. Explicit jurisdiction is USA. Project Gutenberg trademark/license conditions apply when distributing its electronic text with its branding. Metadata declaration is recorded; worldwide rights were not independently checked.
+
+William Smith — Smith's Bible Dictionary
+
+https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml
+
+SHA256 f0aa85b544f70384e24715dcb172ea0b687f8d5646994335e84c8dc44e5aca43. Embedded DC.Rights: Public Domain; NEUU dataset and scripts: CC BY 4.0.
+
+Roswell D. Hitchcock — Hitchcock's Bible Names Dictionary
+
+https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/hitchcock_bible_names.xml
+
+SHA256 43390f72248bb3687cc69598b4dc6fd80dc6e406225eed3cd05e66594386d836. Embedded DC.Rights: Public Domain; NEUU README includes all source dictionaries as public domain and dataset/scripts CC BY 4.0.
+
+- Thomas: Thomas and Didymus both mean "twin." (36 characters; corroborated-historical-reference-candidate).
+- Joshua: Joshua and Jesus are forms of the same name. (44 characters; corroborated-historical-reference-candidate).
+- Jessica: Jessica is Shylock's daughter in Shakespeare's The Merchant of Venice. (70 characters; single-primary-source-supported-candidate).
+
+These are authored historical references, not SSA mirrors. Shared older traditions and disputed historical etymologies still require review. Thomas and Joshua have two authored references; Jessica has one and is not independently corroborated. None is inserted into the current sample, and full 500-name coverage remains unfinished. Modern SQL without license/provenance and an npm scraping package were rejected as authoritative fact sources.
+
+## Current manual spot-check retrieval sources
+
+Read the SSA decade tables at `https://www.ssa.gov/oact/babynames/decades/names<decade>s.html` for 1920, 1950, 1960, 1970, 1980, 1990, 2000, 2010 and 2020. These March 2026 published tables independently expose the peak subtotals through a second retrieval route. All nine HTTP 200/TLS-verified responses are cached under `/workspace/.partybox-source-cache/c05/manual-secondary`; exact commands and SHA256 values are in `/tmp/c05-manual-secondary-fetch-evidence.json`. Took only the 30 displayed name/category/count entries needed for manual comparison and their period labels. The 2020s table explicitly says 2020–2025 and six of ten years. These tables share SSA authorship with the ZIP and do not count as independent authored fact references. No site JavaScript, tracking or web assets are included in the offline pack.
+
+## Official SSA snapshot for current candidates
+
+Read `https://www.ssa.gov/oact/babynames/names.zip` live on 2026-10-07. HTTP 200 and preserved TLS verification; 7,860,026 bytes, SHA256 `cd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724`. Retain the exact archive in `fixtures/ssa-names-2026-10-07.zip` for reproducibility, including its unmodified one-page NationalReadMe PDF. The archive has 146 annual text files covering 1880–2025, all CRCs valid, and 2,181,032 published aggregate rows. These files contain names, recorded categories and aggregate counts, not individual records. No source images, JavaScript or tracking assets are copied into the pack.
+
+The live SSA catalog `https://www.ssa.gov/data/data.json` identifies this exact national ZIP distribution as **US-GOV-SSA-338**, modified 2026-05-08, temporal coverage 1880-01-01 through 2025-12-31, and explicitly declares `https://creativecommons.org/publicdomain/zero/1.0/` as its license. Thus source-data CC0 is verified from the publisher declaration. The direct Creative Commons deed and government-copyright page remained unavailable; their text was not read and is not the basis of this attribution. Catalog SHA256 `736efc038df85cc673c7893deefe1f53c12986763639cde7e295de4b6ae91091`; extracted national metadata SHA256 `0885f3e488cb6142e495f8b84f054a7ac9264421e16598318be0034e836d0947`.
+
+Read the archive README plus live `https://www.ssa.gov/oact/babynames/background.html` and `https://www.ssa.gov/oact/babynames/limits.html`. The national figures cover the 50 states and District of Columbia; territorial data is excluded. Pre-1937 Social Security applications are incomplete. SSA strips spaces and hyphens from names and leaves other records unedited. Counts below five are omitted for privacy. Therefore the pack preserves publisher spelling and published subtotals without claiming original personal spellings, complete birth totals or zero occurrence when a record is absent.
+
+`tools/extract_current.py` reads this source offline, rejects changed archive bytes before decoding, checks membership/CRC/order/duplicates/field boundaries, ranks qualifying distinct names deterministically, and emits 63,643 annual rows for 500 candidates. The normalized fixture SHA256 is `8dd80f3f6dc38705be47541fb994d073270ffe4d861732471c0c339e385905e9`. There are 9,357 omitted observed cells and 2,000 future unobserved cells across the selected names. Five candidate peaks are partial 2020–2025 subtotals: Theodore, Mateo, Ezra, Luna and Ivy. The current format records these two kinds of missingness separately and never projects counts.
+
+The older 2021 snapshot comparison found revisions for every selected name: 21,576 common annual keys changed, two were added and eight disappeared. All 500 complete-period peak decades agree with that older mirror, while only 47 peak counts agree. This is an automated shape/revision audit, not manual verification or independent fact corroboration. Full research, exact requests and derived hashes are retained in `/tmp/c05-current-source-research.json` and `/workspace/.partybox-source-cache/c05/current-audit/source-research.json`. Recognition and per-name facts remain separate editorial work.
