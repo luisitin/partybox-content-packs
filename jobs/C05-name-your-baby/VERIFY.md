@@ -2924,3 +2924,24 @@ exit "$partybox_final500_status"
 ```
 
 Actual completed exec session91770 exit0; persisted underlying npmstatus0. Initial42/42 tests passed with zero failures/cancellations/skips/todos, 48.612676471seconds. Exact full/historical/current mutation baselines42/15/9 passed;34/34 mutants caught (25historical,9current). All12 compiledJS files restored with equal original/final bytes and SHA snapshots. All17 checksums match, including the actual production complete golden. The first complete test verifies real golden bytes against the pure regenerated builder and strict schema; it would catch forged output even if its checksum were updated. Existing differential/property/SQL/Python/source/atomic-output checks remain executed. Fact and recognition curation500, allnumeric rows preserved, realcomplete:true. Report `/tmp/c05-final500-full-mutation-report.json`, completion proof `/tmp/c05-final500-full-completion-evidence.json`. This local result does not claim PR, CI or KEEP GOING completion.
+
+## Actual PR and green CI
+
+PR https://github.com/luisitin/partybox-content-packs/pull/1 is open. Actual `gh api repos/luisitin/partybox-content-packs/commits/1237bc5451b882f2dcd5727776a3fced6eac5dc3/check-runs --jq '.check_runs | map({name,status,conclusion,details_url})'` and the repository actions-runs API returned exit0 and verify completed/success. Run https://github.com/luisitin/partybox-content-packs/actions/runs/37694191879 is a pull_request C05 Name Your Baby check at that exacthead, conclusion success. The first attempted `gh pr checks 1 --repo luisitin/partybox-content-packs --json name,state,link,workflow` exited1 because this installed gh lacks --json; API checks supplied the actual result instead. This is initial-green evidence, not a later-head guarantee.
+
+## Latest restart and retained workflow
+
+The environment entered starting after final localtests had actually completed. At22:13:11Z actual status was running/connected/current; network state unknown. The checkout, pushed fullverification notes and rawexit0 evidence survived. No running full suite was interrupted. From this job folder, `npm run build && node --test dist/test/complete.test.js && sha256sum --check SHA256SUMS.txt` actually completed execsession28456 exit0:4/4 tests,zero fail/cancel/skip/todo,15.005169seconds,17SHA matches. This checks retained compiler/dependencies, actualgolden/schema and incomplete-input protections; it does not claim a newly published task restoration.
+
+## KEEP GOING round1: nine substantive fact improvements
+
+After rereading JOBS/RULES and listing fiveweaknesses, `python /tmp/c05-keep1-integrate.py` integrated9 independently approved facts, preserving491 untouched curationrows and all500 recognition records. Then actually ran:
+
+```sh
+npm run generate:reviewed > /tmp/c05-keep1-generate-reviewed.log 2>&1
+npm run generate:complete > /tmp/c05-keep1-generate-complete.log 2>&1
+node --test dist/test/reviewed.test.js dist/test/complete.test.js > /tmp/c05-keep1-focused-tests.log 2>&1
+sha256sum --check SHA256SUMS.txt
+```
+
+Generation/focused actualexec9641 exit0; persisted status0.8/8 tests pass,zero failures/cancellations/skips/todos,20.793541632seconds. Each changed output is regenerated twice across timezones and compared with committed bytes; strict realcomplete schema/golden and25 negativeinvocations perCLI protect source/curation/sentinels. Root also compared all500 numericfields with unchangedbasepack: identical; complete remains true, candidate modesfalse,500reviewedfacts/recognition. All17 refreshed checksums match. Measured gain:9 changed player-visible factlines,3/4 flagged confusing chains replaced; no fabricated participant playtest or cosmetic convergence. Full42/34/12 campaign remains the actual pre-fact-only-code result, not a repeated run. Evidence `/tmp/c05-keep1-completion-evidence.json`.

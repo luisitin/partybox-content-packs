@@ -16407,7 +16407,7 @@
         }
       ],
       "id": "ssa:F:Teresa",
-      "fact": "Teresa is a form of Theresa.",
+      "fact": "Teresa of Ávila was a Spanish religious reformer and author.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -16416,20 +16416,20 @@
           "author": "Behind the Name",
           "title": "Behind the Name: Teresa (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Form of Theresa used in several languages."
+          "quote": "Saint Teresa of Ávila was a 16th-century Spanish nun who reformed the Carmelite monasteries and wrote several spiritual books."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "remarkably stamped the memory of his friends upon posterity; and this original Theresa was copied again and again by her own countrywomen, till we find Teresa on the throne of Leon in the tenth century. The name was confined to the Peninsula until the sixteenth century, when that remarkable woman, Saint Teresa, made the Roman Catholic Church resound"
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1: Teresa_of_Avila / Saint_Teresa_of_Avila, noun synset 11356171 (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "Spanish mystic and religious reformer; author of religious classics and a Christian saint (1515-1582)"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Both actual pinned authored dictionary/book passages individually read for this narrow original claim. Linked dictionary entries remain one work. Yonge disputed roots/chronology excluded; BTN corporate editorial identity read-supported and individual author unestablished. Distinct authored works, with shared deeper authorities unaudited. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of the exact pinned BTN Teresa description and Princeton WordNet noun synset 11356171 at its verified byte offset, plus complete database notice and package provenance README. Both name Teresa of Ávila and cover every selected clause: Spanish, religious reformer, author. The original sentence describes this explicit bearer; it asserts no name origin, Carmelite-exclusive detail, popularity effect, dates or supernatural claim. BTN corporate dictionary and Princeton WordNet are distinct authored works; no explicit dependency or copied wording identified, deeper historical authorities remain unaudited. Preserve the full WordNet 3.1/2011 notice already retained in SOURCES; wrapper MIT/3.0 package licence does not replace it. Brief BTN quotation has no asserted blanket prose licence. Agent source review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -18167,29 +18167,29 @@
         }
       ],
       "id": "ssa:F:Natalie",
-      "fact": "Natalie is a form of Natalia.",
+      "fact": "Natalie has Latin roots linked to Christmas.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Natalie (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Natalie (pinned dictionary entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "From the Late Latin name Natalia, which meant \"Christmas Day\" from Latin natale domini."
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co., London; public-domain delivery by Project Gutenberg / GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition (1884), glossary and Christmas section",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "husband. Natalia is one of the favourite Greek Christian names; Lithuania calls her Nastusche and Naste; Russia, Natalija, Nataschenka, and Natascha; and France has learned the word as Natalie from her Russian visitors. Natalie, however, occurs at Cambrai as early as 1212."
+          "quote": "Natalie, _f._ _Fr._ _Ger._ Lat. Christmas child, 209"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of the exact pinned BTN Natalie description and Yonge’s exact Natalie glossary entry, full Christmas section, title pages and source rights metadata. BTN links Natalie through Late Latin Natalia to Christmas Day; Yonge directly labels Natalie Latin/Christmas child and links Natalia/Natalie in the chapter. The original fact uses their common Latin/Christmas association, without one doubled literal translation, a bearer birthday rule, borrowing chronology or saint identification. BTN is one corporate dictionary work and Yonge one authored book; no explicit dependency identified, deeper inherited authorities remain unaudited. Brief BTN quotation has no asserted blanket prose licence; Yonge is public domain in the USA. Agent source review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -29359,37 +29359,45 @@
         }
       ],
       "id": "ssa:F:Connie",
-      "fact": "Conrad has the German short form Kurt.",
+      "fact": "Singer Connie Francis was born with the first name Concetta.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Connie (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "It is occasionally a masculine name, a diminutive of Cornelius or Conrad."
+          "url": "https://en.wikipedia.org/w/index.php?title=Connie_Francis&oldid=1378434612",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Connie Francis, revision 1378434612",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Francis was born Concetta Rosa Maria Franconero on December{{nbsp}}12, 1937,"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kurt (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "German contracted form of Conrad."
+          "url": "https://en.wikipedia.org/w/index.php?title=Connie_Francis&oldid=1378434612",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Connie Francis, revision 1378434612",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "known professionally as '''Connie Francis''', was an American singer and actress."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Provençal. │ Italian. │ │Conrad │Conrade │Cohat │Corrado │ │Cenred │Quenes │ │Currado │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ German. │ Bavarian. │ Swiss. │ Swedish. │ │Konrad │Kadl │Chuedli │Konrad │ │Kunz │Kuenl │Kudli │ ————————— │ │Kurt │Kuenz │Chuedler │ Netherlands. │ │Kuno │Kunl │Kored │Koenraad │"
+          "url": "https://www.britannica.com/biography/Connie-Francis",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "John M. Cunningham",
+          "title": "Connie Francis",
+          "workId": "britannica:encyclopedia",
+          "quote": "Born Concetta Franconero, she grew up in a working-class Italian American family."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Connie-Francis",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "John M. Cunningham",
+          "title": "Connie Francis",
+          "workId": "britannica:encyclopedia",
+          "quote": "Connie Francis was an American singer and actress"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The FULL modern Connie description explicitly says it is occasionally a masculine diminutive of Cornelius or Conrad; the supplied shorter quote omitted that crucial sentence. The read Kurt entry and historical Conrad-family German table independently identify Kurt. The fact can be accepted with the actual explicit Connie sentence in the references. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+        "note": "Actual full retained Wiki revision1378434612 identity, infobox, early-life section and immediate citations read; raw full body searched for Britannica/Cunningham, absent. Independently parsed Britannica actual HTML has John M. Cunningham byline, singer identity, and Born Concetta Franconero paragraph. Both authored works support singer Connie Francis and birth first name Concetta; an exact Britannica singer excerpt was added. Wiki middle names Rosa Maria differ from Britannica label Maria and are omitted. Fred Bronson’s book, autobiographies and official page are unread and not counted; official /bio request was denied. Narrow named-bearer fact, no universal Connie origin or date assertion. Brief attributed excerpts retain source rights: Wiki CC-BY-SA4.0, Britannica copyrighted prose; no MIT relicensing or whole articles. No identified cross-copying in selected texts; deeper common biography lineage unaudited."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -34071,7 +34079,7 @@
         }
       ],
       "id": "ssa:F:Alicia",
-      "fact": "Alicia is a form of Alice.",
+      "fact": "Alicia and Adelaide are related through the name Alice.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -34083,17 +34091,33 @@
           "quote": "Latinized form of Alice."
         },
         {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Adelaide (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "In Britain the parallel form Alice, derived via Old French, has historically been more common,"
+        },
+        {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition 1884, Nobility section",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "married Henry I. Alice is our true English form, though it has been twisted into Alicia, and then referred for derivation to the Greek Alexios, so as often to appear in Latin documents of the later middle ages in the form of Alexia; whereas in earlier times, before its origin"
+          "quote": "All the feudal princes of the tenth and eleventh centuries seem to have had an Adelheid to offer in marriage, and to have Latinized her in all manner of ways, while practically they called her Alix (or Alisa in Lombardy), a name that was naturalized in England, when _Alix la Belle_ married Henry I. Alice is our true English form, though it has been twisted into Alicia, and then referred for derivation to the Greek Alexios, so as often to appear in Latin documents of the later middle ages in the form of Alexia; whereas in earlier times, before its origin was forgotten, it is translated by Adelicia, Adelisa, or Adelidis."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884, Nobility section",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│Adelaide │Adelaide │Azalaïs │Adelaïda │ │Adeline │Adeline │ │Alisa │ │Adeliza │Adelais │ │ │ │Adela │Adèle │ │ │ │Alice │Alix │ │ │ │Alicia │Aline │ │ │"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+        "note": "Actual retained BTN Alicia and Adelaide descriptions and Yonge revised-1884 Nobility paragraph/forms table independently read; all four excerpts match with whitespace-only normalization. Alicia-to-Alice and Adelaide-to-Alice relationships have two authored works, counting BTN headwords as one. Narrow name-family statement only: no universal bearer ancestry, unique origin, exact chronology, noble gloss or Irish Aileen/Helen claim. BTN is corporate attribution; scraper is delivery, not a second author; Alice preview is explicitly truncated and unused as quote. Yonge title page/USA-public-domain metadata read. BTN prose has no blanket reuse licence; brief evidence quotes/original fact only. Deeper historical dependencies remain unaudited; two authored treatments, not independent primary observations."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -38663,7 +38687,7 @@
         }
       ],
       "id": "ssa:M:Mike",
-      "fact": "Mike is a short form of Michael.",
+      "fact": "Mike is short for Michael, the biblical angel who argued with the devil over Moses' body.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -38676,16 +38700,48 @@
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
           "author": "Charlotte Mary Yonge",
           "title": "History of Christian Names, revised edition 1884",
           "workId": "yonge:history-of-christian-names:1884",
           "quote": "│ English. │ French. │ Spanish. │ Italian. │ │Michael │Michel │Miguel │Michele │ │Mick │Michon │ │ │ │Mike │Michau │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+          "publisher": "Christian Classics Ethereal Library; pinned NEUU GitHub dataset delivery",
+          "author": "William Smith",
+          "title": "Smith's Bible Dictionary (CCEL print source labeled 1884): Moses",
+          "workId": "smith:bible-dictionary:1863",
+          "quote": "is an allusion to an altercation between Michael and Satan over the body of Moses."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+          "publisher": "Christian Classics Ethereal Library; pinned NEUU GitHub dataset delivery",
+          "author": "William Smith",
+          "title": "Smith's Bible Dictionary (CCEL print source labeled 1884): Michael",
+          "workId": "smith:bible-dictionary:1863",
+          "quote": "“One,” or “the first, of the chief princes” or archangels,"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+          "publisher": "Christian Classics Ethereal Library; pinned NEUU GitHub dataset delivery",
+          "author": "William Smith",
+          "title": "Smith's Bible Dictionary (CCEL print source labeled 1884): Devil",
+          "workId": "smith:bible-dictionary:1863",
+          "quote": "The name describes Satan as slandering God to man and man to God."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Michael_(archangel)&oldid=1378872873",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Michael (archangel) (revision 1378872873)",
+          "workId": "wikipedia:Michael_(archangel)",
+          "quote": "in the [[Epistle of Jude]], where the archangel and the devil dispute over the body of Moses."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of exact BTN Mike, Yonge’s labeled English Michael/Mick/Mike table, Smith’s Moses dispute paragraph and Michael/Devil entries, and the pinned Wikipedia Michael article’s lead/Jude context and immediate cited bibliography. The Mike relation has BTN/Yonge support; the explicitly biblical narrative has Smith/Wikipedia support. Smith headwords are one authored work, not three. Wiki cites Hannah 2011 p.46 and Green 2008 p.79; those books are unread and uncounted, and no Smith/CCEL dependency was identified. Both recount Jude rather than independently witnessed history. Correct English table context replaces the research audit’s unrelated earlier Dutch Maria/Mike table; selected quote itself matches. Clearer argued-with wording retains scope at 89 characters. No universal bearer origin or apocryphal-source certainty. Brief source excerpts retain their stated rights; agent review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -46599,7 +46655,7 @@
         }
       ],
       "id": "ssa:M:Bill",
-      "fact": "Bill is a short form of William.",
+      "fact": "Bill is short for William, whose Germanic roots include a word for 'helmet'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -46611,17 +46667,33 @@
           "quote": "Short form of William."
         },
         {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: William (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Germanic name Willahelm meaning \"will helmet\", composed of the elements wil \"will, desire\" and helm \"helmet, protection\"."
+        },
+        {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
           "author": "Charlotte Mary Yonge",
           "title": "History of Christian Names, revised edition 1884",
           "workId": "yonge:history-of-christian-names:1884",
           "quote": "│ English. │ Welsh. │ Breton. │ French. │ │William │Guillim │Guillern │Guillaume │ │Will │ │Guillarn │Guillemot │ │Willie │ │ │ │ │Bill │ │ │ │ │Wilkin │ │ │ │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "the pronunciation in that language leaves the words their natural meanings, Will-helm, resolute helmet, or, perhaps, helmet of resolution."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of exact BTN Bill and William descriptions, Yonge’s full Will-helm paragraph and labeled William/Will/Willie/Bill table, plus Yonge author/1884 title and public-domain metadata. Both authored dictionary/book presentations support the short-form relation and the Germanic helmet component. The original fact says roots include a helmet word, avoiding Yonge’s uncertain birthplace, full-name gloss, prefix interpretation, Billings mythology and dates. BTN William’s retained description is explicitly source-truncated after its later historical discussion; the selected first sentence is complete. Two BTN headwords count one corporate dictionary and two Yonge passages one book. No explicit shared prose/dependency identified; deeper historical scholarship unaudited. Brief BTN quote has no asserted blanket prose licence; Yonge is public domain in USA. Agent review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -50695,29 +50767,45 @@
         }
       ],
       "id": "ssa:F:Faith",
-      "fact": "Faith comes from the English word faith.",
+      "fact": "Faith joins Hope and Charity among traditional English virtue names.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Faith (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Faith (pinned dictionary entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Simply from the English word faith"
+          "quote": "Simply from the English word faith, ultimately from Latin fidere \"to trust\". This was one of the virtue names adopted by the Puritans in the 17th century."
         },
         {
-          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Faith",
-          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-          "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Faith, edition 2023.1",
-          "workId": "dmnes:dictionary:2023.1",
-          "quote": "Faith f. English faith from Anglo-Norman, Old French feid, feit, fait 'faith'."
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Hope (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the English word hope, ultimately from Old English hopian. This name was first used by the Puritans in the 17th century."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Charity (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the English word charity, ultimately derived from Late Latin caritas meaning \"generous love\", from Latin carus \"dear, beloved\". Caritas was in use as a Roman Christian name. The English name Charity came into use among the Puritans after the Protestant Reformation."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884, Great Britain section",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The more pious betook themselves to abstract qualities; Faith, Hope, Charity, Prudence and Patience, Modesty, Love, Gift, Temperance, Mercy, all of which, even to the present day, sometimes are used, but chiefly by the peasantry, or in old Nonconformist families."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary + /root/c05_fact_pair_review",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of exact BTN Faith/Hope/Charity description fields and Yonge’s Great Britain abstract-qualities paragraph with its surrounding Reformation/Scripture-name context, title pages and public-domain metadata. BTN names English Faith a virtue name and identifies English Hope/Charity as word-derived names adopted in the same tradition; Yonge directly groups all three among abstract-quality names. The original fact describes their traditional English virtue-name grouping. It asserts neither a first-use date nor exclusive geography/community, and does not equate Puritans with all Nonconformists or attach the following paragraph’s Scripture-name dates to these virtues. Three BTN headwords are one corporate dictionary; Yonge is one separately authored1884 work, deeper historical lineage unaudited. Brief BTN evidence has no asserted blanket prose licence; Yonge public-domain-in-USA metadata read. Agent review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -60023,77 +60111,37 @@
         }
       ],
       "id": "ssa:F:Marissa",
-      "fact": "Luisa and Clovis belong to the same name family.",
+      "fact": "Marissa is also a place name in Illinois.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Marissa (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Marisa."
+          "url": "https://download.geonames.org/export/dump/cities500.zip",
+          "publisher": "GeoNames",
+          "author": "GeoNames",
+          "title": "GeoNames cities500 export, retrieved 2026-10-07, record4243918",
+          "workId": "geonames:geographical-database",
+          "quote": "4243918 Marissa Marissa Marissa,Марисса 38.25005 -89.7501 P PPL US IL 163 46968 1856 138 140 America/Chicago 2026-09-17"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Marisa (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Italian, Spanish and Portuguese combination of Maria and Luisa."
+          "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+          "publisher": "GeoNames",
+          "author": "GeoNames",
+          "title": "GeoNames administrative-code names, US.IL",
+          "workId": "geonames:geographical-database",
+          "quote": "US.IL Illinois Illinois 4896861"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Luisa (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Feminine form of Luis."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Luis (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Spanish form of Louis."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Louis (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French form of Ludovicus, the Latinized form of Ludwig."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Ludwig (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the Germanic name Chlodovech meaning \"famous battle\", composed of the elements hlud \"famous\" and wig \"war, battle\"."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Clovis (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Shortened form of Clodovicus, a Latinized form of Chlodovech (see Ludwig)."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ Breton. │ Scottish. │ French. │ │Ludovick │Loiz │Lodowick │Clovis │ │Lewis │Loizik │ │Louis │ │Louis │ │ │Looys │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Provençal. │ Italian. │ Spanish. │ Portuguese. │ │Aloys │Lodovico │Clodoveo │Luiz │ │Chlodobeu │Luigi │Luis │ │ │Lozoic │Aloïsio │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ German. │ Swiss. │ Swedish. │ Dutch. │ │Ludwig │Ludi │Ludwig │Lodewick │ │Luz │ —————— │ │Lood │ │Lotze │ Bavarian. │ │ │ │ │Wickl │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Polish. │ Bohemian. │ Slovak. │ Hungarian. │ │Ludvik │Ludvik │Ludvick │Lajos │ │Ludvis │ │Ljudevit │ │ └───────────────┴───────────────┴───────────────┴───────────────┘ The Provençal Aloys apparently was the first shape that threw out a feminine, the Aloyse or Heloïse, whose correspondence with Abelard was the theme of so much sentiment, and whose fame, brought by the archers to Scotland, no doubt was the origin of the numerous specimens of Alison found in that romantic nation. According to Dugdale, the wife of the Norman William Mallet was Hesilia or Helewise, no doubt the same as Heloïse. Heloïse had nearly died away in France when Rousseau’s romance of _La Nouvelle Heloïse_ brought it as well as Julie into fashion again. The votaresses of St. Louis had, however, chosen to come much nearer to his name, and by the end of the fifteenth century Louise was in great vogue at the French court; it travelled everywhere with French princesses, came to us with the House of Hanover, and has now a thorough hold of all ranks. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Italian. │ Spanish. │ │Louisa │Louise │Luisa │Luisa │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Marissa,_Illinois&oldid=1374538526",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Marissa, Illinois, revision 1374538526",
+          "workId": "wikipedia:Marissa,_Illinois",
+          "quote": "'''Marissa''' is a village in [[St. Clair County, Illinois|St. Clair County]], [[Illinois]], United States."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-        "note": "Marissa to Marisa to Maria/Luisa is BTN-only review context. Published fact states only the Luisa/Clovis family relationship: BTN's Luisa/Luis/Louis/Ludwig/Clovis headwords establish it within one work; Yonge independently groups the masculine forms and the feminine Luisa. No sea/mermaid gloss or exclusive origin for Marissa is retained. Multiple BTN headwords count as one work. Actual retained bodies, pointers, hashes and literal excerpts checked independently; deeper lineage unaudited."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of exact GeoNames record4243918 and US.IL administrative mapping, with actual ZIP/full-member SHA256, complete CRC check and all236003 nineteen-field rows verified; full pinned Marissa Illinois article/revision identity also read. GeoNames identifies the exact spelling in Illinois and Wikipedia independently calls it an Illinois village. Record/map count one authored work. Reference tabs are collapsed to spaces only; raw field-delimited records remain in peer evidence. The fact states place-name existence, without population, dates, village classification inferred from PPL, naming origin or ancestry. Wiki lead is unfootnoted for the existence clause, with separate GNIS/Census context; no GeoNames dependency identified, deeper government lineage unaudited. GeoNames CC-BY4.0 and Wiki CC-BY-SA4.0 retained; original fact and brief evidence only. Agent review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -73863,69 +73911,37 @@
         }
       ],
       "id": "ssa:F:Velma",
-      "fact": "William contains a Germanic root meaning 'helmet'.",
+      "fact": "In Scooby-Doo, Velma is the gang’s brainy member.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Velma (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Probably a variant of Wilma, the spelling with an e perhaps due to the influence of Selma 1."
+          "url": "https://en.wikipedia.org/w/index.php?title=Velma_Dinkley&oldid=1374807025",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Velma Dinkley, revision 1374807025",
+          "workId": "wikipedia:Velma_Dinkley",
+          "quote": "'''Velma Dinkley''' is a fictional [[cartoon]] character in the ''[[Scooby-Doo]]'' franchise."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wilma (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Short form of Wilhelmina."
+          "url": "https://en.wikipedia.org/w/index.php?title=Velma_Dinkley&oldid=1374807025",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Velma Dinkley, revision 1374807025",
+          "workId": "wikipedia:Velma_Dinkley",
+          "quote": "She is seen as the \"brains\" of the group."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wilhelmina (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Dutch and German feminine form of Wilhelm."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wilhelm (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "German cognate of William."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: William (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the Germanic name Willahelm meaning \"will helmet\", composed of the elements wil \"will, desire\" and helm \"helmet, protection\"."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "specially Germanic termination, and the Billings favoured the commencement; besides which the pronunciation in that language leaves the words their natural meanings, Will-helm, resolute helmet, or, perhaps, helmet of resolution. The native northern name would be Vilhjalm, but this is never used, it being only imported bodily as Wilhelm into Denmark from Germany, just as our Ethelbert is superseded"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "The cause of its adoption in Normandy cannot have been one of the eight saints in the Roman calendar who bear it; for not one is anterior to the son of Rollo, the second Duke of Normandy, from whom William descended to the Conqueror, and became one of the most national of English names. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ Welsh. │ Breton. │ French. │ │William │Guillim │Guillern │Guillaume │"
+          "url": "https://www.britannica.com/topic/Scooby-Doo",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Scooby-Doo",
+          "workId": "britannica:encyclopedia",
+          "quote": "characters include the cowardly and gluttonous but good-natured dog Scooby-Doo, who traveled around the United States in a van called the Mystery Machine with four young friends, the Mystery, Inc., gang: slacker Shaggy, shrewd ascot-wearing group leader Fred, beautiful but “danger-prone” Daphne, and brainy, tomboyish Velma. They were later joined by Scooby’s brash nephew, Scrappy-Doo."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to William’s helmet element: BTN’s William description and Yonge’s actual Will-helm discussion independently support the Germanic helmet root. Velma→Wilma is expressly probable in BTN; the modern chain through Wilhelmina/Wilhelm stays review context only. No certain Velma origin, exact whole-name translation or settler history is asserted."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Independent agent reread of actual pinned Velma Dinkley lead and character description, including immediate Dresner/Ventura book citations, plus independently parsed visible Britannica Scooby-Doo article, its printed Britannica Editors byline and gang-description FAQ/original-series paragraph. Wikipedia calls Velma the group’s brains; Britannica separately calls her brainy among Mystery Inc. friends. Both support the fictional role explicitly framed In Scooby-Doo. Full Wiki body and Britannica HTML searched with no identified cross-dependency; the cited books were not directly read or counted. No unique given-name origin, plot chronology, role in every adaptation or claim about actual Velma bearers. Wiki CC-BY-SA4.0 attribution/revision retained; Britannica remains copyrighted prose with brief attributed support and original factual wording, not wholesale or MIT relicensing. Agent review only."
       },
       "recognitionVerified": true,
       "recognitionReview": {

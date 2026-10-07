@@ -1,5 +1,3 @@
 # KEEP GOING log
 
-No rounds executed: a completed full pack and green PR do not exist. The tested
-historical sample is a milestone. Source access has resumed and full C05 work
-continues; no cosmetic stopping condition is claimed.
+2026-10-07T22:27:53Z round1 — Reread JOBS/RULES after actual green PR#1 run37694191879. Five weaknesses: confusing root chains; obvious variant-only hooks; tentative etymologies; unequal partial-period comparisons; recognition demographic limits. Fixed the worst content categories with9 independently approved facts (Alicia,Connie,Faith,Marissa,Natalie,Teresa,Velma,Bill,Mike). Measured9 player-visible facts strengthened and3/4 flagged confusing chains removed; all500 metrics/recognition records unchanged. Strict build and8 focused tests pass,17SHA matches,two-timezone regenerations identical. Randy’s remaining chain is under direct-bearer review. Consecutive no-player-gain rounds:0.

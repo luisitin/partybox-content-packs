@@ -81,3 +81,9 @@ Thirty-four later variant facts were narrowed to independently supported roots, 
 - Brayden’s salmon/surname origin is excluded. The full modern variant paragraph is separately approved, with its unfootnoted authority limit recorded; GeoNames and town article support the Tennessee clause.
 - Beth’s lossy mirror alternative remains held; the actually read full Bet article and WordNet support the second-letter replacement.
 - Gail/Jon modern root links are context only, while both authored dictionaries support the named biblical narrative. No unique Jon origin or independently established biblical history is asserted.
+
+## Post-green quality decisions
+
+- Connie’s earlier masculine Conrad/Kurt chain is replaced with the exact Connie Francis bearer fact; conflicting birth middle names are omitted. Marissa’s long Luisa/Clovis chain and Velma’s merely probable William chain are replaced with direct place/character facts. Randy’s female Miranda chain remains under review, with unsupported male short-link candidates held.
+- Yonge’s selected Mike quotation is in the English Michael/Mick/Mike table, not the earlier Dutch Maria diminutives. The researcher’s contextual extraction error was corrected and independently reread before integration. Mike Tyson middle-name forms disagree; that alternative is excluded.
+- Natalie’s historical Christmas child versus modern Christmas Day gloss is reduced to their common association. Faith grouping excludes unsupported chronology/exclusive religious denomination. Alicia’s Irish/Greek speculation is omitted.
