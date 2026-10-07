@@ -2634,3 +2634,61 @@ node --test dist/test/current.test.js
 ```
 
 Each command actually completed with exit 0. The current suite executed 9 tests, all passed, no skips/cancellations/todos, in 11.218 seconds. Coverage: 10,000 sparse primary/reference differentials; properties over 1,003 saved seeds; exact 500-row golden metrics; 17 malformed source/shape/provenance cases; explicit editorial gates with 12 rejected review mutations; strict schemas with 9 corrupted pack cases; forbidden clock/randomness calls; two CLI generations in different time zones and 13 rejected CLI calls. In particular, adding one count while preserving shape and peak qualification is rejected by the CLI's canonical base-fixture fingerprint. Candidate SHA256 is `2da2fd3980d21c55ef3986447ec2055d686abfac900a437330f6d1b3e45f8882`; the same bytes are retained in `data/current-candidates.json`. Exact evidence is in `/tmp/c05-current-producer-evidence.json` and `/tmp/c05-current-isolated-test.log`. These tests catch future/suppressed-year confusion, altered metric provenance, shape errors, dishonest review flags, nondeterminism and source overwrite aliases. Expanded official-source tests and the integrated full npm run are still pending at this milestone.
+
+## Integrated official-source test file, isolated execution
+
+Source: `test/current-source.test.ts`; the extractor was unchanged. The test was compiled and run in an isolated `/tmp` directory using the exact commands retained in `/tmp/c05-official-source-test-commands.json`; its full output is `/tmp/c05-official-source-test.log`. Actual completed exit code 0, five tests passed in 26.698 seconds, zero failures/skips/cancellations/todos. Two uncached full ZIP regenerations matched the frozen fixture and left source bytes unchanged. Fifteen rejecting CLI invocations checked invalid arguments, missing paths, source/output aliases, directory and dangling-link destinations, corrupt fingerprints and destination preservation. Thirty-six synthetic annual-record cases exercised invalid count/name/category/column/order/duplicate boundaries without bypassing the production fingerprint check. These results resolve this milestone's previously pending source-test status; the integrated full npm run is still separately pending.
+
+
+Exact secondary-source fetch commands, each completed with exit 0 / HTTP 200 / TLS result 0:
+
+```sh
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names1920s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names1920s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names1950s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names1950s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names1960s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names1960s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names1970s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names1970s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names1980s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names1980s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names1990s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names1990s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names2000s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names2000s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names2010s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names2010s.html
+curl --fail --location --silent --show-error --connect-timeout 10 --max-time 35 --output /workspace/.partybox-source-cache/c05/manual-secondary/names2020s.html --write-out '%{http_code} %{url_effective} %{ssl_verify_result}' https://www.ssa.gov/oact/babynames/decades/names2020s.html
+```
+
+Each cached source fingerprint:
+
+| Decade | SHA256 |
+| --- | --- |
+| 1920 | `8bfb5b8c637188f4ca81bed0499ef9a35d825366adab35a840a3067ee31fc6dd` |
+| 1950 | `837caa3d139e2d426f877966879f797e6383b43b1367e7db6706ada6594a638d` |
+| 1960 | `a4523b1eb3195766723e26ea70dae09bed966ce975d9e53f4db5794511ff5547` |
+| 1970 | `17c3df684c4bc4cd640e9ce01babd0b07d63d71112e77335676b293da16b13d1` |
+| 1980 | `2f62d470473afff6a98db7ff35cad310a05557e3c4ca7fb7025aac9816f605cf` |
+| 1990 | `d920fb5a1e45202229c21a4fc9b29be9243351c01362e1788c299919b418300f` |
+| 2000 | `f64db0a0b994c0eb12d2e1afb00b10deb33f1479c6dfd0e9af7c22f42fe0745e` |
+| 2010 | `d0c6b57b24d2955b45e91e0c76944aae41e66164dafe70ed07cbfb514775b78a` |
+| 2020 | `f8cb4adde09d0efe8e81ddf5aa3205fb7c5343dc08a833b4383bcab2d9aa9646` |
+
+Exact seeded selection used before manual review:
+
+```python
+import json, random
+from pathlib import Path
+rows = json.loads(Path('/workspace/.partybox-source-cache/c05/current-audit/candidates-500-full-observed.json').read_text())
+indices = sorted(random.Random(20261007).sample(range(500), 30))
+selected = [{key: rows[i][key] for key in ('name', 'sex', 'peakDecade', 'peakCount', 'totalPublishedCount')} | {'index': i} for i in indices]
+```
+
+The HTML-excerpt helper used Python's standard `HTMLParser` to retain table rows, then displayed the complete source row whenever one cell exactly matched each selected name. It did not test or normalize the numeric values before review. The reviewer read the displayed values and the Boys/Girls column headings manually. The actual field-transfer check after generating `data/current-candidates.json` compared each selected canonical index's name, category, peak decade, peak count and lifetime published total against the selected audit fields; all matched. The exact generator and later integrated npm test provide the portable automated checks.
+
+## Expanded integrated checks across the second environment transition
+
+Command from `jobs/C05-name-your-baby`:
+
+```sh
+set -o pipefail
+PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda npm test 2>&1 | tee /tmp/c05-integrated-npm-test.log
+```
+
+The observed initial suite executed 34 tests and passed all 34, with zero failures/skips/cancellations/todos, duration 34.506453 seconds. Runner baselines passed 34 full / 15 historical / 9 current tests. Retained final report and log show all 34 mutations caught (25 historical, nine current), compiled byte/hash restoration, and all ten checksum matches. The environment then reprovisioned; attempting to resume exec session 37668 returned Unknown process id. Thus the original underlying npm process's final exit status is unavailable, and is not claimed as a confirmed tool-returned exit 0. Prior report is preserved at `/tmp/c05-pre-restart-integrated-mutation-report.json`; the original log remains available. A single fresh-instance integrated run is recording its underlying exit status in `/tmp/c05-restarted-integrated-npm-test.exit` and is pending at this documentation milestone. No assertions or source checks were skipped.
+
+The new mutations M26–M34 respectively plant future-year acceptance, dropping observed partial counts, ten observed years in the 2020s, future years counted as missing published observations, a single author for reviewed facts, absent fact review, absent recognition review, claimed candidate completion, and bypassed canonical count fingerprint. All are syntax-valid before execution. Current mutants must all be caught independently of the historical >=24 gate. The runner snapshots/restores every compiled JavaScript file and rejects crashes that do not execute the expected 15 historical or nine current tests. Exact pre-execution anchor/syntax proof is retained in `/tmp/c05-current-mutation-anchor-evidence.json`.
