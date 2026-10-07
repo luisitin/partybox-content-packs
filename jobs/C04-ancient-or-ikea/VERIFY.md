@@ -1219,3 +1219,33 @@ PARTYBOX_PORTRAIT_PYTHON=/workspace/.partybox-source-venv/bin/python npm test > 
 ```
 
 Result: exit 0; strict build and 24/24 tests passed (29.687 seconds, none skipped/cancelled), full mutation baseline 24/24, all 25 semantic mutations caught by the 13 core tests, and all eight checksum entries passed. The independent algorithms, required seeds, schemas, source/pack repeatability, image conversion and preservation checks all executed. This validates the engineering sample only. Real licensed museum images, roughly 500+ curated rows, independent short facts, 30 manual second-source checks and real green CI remain unrun; no PR was opened.
+
+## Final delivery and reusable setup
+
+```sh
+python3 /tmp/queue_delivery.py milestone C04
+git pull --ff-only origin main
+git show origin/main:CLAIMS.md
+git ls-remote --heads origin job/C04-ancient-or-ikea
+git push origin main
+```
+
+The helper created main claim refresh fe27d86, but its push failed with GitHub Internal Server Error at 16:58:36 UTC. After pull/re-check confirmed our unchanged remote claim, two direct retries also failed with the same server error at 16:59:01 and 17:00:06. No rejection was treated as success and no credentials, TLS or checksums were changed.
+
+```sh
+git switch job/C04-ancient-or-ikea
+git -c user.name='Codex Queue' -c user.email='codex-queue@users.noreply.github.com' merge main --no-edit
+git push --set-upstream origin job/C04-ancient-or-ikea
+git switch main
+git pull --ff-only origin main
+git show origin/main:CLAIMS.md
+git push origin main
+```
+
+Both final pushes exited 0. Feature merge 1793b2d delivers correction ede3a22 and the refreshed claim record; subsequent main push delivers fe27d86. This alternative preserves useful delivery while keeping the main update outstanding until its actual success. GitHub's internal error cause remains unknown.
+
+```sh
+bash /workspace/.partybox-install.sh > /tmp/c04-onboarding-install.log 2>&1
+```
+
+Exit 0 on the C04 branch: pinned Python requirements, frozen npm install and TypeScript build executed. An earlier invocation on main had no package-lock targets and therefore validated only shared prerequisites; it was rerun on C04 to exercise the actual build. No tracked dependency or generated-data changes resulted.

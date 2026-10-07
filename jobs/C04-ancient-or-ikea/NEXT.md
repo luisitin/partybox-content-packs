@@ -2,8 +2,10 @@
 
 Stage: metadata and colour-managed image pipeline validated locally: 24 tests,
 25/25 mutations and eight checksums. Actual museum photos, permissions and
-independent verification blocked. Native Git delivered the baseline milestone;
-the final correction is committed/pushed with a refreshed claim before moving on.
+independent verification blocked. Native Git delivered baseline and final correction
+milestones. Correction ede3a22 is on remote feature merge 1793b2d; claim refresh
+fe27d86 reached main after transient server errors. Source-dependent work remains
+blocked and is recorded in BLOCKED.md; no PR or green CI is claimed.
 
 1. Fetch main and job/C04-ancient-or-ikea, read current CLAIMS and all job documents, preserve concurrent changes and refresh the claim when resuming.
 2. Run npm test after changes. Confirm both century algorithms, schemas, fixture/pack repeatability, image tests, checksum verification and 25 mutations actually pass; record outcomes in VERIFY.
