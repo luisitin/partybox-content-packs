@@ -2880,3 +2880,14 @@ node dist/src/complete-cli.js fixtures/current-source.json fixtures/curation.jso
 ```
 
 Expected actual exit1 with incomplete-fact error; no output created, both input SHA256 values unchanged.434 facts/66 unresolved/500 recognition records remain. This proves refusal of incomplete production content, not completed C05 or PR/green CI.
+
+## 493-fact focused completion
+
+Root assembled59 new approved identities plus one independently reviewed Dalton upgrade using `python3 /tmp/c05-integrate-approved-next.py`, actual exit0. All untouched curation records and all recognition records were preserved. Deliberate coverage assertions now pin493 reviewed/7 missing. Commands from this job folder:
+
+```sh
+npm run generate:reviewed > /tmp/c05-expanded-493-generate.log 2>&1 && node --test dist/test/reviewed.test.js > /tmp/c05-expanded-493-focused-test.log 2>&1
+sha256sum --check SHA256SUMS.txt
+```
+
+Actual generation/focused exec exit0, persisted status0. Four tests passed, zero fail/cancel/skip/todo,7.735982seconds. Strict build passed; all500 numeric fields remain identical to base, two timezone generations match the committed reviewed bytes, and25 malformed/alias CLI invocations preserve both inputs and output sentinel. All16 checksums passed. Root assembly evidence /tmp/c05-approved493-assembly-evidence.json. The earlier full42-test/34-mutant/12-restored-file result belongs to the434 code milestone; this fact-only expansion does not claim a repeated campaign. No complete production golden, PR, green CI or KEEP GOING completion.

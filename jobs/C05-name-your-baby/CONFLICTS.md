@@ -68,3 +68,7 @@ chosen safer paraphrases will be recorded here as facts are accepted.
 ## Independent next59 review
 
 Twenty proposed sentences were narrowed. Modern-root family links remain dictionary-only where the historical work lacks the exact spelling. Lori uses only Lothar; inconsistent royal-lineage details are omitted. Billy the Kid went by William H. Bonney; the source calling it a real name conflicts with the other work’s alias wording, so no birth-name claim is published. Summer arithmetic is held because near-identical Webster/Wiktionary wording and missing dependency metadata do not establish independent support; the approved fallback identifies the season only. Older uncertain etymologies and origin-of-all-bearers claims remain excluded.
+
+## Later variant and surname review
+
+Thirty-four later variant facts were narrowed to independently supported roots, forms or bearers, omitting modern links known only from one dictionary. Kelsey's island clause in its name article explicitly cites Behind the Name; the competing ship/victory suggestion lacks a second agreeing read source, so that synthesis is held. Its accepted sentence describes Lincolnshire village names only. Ashley/Bailey/Bryson/Clayton explicitly concern surname roots; Bardsley leaves Ashley's ley sense uncertain and Bryson has alternative origins, so certainty is not claimed. Mary Shelley authorship was chosen for Shelly over the less surprising shell adjective. Daltonism omits a claim that Dalton was the first observer of color blindness.
