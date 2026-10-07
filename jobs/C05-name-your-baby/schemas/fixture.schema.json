@@ -1,0 +1,103 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "$id": "https://partybox.invalid/C05/fixture.schema.json",
+  "required": [
+    "analysis",
+    "source",
+    "annualCounts"
+  ],
+  "properties": {
+    "analysis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "startYear",
+        "endYear"
+      ],
+      "properties": {
+        "startYear": {
+          "const": 1880
+        },
+        "endYear": {
+          "const": 2009
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "commit",
+        "coverageEndYear",
+        "coverageStartYear",
+        "license",
+        "publisher",
+        "sha256",
+        "url"
+      ],
+      "properties": {
+        "commit": {
+          "const": "4391c25ea10b8b0589cdbab63067de3bc8b3a628"
+        },
+        "coverageEndYear": {
+          "const": 2017
+        },
+        "coverageStartYear": {
+          "const": 1880
+        },
+        "license": {
+          "const": "CC0"
+        },
+        "publisher": {
+          "const": "hadley/babynames"
+        },
+        "sha256": {
+          "const": "1d5c601fa3c5177f4d9edb4c8c2f08fddc8d9bf04372b8a40dc6aecf92bfa324"
+        },
+        "url": {
+          "const": "https://raw.githubusercontent.com/hadley/babynames/4391c25ea10b8b0589cdbab63067de3bc8b3a628/data/babynames.rda"
+        }
+      }
+    },
+    "annualCounts": {
+      "type": "array",
+      "minItems": 3707,
+      "maxItems": 3707,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "year",
+          "sex",
+          "name",
+          "count"
+        ],
+        "properties": {
+          "year": {
+            "type": "integer",
+            "minimum": 1880,
+            "maximum": 2009
+          },
+          "sex": {
+            "enum": [
+              "F",
+              "M"
+            ]
+          },
+          "name": {
+            "type": "string",
+            "pattern": "^[A-Za-z]{1,40}$"
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 5,
+            "maximum": 9007199254740991
+          }
+        }
+      }
+    }
+  }
+}

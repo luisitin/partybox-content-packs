@@ -1,0 +1,32 @@
+name: C05 Name Your Baby checks
+on:
+  pull_request:
+    paths:
+      - 'jobs/C05-name-your-baby/**'
+      - '.github/workflows/C05.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: jobs/C05-name-your-baby
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm ci --ignore-scripts --no-fund --no-audit
+      - run: |
+          python3 -m venv /tmp/c05-source-venv
+          /tmp/c05-source-venv/bin/python -m pip install --requirement tools/requirements-source.txt
+          curl --fail --location --max-time 60 --silent --show-error --output /tmp/c05-babynames.rda 'https://raw.githubusercontent.com/hadley/babynames/4391c25ea10b8b0589cdbab63067de3bc8b3a628/data/babynames.rda'
+      - run: npm test
+        env:
+          PARTYBOX_SOURCE_PYTHON: /tmp/c05-source-venv/bin/python
+          PARTYBOX_SOURCE_FILE: /tmp/c05-babynames.rda
