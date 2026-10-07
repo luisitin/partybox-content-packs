@@ -246,3 +246,13 @@ bash /workspace/.partybox-install.sh
 ```
 
 Result: exit 0; frozen source/image Python dependencies and current checked-out job npm lock installed, strict build passed. This catches missing/wrong runtime and unwritable default-cache setup. The generalized script and branch-aware startup instructions were saved in the environment draft; successful saving does not apply the network policy or publish a snapshot.
+
+## Delivery
+
+```sh
+git diff --cached --check
+python3 /tmp/queue_delivery.py milestone C02
+git ls-remote origin refs/heads/job/C02-dead-or-alive
+```
+
+Results: whitespace check exit 0; main claim refresh cce9d72 pushed; validated implementation aa9ab1e merged with main and job/C02-dead-or-alive pushed successfully. Native remote lookup confirms the feature ref. These catch malformed patches, remote write failures and missing delivery. No PR is opened: current-source, portrait provenance, independent factual/manual checks and green CI remain incomplete. The post-green KEEP GOING loop has not started. Main receives C02 BLOCKED before advancing the queue.
