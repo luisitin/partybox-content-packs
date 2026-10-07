@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Pinned C04 historical museum metadata source manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "recordCount", "records"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "recordCount": {"const": 30},
+    "records": {
+      "type": "array",
+      "minItems": 30,
+      "maxItems": 30,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["filename", "museum", "id", "url", "sha256"],
+        "properties": {
+          "filename": {"type": "string", "pattern": "^(ch-object|aic-artworks)-[0-9]+\\.json$"},
+          "museum": {"enum": ["Cooper Hewitt, Smithsonian Design Museum", "Art Institute of Chicago"]},
+          "id": {"type": "string", "pattern": "^[0-9]+$"},
+          "url": {
+            "type": "string",
+            "pattern": "^https://raw\\.githubusercontent\\.com/(cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/[0-9/]+|art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/[0-9]+)\\.json$"
+          },
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+        }
+      }
+    }
+  }
+}

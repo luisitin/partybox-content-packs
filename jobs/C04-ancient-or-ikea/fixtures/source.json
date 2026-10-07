@@ -1,0 +1,2514 @@
+[
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382603",
+    "title": "Textile (France), ca. 1720",
+    "date_display": "ca. 1720",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/40811_845feffd5001b88d_o.jpg",
+          "width": 4232,
+          "height": 4989,
+          "is_primary": "1",
+          "image_id": "40811"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/40811_d822761d671ef0d0_b.jpg",
+          "width": 869,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "40811"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/40811_d822761d671ef0d0_z.jpg",
+          "width": 543,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "40811"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/40811_d822761d671ef0d0_n.jpg",
+          "width": 271,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "40811"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/40811_d822761d671ef0d0_d.gif",
+          "width": 271,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "40811"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/40811_d822761d671ef0d0_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "40811"
+        }
+      },
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/228620_79906b4f1a2fc3cf_x.jpg",
+          "width": 3440,
+          "height": 4096,
+          "is_primary": "0",
+          "image_id": "228620"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/228620_ce3766bcd9f59c81_b.jpg",
+          "width": 860,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "228620"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/228620_ce3766bcd9f59c81_z.jpg",
+          "width": 538,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "228620"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/228620_ce3766bcd9f59c81_n.jpg",
+          "width": 269,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "228620"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/228620_ce3766bcd9f59c81_d.gif",
+          "width": 269,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "228620"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/228620_ce3766bcd9f59c81_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "228620"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72346_f0f589ce8f0959ea_o.jpg",
+          "width": 2397,
+          "height": 3000,
+          "is_primary": "0",
+          "image_id": "72346"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72346_d61ddf33eb9faa17_b.jpg",
+          "width": 818,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "72346"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72346_d61ddf33eb9faa17_z.jpg",
+          "width": 511,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "72346"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72346_d61ddf33eb9faa17_n.jpg",
+          "width": 256,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "72346"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72346_d61ddf33eb9faa17_d.gif",
+          "width": 256,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "72346"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72346_d61ddf33eb9faa17_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72346"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/03/18382603.json",
+    "source_sha256": "55114a5a92c567299cac64e10063c90688a2a0fcf53f49b672df9b6b3ea6f569",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382605",
+    "title": "Band (Italy), 16th century",
+    "date_display": "16th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/201296_d11bbc7a8de1e79c_x.jpg",
+          "width": 4096,
+          "height": 1044,
+          "is_primary": "1",
+          "image_id": "201296"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/201296_c3373541843fdcd7_b.jpg",
+          "width": 1024,
+          "height": 261,
+          "is_primary": "1",
+          "image_id": "201296"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/201296_c3373541843fdcd7_z.jpg",
+          "width": 640,
+          "height": 163,
+          "is_primary": "1",
+          "image_id": "201296"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/201296_c3373541843fdcd7_n.jpg",
+          "width": 320,
+          "height": 82,
+          "is_primary": "1",
+          "image_id": "201296"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/201296_c3373541843fdcd7_d.gif",
+          "width": 320,
+          "height": 82,
+          "is_primary": "1",
+          "image_id": "201296"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/201296_c3373541843fdcd7_sq.jpg",
+          "width": 300,
+          "height": 261,
+          "is_primary": "1",
+          "image_id": "201296"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/26591_7927da9551fc3d13_o.jpg",
+          "width": 4000,
+          "height": 1306,
+          "is_primary": "0",
+          "image_id": "26591"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/26591_4b94c7b372c2c81d_b.jpg",
+          "width": 1024,
+          "height": 334,
+          "is_primary": "0",
+          "image_id": "26591"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/26591_4b94c7b372c2c81d_z.jpg",
+          "width": 640,
+          "height": 209,
+          "is_primary": "0",
+          "image_id": "26591"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/26591_4b94c7b372c2c81d_n.jpg",
+          "width": 320,
+          "height": 104,
+          "is_primary": "0",
+          "image_id": "26591"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/26591_4b94c7b372c2c81d_d.gif",
+          "width": 320,
+          "height": 104,
+          "is_primary": "0",
+          "image_id": "26591"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/26591_4b94c7b372c2c81d_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "26591"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/05/18382605.json",
+    "source_sha256": "b7abf62b3b994765e3a0b2bd442357c04fd9b43ef055353d5215c72a863d7a2f",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382607",
+    "title": "Band (Italy), 17th century",
+    "date_display": "17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/232465_a061838a8dab1498_x.jpg",
+          "width": 511,
+          "height": 4096,
+          "is_primary": "1",
+          "image_id": "232465"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/232465_5c6178e161744854_b.jpg",
+          "width": 128,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "232465"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/232465_5c6178e161744854_z.jpg",
+          "width": 80,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "232465"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/232465_5c6178e161744854_n.jpg",
+          "width": 40,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "232465"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/232465_5c6178e161744854_d.gif",
+          "width": 40,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "232465"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/232465_5c6178e161744854_sq.jpg",
+          "width": 128,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "232465"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72347_f2e7a5e17d20ecb8_o.jpg",
+          "width": 3000,
+          "height": 825,
+          "is_primary": "0",
+          "image_id": "72347"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72347_8c07503e02751c94_b.jpg",
+          "width": 1024,
+          "height": 282,
+          "is_primary": "0",
+          "image_id": "72347"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72347_8c07503e02751c94_z.jpg",
+          "width": 640,
+          "height": 176,
+          "is_primary": "0",
+          "image_id": "72347"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72347_8c07503e02751c94_n.jpg",
+          "width": 320,
+          "height": 88,
+          "is_primary": "0",
+          "image_id": "72347"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72347_8c07503e02751c94_d.gif",
+          "width": 320,
+          "height": 88,
+          "is_primary": "0",
+          "image_id": "72347"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72347_8c07503e02751c94_sq.jpg",
+          "width": 300,
+          "height": 282,
+          "is_primary": "0",
+          "image_id": "72347"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/07/18382607.json",
+    "source_sha256": "67a42128da91e38d2d277269ccceed9460bff5bbf0ff4e5d7225b76a6d61fb22",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382609",
+    "title": "Band (Greece), 17th century",
+    "date_display": "17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/220130_12eae6311083d7d5_x.jpg",
+          "width": 2291,
+          "height": 4096,
+          "is_primary": "1",
+          "image_id": "220130"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/220130_582ce5d3f99c2f8f_b.jpg",
+          "width": 573,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "220130"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/220130_582ce5d3f99c2f8f_z.jpg",
+          "width": 358,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "220130"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/220130_582ce5d3f99c2f8f_n.jpg",
+          "width": 179,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "220130"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/220130_582ce5d3f99c2f8f_d.gif",
+          "width": 179,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "220130"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/220130_582ce5d3f99c2f8f_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "220130"
+        }
+      },
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/82529_d504d892c60fc149_x.jpg",
+          "width": 2195,
+          "height": 4096,
+          "is_primary": "0",
+          "image_id": "82529"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/82529_293119b893522688_b.jpg",
+          "width": 549,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "82529"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/82529_293119b893522688_z.jpg",
+          "width": 343,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "82529"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/82529_293119b893522688_n.jpg",
+          "width": 172,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "82529"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/82529_293119b893522688_d.gif",
+          "width": 172,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "82529"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/82529_293119b893522688_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "82529"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72348_a2a6f3bba2363487_o.jpg",
+          "width": 1942,
+          "height": 3000,
+          "is_primary": "0",
+          "image_id": "72348"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72348_df72093d538085ba_b.jpg",
+          "width": 663,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "72348"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72348_df72093d538085ba_z.jpg",
+          "width": 414,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "72348"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72348_df72093d538085ba_n.jpg",
+          "width": 207,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "72348"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72348_df72093d538085ba_d.gif",
+          "width": 207,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "72348"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72348_df72093d538085ba_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72348"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/33786_c2ace68b399d4e90_o.jpg",
+          "width": 2103,
+          "height": 1204,
+          "is_primary": "0",
+          "image_id": "33786"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/33786_50ecfca4450d1778_b.jpg",
+          "width": 1024,
+          "height": 586,
+          "is_primary": "0",
+          "image_id": "33786"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/33786_50ecfca4450d1778_z.jpg",
+          "width": 640,
+          "height": 366,
+          "is_primary": "0",
+          "image_id": "33786"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/33786_50ecfca4450d1778_n.jpg",
+          "width": 320,
+          "height": 183,
+          "is_primary": "0",
+          "image_id": "33786"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/33786_50ecfca4450d1778_d.gif",
+          "width": 320,
+          "height": 183,
+          "is_primary": "0",
+          "image_id": "33786"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/33786_50ecfca4450d1778_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "33786"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/09/18382609.json",
+    "source_sha256": "8780742f99073a4c7ce5752371f7619e92992e3050f6471b27087a1a1d25864a",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382611",
+    "title": "Fragment (Italy), 16th–17th century",
+    "date_display": "16th–17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/121767_2cfb4b5367c79088_x.jpg",
+          "width": 4096,
+          "height": 2833,
+          "is_primary": "1",
+          "image_id": "121767"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/121767_55d6d19d4c3b886a_b.jpg",
+          "width": 1024,
+          "height": 709,
+          "is_primary": "1",
+          "image_id": "121767"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/121767_55d6d19d4c3b886a_z.jpg",
+          "width": 640,
+          "height": 443,
+          "is_primary": "1",
+          "image_id": "121767"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/121767_55d6d19d4c3b886a_n.jpg",
+          "width": 320,
+          "height": 222,
+          "is_primary": "1",
+          "image_id": "121767"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/121767_55d6d19d4c3b886a_d.gif",
+          "width": 320,
+          "height": 222,
+          "is_primary": "1",
+          "image_id": "121767"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/121767_55d6d19d4c3b886a_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "121767"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72349_280c009678e066ed_o.jpg",
+          "width": 3000,
+          "height": 2064,
+          "is_primary": "0",
+          "image_id": "72349"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72349_e7b303d52b0aecc1_b.jpg",
+          "width": 1024,
+          "height": 705,
+          "is_primary": "0",
+          "image_id": "72349"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72349_e7b303d52b0aecc1_z.jpg",
+          "width": 640,
+          "height": 440,
+          "is_primary": "0",
+          "image_id": "72349"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72349_e7b303d52b0aecc1_n.jpg",
+          "width": 320,
+          "height": 220,
+          "is_primary": "0",
+          "image_id": "72349"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72349_e7b303d52b0aecc1_d.gif",
+          "width": 320,
+          "height": 220,
+          "is_primary": "0",
+          "image_id": "72349"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72349_e7b303d52b0aecc1_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72349"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/11/18382611.json",
+    "source_sha256": "340122fd62c634b4f2f719f3adbe563068d109bc6fa3b3233754dc7370729d58",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382613",
+    "title": "Panel (Italy), 16th–17th century",
+    "date_display": "16th–17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/122039_60f54d148c6699d6_x.jpg",
+          "width": 2475,
+          "height": 4096,
+          "is_primary": "1",
+          "image_id": "122039"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/122039_76e135bb94d8feb7_b.jpg",
+          "width": 619,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "122039"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/122039_76e135bb94d8feb7_z.jpg",
+          "width": 387,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "122039"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/122039_76e135bb94d8feb7_n.jpg",
+          "width": 193,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "122039"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/122039_76e135bb94d8feb7_d.gif",
+          "width": 193,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "122039"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/122039_76e135bb94d8feb7_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "122039"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72350_48354284d2182387_o.jpg",
+          "width": 3000,
+          "height": 1942,
+          "is_primary": "0",
+          "image_id": "72350"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72350_89750374466f0102_b.jpg",
+          "width": 1024,
+          "height": 663,
+          "is_primary": "0",
+          "image_id": "72350"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72350_89750374466f0102_z.jpg",
+          "width": 640,
+          "height": 414,
+          "is_primary": "0",
+          "image_id": "72350"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72350_89750374466f0102_n.jpg",
+          "width": 320,
+          "height": 207,
+          "is_primary": "0",
+          "image_id": "72350"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72350_89750374466f0102_d.gif",
+          "width": 320,
+          "height": 207,
+          "is_primary": "0",
+          "image_id": "72350"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72350_89750374466f0102_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72350"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/13/18382613.json",
+    "source_sha256": "e3f63a47fbfadea1bd7e619883ab22851baddd2374c9a8cfe1a7718f9ad5abc8",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382615",
+    "title": "Border Fragment, 16th century",
+    "date_display": "16th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/47813_3f78277429a7e815_x.jpg",
+          "width": 4096,
+          "height": 1453,
+          "is_primary": "1",
+          "image_id": "47813"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/47813_f278407765f82168_b.jpg",
+          "width": 1024,
+          "height": 364,
+          "is_primary": "1",
+          "image_id": "47813"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/47813_f278407765f82168_z.jpg",
+          "width": 640,
+          "height": 227,
+          "is_primary": "1",
+          "image_id": "47813"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/47813_f278407765f82168_n.jpg",
+          "width": 320,
+          "height": 114,
+          "is_primary": "1",
+          "image_id": "47813"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/47813_f278407765f82168_d.gif",
+          "width": 320,
+          "height": 114,
+          "is_primary": "1",
+          "image_id": "47813"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/47813_f278407765f82168_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "47813"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72351_179aadad57a6e981_o.jpg",
+          "width": 3000,
+          "height": 1759,
+          "is_primary": "0",
+          "image_id": "72351"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72351_efdc297be921227a_b.jpg",
+          "width": 1024,
+          "height": 600,
+          "is_primary": "0",
+          "image_id": "72351"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72351_efdc297be921227a_z.jpg",
+          "width": 640,
+          "height": 375,
+          "is_primary": "0",
+          "image_id": "72351"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72351_efdc297be921227a_n.jpg",
+          "width": 320,
+          "height": 188,
+          "is_primary": "0",
+          "image_id": "72351"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72351_efdc297be921227a_d.gif",
+          "width": 320,
+          "height": 188,
+          "is_primary": "0",
+          "image_id": "72351"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72351_efdc297be921227a_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72351"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/15/18382615.json",
+    "source_sha256": "43b5d3a7386b3fc11ef413cade12132d0c9f69d64072257d795878607742c6f2",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382617",
+    "title": "Chalice Cover (Italy), 16th–17th century",
+    "date_display": "16th–17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/229212_2f89215378a4fe15_x.jpg",
+          "width": 4095,
+          "height": 3779,
+          "is_primary": "1",
+          "image_id": "229212"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/229212_48ec2baf1195df0f_b.jpg",
+          "width": 1024,
+          "height": 945,
+          "is_primary": "1",
+          "image_id": "229212"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/229212_48ec2baf1195df0f_z.jpg",
+          "width": 640,
+          "height": 591,
+          "is_primary": "1",
+          "image_id": "229212"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/229212_48ec2baf1195df0f_n.jpg",
+          "width": 320,
+          "height": 295,
+          "is_primary": "1",
+          "image_id": "229212"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/229212_48ec2baf1195df0f_d.gif",
+          "width": 320,
+          "height": 295,
+          "is_primary": "1",
+          "image_id": "229212"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/229212_48ec2baf1195df0f_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "229212"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72352_25e76987ccf8fe7f_o.jpg",
+          "width": 3000,
+          "height": 2590,
+          "is_primary": "0",
+          "image_id": "72352"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72352_a3f83736d9c328ee_b.jpg",
+          "width": 1024,
+          "height": 884,
+          "is_primary": "0",
+          "image_id": "72352"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72352_a3f83736d9c328ee_z.jpg",
+          "width": 640,
+          "height": 553,
+          "is_primary": "0",
+          "image_id": "72352"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72352_a3f83736d9c328ee_n.jpg",
+          "width": 320,
+          "height": 276,
+          "is_primary": "0",
+          "image_id": "72352"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72352_a3f83736d9c328ee_d.gif",
+          "width": 320,
+          "height": 276,
+          "is_primary": "0",
+          "image_id": "72352"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72352_a3f83736d9c328ee_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72352"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/17/18382617.json",
+    "source_sha256": "ebc7c67c8b3c8eac470a410ae1819dcbdcb2cf1c3bf6b2ed2704d8e7352a8e34",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382619",
+    "title": "Chalice Cover (Spain), 17th century",
+    "date_display": "17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/46267_ad996bfb30a0b7e7_x.jpg",
+          "width": 3951,
+          "height": 4096,
+          "is_primary": "1",
+          "image_id": "46267"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/46267_4b4b41e8bb130b19_b.jpg",
+          "width": 988,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "46267"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/46267_4b4b41e8bb130b19_z.jpg",
+          "width": 618,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "46267"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/46267_4b4b41e8bb130b19_n.jpg",
+          "width": 309,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "46267"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/46267_4b4b41e8bb130b19_d.gif",
+          "width": 309,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "46267"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/46267_4b4b41e8bb130b19_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "46267"
+        }
+      },
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/228834_d51749e9ca6cb0ce_x.jpg",
+          "width": 2492,
+          "height": 2445,
+          "is_primary": "0",
+          "image_id": "228834"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/228834_296377e3c2647066_b.jpg",
+          "width": 1024,
+          "height": 1005,
+          "is_primary": "0",
+          "image_id": "228834"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/228834_296377e3c2647066_z.jpg",
+          "width": 640,
+          "height": 628,
+          "is_primary": "0",
+          "image_id": "228834"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/228834_296377e3c2647066_n.jpg",
+          "width": 320,
+          "height": 314,
+          "is_primary": "0",
+          "image_id": "228834"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/228834_296377e3c2647066_d.gif",
+          "width": 320,
+          "height": 314,
+          "is_primary": "0",
+          "image_id": "228834"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/228834_296377e3c2647066_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "228834"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/19/18382619.json",
+    "source_sha256": "161e5c82e4f212c74ef5a6fba5c49dc687f1248836bd38ef3487b8f2b9d0ddcd",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382623",
+    "title": "Textile (France), 17th century",
+    "date_display": "17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/114809_53fd8ce19e15a018_x.jpg",
+          "width": 2594,
+          "height": 4096,
+          "is_primary": "1",
+          "image_id": "114809"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/114809_effda4a80de8e3fb_b.jpg",
+          "width": 649,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "114809"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/114809_effda4a80de8e3fb_z.jpg",
+          "width": 405,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "114809"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/114809_effda4a80de8e3fb_n.jpg",
+          "width": 203,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "114809"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/114809_effda4a80de8e3fb_d.gif",
+          "width": 203,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "114809"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/114809_effda4a80de8e3fb_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "114809"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72353_a53c3dc26108fb85_o.jpg",
+          "width": 1942,
+          "height": 3000,
+          "is_primary": "0",
+          "image_id": "72353"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72353_b764719f78de1c88_b.jpg",
+          "width": 663,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "72353"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72353_b764719f78de1c88_z.jpg",
+          "width": 414,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "72353"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72353_b764719f78de1c88_n.jpg",
+          "width": 207,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "72353"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72353_b764719f78de1c88_d.gif",
+          "width": 207,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "72353"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72353_b764719f78de1c88_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72353"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/23/18382623.json",
+    "source_sha256": "4f865f5b2e5b3d023e8f4b4e2f73870a67b74487d75fbca1122133b29a2f65b9",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382625",
+    "title": "Fragment (France), 18th century",
+    "date_display": "18th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/224279_44b830b919640411_x.jpg",
+          "width": 2349,
+          "height": 1886,
+          "is_primary": "1",
+          "image_id": "224279"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/224279_35bf37ad93ecc75a_b.jpg",
+          "width": 1024,
+          "height": 822,
+          "is_primary": "1",
+          "image_id": "224279"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/224279_35bf37ad93ecc75a_z.jpg",
+          "width": 640,
+          "height": 514,
+          "is_primary": "1",
+          "image_id": "224279"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/224279_35bf37ad93ecc75a_n.jpg",
+          "width": 320,
+          "height": 257,
+          "is_primary": "1",
+          "image_id": "224279"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/224279_35bf37ad93ecc75a_d.gif",
+          "width": 320,
+          "height": 257,
+          "is_primary": "1",
+          "image_id": "224279"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/224279_35bf37ad93ecc75a_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "224279"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/25/18382625.json",
+    "source_sha256": "c8e34c45ba5bf79e35ab9eaf900594a10ce57c27aaf41827e9d3c11b1f1340ad",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382629",
+    "title": "Fragment (Spain), 17th century",
+    "date_display": "17th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/63159_e9be336718975edd_x.jpg",
+          "width": 1757,
+          "height": 4096,
+          "is_primary": "1",
+          "image_id": "63159"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/63159_1960ca5a54479402_b.jpg",
+          "width": 440,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "63159"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/63159_1960ca5a54479402_z.jpg",
+          "width": 275,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "63159"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/63159_1960ca5a54479402_n.jpg",
+          "width": 138,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "63159"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/63159_1960ca5a54479402_d.gif",
+          "width": 138,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "63159"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/63159_1960ca5a54479402_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "63159"
+        }
+      },
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/121171_4ad0f2c26410a12a_x.jpg",
+          "width": 2324,
+          "height": 4096,
+          "is_primary": "0",
+          "image_id": "121171"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/121171_7241746c19284262_b.jpg",
+          "width": 581,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "121171"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/121171_7241746c19284262_z.jpg",
+          "width": 363,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "121171"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/121171_7241746c19284262_n.jpg",
+          "width": 182,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "121171"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/121171_7241746c19284262_d.gif",
+          "width": 182,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "121171"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/121171_7241746c19284262_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "121171"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/29/18382629.json",
+    "source_sha256": "f1cc7593fd5c522caf0039fd026d5befcea923e487bf7ace62e06b6951a0f65e",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382633",
+    "title": "Cap (Egypt), late 13th–early 14th century",
+    "date_display": "late 13th–early 14th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/44202_7ad9b8593f932eaa_o.jpg",
+          "width": 4312,
+          "height": 3860,
+          "is_primary": "1",
+          "image_id": "44202"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/44202_c765ec9d7f168e93_b.jpg",
+          "width": 1024,
+          "height": 917,
+          "is_primary": "1",
+          "image_id": "44202"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/44202_c765ec9d7f168e93_z.jpg",
+          "width": 640,
+          "height": 573,
+          "is_primary": "1",
+          "image_id": "44202"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/44202_c765ec9d7f168e93_n.jpg",
+          "width": 320,
+          "height": 286,
+          "is_primary": "1",
+          "image_id": "44202"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/44202_c765ec9d7f168e93_d.gif",
+          "width": 320,
+          "height": 286,
+          "is_primary": "1",
+          "image_id": "44202"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/44202_c765ec9d7f168e93_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "44202"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/15516_69405900f85840a3_o.jpg",
+          "width": 1308,
+          "height": 1264,
+          "is_primary": "0",
+          "image_id": "15516"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/15516_c367cd5d61b8ceed_b.jpg",
+          "width": 1024,
+          "height": 990,
+          "is_primary": "0",
+          "image_id": "15516"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/15516_c367cd5d61b8ceed_z.jpg",
+          "width": 640,
+          "height": 618,
+          "is_primary": "0",
+          "image_id": "15516"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/15516_c367cd5d61b8ceed_n.jpg",
+          "width": 320,
+          "height": 309,
+          "is_primary": "0",
+          "image_id": "15516"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/15516_c367cd5d61b8ceed_d.gif",
+          "width": 320,
+          "height": 309,
+          "is_primary": "0",
+          "image_id": "15516"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/15516_c367cd5d61b8ceed_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "15516"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/33/18382633.json",
+    "source_sha256": "ccff4ad07b0f0b4e51bc917766ba6921ade5e67e9e1d901b2d0bac9829018d02",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382635",
+    "title": "Band (Italy), 16th century",
+    "date_display": "16th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/229768_6e161be81cea95cf_x.jpg",
+          "width": 3715,
+          "height": 937,
+          "is_primary": "1",
+          "image_id": "229768"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/229768_708a1cccbb83a879_b.jpg",
+          "width": 1024,
+          "height": 259,
+          "is_primary": "1",
+          "image_id": "229768"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/229768_708a1cccbb83a879_z.jpg",
+          "width": 640,
+          "height": 162,
+          "is_primary": "1",
+          "image_id": "229768"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/229768_708a1cccbb83a879_n.jpg",
+          "width": 320,
+          "height": 81,
+          "is_primary": "1",
+          "image_id": "229768"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/229768_708a1cccbb83a879_d.gif",
+          "width": 320,
+          "height": 81,
+          "is_primary": "1",
+          "image_id": "229768"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/229768_708a1cccbb83a879_sq.jpg",
+          "width": 300,
+          "height": 259,
+          "is_primary": "1",
+          "image_id": "229768"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72359_902c4ed7e10c1e2f_o.jpg",
+          "width": 3000,
+          "height": 1585,
+          "is_primary": "0",
+          "image_id": "72359"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72359_ef74b9606eadf69e_b.jpg",
+          "width": 1024,
+          "height": 541,
+          "is_primary": "0",
+          "image_id": "72359"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72359_ef74b9606eadf69e_z.jpg",
+          "width": 640,
+          "height": 338,
+          "is_primary": "0",
+          "image_id": "72359"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72359_ef74b9606eadf69e_n.jpg",
+          "width": 320,
+          "height": 169,
+          "is_primary": "0",
+          "image_id": "72359"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72359_ef74b9606eadf69e_d.gif",
+          "width": 320,
+          "height": 169,
+          "is_primary": "0",
+          "image_id": "72359"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72359_ef74b9606eadf69e_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72359"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/35/18382635.json",
+    "source_sha256": "8fe3c246477602c421980059a505c1df4355bff22758e9a3112a2328e38dc495",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382637",
+    "title": "Border (Italy), 16th century",
+    "date_display": "16th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/229946_86c61a5732288dad_x.jpg",
+          "width": 4096,
+          "height": 767,
+          "is_primary": "1",
+          "image_id": "229946"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/229946_cb2f852a1535bd11_b.jpg",
+          "width": 1024,
+          "height": 192,
+          "is_primary": "1",
+          "image_id": "229946"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/229946_cb2f852a1535bd11_z.jpg",
+          "width": 640,
+          "height": 120,
+          "is_primary": "1",
+          "image_id": "229946"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/229946_cb2f852a1535bd11_n.jpg",
+          "width": 320,
+          "height": 60,
+          "is_primary": "1",
+          "image_id": "229946"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/229946_cb2f852a1535bd11_d.gif",
+          "width": 320,
+          "height": 60,
+          "is_primary": "1",
+          "image_id": "229946"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/229946_cb2f852a1535bd11_sq.jpg",
+          "width": 300,
+          "height": 192,
+          "is_primary": "1",
+          "image_id": "229946"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/72360_8b47e5d6ce05fb57_o.jpg",
+          "width": 3000,
+          "height": 1540,
+          "is_primary": "0",
+          "image_id": "72360"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/72360_52ee95da026635ac_b.jpg",
+          "width": 1024,
+          "height": 526,
+          "is_primary": "0",
+          "image_id": "72360"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/72360_52ee95da026635ac_z.jpg",
+          "width": 640,
+          "height": 328,
+          "is_primary": "0",
+          "image_id": "72360"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/72360_52ee95da026635ac_n.jpg",
+          "width": 320,
+          "height": 164,
+          "is_primary": "0",
+          "image_id": "72360"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/72360_52ee95da026635ac_d.gif",
+          "width": 320,
+          "height": 164,
+          "is_primary": "0",
+          "image_id": "72360"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/72360_52ee95da026635ac_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "72360"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/37/18382637.json",
+    "source_sha256": "dc727c174d1ed429e8730acf94484c6ac741ddfa0c57c2469762becaacff94c2",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382641",
+    "title": "Print, Beware of the Cat, ca. 1500",
+    "date_display": "ca. 1500",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/214239_5e5a716391f67b9e_x.jpg",
+          "width": 4096,
+          "height": 2940,
+          "is_primary": "1",
+          "image_id": "214239"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/214239_68a71038539b8d6a_b.jpg",
+          "width": 1024,
+          "height": 735,
+          "is_primary": "1",
+          "image_id": "214239"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/214239_68a71038539b8d6a_z.jpg",
+          "width": 640,
+          "height": 459,
+          "is_primary": "1",
+          "image_id": "214239"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/214239_68a71038539b8d6a_n.jpg",
+          "width": 320,
+          "height": 230,
+          "is_primary": "1",
+          "image_id": "214239"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/214239_68a71038539b8d6a_d.gif",
+          "width": 320,
+          "height": 230,
+          "is_primary": "1",
+          "image_id": "214239"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/214239_68a71038539b8d6a_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "214239"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/41/18382641.json",
+    "source_sha256": "d6f4b14e8f2de21b2061f2a6f4bf80e9273cff9138a67de300ca59c9f56772e6",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382685",
+    "title": "Cameo (USA), late 19th century",
+    "date_display": "late 19th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/132137_3cbc9dc990f5103c_x.jpg",
+          "width": 1742,
+          "height": 2341,
+          "is_primary": "1",
+          "image_id": "132137"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/132137_bc5910c805bf73a5_b.jpg",
+          "width": 762,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "132137"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/132137_bc5910c805bf73a5_z.jpg",
+          "width": 476,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "132137"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/132137_bc5910c805bf73a5_n.jpg",
+          "width": 238,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132137"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/132137_bc5910c805bf73a5_d.gif",
+          "width": 238,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132137"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/132137_bc5910c805bf73a5_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "132137"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/85/18382685.json",
+    "source_sha256": "d1d1ca9d91f7f75fd4407ac15b9a76898f884bd6edc27bf873ca54ca0e00d649",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382689",
+    "title": "Cameo (USA), mid-19th century",
+    "date_display": "mid-19th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/132688_389a48f0181ef03f_x.jpg",
+          "width": 1793,
+          "height": 2453,
+          "is_primary": "1",
+          "image_id": "132688"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/132688_9a16a8b7604ca8be_b.jpg",
+          "width": 749,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "132688"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/132688_9a16a8b7604ca8be_z.jpg",
+          "width": 468,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "132688"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/132688_9a16a8b7604ca8be_n.jpg",
+          "width": 234,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132688"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/132688_9a16a8b7604ca8be_d.gif",
+          "width": 234,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132688"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/132688_9a16a8b7604ca8be_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "132688"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/89/18382689.json",
+    "source_sha256": "cb572a74cc8a8ab390819e62cbb935a6bd240b79e58a54077efbbf1a62703546",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382693",
+    "title": "Cameo (USA), late 19th century",
+    "date_display": "late 19th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/132333_3a2199d29ba66cb4_x.jpg",
+          "width": 2203,
+          "height": 2744,
+          "is_primary": "1",
+          "image_id": "132333"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/132333_89f76c6acee18570_b.jpg",
+          "width": 822,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "132333"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/132333_89f76c6acee18570_z.jpg",
+          "width": 514,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "132333"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/132333_89f76c6acee18570_n.jpg",
+          "width": 257,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132333"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/132333_89f76c6acee18570_d.gif",
+          "width": 257,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132333"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/132333_89f76c6acee18570_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "132333"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/93/18382693.json",
+    "source_sha256": "161fe9b01be129cf324b87be50290282bf94c8f44fefd93ade577dcb981705b5",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382695",
+    "title": "Cameo (USA), late 19th century",
+    "date_display": "late 19th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/131938_25834e455a33594d_x.jpg",
+          "width": 1796,
+          "height": 2203,
+          "is_primary": "1",
+          "image_id": "131938"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/131938_da6a05ca5a4e3776_b.jpg",
+          "width": 835,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "131938"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/131938_da6a05ca5a4e3776_z.jpg",
+          "width": 522,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "131938"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/131938_da6a05ca5a4e3776_n.jpg",
+          "width": 261,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "131938"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/131938_da6a05ca5a4e3776_d.gif",
+          "width": 261,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "131938"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/131938_da6a05ca5a4e3776_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "131938"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/95/18382695.json",
+    "source_sha256": "2d589a7e0d4873a49c64792458cf3270e42cdc6c3c61bb750bc95b049e687dce",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382697",
+    "title": "Cameo (USA), late 19th century",
+    "date_display": "late 19th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/132035_1b97170b86b3274a_x.jpg",
+          "width": 1580,
+          "height": 2123,
+          "is_primary": "1",
+          "image_id": "132035"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/132035_ceb2b6f916e7275a_b.jpg",
+          "width": 762,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "132035"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/132035_ceb2b6f916e7275a_z.jpg",
+          "width": 476,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "132035"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/132035_ceb2b6f916e7275a_n.jpg",
+          "width": 238,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132035"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/132035_ceb2b6f916e7275a_d.gif",
+          "width": 238,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132035"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/132035_ceb2b6f916e7275a_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "132035"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/97/18382697.json",
+    "source_sha256": "ba0ffed36751541cc30b6fa42ac0277b42fa8092e8f37162bbc576e3c7c05fea",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18382699",
+    "title": "Cameo (USA), late 19th century",
+    "date_display": "late 19th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/132764_1cac1b617b781611_x.jpg",
+          "width": 2203,
+          "height": 2772,
+          "is_primary": "1",
+          "image_id": "132764"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/132764_9e8a4c2163570eae_b.jpg",
+          "width": 814,
+          "height": 1024,
+          "is_primary": "1",
+          "image_id": "132764"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/132764_9e8a4c2163570eae_z.jpg",
+          "width": 509,
+          "height": 640,
+          "is_primary": "1",
+          "image_id": "132764"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/132764_9e8a4c2163570eae_n.jpg",
+          "width": 254,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132764"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/132764_9e8a4c2163570eae_d.gif",
+          "width": 254,
+          "height": 320,
+          "is_primary": "1",
+          "image_id": "132764"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/132764_9e8a4c2163570eae_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "132764"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/99/18382699.json",
+    "source_sha256": "47073224be5bd80040eab82d0ccd623a82f399564a47b0c5f9456a04b749d3a5",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18400103",
+    "title": "Fragment (Russia), late 17th–early 18th century",
+    "date_display": "late 17th–early 18th century",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "x": {
+          "url": "https://images.collection.cooperhewitt.org/219951_f1273273bb407a5d_x.jpg",
+          "width": 3244,
+          "height": 3122,
+          "is_primary": "1",
+          "image_id": "219951"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/219951_a3ea2e56c9b4ddc8_b.jpg",
+          "width": 1024,
+          "height": 986,
+          "is_primary": "1",
+          "image_id": "219951"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/219951_a3ea2e56c9b4ddc8_z.jpg",
+          "width": 640,
+          "height": 616,
+          "is_primary": "1",
+          "image_id": "219951"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/219951_a3ea2e56c9b4ddc8_n.jpg",
+          "width": 320,
+          "height": 308,
+          "is_primary": "1",
+          "image_id": "219951"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/219951_a3ea2e56c9b4ddc8_d.gif",
+          "width": 320,
+          "height": 308,
+          "is_primary": "1",
+          "image_id": "219951"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/219951_a3ea2e56c9b4ddc8_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "219951"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/35841_e5eb501f8d28b2d8_o.jpg",
+          "width": 3000,
+          "height": 2227,
+          "is_primary": "0",
+          "image_id": "35841"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/35841_77cd146be9f581db_b.jpg",
+          "width": 1024,
+          "height": 760,
+          "is_primary": "0",
+          "image_id": "35841"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/35841_77cd146be9f581db_z.jpg",
+          "width": 640,
+          "height": 475,
+          "is_primary": "0",
+          "image_id": "35841"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/35841_77cd146be9f581db_n.jpg",
+          "width": 320,
+          "height": 238,
+          "is_primary": "0",
+          "image_id": "35841"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/35841_77cd146be9f581db_d.gif",
+          "width": 320,
+          "height": 238,
+          "is_primary": "0",
+          "image_id": "35841"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/35841_77cd146be9f581db_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "35841"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/35842_05e6dc00fe5e2a02_o.jpg",
+          "width": 3000,
+          "height": 2288,
+          "is_primary": "0",
+          "image_id": "35842"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/35842_8392367d5c897b20_b.jpg",
+          "width": 1024,
+          "height": 781,
+          "is_primary": "0",
+          "image_id": "35842"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/35842_8392367d5c897b20_z.jpg",
+          "width": 640,
+          "height": 488,
+          "is_primary": "0",
+          "image_id": "35842"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/35842_8392367d5c897b20_n.jpg",
+          "width": 320,
+          "height": 244,
+          "is_primary": "0",
+          "image_id": "35842"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/35842_8392367d5c897b20_d.gif",
+          "width": 320,
+          "height": 244,
+          "is_primary": "0",
+          "image_id": "35842"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/35842_8392367d5c897b20_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "35842"
+        }
+      },
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/18258_ccd5d1674e625bcb_o.jpg",
+          "width": 1160,
+          "height": 1500,
+          "is_primary": "0",
+          "image_id": "18258"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/18258_87778a28730537d6_b.jpg",
+          "width": 792,
+          "height": 1024,
+          "is_primary": "0",
+          "image_id": "18258"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/18258_87778a28730537d6_z.jpg",
+          "width": 495,
+          "height": 640,
+          "is_primary": "0",
+          "image_id": "18258"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/18258_87778a28730537d6_n.jpg",
+          "width": 247,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "18258"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/18258_87778a28730537d6_d.gif",
+          "width": 247,
+          "height": 320,
+          "is_primary": "0",
+          "image_id": "18258"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/18258_87778a28730537d6_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "0",
+          "image_id": "18258"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/184/001/03/18400103.json",
+    "source_sha256": "b3b0952aa3c614c2902ac545031c83c998796b0de4ec92a1bfc680b455f34dfd",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "id": "18400107",
+    "title": "Drawing, Design for a Bourgeois Biedermeier Interior, 1853–58",
+    "date_display": "1853–58",
+    "date_start": null,
+    "date_end": null,
+    "image_references": [
+      {
+        "o": {
+          "url": "https://images.collection.cooperhewitt.org/28227_dd82ac001fd4862d_o.jpg",
+          "width": 3000,
+          "height": 2287,
+          "is_primary": "1",
+          "image_id": "28227"
+        },
+        "b": {
+          "url": "https://images.collection.cooperhewitt.org/28227_4a4054d2a7924b23_b.jpg",
+          "width": 1024,
+          "height": 781,
+          "is_primary": "1",
+          "image_id": "28227"
+        },
+        "z": {
+          "url": "https://images.collection.cooperhewitt.org/28227_4a4054d2a7924b23_z.jpg",
+          "width": 640,
+          "height": 488,
+          "is_primary": "1",
+          "image_id": "28227"
+        },
+        "n": {
+          "url": "https://images.collection.cooperhewitt.org/28227_4a4054d2a7924b23_n.jpg",
+          "width": 320,
+          "height": 244,
+          "is_primary": "1",
+          "image_id": "28227"
+        },
+        "d": {
+          "url": "https://images.collection.cooperhewitt.org/28227_4a4054d2a7924b23_d.gif",
+          "width": 320,
+          "height": 244,
+          "is_primary": "1",
+          "image_id": "28227"
+        },
+        "sq": {
+          "url": "https://images.collection.cooperhewitt.org/28227_4a4054d2a7924b23_sq.jpg",
+          "width": 300,
+          "height": 300,
+          "is_primary": "1",
+          "image_id": "28227"
+        }
+      }
+    ],
+    "image_bytes_downloaded": false,
+    "image_license": "unverified; explicitly excluded from metadata CC0 grant",
+    "metadata_license": "CC0-1.0",
+    "metadata_license_source": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/README.md",
+    "source_url": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/184/001/07/18400107.json",
+    "source_sha256": "6b2732da1a9ff57a923b31dc00de65442b24e0be1a41da11be9380bc3bb7fa5e",
+    "snapshot_commit": "4272b8fa73697845507ff40cafeb19310218c896",
+    "snapshot_committed_utc": "2017-02-22T19:19:37Z",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Art Institute of Chicago",
+    "id": "4",
+    "title": "Priest and Boy",
+    "date_display": "n.d.",
+    "date_start": 1865,
+    "date_end": 1880,
+    "image_id": "1753b638-d4fb-8e45-3db9-92dde7f053da",
+    "source_is_public_domain": true,
+    "image_bytes_downloaded": false,
+    "image_license": "unverified exact media permission; artwork is tagged public domain in official snapshot",
+    "metadata_license": "CC0-1.0 (description deliberately omitted)",
+    "metadata_license_source": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/info.json",
+    "source_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/4.json",
+    "source_sha256": "eb66315722f2b27b1297a968f5612a8b514344a39bf57213b0c3e6ede00d1c86",
+    "snapshot_commit": "8936f25879fd688fc2412436e5df4e30402bd081",
+    "data_snapshot_updated_utc": "2025-02-16T08:22:20Z",
+    "source_record_timestamp": "2025-02-16T00:21:59-06:00",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Art Institute of Chicago",
+    "id": "9",
+    "title": "Interior of St. Mark's, Venice",
+    "date_display": "1869",
+    "date_start": 1869,
+    "date_end": 1869,
+    "image_id": "b55d836c-ee20-59f8-1f0c-a95e09905361",
+    "source_is_public_domain": true,
+    "image_bytes_downloaded": false,
+    "image_license": "unverified exact media permission; artwork is tagged public domain in official snapshot",
+    "metadata_license": "CC0-1.0 (description deliberately omitted)",
+    "metadata_license_source": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/info.json",
+    "source_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/9.json",
+    "source_sha256": "c1ad3d45b6dcdcbc1cb8732d611e6873c570352e7ed22f81558bc3b432fb60bc",
+    "snapshot_commit": "8936f25879fd688fc2412436e5df4e30402bd081",
+    "data_snapshot_updated_utc": "2025-02-16T08:22:20Z",
+    "source_record_timestamp": "2025-02-16T00:21:59-06:00",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Art Institute of Chicago",
+    "id": "11",
+    "title": "Self-Portrait",
+    "date_display": "1878",
+    "date_start": 1878,
+    "date_end": 1878,
+    "image_id": "7b7a6f39-1cd8-ea2f-9811-18b0e23edac0",
+    "source_is_public_domain": true,
+    "image_bytes_downloaded": false,
+    "image_license": "unverified exact media permission; artwork is tagged public domain in official snapshot",
+    "metadata_license": "CC0-1.0 (description deliberately omitted)",
+    "metadata_license_source": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/info.json",
+    "source_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/11.json",
+    "source_sha256": "8405add34122c27099f46af11ebe7583133ee9ac3ce48c34df570cae61c06b69",
+    "snapshot_commit": "8936f25879fd688fc2412436e5df4e30402bd081",
+    "data_snapshot_updated_utc": "2025-02-16T08:22:20Z",
+    "source_record_timestamp": "2025-02-16T00:21:59-06:00",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Art Institute of Chicago",
+    "id": "16",
+    "title": "The Fall of the Giants",
+    "date_display": "1663",
+    "date_start": 1663,
+    "date_end": 1663,
+    "image_id": "e82b61d4-1d5b-a15d-4d2e-ff9caca3fb51",
+    "source_is_public_domain": true,
+    "image_bytes_downloaded": false,
+    "image_license": "unverified exact media permission; artwork is tagged public domain in official snapshot",
+    "metadata_license": "CC0-1.0 (description deliberately omitted)",
+    "metadata_license_source": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/info.json",
+    "source_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/16.json",
+    "source_sha256": "e1756c73b5050e1e2efffaceb20593a747e5f13763cad41cf47f5e6f60636dee",
+    "snapshot_commit": "8936f25879fd688fc2412436e5df4e30402bd081",
+    "data_snapshot_updated_utc": "2025-02-16T08:22:20Z",
+    "source_record_timestamp": "2025-02-16T00:21:59-06:00",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Art Institute of Chicago",
+    "id": "19",
+    "title": "View of Ponte Lugano on the Anio, from Views of Rome",
+    "date_display": "1763, published 1800–07",
+    "date_start": 1763,
+    "date_end": 1763,
+    "image_id": "7f5429b5-a966-ccbe-1ce3-7f131e96bf87",
+    "source_is_public_domain": true,
+    "image_bytes_downloaded": false,
+    "image_license": "unverified exact media permission; artwork is tagged public domain in official snapshot",
+    "metadata_license": "CC0-1.0 (description deliberately omitted)",
+    "metadata_license_source": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/info.json",
+    "source_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/19.json",
+    "source_sha256": "1d6986dbc934c036c8986b072cb03a7a5edfdfcc17799d548398dee952fb8b7f",
+    "snapshot_commit": "8936f25879fd688fc2412436e5df4e30402bd081",
+    "data_snapshot_updated_utc": "2025-02-16T08:22:20Z",
+    "source_record_timestamp": "2025-02-16T00:22:00-06:00",
+    "independent_facts_checked": false
+  },
+  {
+    "museum": "Art Institute of Chicago",
+    "id": "20",
+    "title": "It Rocks but is Not Sunk",
+    "date_display": "1854",
+    "date_start": 1854,
+    "date_end": 1854,
+    "image_id": "67f10695-cb9d-f716-9cd0-902217ebb317",
+    "source_is_public_domain": true,
+    "image_bytes_downloaded": false,
+    "image_license": "unverified exact media permission; artwork is tagged public domain in official snapshot",
+    "metadata_license": "CC0-1.0 (description deliberately omitted)",
+    "metadata_license_source": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/info.json",
+    "source_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/20.json",
+    "source_sha256": "7e9dbb11257d5fd9924a6c9afa5932e02e81e7861fbb67121093eab26f89ffe0",
+    "snapshot_commit": "8936f25879fd688fc2412436e5df4e30402bd081",
+    "data_snapshot_updated_utc": "2025-02-16T08:22:20Z",
+    "source_record_timestamp": "2025-02-16T00:22:00-06:00",
+    "independent_facts_checked": false
+  }
+]

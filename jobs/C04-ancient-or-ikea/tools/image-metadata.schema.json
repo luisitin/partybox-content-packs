@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prepared local image metadata with supplied attribution",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source",
+    "author",
+    "license",
+    "width",
+    "height",
+    "bytes",
+    "sha256",
+    "quality",
+    "mediaType",
+    "provenanceStatus"
+  ],
+  "properties": {
+    "source": {
+      "type": "string",
+      "maxLength": 4096,
+      "pattern": "^[Hh][Tt][Tt][Pp][Ss]://(?:\\[[0-9A-Fa-f:.]+\\]|[^\\s\\\\/@:?#\\[\\]]+)(?:/[^\\s\\\\?#]*)?$"
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 1000
+    },
+    "license": {
+      "enum": [
+        "CC0",
+        "CC-BY",
+        "public-domain"
+      ]
+    },
+    "width": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 512
+    },
+    "height": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 512
+    },
+    "bytes": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 39999
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "quality": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "mediaType": {
+      "const": "image/webp"
+    },
+    "provenanceStatus": {
+      "const": "caller-supplied"
+    }
+  }
+}

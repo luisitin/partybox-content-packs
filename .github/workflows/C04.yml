@@ -1,0 +1,28 @@
+name: C04 museum metadata and image pipeline
+on:
+  pull_request:
+    paths:
+      - 'jobs/C04-ancient-or-ikea/**'
+      - '.github/workflows/C04.yml'
+permissions:
+  contents: read
+jobs:
+  sample-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: jobs/C04-ancient-or-ikea
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: jobs/C04-ancient-or-ikea/package-lock.json
+      - run: npm ci --ignore-scripts
+      - run: python3 -m venv .portrait-venv
+      - run: .portrait-venv/bin/python -m pip install -r tools/requirements-source.txt
+      - run: npm test
+        env:
+          PARTYBOX_PORTRAIT_PYTHON: .portrait-venv/bin/python

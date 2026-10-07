@@ -1,0 +1,19 @@
+{
+  "name": "partybox-c04-ancient-or-ikea",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test dist/test/*.test.js && node test/mutations.mjs && sha256sum --check SHA256SUMS.txt",
+    "generate:sample": "npm run build && node dist/src/cli.js fixtures/source.json data/sample.json --sample"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "ajv": "8.17.1",
+    "typescript": "5.9.3"
+  }
+}

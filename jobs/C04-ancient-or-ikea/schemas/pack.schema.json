@@ -1,0 +1,873 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.example/schemas/C04/pack.schema.json",
+  "title": "C04 historical museum metadata sample pack",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "mode",
+    "complete",
+    "rows"
+  ],
+  "properties": {
+    "mode": {
+      "const": "metadata-sample"
+    },
+    "complete": {
+      "const": false
+    },
+    "rows": {
+      "type": "array",
+      "minItems": 30,
+      "maxItems": 30,
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "museum",
+              "title",
+              "dateDisplay",
+              "dateRange",
+              "centuries",
+              "dateEvidence",
+              "image",
+              "fact",
+              "factStatus",
+              "sourceUrl",
+              "sourceSha256",
+              "sourceSnapshot",
+              "metadataLicense",
+              "imageLicenseVerified"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "enum": [
+                  "cooperhewitt-18382603",
+                  "cooperhewitt-18382605",
+                  "cooperhewitt-18382607",
+                  "cooperhewitt-18382609",
+                  "cooperhewitt-18382611",
+                  "cooperhewitt-18382613",
+                  "cooperhewitt-18382615",
+                  "cooperhewitt-18382617",
+                  "cooperhewitt-18382619",
+                  "cooperhewitt-18382623",
+                  "cooperhewitt-18382625",
+                  "cooperhewitt-18382629",
+                  "cooperhewitt-18382633",
+                  "cooperhewitt-18382635",
+                  "cooperhewitt-18382637",
+                  "cooperhewitt-18382641",
+                  "cooperhewitt-18382685",
+                  "cooperhewitt-18382689",
+                  "cooperhewitt-18382693",
+                  "cooperhewitt-18382695",
+                  "cooperhewitt-18382697",
+                  "cooperhewitt-18382699",
+                  "cooperhewitt-18400103",
+                  "cooperhewitt-18400107"
+                ]
+              },
+              "museum": {
+                "const": "Cooper Hewitt, Smithsonian Design Museum"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "dateDisplay": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "dateRange": {
+                "type": "null"
+              },
+              "centuries": {
+                "type": "null"
+              },
+              "dateEvidence": {
+                "const": "unstructured-label"
+              },
+              "image": {
+                "type": "null"
+              },
+              "fact": {
+                "type": "null"
+              },
+              "factStatus": {
+                "const": "unverified"
+              },
+              "sourceUrl": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "sourceSha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "sourceSnapshot": {
+                "type": "string",
+                "pattern": "^(?!0000)[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])T([01][0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]Z$"
+              },
+              "metadataLicense": {
+                "const": "CC0-1.0"
+              },
+              "imageLicenseVerified": {
+                "const": false
+              }
+            },
+            "allOf": [
+              {
+                "anyOf": [
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382603"
+                      },
+                      "sourceSha256": {
+                        "const": "55114a5a92c567299cac64e10063c90688a2a0fcf53f49b672df9b6b3ea6f569"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/03/18382603.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382605"
+                      },
+                      "sourceSha256": {
+                        "const": "b7abf62b3b994765e3a0b2bd442357c04fd9b43ef055353d5215c72a863d7a2f"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/05/18382605.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382607"
+                      },
+                      "sourceSha256": {
+                        "const": "67a42128da91e38d2d277269ccceed9460bff5bbf0ff4e5d7225b76a6d61fb22"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/07/18382607.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382609"
+                      },
+                      "sourceSha256": {
+                        "const": "8780742f99073a4c7ce5752371f7619e92992e3050f6471b27087a1a1d25864a"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/09/18382609.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382611"
+                      },
+                      "sourceSha256": {
+                        "const": "340122fd62c634b4f2f719f3adbe563068d109bc6fa3b3233754dc7370729d58"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/11/18382611.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382613"
+                      },
+                      "sourceSha256": {
+                        "const": "e3f63a47fbfadea1bd7e619883ab22851baddd2374c9a8cfe1a7718f9ad5abc8"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/13/18382613.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382615"
+                      },
+                      "sourceSha256": {
+                        "const": "43b5d3a7386b3fc11ef413cade12132d0c9f69d64072257d795878607742c6f2"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/15/18382615.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382617"
+                      },
+                      "sourceSha256": {
+                        "const": "ebc7c67c8b3c8eac470a410ae1819dcbdcb2cf1c3bf6b2ed2704d8e7352a8e34"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/17/18382617.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382619"
+                      },
+                      "sourceSha256": {
+                        "const": "161e5c82e4f212c74ef5a6fba5c49dc687f1248836bd38ef3487b8f2b9d0ddcd"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/19/18382619.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382623"
+                      },
+                      "sourceSha256": {
+                        "const": "4f865f5b2e5b3d023e8f4b4e2f73870a67b74487d75fbca1122133b29a2f65b9"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/23/18382623.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382625"
+                      },
+                      "sourceSha256": {
+                        "const": "c8e34c45ba5bf79e35ab9eaf900594a10ce57c27aaf41827e9d3c11b1f1340ad"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/25/18382625.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382629"
+                      },
+                      "sourceSha256": {
+                        "const": "f1cc7593fd5c522caf0039fd026d5befcea923e487bf7ace62e06b6951a0f65e"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/29/18382629.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382633"
+                      },
+                      "sourceSha256": {
+                        "const": "ccff4ad07b0f0b4e51bc917766ba6921ade5e67e9e1d901b2d0bac9829018d02"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/33/18382633.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382635"
+                      },
+                      "sourceSha256": {
+                        "const": "8fe3c246477602c421980059a505c1df4355bff22758e9a3112a2328e38dc495"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/35/18382635.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382637"
+                      },
+                      "sourceSha256": {
+                        "const": "dc727c174d1ed429e8730acf94484c6ac741ddfa0c57c2469762becaacff94c2"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/37/18382637.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382641"
+                      },
+                      "sourceSha256": {
+                        "const": "d6f4b14e8f2de21b2061f2a6f4bf80e9273cff9138a67de300ca59c9f56772e6"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/41/18382641.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382685"
+                      },
+                      "sourceSha256": {
+                        "const": "d1d1ca9d91f7f75fd4407ac15b9a76898f884bd6edc27bf873ca54ca0e00d649"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/85/18382685.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382689"
+                      },
+                      "sourceSha256": {
+                        "const": "cb572a74cc8a8ab390819e62cbb935a6bd240b79e58a54077efbbf1a62703546"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/89/18382689.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382693"
+                      },
+                      "sourceSha256": {
+                        "const": "161fe9b01be129cf324b87be50290282bf94c8f44fefd93ade577dcb981705b5"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/93/18382693.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382695"
+                      },
+                      "sourceSha256": {
+                        "const": "2d589a7e0d4873a49c64792458cf3270e42cdc6c3c61bb750bc95b049e687dce"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/95/18382695.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382697"
+                      },
+                      "sourceSha256": {
+                        "const": "ba0ffed36751541cc30b6fa42ac0277b42fa8092e8f37162bbc576e3c7c05fea"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/97/18382697.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18382699"
+                      },
+                      "sourceSha256": {
+                        "const": "47073224be5bd80040eab82d0ccd623a82f399564a47b0c5f9456a04b749d3a5"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/183/826/99/18382699.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18400103"
+                      },
+                      "sourceSha256": {
+                        "const": "b3b0952aa3c614c2902ac545031c83c998796b0de4ec92a1bfc680b455f34dfd"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/184/001/03/18400103.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "cooperhewitt-18400107"
+                      },
+                      "sourceSha256": {
+                        "const": "6b2732da1a9ff57a923b31dc00de65442b24e0be1a41da11be9380bc3bb7fa5e"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/cooperhewitt/collection/4272b8fa73697845507ff40cafeb19310218c896/objects/184/001/07/18400107.json"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "museum",
+              "title",
+              "dateDisplay",
+              "dateRange",
+              "centuries",
+              "dateEvidence",
+              "image",
+              "fact",
+              "factStatus",
+              "sourceUrl",
+              "sourceSha256",
+              "sourceSnapshot",
+              "metadataLicense",
+              "imageLicenseVerified"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "enum": [
+                  "aic-4",
+                  "aic-9",
+                  "aic-11",
+                  "aic-16",
+                  "aic-19",
+                  "aic-20"
+                ]
+              },
+              "museum": {
+                "const": "Art Institute of Chicago"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "dateDisplay": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "dateRange": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "start",
+                  "end"
+                ],
+                "properties": {
+                  "start": {
+                    "type": "integer",
+                    "minimum": -9999,
+                    "maximum": 9999,
+                    "not": {
+                      "const": 0
+                    }
+                  },
+                  "end": {
+                    "type": "integer",
+                    "minimum": -9999,
+                    "maximum": 9999,
+                    "not": {
+                      "const": 0
+                    }
+                  }
+                }
+              },
+              "centuries": {
+                "type": "array",
+                "minItems": 1,
+                "maxItems": 200,
+                "uniqueItems": true,
+                "items": {
+                  "type": "integer",
+                  "minimum": -100,
+                  "maximum": 100,
+                  "not": {
+                    "const": 0
+                  }
+                }
+              },
+              "dateEvidence": {
+                "const": "catalogue-range"
+              },
+              "image": {
+                "type": "null"
+              },
+              "fact": {
+                "type": "null"
+              },
+              "factStatus": {
+                "const": "unverified"
+              },
+              "sourceUrl": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "sourceSha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "sourceSnapshot": {
+                "type": "string",
+                "pattern": "^(?!0000)[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])T([01][0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]Z$"
+              },
+              "metadataLicense": {
+                "const": "CC0-1.0"
+              },
+              "imageLicenseVerified": {
+                "const": false
+              }
+            },
+            "allOf": [
+              {
+                "anyOf": [
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "aic-4"
+                      },
+                      "sourceSha256": {
+                        "const": "eb66315722f2b27b1297a968f5612a8b514344a39bf57213b0c3e6ede00d1c86"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/4.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "aic-9"
+                      },
+                      "sourceSha256": {
+                        "const": "c1ad3d45b6dcdcbc1cb8732d611e6873c570352e7ed22f81558bc3b432fb60bc"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/9.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "aic-11"
+                      },
+                      "sourceSha256": {
+                        "const": "8405add34122c27099f46af11ebe7583133ee9ac3ce48c34df570cae61c06b69"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/11.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "aic-16"
+                      },
+                      "sourceSha256": {
+                        "const": "e1756c73b5050e1e2efffaceb20593a747e5f13763cad41cf47f5e6f60636dee"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/16.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "aic-19"
+                      },
+                      "sourceSha256": {
+                        "const": "1d6986dbc934c036c8986b072cb03a7a5edfdfcc17799d548398dee952fb8b7f"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/19.json"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "sourceSha256",
+                      "sourceUrl"
+                    ],
+                    "properties": {
+                      "id": {
+                        "const": "aic-20"
+                      },
+                      "sourceSha256": {
+                        "const": "7e9dbb11257d5fd9924a6c9afa5932e02e81e7861fbb67121093eab26f89ffe0"
+                      },
+                      "sourceUrl": {
+                        "const": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/8936f25879fd688fc2412436e5df4e30402bd081/json/artworks/20.json"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
