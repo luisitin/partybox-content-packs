@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.example/schemas/C02/fixture.schema.json",
+  "title": "C02 historical Nobel biography fixture with unverified current status",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["kind", "source_url", "source_sha256", "source_repository_license", "upstream_provenance", "upstream_license_independently_verified", "repository_sample_date", "max_prize_year", "current_status_verified", "sitelinks_verified", "portrait_licenses_verified", "rows"],
+  "definitions": {
+    "nonemptyString": {"type": "string", "minLength": 1, "pattern": "\\S"},
+    "date": {"type": "string", "pattern": "^(?!0000)[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"}
+  },
+  "properties": {
+    "kind": {"const": "historical-offline-pipeline-sample"},
+    "source_url": {"$ref": "#/definitions/nonemptyString"},
+    "source_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "source_repository_license": {"$ref": "#/definitions/nonemptyString"},
+    "upstream_provenance": {"$ref": "#/definitions/nonemptyString"},
+    "upstream_license_independently_verified": {"const": false},
+    "repository_sample_date": {"$ref": "#/definitions/date"},
+    "max_prize_year": {"type": "integer", "minimum": 1, "maximum": 9999},
+    "current_status_verified": {"const": false},
+    "sitelinks_verified": {"const": false},
+    "portrait_licenses_verified": {"const": false},
+    "rows": {
+      "type": "array",
+      "minItems": 30,
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "birth_date", "death_date", "snapshot_status", "current_status_verified", "prize_year", "prize_category", "wikidata_id", "sitelinks_count", "portrait"],
+        "properties": {
+          "id": {"$ref": "#/definitions/nonemptyString"},
+          "name": {"$ref": "#/definitions/nonemptyString"},
+          "birth_date": {"$ref": "#/definitions/date"},
+          "death_date": {"anyOf": [{"$ref": "#/definitions/date"}, {"type": "null"}]},
+          "snapshot_status": {"enum": ["death-recorded", "no-death-recorded"]},
+          "current_status_verified": {"const": false},
+          "prize_year": {"type": "integer", "minimum": 1, "maximum": 9999},
+          "prize_category": {"$ref": "#/definitions/nonemptyString"},
+          "wikidata_id": {"type": "null"},
+          "sitelinks_count": {"type": "null"},
+          "portrait": {"type": "null"}
+        }
+      }
+    }
+  }
+}
