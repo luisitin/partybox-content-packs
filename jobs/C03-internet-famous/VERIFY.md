@@ -256,3 +256,13 @@ Complete 15-test baseline passes; each of 25 unique bugs is syntax-checked and t
 | 25 | CLI source overwrite protection removed | caught | 1 |
 
 Result: 25/25 caught, all syntax-valid; no timeout/cancellation. Both compiled files restored byte-for-byte with matching before/after SHA256. These measured sample checks do not claim current-source, manual fact or green CI completion.
+
+## Delivery
+
+```sh
+git diff --cached --check
+python3 /tmp/queue_delivery.py milestone C03
+git ls-remote origin refs/heads/job/C03-internet-famous
+```
+
+Results: each exit 0. Validated implementation c1a9fc7 committed; main claim refreshed and pushed; main merged into the feature branch and job/C03-internet-famous pushed successfully. Native remote lookup confirms the delivered feature ref. These catch patch whitespace, remote write and delivery failures. The current-data/source/manual/CI checks remain outstanding; no PR or post-green KEEP GOING round is claimed. Main receives C03 BLOCKED before advancing.
