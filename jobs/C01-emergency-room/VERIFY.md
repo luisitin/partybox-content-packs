@@ -253,3 +253,19 @@ this run. `npm test` regenerates them; they are not committed source data.
 Schemas validate fixture/pack shape; runtime additionally checks IDs, membership,
 year ordering and numeric overflow. Full current-data/independent-source/CI
 checks remain outstanding as documented above.
+
+## Confirmed milestone delivery
+
+`git push --set-upstream origin job/C01-emergency-room` succeeded and
+`git ls-remote origin refs/heads/main refs/heads/job/C01-emergency-room`
+confirmed the remote branch. The initial tested milestone commit is 86030b4.
+After three transient Internal Server Error responses to main refresh pushes,
+the subsequent `git push origin main` succeeded for block commit a0cf577;
+`git show origin/main:CLAIMS.md` after fetch confirmed `C01 BLOCKED`.
+No PR/green-CI status is claimed for this blocked current-content job.
+
+`bash /workspace/.partybox-install.sh` subsequently completed successfully: the
+frozen npm install, exact Python dependency pins, and strict build are repeatable.
+All five `sha256sum --check SHA256SUMS.txt` entries passed afterward.
+The tested install_script and start_skill were saved to the cloud configuration
+draft; network remains a saved draft, not applied or published by these tools.
