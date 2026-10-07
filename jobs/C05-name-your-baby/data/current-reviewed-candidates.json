@@ -5571,10 +5571,54 @@
         }
       ],
       "id": "ssa:F:Michelle",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Michelle shares Michael's name family; Michael means 'Who is like God?'",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Michelle (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French feminine form of Michel."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Michel (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French form of Michael."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Michael (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Hebrew name מִיכָאֵל (Mikha'el) meaning \"who is like God?\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Three individual angels have been revealed to us by name as of the seven that stand in the presence of God, and foremost of these is Michael (who is like unto God), he who was made known to Daniel as the protector of"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "has the rare feminines, ┌──────────────────┬──────────────────┬──────────────────┐ │ French. │ Russian. │ Portuguese. │ │Michelle │Micheline │Miguella │ │Michée │Mikelina │ │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The historical Michael section explicitly lists exact Michelle among its French feminines and glosses Michael who is like unto God. The modern linked Michelle/Michel/Michael descriptions agree on the family and rhetorical Hebrew meaning. Approved quotes split supplied same-work composite snippets into exact contiguous excerpts and preserve attribution. Limits: The rhetorical question meaning is a linguistic gloss, not a theological fact claim. No Michael archangel narrative or popularity causation selected. Modern exact-spelling linkage is not promoted to independent historical corroboration where the older work supports only the named root. Shared dictionary headwords count as one authored work. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -8591,10 +8635,30 @@
         }
       ],
       "id": "ssa:M:Jerry",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Jerry can be a pet name for Jeremy.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Jeremy is considered as another variety of equivalent for the Gaelic Diarmaid, and this has led to the frequency of Jerry among families of Irish connection."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Jerry (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Jeremy, Jerome, Gerald, Geraldine and other names beginning with the same sound."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. Yonge links Jeremy to Irish-associated Jerry; BTN explicitly identifies Jerry as a diminutive of Jeremy. The modal wording leaves other Jerry families open. Limits: All BTN linked headwords and delivery mirrors are one corporate dictionary work. Distinct authorship does not establish independent primary observation or exhaust upstream philological borrowing. No human manual spot check or recognition verification is claimed. BTN original site revisions were not directly examined; this is pinned scraper delivery. Prose reuse permission is unverified. Facts are brief paraphrases; no blanket license for BTN quotation publication is asserted. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -10651,10 +10715,54 @@
         }
       ],
       "id": "ssa:F:Carolyn",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Caroline is a feminine relative of Charles.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Carolyn (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Caroline."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Caroline (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French feminine form of Carolus."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Carolus (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Latin form of Charles."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The two feminines are of late invention. The first I have been able to find was Carlota or Charlotte, of Savoy, who married Louis XI., and thus introduced this form to French royalty. Charlotte d'Albret had the misfortune to be given in marriage to Cesare Borgia, and had one"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Carolina, the other form, seems to have been at first Italian, and thence to have spread to Southern Germany, and all over that country, whence we received it with the wife of George II., by whom it was much spread among the nobility, and is now very common among the peasantry. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Spanish. │ Italian │ │Charlotte │Charlotte │Carlota │Carlotta │ │Lotty │Lolotte │Lola │Carlota │ │Chatty │Caroline │ │Carolina │ │Caroline │ │ │ │ │Carry │ │ │ │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly links Carolyn to Caroline and Caroline through Carolus to Charles. The independently authored historical Charles discussion treats Caroline and Charlotte as feminine forms. Its table and the surrounding Charles chapter were read; no exact Carolyn spelling is claimed in the older work. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -11271,10 +11379,46 @@
         }
       ],
       "id": "ssa:F:Debra",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Deborah means 'bee' in Hebrew.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Debra (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Deborah."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Deborah (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Hebrew name דְּבוֹרָה (Devorah) meaning \"bee\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Deborah, _f._ _Eng._ Heb. bee, 2, 14"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Here too should be mentioned the faithful nurse of Rebekah, who was so lamented that the tree beneath which she was buried was known as the oak of weeping. Her name of Deborah came from a verb meaning to hum or buzz, and signified a bee, or, in after times, eloquent."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Debra→Deborah and Hebrew bee. The actual historical Deborah glossary entry and nurse narrative independently give Hebrew bee. The scope is the named relative Deborah, rather than an assertion that Yonge contains Debra. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -13811,10 +13955,54 @@
         }
       ],
       "id": "ssa:F:Kathryn",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Kate and Kitty are pet forms of Katherine.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kathryn (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Contracted form of Katherine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kate (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Katherine, often used independently."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kitty (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Katherine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "her coins Ekaterina. On the whole, Katherine would seem properly to be a namesake of the Alexandrian princess, Catherine, the Votaress of Sienna. No name is more universal in all countries and in all ranks, partly from its own beauty of sound, partly from association, and none has more varied contractions. Our truest old English ones are Kate and Kitty—the latter was almost universal in the last century, though now supplanted by the Scottish Katie and the graceful Irish Kathleen."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ Scotch. │ Irish. │ Welsh. │ │Katharine │Catharine │Kathleen │Cathwg │ │Catherine │Katie │Katty │ │ │Catharina │ —————————— │ │ —————————— │ │Kate │ Dutch. │ │ Bret. │ │Kitty │Kaat │ │Katel │ │Katrine │Kaatje │ │Katelik │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly gives Kathryn as a Katherine contraction and Kate/Kitty as Katherine diminutives. The actual historical Katherine section explicitly calls Kate and Kitty contractions. Only the named root’s family hook has independent historical corroboration. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -17291,10 +17479,30 @@
         }
       ],
       "id": "ssa:M:Billy",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Billy the Kid also went by William H. Bonney.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Billy+the+Kid&oldid=1376031225",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Billy the Kid, revision 1376031225",
+          "workId": "wikipedia:Billy_the_Kid",
+          "quote": "In 1877, he began to call himself \"William H. Bonney.\""
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Billy (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the American outlaw Billy the Kid (1859-1881), whose real name was William H. Bonney."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The actual pinned Wikipedia lead calls William H. Bonney an alias and the selected sentence is immediately cited to Wallis 2007 p.144. BTN associates Billy the Kid with Bonney but calls it his real name. Went by retains the common supported identity without claiming a birth name; record the source wording disagreement downstream. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -18391,10 +18599,38 @@
         }
       ],
       "id": "ssa:F:Danielle",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Daniel has the Welsh form Deiniol.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Danielle (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French feminine form of Daniel."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Deiniol (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Welsh form of Daniel."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Daniel has always flourished as a name in the East. Daniel and Verda (a rose), were martyred by Shapoor in 344; another Daniel was crazy enough to succeed Simeon Stylites on his pillar; and thus the Armenian, Montenegrin, and Slavonian races are all much attached to Daniela, or Daniil, as they call it in Russia; or in Esthonia, Taniel or Tanni. The Welsh adopted it as Deiniol, the name of the saint who founded the monastery of Bangor, the High Choir, in the sixth century, and it was"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly identifies Danielle as a French feminine form of Daniel and Deiniol as Welsh Daniel. The actual historical Daniel paragraph explicitly says the Welsh adopted it as Deiniol. No absent Danielle spelling is attributed to the historical book. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -19011,10 +19247,30 @@
         }
       ],
       "id": "ssa:F:Brittany",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "The French region Brittany is called Bretagne in French.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Brittany (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the region in the northwest of France, called in French Bretagne."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Brittany&oldid=1378684584",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Brittany",
+          "workId": "wikipedia:Brittany",
+          "quote": "{{langx|fr|link=no|Bretagne}}"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The name-dictionary entry and actual region article agree on French Bretagne. Naming the French region in the player fact prevents confusion with a person named Brittany. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -20551,10 +20807,30 @@
         }
       ],
       "id": "ssa:M:Mason",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Mason is also a word for a builder who works with stone or brick.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/m/ma.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: mason",
+          "workId": "wiktionary:dictionary",
+          "quote": "A bricklayer, one whose occupation is to build with stone or brick"
+        },
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "a craftsman who works with stone or brick"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Both selected lexical definitions describe the mason as a builder/craftsman working in stone or brick. The fact does not ascribe an occupation to name bearers. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -20691,10 +20967,38 @@
         }
       ],
       "id": "ssa:F:Lori",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Lorraine's name traces back to the name Lothar.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Lori (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Laura or Lorraine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Lorraine (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the name of a region in France, originally meaning \"kingdom of Lothar\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "One of the uncles who killed the poor boys was Hlodhari, or Chlotachari, famous warrior, a terrible savage, but the last survivor of the brothers, and counted in the Frank history as Chlother, or Clotaire. Others of his race likewise were so baptized, and when the name passed to the Karlingen it was as Lothar. So was called the son of Louis le Debonnaire, whose portion, known at first as Lotharingen, came to be in Latin Lotharingia, and still remains Lorraine. Lothar did not pass away"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary permits Lori as a diminutive of Lorraine and describes the French region’s kingdom-of-Lothar name. The historical passage independently connects Lothar’s territorial portion via Lotharingen/Lotharingia to Lorraine. This supports the regional namesake hook; it does not establish every Lori’s origin. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -21311,10 +21615,54 @@
         }
       ],
       "id": "ssa:F:Kathy",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Kathleen is an Irish relative of Katherine.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kathy (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Katherine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kathleen (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Anglicized form of Caitlín."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Caitlín (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Irish form of Cateline, the Old French form of Katherine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "her coins Ekaterina. On the whole, Katherine would seem properly to be a namesake of the Alexandrian princess, Catherine, the Votaress of Sienna. No name is more universal in all countries and in all ranks, partly from its own beauty of sound, partly from association, and none has more varied contractions. Our truest old English ones are Kate and Kitty—the latter was almost universal in the last century, though now supplanted by the Scottish Katie and the graceful Irish Kathleen."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ Scotch. │ Irish. │ Welsh. │ │Katharine │Catharine │Kathleen │Cathwg │ │Catherine │Katie │Katty │ │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Kathy→Katherine and Kathleen→Caitlín→Katherine. The actual historical Katherine section independently lists Irish Kathleen. Only the named root’s Irish form is corroborated in both works. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -21611,10 +21959,54 @@
         }
       ],
       "id": "ssa:F:Tammy",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Tamar means 'palm tree' in Hebrew.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Tammy (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Tamara and other names beginning with Tam."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Tamara (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Russian form of Tamar."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Tamar (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Means \"date palm\" in Hebrew."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Tamar, _f._ _Eng._ Heb. palm, 26"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Tamar, a palm tree, it may here be mentioned, has continued common among eastern Christians, especially since a distinguished Armenian queen was so called. Now and then very great lovers of biblical names in England give it, and likewise Dinah (judgment).[11]"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Tammy→Tamara→Tamar and glosses Tamar date palm in Hebrew. The actual historical Tamar entry and narrative independently gloss palm tree. Palm tree is the common supported narrower category, without queen-identity or narrative claims. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -21911,10 +22303,30 @@
         }
       ],
       "id": "ssa:F:Taylor",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "\"Taylor\" is an old spelling of the word \"tailor\".",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/t/ta.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: taylor",
+          "workId": "wiktionary:dictionary",
+          "quote": "Obsolete form of tailor."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
+          "publisher": "John Murray, London; digital text retained by GITenberg",
+          "author": "Ernest Weekley",
+          "title": "The Romance of Names, third revised edition (1922)",
+          "workId": "weekley:romance-of-names:1922",
+          "quote": "In Naylor, Taylor, and Tyler we have the archaic preference for y."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Wiktionary explicitly labels taylor an obsolete form of tailor. Weekley’s trade-name spelling context independently explains the archaic y in Taylor. Neither source implies that modern people named Taylor use an obsolete trade spelling as an occupation. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -22051,10 +22463,38 @@
         }
       ],
       "id": "ssa:M:Randy",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Miranda has a Latin root meaning 'admirable'.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Randy (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Randall, Randolf or Miranda."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Miranda (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Derived from Latin mirandus meaning \"admirable, wonderful\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Miranda, _f._ _Eng._ Lat. to be admired."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly permits Randy as Miranda’s diminutive and derives Miranda from Latin mirandus admirable/wonderful. The exact historical Miranda entry glosses Latin to be admired. The modal phrasing preserves masculine Randy routes via Randall/Randolf. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -23639,10 +24079,30 @@
         }
       ],
       "id": "ssa:M:Travis",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "William Travis commanded Texan forces at the Battle of the Alamo.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Travis (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "It was used in America in honour of William Travis (1809-1836), the commander of the Texan forces at the Battle of the Alamo."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=William_B._Travis&oldid=1372415812",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "William B. Travis (revision 1372415812)",
+          "workId": "wikipedia:William_B._Travis",
+          "quote": "Travis became the official commander of the Alamo garrison."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary names Travis as commander of Texan forces at the Alamo and the biography explicitly says he became official commander of the Alamo garrison after Bowie fell ill. The statement does not assert exclusive command of all Texas forces. Limits: Initial shared command with Bowie is retained in source context; no all-Texas or sole-command claim. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -26019,10 +26479,46 @@
         }
       ],
       "id": "ssa:F:Dawn",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Dawn can mean the start of an era as well as the first light of day.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/d/da.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: dawn",
+          "workId": "wiktionary:dictionary",
+          "quote": "(uncountable) The earliest phase of something."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/d/da.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: dawn",
+          "workId": "wiktionary:dictionary",
+          "quote": "(uncountable) The morning twilight period immediately before sunrise."
+        },
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "an opening time period; \"it was the dawn of the Roman Empire\""
+        },
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "the first light of day"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Both bodies support the early-phase metaphor and daybreak meaning. WordNet directly supplies first light of day; Wiktionary independently supplies morning twilight and rising-sun senses. The fact avoids a precise sunrise boundary. The original paired-sense quotations use ellipses; each fragment matches individually. Separate verbatim references preserve both senses with whitespace-only exact comparison. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -26479,10 +26975,38 @@
         }
       ],
       "id": "ssa:M:Evan",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Ian is another form of the name John.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Evan (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Anglicized form of Iefan, a Welsh form of John."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ian (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Scottish form of John."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The various forms and contractions are infinite:— ┌────────────┬────────────┬────────────┬────────────┬────────────┐ │ English. │ Scotch. │ Welsh. │ Breton. │ Gaelic. │ │John │John │Jan │Jan │Ian │ │Johnny │Johnnie │Jenkin │Jannik │ │ │Jack │Jock │ │ │ │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly gives Evan as Welsh-family John and Ian as Scottish John. The actual historical John table independently identifies Ian as a Gaelic form of John. No equivalence of Scottish/Gaelic locale labels is asserted by the player fact. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -26779,10 +27303,38 @@
         }
       ],
       "id": "ssa:M:Danny",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Daniel means 'God is my judge' in Hebrew.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Danny (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Daniel."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Daniel (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Hebrew name דָּנִיֵּאל (Daniyyel) meaning \"God is my judge\", from the roots דִּין (din) meaning \"to judge\" and אֵל ('el) meaning \"God\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Daniel",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman",
+          "title": "The Dictionary of Medieval Names from European Sources: Daniel, edition 2023.1",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Daniel m. Hebrew דניּאל 'God is my judge'."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Danny→Daniel and Hebrew God is my judge. The actual independently authored DMNES Daniel entry independently gives that Hebrew meaning. Its read citation names R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman, and identifies edition 2023.1; these entry authors are preserved. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -27719,10 +28271,30 @@
         }
       ],
       "id": "ssa:M:Dale",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "A dale is an open river valley in hilly country.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 through wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "an open river valley (in a hilly area)"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Dale+%28landform%29&oldid=1375873960",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Dale (landform) (revision 1375873960)",
+          "workId": "wikipedia:Dale_(landform)",
+          "quote": "A '''dale''' is a [[valley]], especially an open, gently-sloping ground between low [[hill]]s with a [[stream]] flowing through it."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual Princeton WordNet synset at byte offset 9285596 defines a dale as an open river valley in a hilly area. The separate actual landform article describes an open valley between low hills with a stream flowing through it. The ordinary-word scope avoids a universal given-name origin assertion. Limits: No unsupported record-groove hook or universal given-name derivation. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -28019,10 +28591,62 @@
         }
       ],
       "id": "ssa:F:Marjorie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Marjorie belongs to Margaret's name family; Margaret means 'pearl'.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Marjorie (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Medieval variant of Margery, influenced by the name of the herb marjoram."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Margery (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Medieval English form of Margaret."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Margaret (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Derived from Latin Margarita, which was from Greek μαργαρίτης (margarites) meaning \"pearl\", a word that was probably ultimately a borrowing from an Indo-Iranian language."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "SECTION XIII.—_Margaret._ No name has been the occasion of more pretty fancies than Μαργαρίτης (a pearl), itself taken from the Persian term for the jewel, Murvarid"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "contractions of this favourite name, since it is too long for the popular mouth. The oldest is probably the Scottish Marjorie, as Bruce’s daughter was called, and which cut down into Maisie, the “proud Maisie” of the ballad, and later into Mysie, and was treated as a separate name. Mr. Lower tells us that the surname of Marjoribanks is derived from the barony of Raltio, granted to Marjorie Bruce on her marriage with the High Steward of Scotland. Margaret turned into Meg before the time of “Muckle-moued Meg of the Border,” and this as well as Maggie was shared with England, which likewise had Margery and Marget, as well as the more vulgar Peggy and Gritty, and likewise Madge."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ Scotch. │ French. │ Italian. │ │Margaret │Margaret │Marguérite │Margherita │ │Margaretta │Marjorie │Margot │Malgherita │ │Margery │Maisie │Margoton │Ghita │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual historical Margaret section explicitly names exact Marjorie among its contractions and explains pearl, agreeing with the modern Marjorie→Margery→Margaret chain and Greek pearl meaning. No literal botanical marjoram origin is promoted. Approved quotes split supplied same-work composite snippets into exact contiguous excerpts and preserve attribution. Limits: No speculative marjoram, Persian ultimate derivation, pearl formation or date assertion. Modern exact-spelling linkage is not promoted to independent historical corroboration where the older work supports only the named root. Shared dictionary headwords count as one authored work. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -28619,10 +29243,38 @@
         }
       ],
       "id": "ssa:F:Connie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Conrad has the German short form Kurt.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Connie (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "It is occasionally a masculine name, a diminutive of Cornelius or Conrad."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kurt (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "German contracted form of Conrad."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Provençal. │ Italian. │ │Conrad │Conrade │Cohat │Corrado │ │Cenred │Quenes │ │Currado │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ German. │ Bavarian. │ Swiss. │ Swedish. │ │Konrad │Kadl │Chuedli │Konrad │ │Kunz │Kuenl │Kudli │ ————————— │ │Kurt │Kuenz │Chuedler │ Netherlands. │ │Kuno │Kunl │Kored │Koenraad │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The FULL modern Connie description explicitly says it is occasionally a masculine diminutive of Cornelius or Conrad; the supplied shorter quote omitted that crucial sentence. The read Kurt entry and historical Conrad-family German table independently identify Kurt. The fact can be accepted with the actual explicit Connie sentence in the references. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -28759,10 +29411,62 @@
         }
       ],
       "id": "ssa:F:Carrie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Caroline and Charlotte are feminine forms in Charles's name family.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Carrie (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Caroline."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Caroline (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French feminine form of Carolus."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Carolus (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Latin form of Charles."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Charlotte (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French feminine diminutive of Charles."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The two feminines are of late invention. The first I have been able to find was Carlota or Charlotte, of Savoy, who married Louis XI., and thus introduced this form to French royalty. Charlotte d'Albret had the misfortune to be given in marriage to Cesare Borgia, and had one"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Carolina, the other form, seems to have been at first Italian, and thence to have spread to Southern Germany, and all over that country, whence we received it with the wife of George II., by whom it was much spread among the nobility, and is now very common among the peasantry. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Spanish. │ Italian │ │Charlotte │Charlotte │Carlota │Carlotta │ │Lotty │Lolotte │Lola │Carlota │ │Chatty │Caroline │ │Carolina │ │Caroline │ │ │ │ │Carry │ │ │ │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Carrie→Caroline and both Caroline and Charlotte as Charles-family feminine forms. The surrounding historical Charles discussion independently treats the two feminine forms and lists Caroline/Charlotte. The older spelling Carry is not used as independent proof of exact Carrie. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -29539,10 +30243,30 @@
         }
       ],
       "id": "ssa:M:Hunter",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "\"Hunter\" can also mean a watch with a hinged metal cover.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/h/hu.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: hunter",
+          "workId": "wiktionary:dictionary",
+          "quote": "A pocket watch with a spring-hinged circular metal cover that closes over the dial and crystal, protecting them from dust and scratches."
+        },
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "a watch with a hinged metal lid to protect the crystal"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Both source bodies define the hunter watch using a hinged metal cover/lid. The alternative word sense is explicitly scoped and does not claim the given name derives from the watch. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -29999,10 +30723,38 @@
         }
       ],
       "id": "ssa:M:Aiden",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Aidan was a bishop of Lindisfarne.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Aiden (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Aidan."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "But the most interesting person so called is known to us as Aidan. He visited Wales and Scotland, became a monk of Iona, and then went forth as a missionary to the North of England. He was the friend of the admirable Oswald, free of hand, king of Deira, who used to interpret his Keltic speech to the Angle population; and his gentle teaching won to the Church multitudes whom the harshness of former missionaries had repelled. He is reckoned as first bishop of Lindisfarn, and has left his name to sundry churches of St. Aidan. Aoidhne, or Eithne, was the Irish"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Aidan&oldid=1375425784",
+          "publisher": "Wikipedia, Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Aidan (pinned revision 1375425784)",
+          "workId": "wikipedia:Aidan",
+          "quote": "* Saint [[Aidan of Lindisfarne]] (died 651), Irish missionary and bishop"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly links Aiden to Aidan. The actual independently authored Yonge paragraph and Wikipedia Aidan bearer list both identify the related Aidan as bishop of Lindisfarne. The two historical/bearer works support the core hook, while modern spelling linkage is supported by BTN only. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -32199,10 +32951,30 @@
         }
       ],
       "id": "ssa:M:Chad",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Chad and Ceadda are forms of the same name.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Chad (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Old English name Ceadda, which is of unknown meaning, possibly based on Welsh cad \"battle\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
+          "publisher": "John Murray, London; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Ernest Weekley",
+          "title": "The Romance of Names, third edition revised, 1922",
+          "workId": "weekley:romance-of-names:1922",
+          "quote": "Blaine. The Anglo-Saxon saints are poorly represented, though probably most of them survive in a disguised form, e.g. Price is sometimes for Brice, Cuthbert has sometimes given Cubitt and Cobbett, and also Cutts. Bottle sometimes represents Botolf, Neate may be for Neot, and Chad (Ceadda) survives as Chatt and in many local names. The Cornish Tangye is from the Breton St. Tanneguy. The Archangel"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actually read Weekley passage gives Chad (Ceadda), agreeing with the name dictionary’s Old English Ceadda relationship. The historical book’s header verifies Ernest Weekley and third revised edition 1922. Limits: The African country Chad has a different origin; no literal battle meaning promoted from a hedged dictionary etymology. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -32639,10 +33411,38 @@
         }
       ],
       "id": "ssa:M:Connor",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Conchobar mac Nessa is a legendary king of Ulster.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; immutable dictionary delivery",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Connor (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Conor."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; immutable dictionary delivery",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Conor (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the legendary Ulster king Conchobar mac Nessa"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Conchobar+mac+Nessa&oldid=1373275116",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Conchobar mac Nessa (revision 1373275116)",
+          "workId": "wikipedia:Conchobar_mac_Nessa",
+          "quote": "mac Nessa''' (son of [[Ness (Irish mythology)|Ness]]) is the king of [[Ulaid|Ulster]] in the [[Ulster Cycle]] of [[Irish mythology]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary explicitly links Connor to Conor, then identifies Conchobar mac Nessa as a legendary Ulster king. The separate actual mythology article confirms the king of Ulster in the Ulster Cycle and also lists Connor/Conor among spellings. The same dictionary’s linked entries count as one work. Limits: No certain father, etymological meaning, historicity or disputed Deirdre details selected. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -33259,10 +34059,38 @@
         }
       ],
       "id": "ssa:M:Jeffery",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Jeffrey is another form of Geoffrey.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Jeffery (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Jeffrey."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Jeffrey (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Medieval variant of Geoffrey."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ Breton. │ French. │ Italian. │ │Godfrey │Jaffrez │Godefroi │Goffredo │ │Geoffrey │ │Godafrey │Godofredo │ │Jeffrey │ │Geoffroi │Giotto │ │Jeff │ │Jeoffroi │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly links Jeffery→Jeffrey→Geoffrey. The historical English-family table independently groups Geoffrey and Jeffrey, with the surrounding Geoffrey discussion read. No Godfrey/Geoffrey literal-meaning or ultimate etymological equivalence is asserted. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -34199,10 +35027,30 @@
         }
       ],
       "id": "ssa:F:Morgan",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Morgan can be the name of King Arthur's sister in legend.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "King Arthur’s sister, Morgana, or Morgaine, Morgue la Fée, or La Fata Morgana, as she is variously termed in different tongues, was Morgan Maritime—the derivative from sea. From her, or from some lingering old Keltic notion in ancient Italy, the Sicilian fisherman connects the towers and palaces painted on the surface of the Mediterranean with La Fata Morgana, the lady of the sea."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Morgan_le_Fay&oldid=1378189312",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Morgan le Fay (revision 1378189312)",
+          "workId": "wikipedia:Morgan_le_Fay",
+          "quote": "She is later mentioned in the same poem when Arthur provides the wounded hero [[Erec]] with a healing balm made by his sister Morgan."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actually read Yonge passage explicitly identifies King Arthur’s sister under Morgan-related forms, while the separate Morgan le Fay article explicitly calls her his sister Morgan in a named literary tradition. Can be correctly leaves room for differing traditions. Limits: No sea-derived literal-name etymology or claim that all Arthurian traditions agree. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -34339,10 +35187,38 @@
         }
       ],
       "id": "ssa:F:Michele",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Michele is also an Italian masculine form of Michael.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Michele, _m._ _It._ Heb. who is like to God, 54"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ French. │ Spanish. │ Italian. │ │Michael │Michel │Miguel │Michele │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Michele (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Italian form of Michael."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Yonge’s male Italian Michele entry and Michael forms table agree with the BTN masculine Italian Michele entry. The fact intentionally describes an additional spelling use alongside the female SSA row. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -34779,10 +35655,38 @@
         }
       ],
       "id": "ssa:F:Suzanne",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Suzanne traces to a Hebrew word for \"lily\".",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "_Suzanne_, _f._ _Fr._ Heb. lily, 50"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Suzanne (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "French form of Susanna."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Susanna (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "This was derived from the Hebrew word שׁוֹשָׁן (shoshan) meaning \"lily\""
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Yonge’s exact Suzanne glossary entry gives Heb. lily, and its Susannah discussion confirms the lily meaning. BTN gives the explicit Suzanne→Susanna→Hebrew shoshan chain; its possible Egyptian predecessor and modern rose meaning are not claimed. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -34919,10 +35823,70 @@
         }
       ],
       "id": "ssa:F:Kristen",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Christian was used as a name for both boys and girls.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kristen (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Danish and Norwegian form of Christian."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kristen (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Kristin."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kristin (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Scandinavian and German form of Christina."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Christina (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From Christiana, the Latin feminine form of Christian."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Christian (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "In England it has been in use since the Middle Ages, during which time it was used by both males and females, but it did not become common until the 17th century."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ German. │ French. │ Swedish. │ │Christian │Christian │Chrestien │Kristian │ │ │ │Chrétien │ │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "├───────────────┴───────────────┴───────────────┴───────────────┤ │ FEMININE. │ ├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The actual dictionary contains both masculine Danish/Norwegian Kristen→Christian and feminine English Kristen→Kristin→Christina→Christian routes; it also explicitly states historical male/female Christian use. The actual historical table lists exact English Christian in both the masculine and feminine families. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -35539,10 +36503,30 @@
         }
       ],
       "id": "ssa:M:Oscar",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Oscar is Fionn mac Cumhail's grandson in Irish legend.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Oscar (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "In Irish legend Oscar was the son of the poet Oisín and the grandson of the hero Fionn mac Cumhail."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Oscar+%28Irish+mythology%29&oldid=1309358710",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Oscar (Irish mythology)",
+          "workId": "wikipedia:Oscar_(Irish_mythology)",
+          "quote": "He is the son of [[Oisín]] (the son of the epic hero [[Fionn mac Cumhail]])"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary calls Oscar the grandson of Fionn mac Cumhail, and the independent mythology article explicitly identifies his father Oisín as Fionn’s son. The player sentence remains explicitly within Irish legend. Limits: Competing deer-friend/Osgar/Ásgeirr origins remain unresolved; no historical-existence claim. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -36159,10 +37143,30 @@
         }
       ],
       "id": "ssa:M:Wyatt",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Wyatt Earp took part in the gunfight at the O.K. Corral.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Wyatt (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Wyatt Earp (1848-1929) was an American lawman and gunfighter involved in the famous shootout at the OK Corral."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Wyatt_Earp&oldid=1375479615",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Wyatt Earp (revision 1375479615)",
+          "workId": "wikipedia:Wyatt_Earp",
+          "quote": "Earp was involved in the 1881 [[gunfight at the O.K. Corral]]"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The modern dictionary and actual Wyatt Earp biography both explicitly put Earp in the O.K. Corral gunfight. This is the name of the historical event; it does not assert that the shooting occurred inside the corral. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -36619,10 +37623,38 @@
         }
       ],
       "id": "ssa:F:Rhonda",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Viscountess Rhondda was a British feminist.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Rhonda (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Margaret Mackworth, Viscountess Rhondda (1883-1956), a British feminist."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Margaret+Haig+Thomas%2C+2nd+Viscountess+Rhondda&oldid=1372580241",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Margaret Haig Thomas, 2nd Viscountess Rhondda",
+          "workId": "wikipedia:Margaret_Haig_Thomas,_2nd_Viscountess_Rhondda",
+          "quote": "Margaret Haig, suo jure Viscountess Rhondda (1883–1958), feminist and magazine proprietor"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Margaret+Haig+Thomas%2C+2nd+Viscountess+Rhondda&oldid=1372580241",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Margaret Haig Thomas, 2nd Viscountess Rhondda",
+          "workId": "wikipedia:Margaret_Haig_Thomas,_2nd_Viscountess_Rhondda",
+          "quote": "she did become an activist for women's rights."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The name-dictionary entry identifies Margaret Mackworth, Viscountess Rhondda, as a British feminist; the actual biography identifies her as Welsh and documents women’s-rights activism. This related-title bearer fact does not assert the hedged name-inspiration story. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: BTN’s death date 1956 conflicts with biography’s 1958; both omitted. Welsh good-spear/Rhondda-valley derivations and naming inspiration remain hedged and unused. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -38799,10 +39831,30 @@
         }
       ],
       "id": "ssa:M:Shane",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Shane is also the title of a 1953 western movie.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Shane (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "It came into general use in America after the release of the western movie Shane (1953)."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Shane_%28film%29&oldid=1364500473",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Shane (film) (revision 1364500473)",
+          "workId": "wikipedia:Shane_(film)",
+          "quote": "'''''Shane''''' is a 1953 American [[Western film]]"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary names the western film Shane and its 1953 release; the independently authored film article explicitly identifies the same title, genre and year. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -40839,10 +41891,38 @@
         }
       ],
       "id": "ssa:M:Ronnie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Veronica's legend puts Jesus' likeness on a cloth.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ronnie (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Ronald or Veronica."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Veronica (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "This was the name of a legendary saint who wiped Jesus' face with a towel and then found his image imprinted upon it."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Veronica is the same countenance upon a piece of linen, shown at St. Peter’s. Superstition, forgetting the meaning of the name, called the relic St. Veronica’s handkerchief, accounted for it by inventing a woman who had lent our Blessed Saviour a handkerchief to wipe His Face during the passage of the _Via dolorosa_, and had found the likeness imprinted upon it."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The modern dictionary explicitly permits Ronnie as Veronica’s diminutive and describes the face-on-towel legend. The actual independent historical Veronica passage explains the legendary handkerchief bearing Jesus’ likeness. The sentence expressly treats it as legend, rather than an observed historical event. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -40979,10 +42059,30 @@
         }
       ],
       "id": "ssa:F:Lynn",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Actress Lynn Fontanne often shared the stage with husband Alfred Lunt.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 through wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "United States actress (born in England) who married Alfred Lunt and performed with him in many plays (1887-1983)"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Lynn+Fontanne&oldid=1303421084",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Lynn Fontanne (revision 1303421084)",
+          "workId": "wikipedia:Lynn_Fontanne",
+          "quote": "she married the American actor [[Alfred Lunt]] in 1922, with whom she co-starred in [[Broadway theatre|Broadway]] and West End productions over the next four decades."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual Princeton WordNet synset at byte offset 10994263 identifies actress Lynn Fontanne and repeated performances with husband Alfred Lunt; the separate actual biography explicitly states their marriage and four decades of co-starring. Limits: Sources differ in English versus United States nationality descriptions; selected fact omits nationality and date detail. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -42039,10 +43139,30 @@
         }
       ],
       "id": "ssa:F:Sydney",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Australia's Sydney took its name from Viscount Sydney, Thomas Townshend.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Sydney (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "This is the name of the largest city in Australia, which was named for Thomas Townshend, 1st Viscount Sydney in 1788."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Sydney&oldid=1378421585",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Sydney (revision 1378421585)",
+          "workId": "wikipedia:Sydney",
+          "quote": "named the cove where the first British settlement was established [[Sydney Cove]] after Home Secretary [[Thomas Townshend, 1st Viscount Sydney]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary connects Australia’s city name to Thomas Townshend, 1st Viscount Sydney. The separate city article distinguishes the initial naming of Sydney Cove after him from later township usage. The sentence only states the namesake. Limits: Cove naming and later city usage are distinguished; no exact founding/declared-city year or present largest-city ranking selected. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -43259,10 +44379,30 @@
         }
       ],
       "id": "ssa:F:Laurie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Laurie can be a pet name for Laurence.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ Scotch. │ Irish. │ French. │ │Lawrence │Lawrence │Laurenc │Laurent │ │Laurence │Laurie │Lanty │ │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Laurie (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Laura or Laurence 1."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. The historical Laurence table includes Scotch Laurie; BTN MF Laurie permits Laurence or Laura. The modal wording does not assign every female SSA Laurie a masculine derivation. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -43399,10 +44539,30 @@
         }
       ],
       "id": "ssa:M:Mitchell",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Mitchell can come from a surname derived from Michael.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Ernest Weekley",
+          "title": "The Romance of Names, third edition revised 1922",
+          "workId": "weekley:romance-of-names:1922",
+          "quote": "Michael has given one of our commonest names, Mitchell (Chapter IV). This is through French"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Mitchell (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From a surname, itself derived from the given name Michael"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. Weekley identifies Mitchell with Michael in the surname discussion and the saints-name chapter. BTN explicitly supplies surname→given name Michael. Can preserves possible alternative surname routes. Limits: All BTN linked headwords and delivery mirrors are one corporate dictionary work. Distinct authorship does not establish independent primary observation or exhaust upstream philological borrowing. No human manual spot check or recognition verification is claimed. BTN original site revisions were not directly examined; this is pinned scraper delivery. Prose reuse permission is unverified. Facts are brief paraphrases; no blanket license for BTN quotation publication is asserted. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -43999,10 +45159,30 @@
         }
       ],
       "id": "ssa:F:Rosemary",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "The herb rosemary's Latin root means 'dew of the sea'.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Rosemary (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the herb, which gets its name from Latin ros marinus meaning \"dew of the sea\"."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Rosemary&oldid=1378691183",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Rosemary",
+          "workId": "wikipedia:Rosemary",
+          "quote": "The botanical name of this plant is compounded of two [[Latin]] words [{{lang|la|ros marinus}}], signifying ''sea-dew'';"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The herb-word Latin root agrees in the modern name dictionary and the separate plant article. The Wikipedia article quotes Elizabeth Kent and cites additional etymological literature; the underlying books are not counted as directly read. Limits: No universal claim that the given name refers to the herb rather than Rose plus Mary. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -47099,10 +48279,38 @@
         }
       ],
       "id": "ssa:F:Gina",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Italian actress Lollobrigida was known as Gina.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Gina (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Italian actress Gina Lollobrigida"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Gina+Lollobrigida&oldid=1371617754",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Gina Lollobrigida",
+          "workId": "wikipedia:Gina_Lollobrigida",
+          "quote": "'''Luigia''' \"'''Gina'''\" '''Lollobrigida'''"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Gina+Lollobrigida&oldid=1371617754",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Gina Lollobrigida",
+          "workId": "wikipedia:Gina_Lollobrigida",
+          "quote": "was an Italian actress, model, photojournalist, and sculptor."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. Both the actual modern dictionary and actual public biography identify Italian actress Gina Lollobrigida. This modest bearer fact is independently supported while the unresolved Luigina/Luigia birth-name disagreement remains held. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: Luigina in BTN versus Luigia in actual biography remains unresolved; no birth-name or name-popularity claim. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -50179,10 +51387,38 @@
         }
       ],
       "id": "ssa:F:Arlene",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Arline is the heroine of Balfe’s opera The Bohemian Girl.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; immutable dictionary delivery",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Arlene (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Arline."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; immutable dictionary delivery",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Arline (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "possibly invented by Michael William Balfe for the main character in his opera The Bohemian Girl (1843)."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=The+Bohemian+Girl&oldid=1360620610",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "The Bohemian Girl (revision 1360620610)",
+          "workId": "wikipedia:The_Bohemian_Girl",
+          "quote": "The best-known aria from the piece is \"[[I Dreamt I Dwelt in Marble Halls]]\" in which the main character, Arline, describes her vague memories of her childhood."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary explicitly links Arlene to Arline and describes Arline as the main character of Balfe’s opera. The separate opera article explicitly identifies Arline as its main character and Balfe as composer. The same dictionary’s two entries count as one authored work. Limits: Character spelling is Arline, not Arlene. No certainty that Balfe invented either spelling; link evidence comes from a single dictionary work. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -51279,10 +52515,38 @@
         }
       ],
       "id": "ssa:F:Mackenzie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "William Lyon Mackenzie was a journalist and Canadian rebel.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Mackenzie (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "William Lyon MacKenzie (1795-1861), a Canadian journalist and political rebel."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=William+Lyon+Mackenzie&oldid=1361912313",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "William Lyon Mackenzie",
+          "workId": "wikipedia:William_Lyon_Mackenzie",
+          "quote": "was a Scottish-born Canadian-American journalist and politician."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=William+Lyon+Mackenzie&oldid=1361912313",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "William Lyon Mackenzie",
+          "workId": "wikipedia:William_Lyon_Mackenzie",
+          "quote": "He led the rebels in the [[Upper Canada Rebellion]];"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual dictionary entry identifies the surname bearer William Lyon MacKenzie as a Canadian journalist and political rebel; the independent biography identifies William Lyon Mackenzie as journalist and leader of the Upper Canada rebels. Both refer to the same public historical person. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -56847,10 +58111,30 @@
         }
       ],
       "id": "ssa:M:Cooper",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "A cooper is a craftsman who makes or repairs wooden barrels.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/c/co.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: cooper",
+          "workId": "wiktionary:dictionary",
+          "quote": "A craftsman who makes and repairs barrels and similar wooden vessels such as casks, buckets and tubs."
+        },
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "a craftsman who makes or repairs wooden barrels or tubs"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Both source bodies define a cooper as making or repairing wooden barrels. Excluded drink and floating-grog-shop senses are not smuggled into the claim. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -59167,10 +60451,38 @@
         }
       ],
       "id": "ssa:M:Casey",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Casey Jones got his nickname from Cayce, Kentucky.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Casey (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Casey was a nickname acquired because he was raised in the town of Cayce, Kentucky."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Casey+Jones&oldid=1378474091",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Casey Jones",
+          "workId": "wikipedia:Casey_Jones",
+          "quote": "The Jones family moved to [[Cayce, Kentucky]],"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Casey+Jones&oldid=1378474091",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Casey Jones",
+          "workId": "wikipedia:Casey_Jones",
+          "quote": "It was there that he acquired the nickname of \"Cayce\", which he chose to spell as \"Casey\"."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary identifies Cayce, Kentucky, as the source of this particular bearer’s nickname; the independently authored biography explicitly says he chose the spelling Casey for the nickname acquired there. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: BTN says birth year 1863; actual biography gives 1864. Birth-year disagreement remains excluded. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -62987,10 +64299,46 @@
         }
       ],
       "id": "ssa:F:Dora",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Dora and Dorothy share the name family of Dorothea.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "the German contraction Dora, or more properly Dore, has come in as almost an independent name, which, perhaps, ought to be translated as simply a gift, though often used as a contraction for Dorothea."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ English. │ French. │ German. │ Bavarian. │ │Dorothea │Dorothée │Dorothea │Derede │ │Dorothy │Dorette │Dore │Duredel │ │Dolly │Doralice │Dorlisa │Durl │ │Dora │Dorothea │ │ │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Dora (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Dorothy, Theodora or Isidora."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Dorothy (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Usual English form of Dorothea."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Yonge groups Dora and Dorothy with Dorothea and calls Dora a contraction for Dorothea. BTN explicitly gives Dora→Dorothy→Dorothea; its other Dora families are not excluded. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -64047,10 +65395,30 @@
         }
       ],
       "id": "ssa:M:Darren",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Bewitched featured a character named Darrin Stephens.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; immutable dictionary delivery",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Darren (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the character Darrin Stephens from the television show Bewitched."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Bewitched&oldid=1378031341",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Bewitched (revision 1378031341)",
+          "workId": "wikipedia:Bewitched",
+          "quote": "starred [[Elizabeth Montgomery]] as Samantha Stephens, [[Dick York]] (1964–1969) as Darrin Stephens,"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual Darren dictionary entry names the related spelling Darrin Stephens in Bewitched; the independently authored television article confirms the character and exact Darrin spelling. The player fact does not rename him Darren. Limits: Character spelling is Darrin, not Darren. No universal meaning or television-caused name popularity assertion. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -64507,10 +65875,54 @@
         }
       ],
       "id": "ssa:F:Brandi",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "The drink brandy's name comes from Dutch for 'burnt wine'.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Brandi (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Brandy."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Brandy+%28given+name%29&oldid=1374740200",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Brandy (given name)",
+          "workId": "wikipedia:Brandy_(given_name)",
+          "quote": "sometimes given in reference to the [[brandy|alcoholic beverage]]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Brandy+%28given+name%29&oldid=1374740200",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Brandy (given name)",
+          "workId": "wikipedia:Brandy_(given_name)",
+          "quote": "Spelling variants include Brandee, Brandi, [[Brandie]], and Brandye."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Brandy (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the English word brandy for the alcoholic drink. It is ultimately from Dutch brandewijn \"burnt wine\"."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Brandy&oldid=1368642443",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Brandy",
+          "workId": "wikipedia:Brandy",
+          "quote": "which was derived from the [[Dutch language|Dutch]] word ''brandewijn'', itself derived from ''gebrande wijn'', which literally means \"burned wine\""
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The original sentence implies a drink naming cause for every bearer. The dictionary and actual given-name article establish the Brandi/Brandy connection but the latter explicitly permits other origins. The drink dictionary entry and separate beverage article independently agree on Dutch burnt/burned wine; the replacement only asserts that word etymology. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: No universal drink-origin claim for the given name or causal popularity claim. The two Wikipedia articles have one corporate author group. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -64967,10 +66379,54 @@
         }
       ],
       "id": "ssa:F:Katrina",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Katrina belongs to Katherine’s name family.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "SECTION XIV.—_Katharine._"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "On the whole, Katherine would seem properly to be a namesake of the Alexandrian princess"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ Slovak. │ Illyrian. │ Esthonian. │ Hungarian. │ │Katrina │Katarina │Katri │Katalin │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Katrina (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Catriona."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Catriona (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Gaelic form of Katherine."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Yonge’s Katharine chapter uses the Katherine spelling and includes Slovak Katrina among forms; BTN gives English Katrina→Catriona→Katherine. Only their broad shared name family is claimed, without transferring a regional derivation or disputed pure etymology. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -65267,10 +66723,30 @@
         }
       ],
       "id": "ssa:F:Sierra",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Sierra is a word for a rugged mountain range.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Sierra (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Means \"mountain range\" in Spanish, referring specifically to a mountain range with jagged peaks."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/selcukatay/english-to-english-dictionary/64dc9e650664c1ba52f94b5bfe95b35fa2839b4f/wiktionary.json",
+          "publisher": "Wiktionary, redistributed by selcukatay/english-to-english-dictionary",
+          "author": "Wiktionary contributors",
+          "title": "Wiktionary English word entry: sierra (pinned dictionary distribution)",
+          "workId": "wiktionary:dictionary",
+          "quote": "A rugged range of mountains."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual modern name-dictionary entry defines the Spanish mountain-range word, and the retained independently authored Wiktionary lexical entry defines a rugged range of mountains. The corpus README explicitly attributes Wiktionary. All Wiktionary mirrors remain one author/work group. Limits: Pinned mirror bytes verified but Wiktionary source-page revision and extraction date are unavailable. No Spanish given-name origin inferred from the English homograph definition. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -65407,10 +66883,46 @@
         }
       ],
       "id": "ssa:F:Toni",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Toni is also a masculine pet name in the Anthony name family.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "_Toni_, _m._ _Bav._ Lat. inestimable, 142"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│Anthony │ │ │Tonio │ │Tony │ │ │Tonetto │ │Antholin │ │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ German. │ Frisian. │ Dutch. │ Swiss. │ │Antonius │Tönnes │Anthonius │Antoni │ │Tenton │Tonjes │Theunis │Toni │"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Toni (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Anttoni, Antun, and other related names."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Anttoni (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Finnish form of Antonius (see Anthony)."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Yonge’s index marks Toni masculine and its Antonius table groups Swiss Toni with Anthony; BTN M Toni→Anttoni→Antonius (see Anthony) independently supplies the family. The fact describes additional masculine use of a female SSA spelling. No Bavarian/Swiss equivalence or disputed inestimable gloss is claimed. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -66307,10 +67819,30 @@
         }
       ],
       "id": "ssa:M:Tanner",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "\"Tanner\" was also a British nickname for a sixpence coin.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/t/ta.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: tanner",
+          "workId": "wiktionary:dictionary",
+          "quote": "(Britain, colloquial) A former British coin worth six old pence."
+        },
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "a small coin of the United Kingdom worth six pennies"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Wiktionary labels the six-old-pence coin sense Britain, colloquial; WordNet explicitly places tanner in the sixpence synset. Historical nickname is supported; the one-source 1970 minting detail is omitted. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -66767,10 +68299,30 @@
         }
       ],
       "id": "ssa:M:Brady",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Diamond Jim Brady was a financier famed for his love of diamonds.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+          "publisher": "Princeton University; WordNet 3.1 through wordnet-db 3.1.14",
+          "author": "Princeton University WordNet editorial contributors",
+          "title": "WordNet 3.1 noun database (2011)",
+          "workId": "princeton-wordnet-3-1",
+          "quote": "United States financier noted for his love of diamonds and his extravagant lifestyle (1856-1917)"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Diamond+Jim+Brady&oldid=1376064455",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Diamond Jim Brady (revision 1376064455)",
+          "workId": "wikipedia:Diamond_Jim_Brady",
+          "quote": "Known for his penchant for jewels, especially [[diamond]]s, he collected [[precious stone]]s and jewelry"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual Princeton WordNet synset at byte offset 10880925 names Diamond Jim Brady and describes the financier’s love of diamonds. The separate actual biography gives financier in its lead and documents his penchant for diamonds. Limits: Public surname-bearer hook; no assertion about every given-name bearer, food consumption, wealth estimate or precise birth/death dates. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -67367,10 +68919,38 @@
         }
       ],
       "id": "ssa:F:Aria",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "In music, an aria is a vocal solo whose name comes from 'air'.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Aria (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Means \"song, melody\" in Italian (literally means \"air\"). An aria is an elaborate vocal solo, the type usually performed in operas."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Aria&oldid=1370703902",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Aria",
+          "workId": "wikipedia:Aria",
+          "quote": "is a self-contained piece for one voice,"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Aria&oldid=1370703902",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Aria",
+          "workId": "wikipedia:Aria",
+          "quote": "The Italian term ''aria'', which derives from the Greek ἀήρ and Latin ''aer'' (air),"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. Both actually read works identify the musical aria as a one-voice solo and derive its word from air. The player sentence explicitly scopes the claim to music. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: No claim that every bearer has the Italian rather than Persian Arya-related name origin. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -68927,10 +70507,30 @@
         }
       ],
       "id": "ssa:F:Summer",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Summer is also the English word for a season.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Summer (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the name of the season, ultimately from Old English sumor."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/s/su.json",
+          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
+          "author": "Wiktionary contributors",
+          "title": "English Wiktionary lexical entry: summer",
+          "workId": "wiktionary:dictionary",
+          "quote": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Accepted after independent agent source review. Hold the proposed arithmetic homograph claim: the mirror has no original dependency/citation metadata, and A person who sums is a near-equivalent of Webster’s One who sums. Two delivery identities do not prove two independently authored supports for this unusual sense. The replacement refers only to the season. It uses the actually read BTN Summer description and Wiktionary Summer etymology 0 noun sense 0, not the arithmetic sense. Both bodies identify the same season word. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -71207,10 +72807,30 @@
         }
       ],
       "id": "ssa:M:Dalton",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "John Dalton helped develop the atomic theory of matter.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Dalton (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "A notable bearer of the surname was John Dalton (1766-1844), the English chemist and physicist who theorized about the existence of atoms."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=John_Dalton&oldid=1374984610",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "John Dalton (revision 1374984610)",
+          "workId": "wikipedia:John_Dalton",
+          "quote": "Arguably the most important of all Dalton's investigations are concerned with the [[atomic theory]] in chemistry."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary describes chemist John Dalton theorizing about atoms; the actual biography discusses his chemical atomic theory and its research history. Helped develop avoids an unsupported first-discovery or invention claim. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -71967,10 +73587,30 @@
         }
       ],
       "id": "ssa:F:Misty",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Misty is a jazz standard composed by Erroll Garner.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Misty (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "The jazz song Misty (1954) by Erroll Garner may have helped popularize the name."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Erroll_Garner&oldid=1373173049",
+          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Erroll Garner (revision 1373173049)",
+          "workId": "wikipedia:Erroll_Garner",
+          "quote": "His instrumental ballad \"[[Misty (song)|Misty]]\", his best-known composition, has become a [[jazz standard]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary identifies the jazz song by Erroll Garner; the actual Garner biography identifies Misty as his composition and a jazz standard. Composer wording is more precise than the original song-by wording because the work began as an instrumental ballad. Limits: 1954/1956 recording/date details in retained sources are inconsistent and excluded. No lyric-author or first-recording assertion. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -73335,10 +74975,30 @@
         }
       ],
       "id": "ssa:M:Wallace",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "The surname Wallace comes from a Norman French word for 'Welshman'.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Wallace (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From a Scottish and English surname that originally meant \"Welsh\" or \"foreigner\" in Norman French."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Wallace+%28surname%29&oldid=1377838573",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Wallace (surname)",
+          "workId": "wikipedia:Wallace_(surname)",
+          "quote": "stemmed from the [[Anglo-Norman French]] {{lang|fro|Waleis}} \"Welshman\"."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex Queue after independent authored-source review",
+        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The surname dictionary’s Welsh/foreigner Norman French origin agrees with the article’s Anglo-Norman Waleis meaning Welshman. The French etymological citation is visible in the actual article; no original etymology website read is claimed. Limits: No certain particular bearer’s ancestry or historical-place origin inferred. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",

@@ -14,9 +14,9 @@ The checksum-pinned CC0 official ZIP is retained under `fixtures/` so SSA
 revisions cannot silently change this build. Candidate filters require 50,000
 published occurrences and a peak at least 15% above its runner-up. A pinned
 500-ID manifest replaces 13 held spellings with reviewed reserves. Usage is
-not recognition review. `data/current-reviewed-candidates.json` adds 375 reviewed
+not recognition review. `data/current-reviewed-candidates.json` adds 434 reviewed
 facts from two authored works apiece. Recognition has 500 editorial accepts;
-125 facts remain unresolved. Its numeric fields match the base pack.
+66 facts remain unresolved. Its numeric fields match the base pack.
 `complete` remains
 false. The historical 30-name sample is retained separately.
 

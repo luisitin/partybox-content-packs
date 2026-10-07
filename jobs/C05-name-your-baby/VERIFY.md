@@ -2848,3 +2848,15 @@ npm run build && node --test dist/test/reviewed.test.js && sha256sum --check SHA
 Actual completed exec exit0: strict compilation; all four reviewed-workflow tests passed, zero failures/cancellations/skips/todos, 12.523109seconds; all15 checksums matched. Tests validated all500 numeric rows, reused strict schemas and review/deep-copy gates, two timezone-regenerations of the reviewed golden, and25 negative CLI/alias cases with protected inputs/sentinels. This checks the reconnected toolchain and workflow without re-running the unchanged full mutation campaign; the earlier actual38/34/15 full result remains separately identified.
 
 Also actually ran /workspace/.partybox-source-venv/bin/python with importlib.metadata.version on numpy,pandas,pyreadr,python-dateutil,pytz,six,tzdata,Pillow, asserted the exact saved eight-version list, and imported numpy,pandas,pyreadr,PIL.Image. Actual exit0; versions2.3.5,2.2.3,0.5.3,2.9.0.post0,2026.5,1.17.0,2026.5,12.3.0. Node reports24.19.0 and Python3.12.14. This catches missing or changed retained extraction/image dependencies. A new published task restoration is still not claimed.
+
+##434-fact focused completion
+
+First generation exited1 before publication because30 assembled review notes exceeded the1000-character bound. A subsequent correction attempt also used the wrong cwd and failed before editing; corrected to the job folder. Condensed repeated generic caveats while preserving the accepted narrow claim. Then, from this job folder:
+
+```sh
+npm run generate:reviewed
+node --test dist/test/reviewed.test.js > /tmp/c05-expanded-434-focused-test.log 2>&1
+sha256sum --check SHA256SUMS.txt
+```
+
+Actual completed generation and focused-test exec exits0; persisted test status0 at /tmp/c05-expanded-434-focused-test.exit. Four tests passed, zero failures/cancellations/skips/todos,12.827231seconds. Two timezone regenerations are byte-identical; all500 numeric rows are preserved, and25 invalid CLI invocations protect both inputs and sentinel output. All15 checksum checks passed.434 reviewed facts/66 null facts/500 recognition notes; complete remains false. This content-only run does not claim a repeated full mutation campaign, final content readiness, PR or green CI.
