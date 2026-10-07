@@ -72,3 +72,12 @@ Twenty proposed sentences were narrowed. Modern-root family links remain diction
 ## Later variant and surname review
 
 Thirty-four later variant facts were narrowed to independently supported roots, forms or bearers, omitting modern links known only from one dictionary. Kelsey's island clause in its name article explicitly cites Behind the Name; the competing ship/victory suggestion lacks a second agreeing read source, so that synthesis is held. Its accepted sentence describes Lincolnshire village names only. Ashley/Bailey/Bryson/Clayton explicitly concern surname roots; Bardsley leaves Ashley's ley sense uncertain and Bryson has alternative origins, so certainty is not claimed. Mary Shelley authorship was chosen for Shelly over the less surprising shell adjective. Daltonism omits a claim that Dalton was the first observer of color blindness.
+
+## Final source-pair decisions
+
+- Colton biography article credits the same Cousin dictionary as the proposed primary book, so that dependent pair is excluded. Separate GeoNames and city articles support the California/South Dakota place-name fact.
+- Brody town-rights years conflict (1684 versus1584); omit them and retain the shared historical trade fact.
+- Nolan denotes Hale’s fictional officer in the selected fact, not the real Texas trader.
+- Brayden’s salmon/surname origin is excluded. The full modern variant paragraph is separately approved, with its unfootnoted authority limit recorded; GeoNames and town article support the Tennessee clause.
+- Beth’s lossy mirror alternative remains held; the actually read full Bet article and WordNet support the second-letter replacement.
+- Gail/Jon modern root links are context only, while both authored dictionaries support the named biblical narrative. No unique Jon origin or independently established biblical history is asserted.

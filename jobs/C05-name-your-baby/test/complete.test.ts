@@ -39,7 +39,7 @@ function cli(args: string[], timezone = 'UTC') {
   return spawnSync(process.execPath, [CLI, ...args], { cwd: ROOT, encoding: 'utf8', env: { ...process.env, TZ: timezone }, timeout: 20_000 });
 }
 
-test('synthetic completion gate accepts all 500 reviews without changing candidate status or numeric rows', () => {
+test('completion gate accepts all 500 reviews and validates the production golden without changing candidate metrics', () => {
   const editorial = syntheticCompleteCuration();
   const sourceBefore = JSON.stringify(SOURCE);
   const editorialBefore = JSON.stringify(editorial);
@@ -56,6 +56,15 @@ test('synthetic completion gate accepts all 500 reviews without changing candida
   const valid = ajv.compile(schema);
   assert.equal(valid(complete), true, ajv.errorsText(valid.errors));
   assert.equal(valid(candidate), false);
+  const goldenPath = join(ROOT, 'data/name-your-baby.json');
+  if (CURATION.every(item => item.factStatus === 'reviewed' && item.fact !== null && item.recognitionVerified)) {
+    const actual = buildComplete(SOURCE, CURATION);
+    const goldenBytes = readFileSync(goldenPath, 'utf8');
+    assert.equal(goldenBytes, serialiseComplete(actual));
+    assert.equal(valid(JSON.parse(goldenBytes)), true, ajv.errorsText(valid.errors));
+  } else {
+    assert.equal(existsSync(goldenPath), false, 'incomplete production must not have a complete golden');
+  }
   for (const damage of [
     (value: any) => { value.complete = false; },
     (value: any) => { value.rows[0].fact = null; },
@@ -119,7 +128,7 @@ test('final builder rejects incomplete facts, recognition, source fingerprints a
   } finally { Date.now = originalNow; Math.random = originalRandom; }
 });
 
-test('complete CLI regenerates disposable synthetic outputs twice across timezones and leaves inputs unchanged', () => {
+test('complete CLI regenerates disposable outputs twice across timezones and leaves inputs unchanged', () => {
   const folder = mkdtempSync(join(tmpdir(), 'c05-complete-synthetic-'));
   try {
     const source = join(folder, 'source.json'); const editorial = join(folder, 'synthetic-curation.json');

@@ -1,25 +1,23 @@
 # C05 Name Your Baby
 
-**Incomplete: independent facts and recognition review are still in progress.**
+`data/name-your-baby.json` delivers 500 familiar names with reviewed short
+facts, peak decades, peak counts and 15-cell decade sparklines. Each fact
+retains two authored source works, brief supporting quotes and a review note.
+Recognition is editorial judgment about broad US familiarity, not a survey.
+The base and reviewed candidate packs remain available for comparison.
 
-`data/current-candidates.json` holds 500 names from the official SSA snapshot
-covering 1880–2025. Peak count is the largest observed decade subtotal of
-published annual counts for one exact spelling and recorded F/M category.
-The 2020s contain six observed years (2020–2025), not a completed decade.
-Charts must label that partial period; counts are not projected or normalized.
-Missing published years and unobserved future years are separate fields.
-Neither missing rows nor zero published subtotals prove zero births.
+Counts come from the checksum-pinned official SSA snapshot, 1880–2025.
+Peak count is the largest observed decade subtotal for an exact spelling and
+recorded F/M category. The 2020s contain six observed years (2020–2025);
+label that period partial. Counts are not projected or normalized. Missing
+published years and unobserved future years are separate fields. Missing
+records or zero published subtotals do not prove zero births. Pre-1937
+applications are incomplete; territorial records are outside this dataset.
 
-The checksum-pinned CC0 official ZIP is retained under `fixtures/` so SSA
-revisions cannot silently change this build. Candidate filters require 50,000
-published occurrences and a peak at least 15% above its runner-up. A pinned
-500-ID manifest replaces 13 held spellings with reviewed reserves. Usage is
-not recognition review. `data/current-reviewed-candidates.json` adds 493 reviewed
-facts from two authored works apiece. Recognition has 500 editorial accepts;
-7 facts remain unresolved. Its numeric fields match the base pack.
-`complete` remains
-false. The historical 30-name sample is retained separately.
-`npm run generate:complete` publishes only after all 500 evidence gates pass.
+Selection requires 50,000 published occurrences and a peak at least 15%
+above its runner-up. A pinned 500-ID manifest replaces 13 uncertain forms
+with reviewed reserves. Every complete row passes fact and recognition
+gates; candidate builders always keep `complete: false`.
 
 With Node 24 and Python 3.12, from this folder:
 
@@ -33,11 +31,12 @@ PARTYBOX_SOURCE_PYTHON=/tmp/c05-source-venv/bin/python \
   PARTYBOX_SOURCE_FILE=/tmp/c05-babynames.rda npm test
 npm run generate:current
 npm run generate:reviewed
+npm run generate:complete
 npm run generate:sample
 sha256sum --check SHA256SUMS.txt
 ```
 
-Regenerate current source input without touching tracked files:
+Regenerate the current source without touching tracked files:
 
 ```sh
 python3 tools/extract_current.py \
@@ -46,9 +45,9 @@ python3 tools/extract_current.py \
 cmp fixtures/current-source.json /tmp/c05-current.json
 ```
 
-The historical mirror covers 1880–2017; its sample analyzes 1880–2009 only.
-It does not validate exact current counts, which SSA has revised. Tests cover
-strict input/provenance, schemas, differential/property cases, repeatability,
-partial decades, file preservation and semantic mutations. CI uses the same
-immutable inputs. Runtime game logic is pure and offline, with no dependencies.
-See SOURCES, VERIFY, CONFLICTS and NEXT for evidence and remaining checks.
+The separate historical 30-name sample analyzes 1880–2009. Tests cover
+schemas, two independent implementations, stored property seeds, byte
+repeatability, partial decades, input preservation and semantic mutations.
+The complete golden is checked against regenerated production bytes and its
+strict schema. Runtime game logic is pure, offline and dependency-free.
+See SOURCES, VERIFY, CONFLICTS and NEXT for attribution and delivery status.

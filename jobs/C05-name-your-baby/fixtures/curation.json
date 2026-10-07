@@ -8145,10 +8145,38 @@
   },
   {
     "id": "ssa:F:Gail",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "In the Bible, Abigail married David after Nabal died.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Gail (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Short form of Abigail."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Abigail (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "In the Old Testament this is the name of Nabal's wife. After Nabal's death she became the third wife of King David."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+        "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+        "author": "William Smith",
+        "title": "Smith's Bible Dictionary: Abigail",
+        "workId": "smith:bible-dictionary:1863",
+        "quote": "Nabal died, and David sent for Abigail and made her his wife."
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review",
+      "note": "Accepted as a biblical narrative statement. Actual BTN Abigail description and Smith’s complete Abigail entry explicitly put Nabal’s death before Abigail’s marriage to David; the selected Smith quote belongs to Nabal’s widow, distinct from the later Abigail entry about David’s sister. Gail→Abigail remains dictionary context only. Both source hashes, dictionary pointers/full retained descriptions, exact XML offsets and parsed headword checked. Two independently authored dictionary works count; shared biblical tradition/deeper scholarship is not independent historical observation. Marriage order, date, son-name discrepancy and bearer ancestry excluded. XML directly credits William Smith and Public Domain; source attribution retained without relicensing BTN prose."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",
@@ -9229,10 +9257,46 @@
   },
   {
     "id": "ssa:M:Jon",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "In the Bible, Saul’s son Jonathan was David’s friend.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Jon (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Short form of Jonathan, or sometimes a variant of John."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Jonathan (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "According to the Old Testament, Jonathan was the eldest son of Saul. His relationship with his father was strained due to his close friendship with his father's rival David."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+        "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+        "author": "William Smith",
+        "title": "Smith's Bible Dictionary: Jonathan",
+        "workId": "smith:bible-dictionary:1863",
+        "quote": "the eldest son of King Saul."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+        "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+        "author": "William Smith",
+        "title": "Smith's Bible Dictionary: Jonathan",
+        "workId": "smith:bible-dictionary:1863",
+        "quote": "The chief interest of Jonathan’s career is derived from the friendship with David,"
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review",
+      "note": "Accepted as a biblical narrative statement. Actual BTN Jonathan description and Smith’s complete Jonathan entry explicitly identify Saul’s son and his friendship with David. Both Smith excerpts belong to that Jonathan, distinct from the later same-name figures. Jon→Jonathan remains dictionary context; the Jon entry also allows John, so no unique origin or exact modern Jon attestation in Smith is implied. Both source hashes, dictionary pointers/full retained descriptions, literal XML offsets and parsed headword checked; an additional agent independently confirms this row. Two authored dictionary works count; shared biblical tradition/deeper scholarship is not independent historical observation. Dates, death, battle details and literal etymology excluded. Actual XML Smith author/Public Domain declarations read."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",
@@ -9713,29 +9777,29 @@
   },
   {
     "id": "ssa:F:Beth",
-    "fact": "Beth can be a short form of Elizabeth.",
+    "fact": "Beth is also the name of the Hebrew alphabet's second letter.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Beth (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Short form of Elizabeth, or sometimes Bethany."
+        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+        "author": "Princeton University WordNet editorial contributors",
+        "title": "WordNet 3.1 noun database (2011), synset 06849872",
+        "workId": "princeton-wordnet-3-1",
+        "quote": "the 2nd letter of the Hebrew alphabet"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/Chambers-s-Twentieth-Century-Dictionary--part-4-of-4--S-Z-and-supplements-_38700/9df13dfd657e0691e664513a06359a2b6a28a866/38700.txt",
-        "publisher": "W. & R. Chambers, Limited, London and Edinburgh; public domain delivery by Project Gutenberg / GITenberg",
-        "author": "Various; Thomas Davidson (editor)",
-        "title": "Chambers's Twentieth Century Dictionary, 1908, S–Z and supplements",
-        "workId": "chambers-twentieth-century-dictionary-1908",
-        "quote": "ELISABETH, ELIZABETH, ELIZA (Heb.), God of the oath.--Dims. BESS, BESSIE, BESSY, BETH, BETSY, BETTY, ELSIE, LIZ, LIZZIE, LIBBY, LISA, LIZA."
+        "url": "https://en.wikipedia.org/w/index.php?title=Bet+%28letter%29&oldid=1373219281",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Bet (letter) (revision 1373219281)",
+        "workId": "wikipedia:bet-(letter)",
+        "quote": "'''Bet''', '''Beth''', '''Vet''', or '''Ba''' is the second [[Letter (alphabet)|letter]] of the [[Semitic abjads]], including [[Phoenician language|Phoenician]] ''bēt'' 𐤁, [[Hebrew language|Hebrew]] ''bēṯ'' {{Script|Hebr|ב}}, [[Aramaic]] ''bēṯ'' 𐡁, [[Syriac alphabet|Syriac]] ''bēṯ'' ܒ and [[Arabic Alphabet|Arabic]] ''bāʾ'' {{Script|Arabic|ب}}."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review/wordnet_review",
-      "note": "Independent agent review of actual Chambers Christian-name appendix entry and pinned Behind the Name mirror /names/first/Beth/0/descr; hashes and exact offsets/pointer verified. Chambers explicitly lists BETH among Elizabeth diminutives; BTN says Elizabeth or sometimes Bethany. The retained mirror scraper confirms BTN editorial first-name descriptions, not community submissions. BTN headwords and mirrors count as one work, distinct from Chambers. “Can be” avoids a universal-origin claim. Entry-specific authorship and blanket database reuse permission are unverified."
+      "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
+      "note": "Independent agent review of actual WordNet synset 06849872 and the complete pinned Bet article. Hashes, synset byte offset, literal lead, revision/timestamp and API-to-wikitext equality match. The article explicitly names Beth and includes Hebrew among the alphabets whose second letter it represents; its Hebrew section also identifies beth as a name. No WordNet/Princeton dependence appears in the retained body. Princeton and Wikipedia are distinct authored works; deeper source history remains unaudited. The lead has no immediate letter-position citation; later pronunciation/usage/symbolism references were not directly read. Approved scope is the lexical letter name/position only. The lossy Wiktionary pair remains held and excluded. Full Princeton 3.1/2011 notice accompanies its quote. Agent review only."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -10177,10 +10241,62 @@
   },
   {
     "id": "ssa:M:Colton",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "Colton is a place name in both California and South Dakota.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://download.geonames.org/export/dump/cities500.zip",
+        "publisher": "GeoNames",
+        "author": "GeoNames",
+        "title": "GeoNames cities500 export, retrieved 2026-10-07",
+        "workId": "geonames:geographic-database",
+        "quote": "5226993 Colton Colton Colton,Kolton,ke er dun,koruton,kwltwn,kwwltn dakwtay jnwby,kwwltn gwnyy dakwta,Колтон,كولتون,کولٹن، جنوبی ڈکوٹا,کوولتن، داکوتای جنوبی,کوولتن، گونئی داکوتا,コルトン,科尔顿 43.78609 -96.92756 P PPL US SD 099 13380 690 489 488 America/Chicago 2017-05-23"
+      },
+      {
+        "url": "https://download.geonames.org/export/dump/cities500.zip",
+        "publisher": "GeoNames",
+        "author": "GeoNames",
+        "title": "GeoNames cities500 export, retrieved 2026-10-07",
+        "workId": "geonames:geographic-database",
+        "quote": "5338783 Colton Colton Colton,Kolton,Koltun,Tohozho,Tóhózhǫ́,ke er dun,koltana,kolteon,koruton,kwltwn,kwltwn kalyfrnya,kwltwn kalyfwrnya,qwltwn,Колтон,Колтън,קולטון,كولتون,کولتون، کالیفرنیا,کولتون، کالیفورنیا,کولٹن، کیلیفورنیا,कोल्टन,കോൾട്ടൺ,コルトン,科尔顿,科爾頓,콜턴 34.0739 -117.31365 P PPL US CA 071 54621 306 309 America/Los_Angeles 2017-03-09"
+      },
+      {
+        "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+        "publisher": "GeoNames",
+        "author": "GeoNames",
+        "title": "GeoNames first-order administrative code names, read 2026-10-07",
+        "workId": "geonames:geographic-database",
+        "quote": "US.CA California California 5332921"
+      },
+      {
+        "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+        "publisher": "GeoNames",
+        "author": "GeoNames",
+        "title": "GeoNames first-order administrative code names, read 2026-10-07",
+        "workId": "geonames:geographic-database",
+        "quote": "US.SD South Dakota South Dakota 5769223"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Colton%2C+California&oldid=1377585740",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Colton, California (revision 1377585740)",
+        "workId": "wikipedia:colton-california",
+        "quote": "'''Colton''' is a city in [[San Bernardino County, California]], United States."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Colton%2C+South+Dakota&oldid=1377158332",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Colton, South Dakota (revision 1377158332)",
+        "workId": "wikipedia:colton-south-dakota",
+        "quote": "'''Colton''' is a city in [[Minnehaha County, South Dakota|Minnehaha County]], [[South Dakota]], United States."
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
+      "note": "Independent agent review of the actual GeoNames cities500 ZIP, both Colton records, publisher field definitions/state-code mapping and cached Wikipedia city leads/infoboxes. Archive/member SHA256 and ZIP CRC match; each exact record has 19 fields, with name Colton and US.CA or US.SD mapped to California or South Dakota. Wikipedia hashes, revisions/timestamps, API-body equality and literal quotes match. Six references represent only two author/work groups: GeoNames and Wikipedia. No direct GeoNames dependence appears in the articles; shared upstream government sources remain unaudited. Approved fact states place-name occurrence only, excluding etymology, population, incorporation, naming causation and bearer ancestry. GeoNames publisher CC-BY-4.0 declaration read. Agent review only."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",
@@ -11341,10 +11457,54 @@
   },
   {
     "id": "ssa:M:Brayden",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "Brayden’s alternate spelling Braden is also a place name in Tennessee.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Brayden (pinned 2021 dictionary distribution)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Variant of Braden."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Braden_(given_name)&oldid=1372521264",
+        "publisher": "English Wikipedia; Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Braden (given name) (revision 1372521264)",
+        "workId": "wikipedia:braden-(given-name)",
+        "quote": "The name has many alternate spellings, including: Bradan, [[Bradin]], Bradun, Bradyn, Braedan, Braeden, Braedin, Braedon, Braedyn, Breadan, Breaden, Braidan, Braiden, Braidon, Braidun, Braidyn, Braydan, [[Brayden]], Braydin, Braydon, or Braydyn."
+      },
+      {
+        "url": "https://download.geonames.org/export/dump/US.zip",
+        "publisher": "GeoNames",
+        "author": "GeoNames",
+        "title": "GeoNames US export, retrieved 2026-10-07, record4608122",
+        "workId": "geonames:geographic-database",
+        "quote": "4608122 Braden Braden Braden,Concordia 35.37953 -89.56813 P PPL US TN 047 274 96 97 America/Chicago 2017-03-09"
+      },
+      {
+        "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+        "publisher": "GeoNames",
+        "author": "GeoNames",
+        "title": "GeoNames administrative-code names, US.TN",
+        "workId": "geonames:geographic-database",
+        "quote": "US.TN Tennessee Tennessee 4662168"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Braden%2C+Tennessee&oldid=1378506383",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Braden, Tennessee (revision 1378506383)",
+        "workId": "wikipedia:braden-tennessee",
+        "quote": "'''Braden''' is a town in [[Fayette County, Tennessee]]."
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review",
+      "note": "Each clause is supported in two differently authored works: BTN and the full Braden given-name article explicitly identify the modern Brayden/Braden spelling relationship; GeoNames and the full Braden Tennessee article identify the place. The named article’s BTN footnote concerns the excluded Irish surname/salmon meaning; its separate variant paragraph is unfootnoted, with no identified copying or explicit BTN attribution. No claim of an independently read underlying variant authority. Exact source bodies/quotes, dictionary pointer, both Wiki API revisions, US ZIP/member SHA/CRC/count, 19-field record and TN mapping checked. Five refs count three author groups; GeoNames records/maps count one work and both Wiki articles one author group. No name origin, ancestry, population or date claim; deeper shared authorities remain unaudited."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",
@@ -11417,10 +11577,62 @@
   },
   {
     "id": "ssa:M:Nolan",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "In The Man Without a Country, Philip Nolan is an officer exiled at sea.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/The-Man-Without-a-Country_16493/b79a52697e478fa5ac4ccc6ff5b29e88150beb3b/16493.txt",
+        "publisher": "Little, Brown and Company, Boston; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Edward Everett Hale",
+        "title": "The Man Without a Country (retained Project Gutenberg text #16493)",
+        "workId": "hale:the-man-without-a-country:1863",
+        "quote": "Sir,--You will receive from Lieutenant Neale the person of Philip Nolan, late a lieutenant in the United States army."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/The-Man-Without-a-Country_16493/b79a52697e478fa5ac4ccc6ff5b29e88150beb3b/16493.txt",
+        "publisher": "Little, Brown and Company, Boston; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Edward Everett Hale",
+        "title": "The Man Without a Country (retained Project Gutenberg text #16493)",
+        "workId": "hale:the-man-without-a-country:1863",
+        "quote": "You will take the prisoner on board your ship, and keep him there with such precautions as shall prevent his escape."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/The-Man-Without-a-Country_16493/b79a52697e478fa5ac4ccc6ff5b29e88150beb3b/16493.txt",
+        "publisher": "Little, Brown and Company, Boston; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Edward Everett Hale",
+        "title": "The Man Without a Country (retained Project Gutenberg text #16493)",
+        "workId": "hale:the-man-without-a-country:1863",
+        "quote": "It is the intention of the Government that he shall never again see the country which he has disowned."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/The-Man-Without-a-Country_16493/b79a52697e478fa5ac4ccc6ff5b29e88150beb3b/16493.txt",
+        "publisher": "Little, Brown and Company, Boston; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Edward Everett Hale",
+        "title": "The Man Without a Country (retained Project Gutenberg text #16493)",
+        "workId": "hale:the-man-without-a-country:1863",
+        "quote": "Colonel Morgan is a fictitious character, like all the others in this book, except Aaron Burr."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=The_Man_Without_a_Country&oldid=1363524589",
+        "publisher": "English Wikipedia; Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "The Man Without a Country (revision 1363524589)",
+        "workId": "wikipedia:the-man-without-a-country",
+        "quote": "The protagonist is a young [[US Army]] lieutenant, Philip Nolan, who develops a friendship with the visiting [[Aaron Burr]]."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=The_Man_Without_a_Country&oldid=1363524589",
+        "publisher": "English Wikipedia; Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "The Man Without a Country (revision 1363524589)",
+        "workId": "wikipedia:the-man-without-a-country",
+        "quote": "Nolan is to spend the rest of his life aboard [[US Navy]] [[warships]] in exile, with no right ever to set foot on US soil again"
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
+      "note": "Accepted as a fictional plot fact. Hale’s retained text names Philip Nolan as a late army lieutenant, orders custody aboard ship and permanent denial of return, and states in its notes that all characters except Aaron Burr are fictitious. Header/catalog confirm Hale and Little, Brown; catalog marks US public domain. Wikipedia independently summarizes the named lieutenant and lifelong warship exile in different prose. Its Stossel/Atlantic 2012 citation follows the earlier outburst phrase in the same paragraph, not the exile clause itself; that article was not read or counted. Two authored presentations of the same story count, not independent historical witnesses. The real Texas trader Nolan is kept distinct. Cached hashes, primary quote offsets and Wiki canonical title/revision/content checked; article-specific Wiki footer not fetched."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",
@@ -12165,10 +12377,30 @@
   },
   {
     "id": "ssa:M:Bryce",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "Bryce Canyon National Park has colorful rock formations shaped by erosion.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+        "author": "Princeton University WordNet editorial contributors",
+        "title": "WordNet 3.1 noun database (2011), synset 08620714",
+        "workId": "princeton-wordnet-3-1",
+        "quote": "a national park in Utah having multicolored rock erosions"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Bryce_Canyon_National_Park&oldid=1365052934",
+        "publisher": "English Wikipedia; Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Bryce Canyon National Park (revision 1365052934)",
+        "workId": "wikipedia:bryce-canyon-national-park",
+        "quote": "This erosion resulted in colorful pinnacles called hoodoos that are up to {{convert|200|ft|m|-1}} high."
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review",
+      "note": "The actual WordNet Bryce Canyon National Park synset and the retained Wikipedia Geography paragraph independently identify colorful rock forms made by erosion. Hashes, synset byte offset/lemma/gloss, exact quote offset and cached API canonical title/revision/body equality checked. Wikipedia’s selected paragraph cites Harris, Tuttle and Tuttle, Geology of National Parks (1997), p.46; that book was not directly read or counted. This is a park-name homograph hook, without given-name etymology, exact rock height/age or pioneer namesake claims. Princeton’s full 3.1/2011 notice must accompany copied synset text; wiki prose attribution/CC-BY-SA4.0 retained."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",
@@ -16529,10 +16761,38 @@
   },
   {
     "id": "ssa:M:Brody",
-    "fact": null,
-    "factStatus": "unverified",
-    "factReferences": [],
-    "factReview": null,
+    "fact": "Brody was a commercial center for trade between Austria and Russia.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/Encyclopaedia-Britannica-11th-Edition-Volume-4-Part-3-Brescia--to--Bulgaria-_19699/38ec09a4e6f4db539a008ecea03ac8697b84025c/19699.txt",
+        "publisher": "Encyclopaedia Britannica, 11th edition; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Various (Project Gutenberg catalog credit; Brody entry unbylined)",
+        "title": "Encyclopaedia Britannica, 11th edition, volume 4: Brody entry",
+        "workId": "encyclopaedia-britannica:11th-edition",
+        "quote": "BRODY, a town of Austria, in Galicia, 62 m. E. of Lemberg by rail."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/Encyclopaedia-Britannica-11th-Edition-Volume-4-Part-3-Brescia--to--Bulgaria-_19699/38ec09a4e6f4db539a008ecea03ac8697b84025c/19699.txt",
+        "publisher": "Encyclopaedia Britannica, 11th edition; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Various (Project Gutenberg catalog credit; Brody entry unbylined)",
+        "title": "Encyclopaedia Britannica, 11th edition, volume 4: Brody entry",
+        "workId": "encyclopaedia-britannica:11th-edition",
+        "quote": "It is situated near the Russian frontier, and has been one of the most important commercial centres in Galicia, especially for the trade with Russia."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Brody&oldid=1378948030",
+        "publisher": "English Wikipedia; Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Brody (revision 1378948030)",
+        "workId": "wikipedia:brody",
+        "quote": "During the first half of the 19th century Brody served as a major centre of trade between Austria and [[Russian Empire|Russia]]."
+      }
+    ],
+    "factReview": {
+      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
+      "note": "Accepted for the historical Galician town. Britannica calls it a town of Austria and a commercial centre for trade with Russia; header/catalog credit Various, with no Brody article byline established. Wikipedia’s distinct trade paragraph cites Енциклопедія українознавства. Словникова частина (ЕУ-II) (1993), vol. 1, pp.174–181; that book was not read or counted separately. Its English Encyclopedia of Ukraine external link is not identified as the same edition. The EB1911 poster is only under External links, with no attribution in the selected paragraph. Two actual edited authored works count; named individual authors and deeper shared lineage remain unverified. Conflicting town-rights dates 1684/1584, population, trade-decline cause and given-name origin are excluded. Actual bodies, offsets, catalog and API provenance checked."
+    },
     "recognitionVerified": true,
     "recognitionReview": {
       "reviewer": "codex-c05-recognition-editorial-review",

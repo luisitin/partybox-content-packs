@@ -1,6 +1,6 @@
 {
-  "mode": "current-candidates",
-  "complete": false,
+  "mode": "name-your-baby",
+  "complete": true,
   "currentMetricsVerified": true,
   "source": {
     "publisher": "US Social Security Administration",
