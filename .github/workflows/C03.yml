@@ -1,0 +1,24 @@
+name: C03 historical pageview pipeline
+on:
+  pull_request:
+    paths:
+      - 'jobs/C03-internet-famous/**'
+      - '.github/workflows/C03.yml'
+permissions:
+  contents: read
+jobs:
+  sample-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: jobs/C03-internet-famous
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: jobs/C03-internet-famous/package-lock.json
+      - run: npm ci --ignore-scripts
+      - run: npm test

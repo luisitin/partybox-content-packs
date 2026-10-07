@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.example/schemas/C03/fixture.schema.json",
+  "title": "C03 historical pageview sample fixture",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "kind",
+    "source_url",
+    "source_sha256",
+    "source_license",
+    "project",
+    "access",
+    "agent",
+    "period_start",
+    "period_end",
+    "current_month_verified",
+    "independent_verification",
+    "curation",
+    "rows"
+  ],
+  "properties": {
+    "kind": {
+      "const": "historical-offline-pipeline-sample"
+    },
+    "source_url": {
+      "const": "https://raw.githubusercontent.com/hyperprophet/wikipedia-pageviews-2020/e1d61b4935d863ea7a2c83d9b010e56e2ffc5438/wikipedia_pageviews.csv"
+    },
+    "source_sha256": {
+      "const": "f9bc4774dcd1f50ba36efd8ce69057bafab6035358726fece0cb5e660ad71f9f"
+    },
+    "source_license": {
+      "const": "CC0-1.0"
+    },
+    "project": {
+      "const": "en.wikipedia"
+    },
+    "access": {
+      "const": "unrecorded-by-source"
+    },
+    "agent": {
+      "const": "unrecorded-by-source"
+    },
+    "period_start": {
+      "const": "2020-06-01"
+    },
+    "period_end": {
+      "const": "2020-06-30"
+    },
+    "current_month_verified": {
+      "const": false
+    },
+    "independent_verification": {
+      "const": "not yet completed"
+    },
+    "curation": {
+      "type": "string",
+      "minLength": 1,
+      "allOf": [
+        {
+          "pattern": "\\S"
+        },
+        {
+          "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+        }
+      ]
+    },
+    "rows": {
+      "type": "array",
+      "minItems": 30,
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "a",
+          "b"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^historical-(0[1-9]|[12][0-9]|30)$"
+          },
+          "a": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "article",
+              "pageviews",
+              "daily"
+            ],
+            "properties": {
+              "article": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "pageviews": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "daily": {
+                "type": "array",
+                "minItems": 30,
+                "maxItems": 30,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "date",
+                    "pageviews"
+                  ],
+                  "properties": {
+                    "date": {
+                      "type": "string",
+                      "pattern": "^(?!0000)[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"
+                    },
+                    "pageviews": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "maximum": 9007199254740991
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "b": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "article",
+              "pageviews",
+              "daily"
+            ],
+            "properties": {
+              "article": {
+                "type": "string",
+                "minLength": 1,
+                "allOf": [
+                  {
+                    "pattern": "\\S"
+                  },
+                  {
+                    "pattern": "^[^\\u0000-\\u001f\\u007f-\\u009f]+$"
+                  }
+                ]
+              },
+              "pageviews": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "daily": {
+                "type": "array",
+                "minItems": 30,
+                "maxItems": 30,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "date",
+                    "pageviews"
+                  ],
+                  "properties": {
+                    "date": {
+                      "type": "string",
+                      "pattern": "^(?!0000)[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"
+                    },
+                    "pageviews": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "maximum": 9007199254740991
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

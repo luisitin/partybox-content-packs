@@ -1,0 +1,7666 @@
+{
+  "kind": "historical-offline-pipeline-sample",
+  "source_url": "https://raw.githubusercontent.com/hyperprophet/wikipedia-pageviews-2020/e1d61b4935d863ea7a2c83d9b010e56e2ffc5438/wikipedia_pageviews.csv",
+  "source_sha256": "f9bc4774dcd1f50ba36efd8ce69057bafab6035358726fece0cb5e660ad71f9f",
+  "source_license": "CC0-1.0",
+  "project": "en.wikipedia",
+  "access": "unrecorded-by-source",
+  "agent": "unrecorded-by-source",
+  "period_start": "2020-06-01",
+  "period_end": "2020-06-30",
+  "current_month_verified": false,
+  "independent_verification": "not yet completed",
+  "curation": "83 household-name candidates selected manually; 30 disjoint pairs closest to ratio 1.6 selected deterministically",
+  "rows": [
+    {
+      "id": "historical-01",
+      "a": {
+        "article": "Arnold_Schwarzenegger",
+        "pageviews": 540181,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 20481
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 17167
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 15350
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 15899
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 17070
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 17761
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 20946
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 19634
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 18063
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 20613
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 21756
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 19997
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 20751
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20031
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 17394
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 16149
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 18111
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 16412
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 20533
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 18369
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 18910
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 20334
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 17411
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 15767
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 15162
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 15490
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 15919
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 17156
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 15956
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 15589
+          }
+        ]
+      },
+      "b": {
+        "article": "United_Kingdom",
+        "pageviews": 863956,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 28454
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 29011
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 33906
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 29938
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 29852
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 28398
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 30111
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 31354
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 30616
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 30999
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 30164
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 29470
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 31146
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 30231
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 29125
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 28703
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 28393
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 29938
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 28842
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 25657
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 26033
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 27434
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 27075
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 26188
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 26276
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 27259
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 26733
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 27386
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 28172
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 27092
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-02",
+      "a": {
+        "article": "Scarlett_Johansson",
+        "pageviews": 532928,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 19109
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 17613
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 16969
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 16276
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 16760
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 19966
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 21993
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 18715
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 16733
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 16794
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 17691
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 16556
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 20373
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 21425
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 17221
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 16407
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 17224
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 16820
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 17374
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 19689
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 20733
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 17461
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 14933
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 15019
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 14437
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14506
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17598
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 22181
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 18324
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 16028
+          }
+        ]
+      },
+      "b": {
+        "article": "Abraham_Lincoln",
+        "pageviews": 853675,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 24732
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 28035
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 32837
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 28748
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 26069
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 28124
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 31103
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 29977
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 27232
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 26625
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 32818
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 32301
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 32478
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 29169
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 26934
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 26043
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 24598
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 25538
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 39779
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 37038
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 36723
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 27852
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 26176
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 24112
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 22767
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 21824
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 24796
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 27849
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 28376
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 23022
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-03",
+      "a": {
+        "article": "The_Mandalorian",
+        "pageviews": 368493,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 12747
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 11570
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 11292
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 11484
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 12106
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 14739
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 15533
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13333
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12123
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11664
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 11476
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 11356
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 13336
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 14651
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 12678
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11930
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11286
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 11001
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 11590
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 13330
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 14385
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 13767
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 11443
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 10449
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 9782
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 9727
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 12852
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 14226
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 11839
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 10798
+          }
+        ]
+      },
+      "b": {
+        "article": "Australia",
+        "pageviews": 590602,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 19132
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 21483
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21299
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 22367
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 20465
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 19128
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 19575
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 22224
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 23972
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 23685
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 23059
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21214
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 20340
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 21115
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 20457
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 18872
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 19193
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 19169
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 20297
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 16441
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 17245
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 19070
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 17298
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 17716
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 18595
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 17121
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16663
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 19051
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 17112
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 17244
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-04",
+      "a": {
+        "article": "China",
+        "pageviews": 732802,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 23289
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 22660
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 22489
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 24090
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 22090
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21321
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 21183
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 21817
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 21519
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 21348
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 20499
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 20462
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 20074
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 19928
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19483
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 27681
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 44202
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 36730
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 30795
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 27766
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 27272
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 27063
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 24873
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 23631
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 23178
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 24980
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 20712
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 21581
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 22733
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 27353
+          }
+        ]
+      },
+      "b": {
+        "article": "Elizabeth_II",
+        "pageviews": 1170459,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 45950
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 39937
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 36165
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 34908
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 33864
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 36936
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 43544
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 49732
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 46425
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 68090
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 51762
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 42292
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 82050
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 54022
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 39921
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 34807
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 32633
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 33331
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 31375
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 32030
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 36254
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 30579
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 30532
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 27013
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 27684
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 26488
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 29764
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 35809
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 28987
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 27575
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-05",
+      "a": {
+        "article": "Joker_(2019_film)",
+        "pageviews": 500340,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 20544
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 17259
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 18803
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 19275
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 18231
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21106
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 23857
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 16951
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 15293
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 14379
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 13940
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 13835
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 16637
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 37216
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 21978
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 14720
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 13315
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12630
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 13073
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 16480
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 17621
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 13930
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 11969
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 12476
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 11523
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 11986
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16634
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 18222
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 13499
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 12958
+          }
+        ]
+      },
+      "b": {
+        "article": "Cristiano_Ronaldo",
+        "pageviews": 799143,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 19401
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 18107
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 20336
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 21191
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 32457
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 26859
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 24331
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 22604
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 22773
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 22618
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 23156
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 28129
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 27419
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 27495
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 23419
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 25586
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 34312
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 28567
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 28143
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 25701
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 22888
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 25573
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 28202
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 31358
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 24672
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 28110
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 34179
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 27680
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 25583
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 48294
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-06",
+      "a": {
+        "article": "Chris_Hemsworth",
+        "pageviews": 407829,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 16249
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 13838
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 12990
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 13047
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 13823
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 16116
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 17104
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13699
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12416
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11862
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 11501
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 11748
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 14834
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 15180
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 12111
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 13889
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 10960
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12066
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 12875
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 15053
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 15712
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 12565
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 11044
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 11612
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 12138
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 12445
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16862
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 18264
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 13839
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 11987
+          }
+        ]
+      },
+      "b": {
+        "article": "Billie_Eilish",
+        "pageviews": 651254,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 26816
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 22355
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 22026
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 21351
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 29352
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 34809
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 24935
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 22013
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 20366
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 19944
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 19975
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 19500
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 18635
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 19913
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 18635
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 18498
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 18916
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 19245
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 22070
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 19457
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 19151
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 18010
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 17264
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 23012
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 22218
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 26161
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 24932
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 22261
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 20688
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 18746
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-07",
+      "a": {
+        "article": "Sylvester_Stallone",
+        "pageviews": 391650,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 11016
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 10167
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 10234
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 11027
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 10980
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 12954
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 17111
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 10697
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 10103
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11018
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 12147
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12065
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 14841
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 16792
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 14545
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11433
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11211
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 18708
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 17093
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 14692
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 15619
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 14474
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 10695
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 9804
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 9826
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14544
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17033
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 18496
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 11472
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 10853
+          }
+        ]
+      },
+      "b": {
+        "article": "Facebook",
+        "pageviews": 627891,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 18346
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 17881
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 17016
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 18352
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 19657
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 18541
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 19217
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 48893
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 25582
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 20332
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 19678
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21111
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 18274
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 17424
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19829
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 19735
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 20566
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 24148
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 31153
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 22250
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 18097
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 19468
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 17649
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 17948
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 18177
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 19466
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17895
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 18008
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 19734
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 23464
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-08",
+      "a": {
+        "article": "Tom_Hanks",
+        "pageviews": 399322,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 12113
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 10871
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 10893
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 11256
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 12437
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 15582
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 15409
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 12367
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 11275
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11614
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 10976
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12696
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 15071
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 15951
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 12920
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11190
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11475
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12249
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 12181
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 13880
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 15431
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 12802
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 12689
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 13040
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 14578
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 15322
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17880
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 18906
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 13757
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 12511
+          }
+        ]
+      },
+      "b": {
+        "article": "Darth_Vader",
+        "pageviews": 637551,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 20429
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 20667
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21309
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 21314
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 21355
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21750
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 22309
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 21902
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 21998
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 21159
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 21333
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21395
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 23884
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 24758
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 22422
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 20851
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 20845
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 20534
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 20545
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 20979
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 21560
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 20756
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 20465
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 20573
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 20483
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 20116
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 20832
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 20618
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 20290
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 20120
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-09",
+      "a": {
+        "article": "Queen_(band)",
+        "pageviews": 354701,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 15144
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 7764
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 7762
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 8529
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 11855
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 10454
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 9631
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 11033
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 8553
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 8034
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 8420
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 8535
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 9612
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 11097
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 12139
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11912
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11610
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 14654
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 15285
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 17113
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 18951
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 14326
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 12179
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 11913
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 10845
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 11410
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 19054
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 14427
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 12220
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 10240
+          }
+        ]
+      },
+      "b": {
+        "article": "Kobe_Bryant",
+        "pageviews": 569140,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 24325
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 21674
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21029
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 21407
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 20758
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21146
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 23215
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 20923
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 20670
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 19851
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 20046
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 20682
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 19733
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20929
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19644
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 17573
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 17678
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 19221
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 15756
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 16482
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 23840
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 20425
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 14937
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 14309
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 14953
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 16391
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 14466
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 15549
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 16796
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 14732
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-10",
+      "a": {
+        "article": "Judy_Garland",
+        "pageviews": 467932,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 9306
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 10719
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 8676
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 9859
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 10342
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 14058
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 14418
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 10315
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 10235
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 29600
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 18419
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 14771
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 23804
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 25097
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 14806
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11581
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11346
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12480
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 11961
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 14995
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 23993
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 20049
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 16441
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 11564
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 10044
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 9651
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 15132
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 44344
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 16002
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 13924
+          }
+        ]
+      },
+      "b": {
+        "article": "Michael_Jackson",
+        "pageviews": 746279,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 22824
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 22990
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 23059
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 22962
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 22441
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 24565
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 24612
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 21948
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 23274
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 22163
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 23091
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 22406
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 26504
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 25754
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 23147
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 20553
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 20272
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 20232
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 20671
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 21888
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 22306
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 21622
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 21012
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 21826
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 53916
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 45032
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 30787
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 28691
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 23129
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 22602
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-11",
+      "a": {
+        "article": "Game_of_Thrones",
+        "pageviews": 401874,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 13635
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 13246
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 13298
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 13458
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 13652
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 14787
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 15305
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 14508
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 13281
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 13173
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 14269
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 14163
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 13529
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 13576
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 12750
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 13133
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 13614
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 14968
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 12587
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 13100
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 14244
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 13100
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 12220
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 13048
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 12022
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 12065
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 12624
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 13754
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 12810
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 11955
+          }
+        ]
+      },
+      "b": {
+        "article": "Jennifer_Aniston",
+        "pageviews": 640852,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 18967
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 18846
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21518
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 23166
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 22647
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 23571
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 24222
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 20810
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 21541
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 21823
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 22043
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21612
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 23367
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 22335
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 20639
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 19103
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 18220
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 18585
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 21396
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 22858
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 23964
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 21285
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 22708
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 21174
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 19873
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 19489
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 21860
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 23096
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 20584
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 19550
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-12",
+      "a": {
+        "article": "Jason_Momoa",
+        "pageviews": 405376,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 11273
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 10944
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 11147
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 11626
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 11974
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 16485
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 18566
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13862
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 11643
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11477
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 12291
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12609
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 12429
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 13561
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 16686
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 12799
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 12986
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 13808
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 13462
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 16460
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 18387
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 14512
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 13565
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 12410
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 11845
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 13666
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16540
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 15653
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 11726
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 10984
+          }
+        ]
+      },
+      "b": {
+        "article": "Freddie_Mercury",
+        "pageviews": 650850,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 16844
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 14513
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 15162
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 17295
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 26863
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 22759
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 22727
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 23367
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 17211
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 16478
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 17216
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 18567
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 23177
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 27663
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 25948
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 18918
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 17372
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 22759
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 23951
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 27017
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 30545
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 21597
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 17837
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 17907
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 18584
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 20392
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 39950
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 27845
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 22566
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 17820
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-13",
+      "a": {
+        "article": "Steve_Jobs",
+        "pageviews": 594390,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 20533
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 21033
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 18576
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 19979
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 19107
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 19619
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 19590
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 17976
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 19556
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 20369
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 26072
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21401
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 18347
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 23841
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 21911
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 21188
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 19028
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 18613
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 17640
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 17910
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 16849
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 22899
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 19758
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 18103
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 19178
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 17780
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 18106
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 19724
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 18358
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 21346
+          }
+        ]
+      },
+      "b": {
+        "article": "Winston_Churchill",
+        "pageviews": 954966,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 22953
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 17137
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21531
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 25171
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 18500
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 24180
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 41369
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 64256
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 45142
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 39552
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 32605
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 47498
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 69748
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 138135
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 51993
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 29148
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 23998
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 22733
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 19742
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 19508
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 21949
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 20866
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 16908
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 15520
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 18883
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 16311
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17476
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 18361
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 18431
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 15362
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-14",
+      "a": {
+        "article": "Ryan_Reynolds",
+        "pageviews": 395518,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 15685
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 13447
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 12897
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 12375
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 13570
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 18843
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 16601
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13988
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12331
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 12940
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 13843
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 15361
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 15948
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 16553
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 13904
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11360
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11590
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 11377
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 11557
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 13430
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 13628
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 12170
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 10068
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 10331
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 9880
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 10724
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 13038
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 14057
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 12323
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 11699
+          }
+        ]
+      },
+      "b": {
+        "article": "Google",
+        "pageviews": 635470,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 20859
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 23156
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21720
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 20427
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 20511
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 18657
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 19537
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 21530
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 20917
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 23202
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 22960
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 22191
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 18156
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 18884
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19650
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 19747
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 22609
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 22079
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 23740
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 20038
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 18729
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 19469
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 19612
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 24384
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 18364
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 18196
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16478
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 22524
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 26252
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 30892
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-15",
+      "a": {
+        "article": "Star_Wars",
+        "pageviews": 377975,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 12631
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 11423
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 12000
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 12425
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 13245
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 15154
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 15243
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 12937
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12108
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11837
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 12249
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12000
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 17062
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 21501
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 14753
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 12406
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 11495
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 11369
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 11361
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 12696
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 13794
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 11550
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 10444
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 10042
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 10004
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 10359
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 11734
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 12509
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 10858
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 10786
+          }
+        ]
+      },
+      "b": {
+        "article": "World_War_I",
+        "pageviews": 607294,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 24524
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 19570
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 18901
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 19451
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 19641
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21998
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 23828
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 21349
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 20577
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 20472
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 19259
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 18531
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 19572
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20782
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19141
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 17583
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 18564
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 19390
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 18040
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 20792
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 21812
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 24134
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 19293
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 20052
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 18385
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 18061
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 20923
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 22738
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 21484
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 18447
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-16",
+      "a": {
+        "article": "Queen_Victoria",
+        "pageviews": 547494,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 17808
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 16906
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 16757
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 15796
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 15878
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 18964
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 19732
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 19295
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 19039
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 23533
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 20629
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 17763
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 19852
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20080
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 22726
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 18199
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 17333
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 17531
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 15783
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 18197
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 19244
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 17024
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 16925
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 16174
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 15987
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 15900
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17942
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 21557
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 19149
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 15791
+          }
+        ]
+      },
+      "b": {
+        "article": "Muhammad_Ali",
+        "pageviews": 879976,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 19595
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 22919
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 36493
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 37249
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 28959
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 31947
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 43609
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 37611
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 31886
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 31589
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 29931
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 28447
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 33117
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 33658
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 27691
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 28219
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 25229
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 24546
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 27002
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 32864
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 36319
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 29815
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 26018
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 22488
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 20990
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 20080
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 31404
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 36777
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 21914
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 21610
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-17",
+      "a": {
+        "article": "Eminem",
+        "pageviews": 422063,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 13245
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 12462
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 13817
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 13715
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 14266
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 14771
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 14794
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13773
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 13580
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 14540
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 13870
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 13611
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 13879
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 14919
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 15391
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 13641
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 15462
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 13163
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 13985
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 14328
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 13938
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 14391
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 13981
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 13037
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 12814
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 13729
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16105
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 16489
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 12990
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 13377
+          }
+        ]
+      },
+      "b": {
+        "article": "John_F._Kennedy",
+        "pageviews": 672078,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 23941
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 25758
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 28220
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 24958
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 24428
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 27084
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 25903
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 23408
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 22697
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 22368
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 21001
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 20212
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 20049
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 21443
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 20432
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 19634
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 17851
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 41814
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 28500
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 21599
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 21286
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 20495
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 19190
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 17801
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 17505
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 17377
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 17924
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 23035
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 17958
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 18207
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-18",
+      "a": {
+        "article": "LeBron_James",
+        "pageviews": 561526,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 22679
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 20275
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 20945
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 23828
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 21052
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21328
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 22491
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 20137
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 20052
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 21107
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 19697
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 19689
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 21978
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20278
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 18203
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 16900
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 15905
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 15603
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 15285
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 15448
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 17998
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 17136
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 15289
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 14747
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 15760
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 17077
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16066
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 17936
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 20177
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 16460
+          }
+        ]
+      },
+      "b": {
+        "article": "Elton_John",
+        "pageviews": 902892,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 42500
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 30827
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 31412
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 33598
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 33211
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 48829
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 56182
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 34794
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 25715
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 23651
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 22390
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 25191
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 37625
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 43602
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 29492
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 24187
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 21771
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 23274
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 23937
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 32632
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 36750
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 24931
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 18934
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 17918
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 23979
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 26535
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 32201
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 35209
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 23628
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 17987
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-19",
+      "a": {
+        "article": "Bruce_Lee",
+        "pageviews": 1299161,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 26765
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 19559
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 20659
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 27067
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 33591
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 45976
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 93563
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 299516
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 114382
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 60929
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 37371
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 34565
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 33009
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 50788
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 30574
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 21511
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 19953
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 50362
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 20551
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 25991
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 47225
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 21228
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 40315
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 15986
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 15955
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 16129
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 19855
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 19797
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 19375
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 16614
+          }
+        ]
+      },
+      "b": {
+        "article": "Elon_Musk",
+        "pageviews": 2091076,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 227790
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 138383
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 112637
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 97781
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 109068
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 91447
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 86008
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 70018
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 66403
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 63614
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 57816
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 51679
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 53797
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 53453
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 46864
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 56941
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 66314
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 60394
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 54714
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 56392
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 53007
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 44656
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 49097
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 38881
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 39004
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 40775
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 41513
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 73319
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 50636
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 38675
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-20",
+      "a": {
+        "article": "Money_Heist",
+        "pageviews": 836153,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 36580
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 34649
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 33916
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 33403
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 32648
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 35908
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 37704
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 33068
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 30682
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 30830
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 30630
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 28796
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 29654
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 30702
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 27206
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 25823
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 24456
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 25002
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 23874
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 25007
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 26208
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 23949
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 22144
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 21323
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 20099
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 21000
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 22678
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 24933
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 22885
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 20396
+          }
+        ]
+      },
+      "b": {
+        "article": "Martin_Luther_King_Jr.",
+        "pageviews": 1346244,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 119265
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 103757
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 90199
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 72774
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 72845
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 57942
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 66150
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 75709
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 57475
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 47322
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 40371
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 36911
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 38350
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 40347
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 41160
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 31888
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 29560
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 28155
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 35468
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 40087
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 29188
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 25910
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 27243
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 23319
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 19617
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 17233
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 19978
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 23689
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 17604
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 16728
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-21",
+      "a": {
+        "article": "Robert_Downey_Jr.",
+        "pageviews": 413304,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 12106
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 11328
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 12551
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 13197
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 14052
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 16959
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 16101
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13563
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12716
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 12280
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 12024
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12242
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 14805
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 15913
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 13098
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 12408
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 12475
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12090
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 13028
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 14507
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 16170
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 13891
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 12807
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 12471
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 12343
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 13658
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 15094
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 17437
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 17640
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 14350
+          }
+        ]
+      },
+      "b": {
+        "article": "Ariana_Grande",
+        "pageviews": 657107,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 22949
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 21931
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 20514
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 20748
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 20602
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 20668
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 20688
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 23888
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 20568
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 19974
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 20550
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21829
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 21834
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20929
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19757
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 18902
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 18312
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 19253
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 18334
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 18687
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 21713
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 19692
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 18020
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 18363
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 19345
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 39995
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 42088
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 25363
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 22144
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 19467
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-22",
+      "a": {
+        "article": "Bradley_Cooper",
+        "pageviews": 353428,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 10305
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 8639
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 9465
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 10340
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 10659
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 13062
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 17559
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 12166
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 11044
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11247
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 11783
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12077
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 15233
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 16053
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 11961
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 10966
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 10163
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 9919
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 11729
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 12110
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 14199
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 10765
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 9748
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 9159
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 10901
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 10358
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 12720
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 14939
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 11965
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 12194
+          }
+        ]
+      },
+      "b": {
+        "article": "Clint_Eastwood",
+        "pageviews": 560871,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 58483
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 26211
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21747
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 19190
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 25920
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 29709
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 24993
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 17724
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 15173
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 15141
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 14422
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 14141
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 17768
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 18568
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 16240
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 13216
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 13565
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12986
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 14615
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 15578
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 20127
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 15803
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 13594
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 12598
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 13537
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14416
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 16999
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 19265
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 14825
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 14317
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-23",
+      "a": {
+        "article": "Taylor_Swift",
+        "pageviews": 393903,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 13322
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 12545
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 12034
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 12025
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 12397
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 12870
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 15194
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13748
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12070
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 12528
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 12899
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 13783
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 18730
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 16285
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 13182
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 13297
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 12851
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12077
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 12776
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 12649
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 15123
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 12807
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 12748
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 11136
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 11684
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 11942
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 12906
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 13617
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 13049
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 11629
+          }
+        ]
+      },
+      "b": {
+        "article": "Johnny_Depp",
+        "pageviews": 624670,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 17268
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 15366
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 14723
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 15190
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 16041
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 19983
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 20372
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 18651
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 44430
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 26359
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 19978
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 21251
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 21358
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20880
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 18357
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 17930
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 18228
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 20665
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 21853
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 22664
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 21076
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 18881
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 17258
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 18789
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 20281
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 22336
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 28171
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 24064
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 22627
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 19640
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-24",
+      "a": {
+        "article": "Angelina_Jolie",
+        "pageviews": 559194,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 15494
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 14930
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 15022
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 25136
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 23926
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 24274
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 22546
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 19097
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 18548
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 16707
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 16307
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 17951
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 23000
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 20299
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 17746
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 15284
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 14900
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 16442
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 17140
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 25750
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 23787
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 18850
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 19686
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 17590
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 15331
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14528
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 20723
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 19363
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 15004
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 13833
+          }
+        ]
+      },
+      "b": {
+        "article": "TikTok",
+        "pageviews": 883889,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 24071
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 25481
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 30752
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 24388
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 21984
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 20708
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 22302
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 22497
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 23865
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 21338
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 21277
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 20527
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 18509
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 18601
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 17772
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 20666
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 25783
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 30699
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 31159
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 27311
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 38632
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 37718
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 30174
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 26837
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 28033
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 27804
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 30387
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 30670
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 59360
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 104584
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-25",
+      "a": {
+        "article": "Star_Wars:_The_Rise_of_Skywalker",
+        "pageviews": 300046,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 10806
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 9743
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 10475
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 10648
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 10285
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 12407
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 12953
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 10456
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 8913
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 8760
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 8763
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 8432
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 11020
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 14227
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 13912
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 10076
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 8793
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 8901
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 8810
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 10325
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 11303
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 9834
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 8218
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 7866
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 7370
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 7800
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 9824
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 10705
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 9283
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 9138
+          }
+        ]
+      },
+      "b": {
+        "article": "Singapore",
+        "pageviews": 473890,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 15762
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 15216
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 15409
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 15302
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 15330
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 22171
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 17157
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 16623
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 15861
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 15647
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 15201
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 15086
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 14486
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 17114
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 15852
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 14885
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 15151
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 17124
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 16538
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 15012
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 14944
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 15499
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 15051
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 14994
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 14673
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14575
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 14239
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 15518
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 16383
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 17087
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-26",
+      "a": {
+        "article": "Justin_Bieber",
+        "pageviews": 427413,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 12620
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 12112
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 11926
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 12084
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 12041
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 13229
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 14097
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 13340
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 12735
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 12630
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 11929
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 12115
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 12646
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 12284
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 11999
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 11739
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 12117
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 12116
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 11671
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 12177
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 18333
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 40971
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 18760
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 14657
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 12740
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14641
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 15937
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 17133
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 13430
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 13204
+          }
+        ]
+      },
+      "b": {
+        "article": "Keanu_Reeves",
+        "pageviews": 695181,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 16787
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 13929
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 15504
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 18383
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 17195
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21833
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 25803
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 20622
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 32154
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 29971
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 22115
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 19529
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 24701
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 28057
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 20788
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 18898
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 21424
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 21095
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 23769
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 25960
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 33053
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 27286
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 23869
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 29008
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 26054
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 25275
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 30124
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 25111
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 19610
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 17274
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-27",
+      "a": {
+        "article": "Jennifer_Lopez",
+        "pageviews": 325594,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 9086
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 9402
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 10190
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 9194
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 10061
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 12133
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 11437
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 9966
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 9838
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 11396
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 9927
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 11109
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 12715
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 12654
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 10416
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 9536
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 10868
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 9970
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 10432
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 11426
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 13628
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 11908
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 10424
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 12917
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 10699
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 10588
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 13404
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 11586
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 9145
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 9539
+          }
+        ]
+      },
+      "b": {
+        "article": "Chernobyl_disaster",
+        "pageviews": 532835,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 16069
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 14867
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 15619
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 24070
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 20978
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 21900
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 23087
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 19996
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 18178
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 17504
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 16814
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 15951
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 16439
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 18067
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 17695
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 16348
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 15335
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 17664
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 14768
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 15163
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 17213
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 16396
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 16144
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 15093
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 15064
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 14867
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 19001
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 23517
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 20949
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 18079
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-28",
+      "a": {
+        "article": "Dwayne_Johnson",
+        "pageviews": 831541,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 21881
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 23365
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21877
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 33824
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 29662
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 39705
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 34023
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 27739
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 28441
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 23439
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 22902
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 22240
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 26100
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 28113
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 24763
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 27380
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 27730
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 22275
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 25223
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 28444
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 32157
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 34435
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 30562
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 31059
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 23930
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 22781
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 30887
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 37100
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 25718
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 23786
+          }
+        ]
+      },
+      "b": {
+        "article": "Barack_Obama",
+        "pageviews": 1361098,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 47468
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 55375
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 69563
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 87454
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 53220
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 48624
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 48861
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 45978
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 41397
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 39581
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 40388
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 38697
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 37467
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 90487
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 85186
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 47084
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 36561
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 37832
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 36058
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 34783
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 37225
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 35585
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 34415
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 35868
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 33274
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 31763
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 32373
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 34145
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 33816
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 30570
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-29",
+      "a": {
+        "article": "Canada",
+        "pageviews": 735514,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 24216
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 26838
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 29345
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 25778
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 26316
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 24473
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 25591
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 27128
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 25705
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 24190
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 27189
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 24700
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 23879
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 24136
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 26526
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 23686
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 24085
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 24240
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 24294
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 22214
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 22342
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 22086
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 23032
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 23017
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 22271
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 22264
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 22094
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 23133
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 25357
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 25389
+          }
+        ]
+      },
+      "b": {
+        "article": "Joe_Biden",
+        "pageviews": 1204627,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 37557
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 72043
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 59509
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 40693
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 37693
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 57394
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 48690
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 45399
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 47022
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 37854
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 38306
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 36300
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 33041
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 37441
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 32908
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 28123
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 27004
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 27924
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 28711
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 28254
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 45070
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 41143
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 38777
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 40860
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 40331
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 40658
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 36017
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 39372
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 33771
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 46762
+          }
+        ]
+      }
+    },
+    {
+      "id": "historical-30",
+      "a": {
+        "article": "Jeff_Bezos",
+        "pageviews": 715076,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 23837
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 21911
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 21758
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 27548
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 29351
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 30077
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 28603
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 31821
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 28887
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 25983
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 23611
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 20641
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 19357
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 18945
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 19995
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 21168
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 19692
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 20132
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 20859
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 20025
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 23210
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 30730
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 25152
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 23091
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 22138
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 22835
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 23164
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 24006
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 23709
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 22840
+          }
+        ]
+      },
+      "b": {
+        "article": "India",
+        "pageviews": 1091737,
+        "daily": [
+          {
+            "date": "2020-06-01",
+            "pageviews": 34615
+          },
+          {
+            "date": "2020-06-02",
+            "pageviews": 37427
+          },
+          {
+            "date": "2020-06-03",
+            "pageviews": 40914
+          },
+          {
+            "date": "2020-06-04",
+            "pageviews": 35643
+          },
+          {
+            "date": "2020-06-05",
+            "pageviews": 34433
+          },
+          {
+            "date": "2020-06-06",
+            "pageviews": 32686
+          },
+          {
+            "date": "2020-06-07",
+            "pageviews": 32931
+          },
+          {
+            "date": "2020-06-08",
+            "pageviews": 33305
+          },
+          {
+            "date": "2020-06-09",
+            "pageviews": 33294
+          },
+          {
+            "date": "2020-06-10",
+            "pageviews": 32702
+          },
+          {
+            "date": "2020-06-11",
+            "pageviews": 33824
+          },
+          {
+            "date": "2020-06-12",
+            "pageviews": 32858
+          },
+          {
+            "date": "2020-06-13",
+            "pageviews": 32528
+          },
+          {
+            "date": "2020-06-14",
+            "pageviews": 35746
+          },
+          {
+            "date": "2020-06-15",
+            "pageviews": 31798
+          },
+          {
+            "date": "2020-06-16",
+            "pageviews": 40694
+          },
+          {
+            "date": "2020-06-17",
+            "pageviews": 54663
+          },
+          {
+            "date": "2020-06-18",
+            "pageviews": 41329
+          },
+          {
+            "date": "2020-06-19",
+            "pageviews": 39046
+          },
+          {
+            "date": "2020-06-20",
+            "pageviews": 36756
+          },
+          {
+            "date": "2020-06-21",
+            "pageviews": 36372
+          },
+          {
+            "date": "2020-06-22",
+            "pageviews": 37977
+          },
+          {
+            "date": "2020-06-23",
+            "pageviews": 37265
+          },
+          {
+            "date": "2020-06-24",
+            "pageviews": 35417
+          },
+          {
+            "date": "2020-06-25",
+            "pageviews": 34422
+          },
+          {
+            "date": "2020-06-26",
+            "pageviews": 38657
+          },
+          {
+            "date": "2020-06-27",
+            "pageviews": 37504
+          },
+          {
+            "date": "2020-06-28",
+            "pageviews": 35126
+          },
+          {
+            "date": "2020-06-29",
+            "pageviews": 36363
+          },
+          {
+            "date": "2020-06-30",
+            "pageviews": 35442
+          }
+        ]
+      }
+    }
+  ]
+}

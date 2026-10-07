@@ -1,0 +1,439 @@
+{
+  "mode": "historical-sample",
+  "complete": false,
+  "buildDate": "2026-10-07",
+  "requestedPeriod": {
+    "start": "2026-09-01",
+    "end": "2026-09-30"
+  },
+  "sourcePeriod": {
+    "start": "2020-06-01",
+    "end": "2020-06-30"
+  },
+  "currentMonthVerified": false,
+  "project": "en.wikipedia",
+  "access": "unrecorded-by-source",
+  "agent": "unrecorded-by-source",
+  "rows": [
+    {
+      "id": "historical-01",
+      "a": {
+        "article": "Arnold_Schwarzenegger",
+        "pageviews": 540181
+      },
+      "b": {
+        "article": "United_Kingdom",
+        "pageviews": 863956
+      },
+      "ratio": 1.5993824292227976,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-02",
+      "a": {
+        "article": "Scarlett_Johansson",
+        "pageviews": 532928
+      },
+      "b": {
+        "article": "Abraham_Lincoln",
+        "pageviews": 853675
+      },
+      "ratio": 1.6018580371082023,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-03",
+      "a": {
+        "article": "The_Mandalorian",
+        "pageviews": 368493
+      },
+      "b": {
+        "article": "Australia",
+        "pageviews": 590602
+      },
+      "ratio": 1.6027495773325409,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-04",
+      "a": {
+        "article": "China",
+        "pageviews": 732802
+      },
+      "b": {
+        "article": "Elizabeth_II",
+        "pageviews": 1170459
+      },
+      "ratio": 1.5972377258795691,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-05",
+      "a": {
+        "article": "Joker_(2019_film)",
+        "pageviews": 500340
+      },
+      "b": {
+        "article": "Cristiano_Ronaldo",
+        "pageviews": 799143
+      },
+      "ratio": 1.5971999040652356,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-06",
+      "a": {
+        "article": "Chris_Hemsworth",
+        "pageviews": 407829
+      },
+      "b": {
+        "article": "Billie_Eilish",
+        "pageviews": 651254
+      },
+      "ratio": 1.5968800649291737,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-07",
+      "a": {
+        "article": "Sylvester_Stallone",
+        "pageviews": 391650
+      },
+      "b": {
+        "article": "Facebook",
+        "pageviews": 627891
+      },
+      "ratio": 1.6031941784756798,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-08",
+      "a": {
+        "article": "Tom_Hanks",
+        "pageviews": 399322
+      },
+      "b": {
+        "article": "Darth_Vader",
+        "pageviews": 637551
+      },
+      "ratio": 1.5965837093874116,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-09",
+      "a": {
+        "article": "Queen_(band)",
+        "pageviews": 354701
+      },
+      "b": {
+        "article": "Kobe_Bryant",
+        "pageviews": 569140
+      },
+      "ratio": 1.6045627162032248,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-10",
+      "a": {
+        "article": "Judy_Garland",
+        "pageviews": 467932
+      },
+      "b": {
+        "article": "Michael_Jackson",
+        "pageviews": 746279
+      },
+      "ratio": 1.5948449774753597,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-11",
+      "a": {
+        "article": "Game_of_Thrones",
+        "pageviews": 401874
+      },
+      "b": {
+        "article": "Jennifer_Aniston",
+        "pageviews": 640852
+      },
+      "ratio": 1.5946590224796826,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-12",
+      "a": {
+        "article": "Jason_Momoa",
+        "pageviews": 405376
+      },
+      "b": {
+        "article": "Freddie_Mercury",
+        "pageviews": 650850
+      },
+      "ratio": 1.6055464556362489,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-13",
+      "a": {
+        "article": "Steve_Jobs",
+        "pageviews": 594390
+      },
+      "b": {
+        "article": "Winston_Churchill",
+        "pageviews": 954966
+      },
+      "ratio": 1.6066320092868318,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-14",
+      "a": {
+        "article": "Ryan_Reynolds",
+        "pageviews": 395518
+      },
+      "b": {
+        "article": "Google",
+        "pageviews": 635470
+      },
+      "ratio": 1.606677825029455,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-15",
+      "a": {
+        "article": "Star_Wars",
+        "pageviews": 377975
+      },
+      "b": {
+        "article": "World_War_I",
+        "pageviews": 607294
+      },
+      "ratio": 1.606704147099676,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-16",
+      "a": {
+        "article": "Queen_Victoria",
+        "pageviews": 547494
+      },
+      "b": {
+        "article": "Muhammad_Ali",
+        "pageviews": 879976
+      },
+      "ratio": 1.6072797144808892,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-17",
+      "a": {
+        "article": "Eminem",
+        "pageviews": 422063
+      },
+      "b": {
+        "article": "John_F._Kennedy",
+        "pageviews": 672078
+      },
+      "ratio": 1.5923641731210743,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-18",
+      "a": {
+        "article": "LeBron_James",
+        "pageviews": 561526
+      },
+      "b": {
+        "article": "Elton_John",
+        "pageviews": 902892
+      },
+      "ratio": 1.6079255457449877,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-19",
+      "a": {
+        "article": "Bruce_Lee",
+        "pageviews": 1299161
+      },
+      "b": {
+        "article": "Elon_Musk",
+        "pageviews": 2091076
+      },
+      "ratio": 1.6095587844770587,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-20",
+      "a": {
+        "article": "Money_Heist",
+        "pageviews": 836153
+      },
+      "b": {
+        "article": "Martin_Luther_King_Jr.",
+        "pageviews": 1346244
+      },
+      "ratio": 1.6100450515635296,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-21",
+      "a": {
+        "article": "Robert_Downey_Jr.",
+        "pageviews": 413304
+      },
+      "b": {
+        "article": "Ariana_Grande",
+        "pageviews": 657107
+      },
+      "ratio": 1.589887830749279,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-22",
+      "a": {
+        "article": "Bradley_Cooper",
+        "pageviews": 353428
+      },
+      "b": {
+        "article": "Clint_Eastwood",
+        "pageviews": 560871
+      },
+      "ratio": 1.5869455730728748,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-23",
+      "a": {
+        "article": "Taylor_Swift",
+        "pageviews": 393903
+      },
+      "b": {
+        "article": "Johnny_Depp",
+        "pageviews": 624670
+      },
+      "ratio": 1.5858472771215248,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-24",
+      "a": {
+        "article": "Angelina_Jolie",
+        "pageviews": 559194
+      },
+      "b": {
+        "article": "TikTok",
+        "pageviews": 883889
+      },
+      "ratio": 1.5806482186861806,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-25",
+      "a": {
+        "article": "Star_Wars:_The_Rise_of_Skywalker",
+        "pageviews": 300046
+      },
+      "b": {
+        "article": "Singapore",
+        "pageviews": 473890
+      },
+      "ratio": 1.57939116002213,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-26",
+      "a": {
+        "article": "Justin_Bieber",
+        "pageviews": 427413
+      },
+      "b": {
+        "article": "Keanu_Reeves",
+        "pageviews": 695181
+      },
+      "ratio": 1.626485390009195,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-27",
+      "a": {
+        "article": "Jennifer_Lopez",
+        "pageviews": 325594
+      },
+      "b": {
+        "article": "Chernobyl_disaster",
+        "pageviews": 532835
+      },
+      "ratio": 1.6365012868787507,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-28",
+      "a": {
+        "article": "Dwayne_Johnson",
+        "pageviews": 831541
+      },
+      "b": {
+        "article": "Barack_Obama",
+        "pageviews": 1361098
+      },
+      "ratio": 1.6368381114100208,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-29",
+      "a": {
+        "article": "Canada",
+        "pageviews": 735514
+      },
+      "b": {
+        "article": "Joe_Biden",
+        "pageviews": 1204627
+      },
+      "ratio": 1.6378029514054118,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "id": "historical-30",
+      "a": {
+        "article": "Jeff_Bezos",
+        "pageviews": 715076
+      },
+      "b": {
+        "article": "India",
+        "pageviews": 1091737
+      },
+      "ratio": 1.5267426119741119,
+      "fact": null,
+      "factStatus": "unverified"
+    }
+  ]
+}
