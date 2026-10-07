@@ -18703,37 +18703,29 @@
         }
       ],
       "id": "ssa:F:Danielle",
-      "fact": "Daniel has the Welsh form Deiniol.",
+      "fact": "Danielle Steel’s first published novel was Going Home.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Danielle (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French feminine form of Daniel."
+          "url": "https://en.wikipedia.org/w/index.php?title=Danielle_Steel&oldid=1375136802",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Danielle Steel, revision 1375136802",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Her first novel, ''[[Going Home (Steel novel)|Going Home]]'', was published in 1973."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Deiniol (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Welsh form of Daniel."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Daniel has always flourished as a name in the East. Daniel and Verda (a rose), were martyred by Shapoor in 344; another Daniel was crazy enough to succeed Simeon Stylites on his pillar; and thus the Armenian, Montenegrin, and Slavonian races are all much attached to Daniela, or Daniil, as they call it in Russia; or in Esthonia, Taniel or Tanni. The Welsh adopted it as Deiniol, the name of the saint who founded the monastery of Bangor, the High Choir, in the sixth century, and it was"
+          "url": "https://www.britannica.com/biography/Danielle-Steel",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Danielle Steel",
+          "workId": "britannica:encyclopedia",
+          "quote": "Her first novel, Going Home, was published in 1973 but sold only moderately well."
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly identifies Danielle as a French feminine form of Daniel and Deiniol as Welsh Daniel. The actual historical Daniel paragraph explicitly says the Welsh adopted it as Deiniol. No absent Danielle spelling is attributed to the historical book. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+        "note": "Actual Wiki revision1375136802 API/content, named-author context and Going Home first-novel paragraph read. Independently parsed human Britannica paragraph2 explicitly calls it her first novel; actual contributor is Britannica Editors. Both authored works support Danielle Steel’s first published novel as Going Home. Wiki first-novel sentence has no immediate footnote; later nearby career sentences cite People, resolved to Paula Chin1992, but article is unread and not a third source. Full Wiki has no Britannica reference. Britannica quote corrected to exact human text-node punctuation spacing; raw candidate retained, only whitespace differs. No year, sales, first manuscript, family facts or universal Danielle origin asserted. Brief Wiki CC-BY-SA4.0 and copyrighted Britannica excerpts retain rights; no MIT relicensing. Shared biographical/credit lineage unaudited."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -42359,7 +42351,7 @@
         }
       ],
       "id": "ssa:M:Ronnie",
-      "fact": "Veronica's legend puts Jesus' likeness on a cloth.",
+      "fact": "Ronnie can be short for Ronald, whose Norse roots include ‘ruler’.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -42374,22 +42366,38 @@
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Veronica (pinned dictionary entry)",
+          "title": "Behind the Name: Ronald (pinned dictionary entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "This was the name of a legendary saint who wiped Jesus' face with a towel and then found his image imprinted upon it."
+          "quote": "Scottish form of Ragnvaldr"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Veronica is the same countenance upon a piece of linen, shown at St. Peter’s. Superstition, forgetting the meaning of the name, called the relic St. Veronica’s handkerchief, accounted for it by inventing a woman who had lent our Blessed Saviour a handkerchief to wipe His Face during the passage of the _Via dolorosa_, and had found the likeness imprinted upon it."
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ragnvaldr (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Old Norse name composed of the elements regin \"advice, counsel\" and valdr \"power, ruler\" (making it a cognate of Reynold)."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Ronnie_(name)&oldid=1375245474",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Ronnie (name), revision 1375245474",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "It can be a pet form of the masculine name [[Ronald]] and the feminine name [[Veronica (name)|Veronica]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Ronnie_(name)&oldid=1375245474",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Ronnie (name), revision 1375245474",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The masculine ''Ronald'' is derived from the [[Old Norse]] ''[[Rognvald|Rögnvaldr]]'', which is composed of the elements ''regin'' (\"advice\", \"decision\") and ''valdr'' (\"ruler\")."
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly permits Ronnie as Veronica’s diminutive and describes the face-on-towel legend. The actual independent historical Veronica passage explains the legendary handkerchief bearing Jesus’ likeness. The sentence expressly treats it as legend, rather than an observed historical event. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read actual BTN Ronnie, Ronald and Ragnvaldr full descriptions and scraper attribution, plus the retained Ronnie(name) introduction and immediate citation context. Both authored presentations permit the Ronald short-form route and give its Old Norse ruler component. API revision1375245474 exactly matches cached text; the separate Ronnie disambiguation page is excluded. Wiki names Hanks/Hardcastle/Hodges2006p234 for Ronald’s etymology; only that citation label was read, not the Oxford book. The exact Ronnie link has no immediate footnote. Full Wiki body has no BTN citation; deeper common lexical lineage remains unaudited. Three BTN heads count one corporate dictionary and two Wiki quotes one authored article. Can be short preserves alternative Veronica use; ruler is one component, not a whole-name translation or every-bearer origin. Brief attributed protected BTN and CC-BY-SA4 Wiki evidence retain rights; no full dataset or MIT relicensing."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -52183,53 +52191,45 @@
         }
       ],
       "id": "ssa:F:Maureen",
-      "fact": "Polly and Molly are both short forms of Mary.",
+      "fact": "Maureen O’Hara’s original surname was FitzSimons.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Maureen (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Anglicized form of Máirín."
+          "url": "https://en.wikipedia.org/w/index.php?title=Maureen_O'Hara&oldid=1379058039",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Maureen O'Hara, revision 1379058039",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "| birth_name = Maureen FitzSimons"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Máirín (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Irish diminutive of Mary."
+          "url": "https://en.wikipedia.org/w/index.php?title=Maureen_O'Hara&oldid=1379058039",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Maureen O'Hara, revision 1379058039",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''Maureen O'Hara''' ({{Nee|'''FitzSimons'''}}"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Polly (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Medieval variant of Molly."
+          "url": "https://www.britannica.com/biography/Maureen-OHara",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Richard Pallardy",
+          "title": "Maureen O’Hara",
+          "workId": "britannica:encyclopedia",
+          "quote": "Byname of: Maureen FitzSimons"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Molly (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Medieval diminutive of Mary, now often used independently."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Blessed Virgin’s name, having come through the French, was spelt in their fashion till the translation of the Bible made our national Mary familiar. Mary II. was the first of our queens who dropped the _ie_. The chief contractions and endearments are as follows:— ┌────────────────┬────────────────┬────────────────┬────────────────┐ │ English. │ French. │ Italian. │ Spanish. │ │Maria │Marie │Maria │Marïa │ │Mary │Marion │Marietta │Marinha │ │Marion │Manon │Mariuccia │Mariquinhas │ │Moll │Maion │ │Mariquita │ │Molly │Mariette │ │Maritornes │ │Polly │Maillard │ │ │"
+          "url": "https://www.britannica.com/biography/Maureen-OHara",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Richard Pallardy",
+          "title": "Maureen O’Hara",
+          "workId": "britannica:encyclopedia",
+          "quote": "At that time she adopted O’Hara as her stage name (at Laughton’s suggestion), and she appeared as Maureen O’Hara thereafter."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-        "note": "Narrowed to the independently supported Mary/Polly/Molly family. Maureen→Máirín→Mary is BTN-only review context. BTN links Polly to Molly and Molly to Mary; Yonge’s Mary contractions/endearments table independently includes Molly and Polly. No disputed meaning of Mary or exclusive derivation is asserted. All BTN headwords form one authored work; deeper lineage is unaudited."
+        "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+        "note": "Actual Wiki revision1379058039 API/content, exact birth_name/née identity and stage-name-change context read. Independently parsed Richard Pallardy Britannica metadata says Byname of Maureen FitzSimons; human paragraphs1/2 move from FitzSimons to adopted O’Hara stage name. Exact human stage-name excerpt added; FAQ/AI excluded. Both authored works support original surname FitzSimons only. Wiki lead cites Jack Beresford/The Irish Post2022; later name-change context cites O’Hara/Nicoletti2005 and Reuters, all unread and not counted separately. Full Wiki has no Britannica reference. Whitespace-only normalized quotes/raw evidence retained. No extra given/middle name, certificate verification, naming motive, year, ancestry or universal Maureen origin. Brief Wiki CC-BY-SA4.0 and copyrighted Britannica excerpts retain rights; no MIT relicensing. Shared biography/record lineage unaudited."
       },
       "recognitionVerified": true,
       "recognitionReview": {
