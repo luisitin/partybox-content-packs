@@ -1,0 +1,278 @@
+{
+  "mode": "historical-sample",
+  "year": 2017,
+  "requestedYear": 2025,
+  "complete": false,
+  "rows": [
+    {
+      "productCode": 278,
+      "label": "electric ranges or ovens (excl counter-t",
+      "sampleWeightedSum": 99.5755,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 464,
+      "label": "knives, not elsewhere classified",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 469,
+      "label": "slicers and choppers",
+      "sampleWeightedSum": 171.51100000000002,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 572,
+      "label": "televisions",
+      "sampleWeightedSum": 190.36360000000002,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 620,
+      "label": "step stools",
+      "sampleWeightedSum": 110.0297,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 671,
+      "label": "rocking chair",
+      "sampleWeightedSum": 48.5484,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 836,
+      "label": "knives with replaceable blades",
+      "sampleWeightedSum": 242.41860000000003,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1207,
+      "label": "boxing (activity, apparel or equipment)",
+      "sampleWeightedSum": 231.9644,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1217,
+      "label": "sleds",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1233,
+      "label": "trampolines",
+      "sampleWeightedSum": 108.03020000000001,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1237,
+      "label": "gas, air or spring-operated guns",
+      "sampleWeightedSum": 48.5484,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1261,
+      "label": "surfing (activity, apparel or equipment)",
+      "sampleWeightedSum": 190.36360000000002,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1807,
+      "label": "floors or flooring materials",
+      "sampleWeightedSum": 242.41860000000003,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1817,
+      "label": "porches, balconies, open-side floors or",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1820,
+      "label": "cabinet or door hardware",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1829,
+      "label": "handrails, railings or banisters",
+      "sampleWeightedSum": 25.696799999999996,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1842,
+      "label": "stairs or steps",
+      "sampleWeightedSum": 190.36360000000002,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1871,
+      "label": "fences or fence posts",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1884,
+      "label": "ceilings and walls (part of completed st",
+      "sampleWeightedSum": 110.0297,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1892,
+      "label": "glass doors or doors w/glass panels",
+      "sampleWeightedSum": 180.9373,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 1893,
+      "label": "doors, other or not specified",
+      "sampleWeightedSum": 169.5115,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 3216,
+      "label": "roller skating (activity, apparel or equ",
+      "sampleWeightedSum": 108.03020000000001,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 3255,
+      "label": "ice skating (activity, apparel or equipm",
+      "sampleWeightedSum": 48.5484,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 3277,
+      "label": "exercise equipment",
+      "sampleWeightedSum": 108.03020000000001,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 3278,
+      "label": "dancing (activity, apparel or equipment)",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 4014,
+      "label": "furniture, not specified",
+      "sampleWeightedSum": 241.39069999999998,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 4074,
+      "label": "chairs, other or not specified",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 4076,
+      "label": "beds or bedframes, other or not spec",
+      "sampleWeightedSum": 251.8449,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 5019,
+      "label": "games or game parts (excl marbles & comp",
+      "sampleWeightedSum": 119.456,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    },
+    {
+      "productCode": 5042,
+      "label": "scooters/skateboards, powered",
+      "sampleWeightedSum": 96.60440000000001,
+      "sampleCaseCount": 3,
+      "nationalEstimate": null,
+      "fact": null,
+      "factStatus": "unverified"
+    }
+  ]
+}

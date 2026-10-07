@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.example/schemas/C01/fixture.schema.json",
+  "title": "C01 historical injury sample source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["mode", "sourceYear", "requestedYear", "source", "injuries", "products"],
+  "properties": {
+    "mode": {"const": "historical-sample"},
+    "sourceYear": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+    "requestedYear": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+    "source": {"type": "string", "minLength": 1, "pattern": "\\S"},
+    "injuries": {
+      "type": "array",
+      "minItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["caseId", "products", "weight"],
+        "properties": {
+          "caseId": {"type": "string", "minLength": 1, "pattern": "\\S"},
+          "products": {
+            "type": "array",
+            "minItems": 1,
+            "items": {"type": "integer", "minimum": 1, "maximum": 9007199254740991}
+          },
+          "weight": {"type": "number", "exclusiveMinimum": 0}
+        }
+      }
+    },
+    "products": {
+      "type": "array",
+      "minItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["code", "label"],
+        "properties": {
+          "code": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+          "label": {"type": "string", "minLength": 1, "pattern": "\\S"}
+        }
+      }
+    }
+  }
+}

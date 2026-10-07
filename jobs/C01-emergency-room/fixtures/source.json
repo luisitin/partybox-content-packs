@@ -1,0 +1,760 @@
+{
+  "mode": "historical-sample",
+  "sourceYear": 2017,
+  "requestedYear": 2025,
+  "source": "https://raw.githubusercontent.com/hadley/neiss/09ed9eba12e10732efb83ef82b4213a020521cc5/data/injuries.rda",
+  "injuries": [
+    {
+      "caseId": "170100733",
+      "products": [
+        1207
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170100734",
+      "products": [
+        1807
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170100737",
+      "products": [
+        620
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170102021",
+      "products": [
+        4076
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170102025",
+      "products": [
+        1807
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170102026",
+      "products": [
+        1884
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170102907",
+      "products": [
+        1807
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102908",
+      "products": [
+        4074
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102909",
+      "products": [
+        4076
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102914",
+      "products": [
+        5042
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102915",
+      "products": [
+        3278
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102916",
+      "products": [
+        4014
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102918",
+      "products": [
+        1893
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102919",
+      "products": [
+        1842
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102920",
+      "products": [
+        1842
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102921",
+      "products": [
+        4076
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102923",
+      "products": [
+        1817
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102925",
+      "products": [
+        572
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102930",
+      "products": [
+        3216
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102931",
+      "products": [
+        1892
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170102933",
+      "products": [
+        1233
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170103868",
+      "products": [
+        836
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170103981",
+      "products": [
+        1842
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103983",
+      "products": [
+        464
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103985",
+      "products": [
+        1237
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103986",
+      "products": [
+        1884
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103988",
+      "products": [
+        1233
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103990",
+      "products": [
+        1871
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103991",
+      "products": [
+        4074
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103993",
+      "products": [
+        1884
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170103995",
+      "products": [
+        469
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104001",
+      "products": [
+        5019
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104002",
+      "products": [
+        3277
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104005",
+      "products": [
+        1820
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104007",
+      "products": [
+        278
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104123",
+      "products": [
+        3278
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104124",
+      "products": [
+        1829
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104125",
+      "products": [
+        3255
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104128",
+      "products": [
+        3255
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104130",
+      "products": [
+        1261
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104132",
+      "products": [
+        1217
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104133",
+      "products": [
+        671
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104141",
+      "products": [
+        4074
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170104149",
+      "products": [
+        3255
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170105453",
+      "products": [
+        3216
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170105455",
+      "products": [
+        1817
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170106092",
+      "products": [
+        3216
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106099",
+      "products": [
+        3277
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106104",
+      "products": [
+        5042
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106108",
+      "products": [
+        1829
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106119",
+      "products": [
+        1829
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106123",
+      "products": [
+        1893
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106135",
+      "products": [
+        1892
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170106139",
+      "products": [
+        1893
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170106151",
+      "products": [
+        469
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170106222",
+      "products": [
+        1817
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170106250",
+      "products": [
+        464
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170106724",
+      "products": [
+        1233
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170106911",
+      "products": [
+        464
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170106918",
+      "products": [
+        1207
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170107617",
+      "products": [
+        4014
+      ],
+      "weight": 67.2099
+    },
+    {
+      "caseId": "170107695",
+      "products": [
+        5019
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170108072",
+      "products": [
+        3278
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170108091",
+      "products": [
+        836
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170108437",
+      "products": [
+        5042
+      ],
+      "weight": 4.757
+    },
+    {
+      "caseId": "170108760",
+      "products": [
+        4014
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170108774",
+      "products": [
+        3277
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170109409",
+      "products": [
+        572
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170109853",
+      "products": [
+        1892
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170109914",
+      "products": [
+        469
+      ],
+      "weight": 77.6641
+    },
+    {
+      "caseId": "170109980",
+      "products": [
+        836
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170112019",
+      "products": [
+        1871
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170112076",
+      "products": [
+        1237
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170112418",
+      "products": [
+        1820
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170112434",
+      "products": [
+        1871
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170113400",
+      "products": [
+        1261
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170113404",
+      "products": [
+        1261
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170113769",
+      "products": [
+        572
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170113918",
+      "products": [
+        5019
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170114609",
+      "products": [
+        1207
+      ],
+      "weight": 67.2099
+    },
+    {
+      "caseId": "170115526",
+      "products": [
+        1820
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170115540",
+      "products": [
+        1217
+      ],
+      "weight": 87.0904
+    },
+    {
+      "caseId": "170116043",
+      "products": [
+        1217
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170119978",
+      "products": [
+        671
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170122196",
+      "products": [
+        620
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170122391",
+      "products": [
+        671
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170124109",
+      "products": [
+        620
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170124158",
+      "products": [
+        1237
+      ],
+      "weight": 16.1828
+    },
+    {
+      "caseId": "170132107",
+      "products": [
+        278
+      ],
+      "weight": 67.2099
+    },
+    {
+      "caseId": "170132142",
+      "products": [
+        278
+      ],
+      "weight": 16.1828
+    }
+  ],
+  "products": [
+    {
+      "code": 278,
+      "label": "electric ranges or ovens (excl counter-t"
+    },
+    {
+      "code": 464,
+      "label": "knives, not elsewhere classified"
+    },
+    {
+      "code": 469,
+      "label": "slicers and choppers"
+    },
+    {
+      "code": 572,
+      "label": "televisions"
+    },
+    {
+      "code": 620,
+      "label": "step stools"
+    },
+    {
+      "code": 671,
+      "label": "rocking chair"
+    },
+    {
+      "code": 836,
+      "label": "knives with replaceable blades"
+    },
+    {
+      "code": 1207,
+      "label": "boxing (activity, apparel or equipment)"
+    },
+    {
+      "code": 1217,
+      "label": "sleds"
+    },
+    {
+      "code": 1233,
+      "label": "trampolines"
+    },
+    {
+      "code": 1237,
+      "label": "gas, air or spring-operated guns"
+    },
+    {
+      "code": 1261,
+      "label": "surfing (activity, apparel or equipment)"
+    },
+    {
+      "code": 1807,
+      "label": "floors or flooring materials"
+    },
+    {
+      "code": 1817,
+      "label": "porches, balconies, open-side floors or"
+    },
+    {
+      "code": 1820,
+      "label": "cabinet or door hardware"
+    },
+    {
+      "code": 1829,
+      "label": "handrails, railings or banisters"
+    },
+    {
+      "code": 1842,
+      "label": "stairs or steps"
+    },
+    {
+      "code": 1871,
+      "label": "fences or fence posts"
+    },
+    {
+      "code": 1884,
+      "label": "ceilings and walls (part of completed st"
+    },
+    {
+      "code": 1892,
+      "label": "glass doors or doors w/glass panels"
+    },
+    {
+      "code": 1893,
+      "label": "doors, other or not specified"
+    },
+    {
+      "code": 3216,
+      "label": "roller skating (activity, apparel or equ"
+    },
+    {
+      "code": 3255,
+      "label": "ice skating (activity, apparel or equipm"
+    },
+    {
+      "code": 3277,
+      "label": "exercise equipment"
+    },
+    {
+      "code": 3278,
+      "label": "dancing (activity, apparel or equipment)"
+    },
+    {
+      "code": 4014,
+      "label": "furniture, not specified"
+    },
+    {
+      "code": 4074,
+      "label": "chairs, other or not specified"
+    },
+    {
+      "code": 4076,
+      "label": "beds or bedframes, other or not spec"
+    },
+    {
+      "code": 5019,
+      "label": "games or game parts (excl marbles & comp"
+    },
+    {
+      "code": 5042,
+      "label": "scooters/skateboards, powered"
+    }
+  ]
+}

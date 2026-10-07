@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.example/schemas/C01/pack.schema.json",
+  "title": "C01 historical sample pack; not national estimates",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["mode", "year", "requestedYear", "complete", "rows"],
+  "properties": {
+    "mode": {"const": "historical-sample"},
+    "year": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+    "requestedYear": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+    "complete": {"const": false},
+    "rows": {
+      "type": "array",
+      "minItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["productCode", "label", "sampleWeightedSum", "sampleCaseCount", "nationalEstimate", "fact", "factStatus"],
+        "properties": {
+          "productCode": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+          "label": {"type": "string", "minLength": 1, "pattern": "\\S"},
+          "sampleWeightedSum": {"type": "number", "exclusiveMinimum": 0},
+          "sampleCaseCount": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+          "nationalEstimate": {"type": "null"},
+          "fact": {"type": "null"},
+          "factStatus": {"const": "unverified"}
+        }
+      }
+    }
+  }
+}
