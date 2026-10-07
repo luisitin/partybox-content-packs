@@ -1,29 +1,15 @@
 # Resume C05
 
-Stage: all500 selected facts and all500 editorial recognition notes are
-integrated; production complete golden and final full local checks pass. C05 remains ACTIVE during KEEP GOING; initial PR and CI are actually green.
-Nickname codex-queue. No current primary-source blocker exists.
+Stage: 500 reviewed facts and 500 separate editorial recognition notes are delivered. All initial full checks passed; PR #1 is open. KEEP GOING is ACTIVE, with 22 substantive fact improvements across four rounds and zero consecutive no-player-gain rounds. Nickname codex-queue. No current primary-source blocker.
 
-1. Read current main CLAIMS and branch status; preserve concurrent changes. Refresh the owned claim on main with every push and within30minutes. Read Git history for actual delivered commits.
-2. Preserve immutable official ZIP,500-ID selected manifest,64262 annual rows,sourceSHAfd96 and all numeric/recognition records. The2020–2025 period is six observed years;2026–2029 future years remain separate from missing published records. Never project counts.
-3. Final assembly adds Gail,Jon,Colton,Brayden,Nolan,Bryce,Brody and upgrades Beth. Reviews and literal quotes are portable in fixtures/curation.json. The realcomplete golden must equal serialiseComplete(buildComplete(source,curation)) and pass strict schema. Candidate modes remain completefalse.
-4. Actual two-timezone generations passed, exec81272 exit0. Final full npmtest completed exec91770 exit0:42/42 initial tests, exact42/15/9 baselines,34/34 mutants,12 compiledfiles restored byte/hash-exact,17checksums. See VERIFY and /tmp/c05-final500-full-completion-evidence.json. Do not repeat unchanged full checks absent a relevant change/failure.
-5. Preserve earlier actual full42/34/12/16 code-gate result and493 focused result as historical evidence. Final manual30 seeded rows were actually compared with nine SSA decade tables; all match. Facts are separate authored-source checks, not fake human surveys.
-6. Actual PR https://github.com/luisitin/partybox-content-packs/pull/1 is open. Initial C05 CI completed success at head1237bc5451b882f2dcd5727776a3fced6eac5dc3, run37694191879. Check later heads separately; earlier green is not proof of a newly pushed head.
-7. KEEP GOING round1 has reread JOBS/RULES and identified confusing root chains, weak obvious variants, tentative etymologies, partial-period comparisons and demographic recognition limits. Round1 completed locally: nine facts integrated; actual generation/8 focused tests/17checksums pass,500metrics andrecognition records unchanged. Read LOOP for measuredgains and Git history fordelivery. Randy remains under research; stronger Tony/Maria/Jamie/Gracie candidates await independent review. Continue until three consecutive actual rounds gain nothing a player notices, then claim the lowest eligible job.
+1. Read main CLAIMS and branch status before changing anything. Refresh the owned claim on main with every push and within 30 minutes. Preserve concurrent changes and use Git history for actual delivery.
+2. Preserve the immutable official SSA ZIP, 500-ID manifest, 64,262 annual rows and source SHA fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2. All 500 metrics and recognition records remained unchanged during the four fact rounds. The 2020s are six observed years (2020–2025); future 2026–2029 cells are separate. Do not project counts.
+3. All literal supporting quotes, authors/work IDs, rights limitations and review notes are portable in fixtures/curation.json. The production golden must equal serialiseComplete(buildComplete(source,curation)) and pass strict schema. Candidate modes always remain complete:false. No participant survey or playtest is claimed.
+4. Final full npm test actually completed exec91770 exit0: 42/42 initial tests; exact42/15/9 mutation baselines;34/34 mutants caught;12 compiled files restored byte/hash-exact;17 checksums. Final manual30 selected numeric rows were read against nine SSA decade tables and all matched. See VERIFY; do not repeat unchanged full checks without a relevant change/failure.
+5. KEEP GOING rounds1–4 improved respectively9,5,4,4 facts. Each actually regenerated both outputs and passed8/8 focused tests, two-timezone byte repeatability and17 refreshed checksums. Latest local round4 session53428 returned0. LOOP and VERIFY record actual evidence and source limitations; CONFLICTS records the new Renee/Lisa/Ryan decisions.
+6. PR https://github.com/luisitin/partybox-content-packs/pull/1 is open. Initial full CI succeeded at1237bc5451b882f2dcd5727776a3fced6eac5dc3/run37694191879; later round2 head71d446ccee2645a51a727156f74d8e0b29070b36/run37697061204 also succeeded. Check the current pushed head separately: earlier green does not prove a new head green.
+7. Two independent agents are assessing remaining facts and player-facing limits; a third is auditing source/conflict documentation. Resume their concrete findings or perform a fresh assessment of five weaknesses. Fix the worst actual player-visible issue, measure/log/push one round at a time. Do not call remaining gains cosmetic without an actual assessment. After three consecutive genuine zero-player-gain rounds and current-head green CI, claim the lowest eligible queue job from main.
 
 ## Re-verify when web works
 
-SSA/GitHub/GeoNames access currently works. Some optional reference hosts had
-actual CONNECT denials with useful pinned GitHub fallbacks. Check actual current
-responses before relying on historical blocks. Saved environment draft is not
-runtime application, publication or proof of new-task restoration. The latest
-confirmed restart/reconnect was20:48:48Z; retained toolchain checks passed.
-
-## Current round2
-
-Integrated5 independently approved playerfact replacements: ssa:F:Gracie, ssa:F:Jamie, ssa:F:Maria, ssa:M:Randy, ssa:M:Tony. Round2 actual localchecks pass:8/8 focusedtests,17SHA matches,bothoutputs repeat identically,all500metrics/recognitions preserved. Read LOOP/Git fordelivery. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-next-five-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
-
-## Current round3
-
-Integrated4 independently approved playerfact replacements: ssa:F:Kristina, ssa:F:Sophie, ssa:M:Jeff, ssa:M:Rick. Round3 actual localchecks pass:8/8 focusedtests,17SHA matches,bothoutputs repeat identically,all500metrics/recognitions preserved. Read LOOP/Git fordelivery. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-extra-four-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
+SSA/GitHub/GeoNames and the used Britannica articles are currently reachable. Optional blocked hosts had pinned GitHub or other live alternatives; recheck actual responses before relying on historical denials. The managed environment reconnected at22:13:11Z and retained toolchain checks passed. The saved environment configuration draft is not publication, runtime application or proof of new-task restoration.

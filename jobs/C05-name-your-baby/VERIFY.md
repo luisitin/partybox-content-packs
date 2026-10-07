@@ -2975,3 +2975,16 @@ sha256sum --check SHA256SUMS.txt > /tmp/c05-keep3-sha.log
 ```
 
 Actual generator/focused execsession51216 exit0 and persistedstatus0:8/8 tests,zero fail/cancel/skip/todo,13.147621453seconds. All17 refreshed checksums pass. Tests run strict realcomplete/candidate schemas, exact actualgolden bytes, two-timezone repeatability and25 protected negativeinvocations perCLI; root additionally compared all500 metricfields with unchangedbasepack. Candidate modes remainfalse; realcomplete:true with500reviewedfacts/recognition. This catches changed counts, nondeterministic data, forgedgoldens and source-overwrites. Measured gain:4 changed playervisiblefacts; no fabricated participant survey or cosmetic convergence. Code/source/dependencies are unchanged, so the earlier full42/34/12 result remains separately identified. Evidence `/tmp/c05-keep3-completion-evidence.json`.
+
+## KEEP GOING round4: 4 substantive improvements
+
+Reread C05 in JOBS and listed five weaknesses: remaining obvious variants; uncertain literal etymologies; shallow cultural hooks; partial-period comparability; recognition demographic limits. Actual `python /tmp/c05-integrate-quality-round.py 4 /tmp/c05-quality-next-four-approved-fact-overlays.json 9588d7d23a2d572eaf50b3d992c76bc31a7c8a5030ee46a17ef108f540068e1f` replaced 4 reviewed facts, preserving496 untouchedrows and everyrecognitionrecord. Then from this job folder actually ran:
+
+```sh
+npm run generate:reviewed > /tmp/c05-keep4-generate-reviewed.log 2>&1
+npm run generate:complete > /tmp/c05-keep4-generate-complete.log 2>&1
+node --test dist/test/reviewed.test.js dist/test/complete.test.js > /tmp/c05-keep4-focused-tests.log 2>&1
+sha256sum --check SHA256SUMS.txt > /tmp/c05-keep4-sha.log
+```
+
+Actual generator/focused execsession53428 exit0 and persistedstatus0:8/8 tests,zero fail/cancel/skip/todo,16.019481162seconds. All17 refreshed checksums pass. Tests run strict realcomplete/candidate schemas, exact actualgolden bytes, two-timezone repeatability and25 protected negativeinvocations perCLI; root additionally compared all500 metricfields with unchangedbasepack. Candidate modes remainfalse; realcomplete:true with500reviewedfacts/recognition. This catches changed counts, nondeterministic data, forgedgoldens and source-overwrites. Measured gain:4 changed playervisiblefacts; no fabricated participant survey or cosmetic convergence. Code/source/dependencies are unchanged, so the earlier full42/34/12 result remains separately identified. Evidence `/tmp/c05-keep4-completion-evidence.json`.

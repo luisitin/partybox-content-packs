@@ -736,28 +736,68 @@
     }
   },
   {
-    "fact": "Lisa is a short form of Elizabeth.",
+    "fact": "Lisa del Giocondo is traditionally thought to be Leonardo's Mona Lisa sitter.",
     "factReferences": [
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Short form of Elizabeth and its cognates in other languages.",
-        "title": "Behind the Name: Lisa and explicitly linked name entries",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://www.britannica.com/topic/Mona-Lisa-painting",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Mona Lisa | Painting, Painter, History, Meaning, & Facts, updated September 21, 2026",
+        "workId": "britannica:encyclopedia",
+        "quote": "Mona Lisa, oil painting on a poplar wood panel by Leonardo da Vinci"
       },
       {
-        "author": "Charlotte Mary Yonge",
-        "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
-        "quote": "No name has so many varieties of contraction, as will be seen by the ensuing list, where, in deference to modern usage, Elizabeth is placed separately from Isabella. […] │Elizabeth │Elizabeth │Elisabeth […] │Lisa │",
-        "title": "History of Christian Names (1884)",
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "workId": "yonge-history-of-christian-names-1884"
+        "url": "https://www.britannica.com/topic/Mona-Lisa-painting",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Mona Lisa | Painting, Painter, History, Meaning, & Facts, updated September 21, 2026",
+        "workId": "britannica:encyclopedia",
+        "quote": "Scholars and historians have posited numerous interpretations, including that she is Lisa del Giocondo (née Gherardini)"
+      },
+      {
+        "url": "https://www.britannica.com/topic/Mona-Lisa-painting",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Mona Lisa | Painting, Painter, History, Meaning, & Facts, updated September 21, 2026",
+        "workId": "britannica:encyclopedia",
+        "quote": "If this traditional identification, first suggested in 1550 by artist biographer Giorgio Vasari, is accurate"
+      },
+      {
+        "url": "https://www.britannica.com/topic/Mona-Lisa-painting",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Mona Lisa | Painting, Painter, History, Meaning, & Facts, updated September 21, 2026",
+        "workId": "britannica:encyclopedia",
+        "quote": "The sitter’s identity has not been definitively proven."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Mona_Lisa&oldid=1377032499",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Mona Lisa, lead and Title and subject section",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "is a half-length [[portrait painting]] by the Italian artist [[Leonardo da Vinci]]."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Mona_Lisa&oldid=1377032499",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Mona Lisa, lead and Title and subject section",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The painting has been traditionally considered to depict the Italian noblewoman [[Lisa del Giocondo]]."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Mona_Lisa&oldid=1377032499",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Mona Lisa, lead and Title and subject section",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The [[Artwork title|title of the painting]], which is known in English as ''Mona Lisa'', is based on the presumption that it depicts [[Lisa del Giocondo]], although her likeness is uncertain."
       }
     ],
     "factReview": {
-      "note": "Individual comparison of actual cached Charlotte Mary Yonge book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. The name-specific Elizabeth contraction table is read with its caption and English column, not merely searched in the glossary. No disputed literal Hebrew gloss is selected. Recognition is separately reviewed below.",
-      "reviewer": "Codex source research subagent /root/c05_bible_gap_facts"
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual Wiki revision1377032499 API/content identity and lead/Title-and-subject context read. Human Britannica paragraphs0/3/4, Editors byline and Article metadata read; FAQ/AI excluded. Both authored works name Leonardo as painter and Lisa del Giocondo as traditional portrait-subject identification, retaining uncertainty. Wiki cites Heidelberg; Vasari/Clark, Louvre caution and catalogue probability are contextual citations, not directly read third sources. Full Wiki body has no Britannica reference. Seven separate exact contiguous quotes replace marked-ellipsis joins, with whitespace-only normalization. Fact retains traditionally thought to be; no definitive sitter identity, proved posing sessions, dates, name origin or universal Lisa link. Shared older tradition/deeper lineage unaudited. Brief Wiki CC-BY-SA4.0 and copyrighted Britannica excerpts retain rights; no MIT relicensing."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Lisa",
@@ -769,29 +809,37 @@
   },
   {
     "id": "ssa:M:Ryan",
-    "fact": "Ryan began as an Irish surname.",
+    "fact": "Ryan Gosling and Britney Spears were castmates on The Mickey Mouse Club.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Ryan+%28given+name%29&oldid=1373620743",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "Ryan (given name), revision 1373620743",
-        "workId": "wikipedia:Ryan (given name):1373620743",
-        "quote": ". Traditionally a male name, it has been used increasingly for both boys and girls since the 1970s. It comes from the surname [[Ryan (surname)|Ryan]],<ref>{{citation |last1=Hanks |first1=Patrick |author-link=Patrick Hanks |last2=Hardcastle |first2=Kate |last3=Ho"
+        "url": "https://www.britannica.com/biography/Ryan-Gosling",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Nicholas Gisonna",
+        "title": "Ryan Gosling | Movies, Project Hail Mary, Drive, The Notebook, Blade Runner, & Facts (updated September 27, 2026)",
+        "workId": "britannica:encyclopedia",
+        "quote": "When he was 12, he successfully auditioned for a role on the The All-New Mickey Mouse Club, joining a cast that included future music stars Britney Spears, Christina Aguilera, and Justin Timberlake from 1993 to 1995."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Ryan (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "From an Irish surname that was derived from Ó Riain meaning \"descendant of Rían\". The given name Rían probably means \"little king\" (from Irish rí \"king\" combined with a di"
+        "url": "https://en.wikipedia.org/w/index.php?title=Ryan_Gosling&oldid=1062246160",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Ryan Gosling, revision 1062246160, December 27, 2021",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "In 1993, twelve-year-old Gosling attended an open audition in [[Montreal]] for a revival of the [[Disney Channel]]'s ''[[The Mickey Mouse Club]]''."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Ryan_Gosling&oldid=1062246160",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Ryan Gosling, revision 1062246160, December 27, 2021",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Fellow cast members included [[Britney Spears]], [[Christina Aguilera]], and [[Justin Timberlake]]."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_wiki_names",
-      "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Hanks, Hardcastle, Hodges, A Dictionary of First Names, 2006, p.355. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read actual Gisonna human paragraphs, printed byline and Article metadata, excluding AI FAQs, and the full retained 2021 Wikipedia cast paragraph. Both support Gosling and Spears sharing the show’s cast. API revision1062246160 exactly matches the cached text; its 2021 timestamp predates the retrieved Britannica datePublished2023 metadata. This does not certify earlier publication history or rule out later borrowing or common sources. The old body has no Britannica citation; current Wiki’s explicit Britannica dependency for exact show years is excluded. Three quotes count as two authored presentations. About.com, People, CNN and Angelfire cited nearby were not read or counted. Brief attributed quotes; Wiki CC BY-SA4 rights evidence retained, Britannica copyrighted. No age, dates, friendship, name-origin or every-bearer claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -2505,29 +2553,29 @@
   },
   {
     "id": "ssa:F:Diane",
-    "fact": "Diane is a French form of Diana.",
+    "fact": "Diane Keaton was originally named Diane Hall.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Diane (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "French form of Diana, also regularly used in the English-speaking world."
+        "url": "https://www.britannica.com/biography/Diane-Keaton",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Diane Keaton | Biography, Movies, Godfather, & Facts, updated October 7, 2026, Quick Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "Original name: Diane Hall"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Greece was usually the scene. Jorge de Montemayor, the Spanish gentleman who led the way in this flowery path, named his heroine, Diana, and she was quickly copied by the sponsors of Diane de Poitiers, the fair widow whose colours of black and white were worn by Henry II. of France even to his last fatal tournament. Diane thus became so fashionable in France, that when the Cavalier court was there residing, the English caught the fashion, and thenceforth Lady Dye at times appeared among the"
+        "url": "https://en.wikipedia.org/w/index.php?title=Diane_Keaton&oldid=1375938088",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Diane Keaton, Early life section",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Diane Hall was born on January 5, 1946, in [[Los Angeles]] to Dorothy Deanne (née Keaton; 1921–2008) and John Newton Ignatius \"Jack\" Hall (1922–1990),"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Both actual pinned authored dictionary/book passages individually read for this narrow original claim. Linked dictionary entries remain one work. Yonge disputed roots/chronology excluded; BTN corporate editorial identity read-supported and individual author unestablished. Distinct authored works, with shared deeper authorities unaudited. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual retained Wiki revision1375938088 API identity, birth_name field, named lead and early-life birth/name-change context read. Independently parsed Britannica original-name Quick Facts dt/dd says Diane Hall, with same alias header and actual Editors byline/Article metadata; FAQ/AI answers excluded. Both authored works identify Diane Keaton’s original name as Diane Hall. Birth paragraph cites a California death certificate; that document and later Parade/Dunne name-change articles were not read or counted. Full Wiki body has no Britannica reference. Narrow original-name fact only: no dates, family details, death causes, union rules or name-change motives. Exact original quotes preserved with whitespace-only normalization; source rights retained, Wiki CC-BY-SA4.0 and copyrighted Britannica prose, no MIT relicensing. Deeper shared public-biography/record lineage unaudited; no independently certified birth evidence."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -8721,16 +8769,40 @@
   },
   {
     "id": "ssa:F:Renee",
-    "fact": "Renee is a feminine form of René.",
+    "fact": "Renee can be traced to Latin renatus, meaning 'reborn'.",
     "factStatus": "reviewed",
     "factReferences": [
       {
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Renee (pinned 2021 dictionary distribution)",
+        "title": "Behind the Name: Renee (pinned dictionary entry)",
         "workId": "behind-the-name:dictionary",
-        "quote": "English form of Renée. […] French feminine form of René."
+        "quote": "English form of Renée."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Renée (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "French feminine form of René."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: René (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "French form of Renatus."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Renatus (pinned dictionary entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Late Latin name meaning \"born again\"."
       },
       {
         "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Renee",
@@ -8739,11 +8811,19 @@
         "title": "The Dictionary of Medieval Names from European Sources: Renee, edition 2023.1",
         "workId": "dmnes:dictionary:2023.1",
         "quote": "Renee f. Fem. of Rene."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Rene",
+        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+        "author": "S.L. Uckelman",
+        "title": "The Dictionary of Medieval Names from European Sources: Rene, edition 2023.1",
+        "workId": "dmnes:dictionary:2023.1",
+        "quote": "Rene m. Latin renatus 'reborn'."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary + /root/c05_fact_pair_review",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read the actual four-headword BTN chain and mirror scraper provenance, plus both complete DMNES entries, etymology paragraphs, S.L. Uckelman citeme blocks and copyright footers. BTN links Renee→Renée→René→Renatus (born again); DMNES links Renee→Rene→Latin renatus (reborn). These are two authored dictionary presentations; six references do not count as six independent works. The actual Yonge1884 passage and glossary give a conflicting Teutonic lineage and treat regeneration as a later learned association. That account is disclosed and excluded from corroboration; can be traced avoids an exclusive historical-origin claim. Deeper modern lexical lineage and cited attestation records are unread. Brief attributed dictionary quotes; public mirrors do not grant unrestricted prose reuse. No ancient exact spelling, first-use date or modern named author invented."
     },
     "recognitionVerified": true,
     "recognitionReview": {
