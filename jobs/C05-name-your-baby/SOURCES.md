@@ -156,6 +156,44 @@ Thirteen further original selected identities use actually read independent bear
 
 The current reviewed candidate pack has **375** independently authored fact pairs and **125** missing facts, with **500** explicit editorial recognition accepts. Complete remains false. All 500 numeric rows match its separately regenerated base pack. Older coverage totals above describe their actual earlier milestones; they are not current missing-field claims.
 
+## Additional lexical research and retained reference notice
+
+The next, not-yet-integrated research batch actually read Princeton WordNet3.1 noun synsets from the immutable npm distribution https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz. Registry integrity and archive members were checked by the researcher; selected data.noun SHA256 is2cad22fe43461ee7ae61a564ae6a518c57445c8597e53542caddb5c26a6a5d94. Root independently checked byte offsets for its selected Dale, Brady and Lynn evidence. The database is Princeton's authored work; the npm wrapper's MIT terms do not license the database. The following complete notice accompanies any redistributed definition excerpts in this folder. Notice SHA256 is5d6a235d57cc076574f81156ff7211c5dff22914219994ffa29f6fd1c30feeb7.
+
+Other actual-read lexical deliveries are pinned Wiktionary corpora and public-domain Webster conversion. Exact article/corpus URLs and provenance are retained in the pending per-row artifacts/audits; accepted references will enter the current URL index. All Wiktionary mirrors are treated as one corporate author group. The unusual Summer arithmetic definition remains held for unclear source dependence; lack of import attribution in a stripped mirror is not proof of independent authorship. No full dictionary or prose dataset is copied into this repository.
+
+```text
+This software and database is being provided to you, the LICENSEE, by
+Princeton University under the following license.  By obtaining, using
+and/or copying this software and database, you agree that you have
+read, understood, and will comply with these terms and conditions.:
+
+Permission to use, copy, modify and distribute this software and
+database and its documentation for any purpose and without fee or
+royalty is hereby granted, provided that you agree to comply with
+the following copyright notice and statements, including the disclaimer,
+and that the same appear on ALL copies of the software, database and
+documentation, including modifications that you make for internal
+use or for distribution.
+
+WordNet 3.1 Copyright 2011 by Princeton University.  All rights reserved.
+
+THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
+UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
+UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE
+OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT
+INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR
+OTHER RIGHTS.
+
+The name of Princeton University or Princeton may not be used in
+advertising or publicity pertaining to distribution of the software
+and/or database.  Title to copyright in this software, database and
+any associated documentation shall at all times remain with
+Princeton University and LICENSEE agrees to preserve same.
+```
+
 ## Current fact-source URL index
 
 Generated from the current curated references. Each entry names the actually read authored work and the selected identities whose narrow facts or supporting quotations were taken. References sharing one dictionary URL remain one authored work, even when linked headwords differ. Licenses and source limitations are described above.

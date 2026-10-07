@@ -2834,3 +2834,17 @@ Actual completed exec exit **0**, independently persisted underlying npm status 
 Expanded five official-source tests executed 32 Python processes: two full uncached ZIP regenerations, 29 rejected CLI invocations and one direct decoder/manifest boundary process. Eleven manifest boundary cases join the existing 36 annual-record cases. The selected manifest's hash is checked before JSON decode; ZIP hash before archive decoding. Every selected identity is requalified/ranked against the full source. Direct, normalized, symlink and hardlink output aliases of both inputs are rejected; changed inputs are rehashed before atomic publication; sentinels/inputs and staging cleanup are checked. These tests would catch forged manifests, accidental input overwrites, unqualified names or source changes during extraction. Current tests validate the exact 500-ID manifest with strict AJV and assert removed/added identities, category totals, partial peaks and final qualification.
 
 Reviewed output: 500 rows, **375** reviewed facts, **125** null unresolved facts, **500** separate editorial recognition notes, complete false. Every numeric field matches the base pack. Two generators' outputs are byte-identical to their respective checked-in source/golden fixtures under the existing timezone/repetition tests. Current curation SHA256 `e2a9cae41bb12f9223e950f02e9e58c1691e6b5bdbcda915b7f12aeee98d9493`; reviewed pack SHA256 `7116c2a23983d7714a81c203b4378b40d46d7ff9464c57bbc590e23aa53944c6`. Mutation report and actual completion proof are retained separately at `/tmp/c05-selected-375-integrated-mutation-report.json` and `/tmp/c05-selected-375-integrated-completion-evidence.json`. This is not complete content, PR/CI or KEEP GOING completion.
+
+## Third environment reconnection and selected-workflow readiness
+
+The environment briefly reported starting and reconnected at 2026-10-07T20:48:48Z. The checkout remained clean on pushed feature 29f654fde151839eb5952daac536b3397db4fe4c, with main claim 80ba74543ff70f3112cc42b779aa1f2eeebc0afc refreshed at20:36:00Z. No running full-test command was lost in this restart: the selected375 full exit0 evidence was completed and retained before it. Observed runtime state is running/connected with current observations, while network policy state remains unknown; saved custom domains do not establish enforcement.
+
+From this job folder, actually executed:
+
+```sh
+npm run build && node --test dist/test/reviewed.test.js && sha256sum --check SHA256SUMS.txt
+```
+
+Actual completed exec exit0: strict compilation; all four reviewed-workflow tests passed, zero failures/cancellations/skips/todos, 12.523109seconds; all15 checksums matched. Tests validated all500 numeric rows, reused strict schemas and review/deep-copy gates, two timezone-regenerations of the reviewed golden, and25 negative CLI/alias cases with protected inputs/sentinels. This checks the reconnected toolchain and workflow without re-running the unchanged full mutation campaign; the earlier actual38/34/15 full result remains separately identified.
+
+Also actually ran /workspace/.partybox-source-venv/bin/python with importlib.metadata.version on numpy,pandas,pyreadr,python-dateutil,pytz,six,tzdata,Pillow, asserted the exact saved eight-version list, and imported numpy,pandas,pyreadr,PIL.Image. Actual exit0; versions2.3.5,2.2.3,0.5.3,2.9.0.post0,2026.5,1.17.0,2026.5,12.3.0. Node reports24.19.0 and Python3.12.14. This catches missing or changed retained extraction/image dependencies. A new published task restoration is still not claimed.
