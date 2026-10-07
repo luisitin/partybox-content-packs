@@ -41192,7 +41192,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Lydia",
           "workId": "behind-the-name:dictionary",
-          "quote": "Lydia entry: In the New Testament this is the name of a woman converted to Christianity by Saint Paul."
+          "quote": "In the New Testament this is the name of a woman converted to Christianity by Saint Paul."
         }
       ],
       "factReview": {
@@ -41352,7 +41352,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Sofia",
           "workId": "behind-the-name:dictionary",
-          "quote": "Sofia entry: Form of Sophia used in various languages. Sophia entry: Means \"wisdom\" in Greek."
+          "quote": "Form of Sophia used in various languages."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: Sophia",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Means \"wisdom\" in Greek."
         }
       ],
       "factReview": {
@@ -42848,7 +42856,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Hailey",
           "workId": "behind-the-name:dictionary",
-          "quote": "Hailey entry: Variant of Hayley. Hayley entry: meaning \"hay clearing\" from Old English heg \"hay\" and leah \"clearing\""
+          "quote": "Variant of Hayley."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: Hayley",
+          "workId": "behind-the-name:dictionary",
+          "quote": "meaning \"hay clearing\" from Old English heg \"hay\" and leah \"clearing\""
         }
       ],
       "factReview": {
@@ -43008,7 +43024,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Barry",
           "workId": "behind-the-name:dictionary",
-          "quote": "Barry entry: It is also sometimes used as an Anglicized form of Berach."
+          "quote": "It is also sometimes used as an Anglicized form of Berach."
         }
       ],
       "factReview": {
@@ -43976,7 +43992,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Tara",
           "workId": "behind-the-name:dictionary",
-          "quote": "Tara entry: Means \"star\" in Sanskrit."
+          "quote": "Means \"star\" in Sanskrit."
         }
       ],
       "factReview": {
@@ -44119,61 +44135,53 @@
         }
       ],
       "id": "ssa:F:Cathy",
-      "fact": "Kate is Petruchio's wife in Shakespeare's Taming of the Shrew.",
+      "fact": "Cathy Guisewite won an Emmy for an animated TV adaptation of her comic strip Cathy.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Cathy (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Catherine."
+          "url": "https://www.britannica.com/biography/Cathy-Guisewite",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Michael Ray",
+          "title": "Cathy Guisewite | Biography, Books, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Cathy Guisewite (born September 5, 1950, Dayton, Ohio, U.S.) is an American cartoonist who created the long-running comic strip Cathy (1976–2010)."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Catherine (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French form of Katherine, and also a common English variant."
+          "url": "https://www.britannica.com/biography/Cathy-Guisewite",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Michael Ray",
+          "title": "Cathy Guisewite | Biography, Books, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Guisewite won an Emmy Award for a 1987 animated television adaptation of the strip."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kate (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Katherine, often used independently."
+          "url": "https://en.wikipedia.org/w/index.php?title=Cathy_Guisewite&oldid=1352738069",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Cathy Guisewite",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''Cathy Lee Guisewite''' (born September 5, 1950) is an American [[cartoonist]] who created the [[comic strip]] ''[[Cathy]]'', which had a 34-year run."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kate (entry index 0; pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "This was the name of the woman who Petruchio marries and tries to tame in Shakespeare's comedy Taming of the Shrew (1593)."
+          "url": "https://en.wikipedia.org/w/index.php?title=Cathy_Guisewite&oldid=1352738069",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Cathy Guisewite",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In 1987, she received an [[Emmy Awards|Emmy Award]] for Outstanding Animated Program for the TV special ''[[Cathy (TV special)|Cathy]]''."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Taming-of-the-Shrew_1508/96e0ca4610a55aecfd8be731c82ba50021829e4c/1508-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "William Shakespeare",
-          "title": "The Taming of the Shrew",
-          "workId": "shakespeare:the-taming-of-the-shrew",
-          "quote": "PETRUCHIO. Father, and wife, and gentlemen, adieu. I will to Venice; Sunday comes apace; We will have rings and things, and fine array; And kiss me, Kate; we will be married o’ Sunday. [Exeunt Petruchio and Katherina, severally.]"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Taming-of-the-Shrew_1508/96e0ca4610a55aecfd8be731c82ba50021829e4c/1508-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "William Shakespeare",
-          "title": "The Taming of the Shrew",
-          "workId": "shakespeare:the-taming-of-the-shrew",
-          "quote": "Make it no wonder: if you knew my business, You would entreat me rather go than stay. And, honest company, I thank you all, That have beheld me give away myself To this most patient, sweet, and virtuous wife. Dine with my father, drink a health to me. For I must hence; and farewell to you all."
+          "url": "https://en.wikipedia.org/w/index.php?title=Cathy_%28TV_special%29&oldid=1376556502",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Cathy (TV special)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''''Cathy''''' is a 1987 animated [[television special]] based on the ''[[Cathy]]'' comic strip by [[Cathy Guisewite]]."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-        "note": "Narrowed to the named literary bearer Kate. Cathy→Catherine→Katherine/Kate is BTN-only review context. BTN’s Kate entry and Shakespeare’s play independently support Kate/Katherina and Petruchio’s marriage. The play excerpts are exact and separately cited; no composition date or name-invention claim is asserted."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all five actual human Michael Ray Britannica paragraphs, printed byline/signature and Article metadata, plus the complete pinned Wiki biography, archived biography and TV-special article. Both authored works support Guisewite as Cathy creator and Emmy recipient for its animated television adaptation. Five separate exact excerpts; Wiki pages/revisions count once. Biography Emmy sentence is unfootnoted; special adaptation lead cites Jeff Lenburg and its reception award sentence cites the Television Academy. Those underlying bodies are unread and uncounted. Creator/Emmy statements appear in Wiki revision334453635 before the retrieved Britannica metadata datePublished2010-12-21; this is not complete publisher history or proof against shared antecedents/reverse borrowing. No visible Britannica citation; deeper lineage unresolved. No dates, expanded award category, firstness, name-origin or comic/program assets. Brief attributed quotes retain source rights."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -44328,7 +44336,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Avery",
           "workId": "behind-the-name:dictionary",
-          "quote": "Avery entry: derived from the Norman French form of the given names Alberich or Alfred."
+          "quote": "derived from the Norman French form of the given names Alberich or Alfred."
         }
       ],
       "factReview": {
@@ -44488,7 +44496,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Annette",
           "workId": "behind-the-name:dictionary",
-          "quote": "Annette entry: French diminutive of Anne 1."
+          "quote": "French diminutive of Anne 1."
         }
       ],
       "factReview": {
@@ -45648,7 +45656,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Jeanne",
           "workId": "behind-the-name:dictionary",
-          "quote": "Jeanne entry: Modern French form of Jehanne, an Old French feminine form of Iohannes (see John)."
+          "quote": "Modern French form of Jehanne, an Old French feminine form of Iohannes (see John)."
         }
       ],
       "factReview": {
@@ -45968,7 +45976,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Chelsea",
           "workId": "behind-the-name:dictionary",
-          "quote": "Chelsea entry: meaning \"landing place for chalk or limestone\"."
+          "quote": "meaning \"landing place for chalk or limestone\"."
         }
       ],
       "factReview": {
@@ -46128,7 +46136,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Alvin",
           "workId": "behind-the-name:dictionary",
-          "quote": "Alvin entry: It was revived in the 19th century, in part from a surname that was derived from the Old English names."
+          "quote": "It was revived in the 19th century, in part from a surname that was derived from the Old English names."
         }
       ],
       "factReview": {
@@ -46448,7 +46456,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Trevor",
           "workId": "behind-the-name:dictionary",
-          "quote": "Trevor entry: Welsh tref \"village\" and mawr \"large\"."
+          "quote": "Welsh tref \"village\" and mawr \"large\"."
         }
       ],
       "factReview": {
@@ -46608,7 +46616,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Lloyd",
           "workId": "behind-the-name:dictionary",
-          "quote": "Lloyd entry: From a surname that was derived from Welsh llwyd meaning \"grey\"."
+          "quote": "From a surname that was derived from Welsh llwyd meaning \"grey\"."
         }
       ],
       "factReview": {
@@ -46944,7 +46952,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Haley",
           "workId": "behind-the-name:dictionary",
-          "quote": "Haley entry: Variant of Hayley. Hayley entry: meaning \"hay clearing\" from Old English heg \"hay\" and leah \"clearing\""
+          "quote": "Variant of Hayley."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: Hayley",
+          "workId": "behind-the-name:dictionary",
+          "quote": "meaning \"hay clearing\" from Old English heg \"hay\" and leah \"clearing\""
         }
       ],
       "factReview": {
@@ -47264,7 +47280,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Brett",
           "workId": "behind-the-name:dictionary",
-          "quote": "Brett entry: meaning \"a Breton\", referring to an inhabitant of Brittany."
+          "quote": "meaning \"a Breton\", referring to an inhabitant of Brittany."
         }
       ],
       "factReview": {
@@ -47584,7 +47600,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Lindsey",
           "workId": "behind-the-name:dictionary",
-          "quote": "Lindsey entry: Variant of Lindsay. Lindsay entry: the name of the region Lindsey, which means \"Lincoln island\" in Old English."
+          "quote": "Variant of Lindsay."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: Lindsay",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the name of the region Lindsey, which means \"Lincoln island\" in Old English."
         }
       ],
       "factReview": {
@@ -47928,7 +47952,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Yvonne",
           "workId": "behind-the-name:dictionary",
-          "quote": "Yvonne entry: French feminine form of Yvon."
+          "quote": "French feminine form of Yvon."
         }
       ],
       "factReview": {
@@ -48728,7 +48752,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Eli",
           "workId": "behind-the-name:dictionary",
-          "quote": "Eli entry: Means \"ascension\" in Hebrew."
+          "quote": "Means \"ascension\" in Hebrew."
         }
       ],
       "factReview": {
@@ -49416,7 +49440,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Destiny",
           "workId": "behind-the-name:dictionary",
-          "quote": "Destiny entry: Means simply \"destiny, fate\" from the English word, ultimately from Latin destinare"
+          "quote": "Means simply \"destiny, fate\" from the English word, ultimately from Latin destinare"
         }
       ],
       "factReview": {
@@ -50568,7 +50592,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Addison",
           "workId": "behind-the-name:dictionary",
-          "quote": "Addison entry: From an English surname meaning \"son of Adam\"."
+          "quote": "From an English surname meaning \"son of Adam\"."
         }
       ],
       "factReview": {
@@ -50728,7 +50752,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Shelby",
           "workId": "behind-the-name:dictionary",
-          "quote": "Shelby entry: it was popularized as a feminine name by the main character in the movie The Woman in Red (1935)."
+          "quote": "it was popularized as a feminine name by the main character in the movie The Woman in Red (1935)."
         }
       ],
       "factReview": {
@@ -51544,7 +51568,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Vernon",
           "workId": "behind-the-name:dictionary",
-          "quote": "Vernon entry: From a Norman surname, which was from a French place name, ultimately derived from the Gaulish word vern meaning \"alder\"."
+          "quote": "From a Norman surname, which was from a French place name, ultimately derived from the Gaulish word vern meaning \"alder\"."
         }
       ],
       "factReview": {
@@ -52536,7 +52560,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Carmen",
           "workId": "behind-the-name:dictionary",
-          "quote": "Carmen entry: Medieval Spanish form of Carmel"
+          "quote": "Medieval Spanish form of Carmel"
         }
       ],
       "factReview": {
@@ -53016,7 +53040,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Riley",
           "workId": "behind-the-name:dictionary",
-          "quote": "Riley entry: As an English surname it is derived from a place name meaning \"rye clearing\" in Old English."
+          "quote": "As an English surname it is derived from a place name meaning \"rye clearing\" in Old English."
         }
       ],
       "factReview": {
@@ -54184,7 +54208,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Harper",
           "workId": "behind-the-name:dictionary",
-          "quote": "Harper entry: originally belonged to a person who played the harp or who made harps."
+          "quote": "originally belonged to a person who played the harp or who made harps."
         }
       ],
       "factReview": {
@@ -55400,7 +55424,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Deanna",
           "workId": "behind-the-name:dictionary",
-          "quote": "Deanna entry: Deanna Durbin (1921-), whose birth name was Edna."
+          "quote": "Deanna Durbin (1921-), whose birth name was Edna."
         }
       ],
       "factReview": {
@@ -56696,7 +56720,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Marlene",
           "workId": "behind-the-name:dictionary",
-          "quote": "Marlene entry: Blend of Maria and Magdalene."
+          "quote": "Blend of Maria and Magdalene."
         }
       ],
       "factReview": {
@@ -56856,7 +56880,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Lindsay",
           "workId": "behind-the-name:dictionary",
-          "quote": "Lindsay entry: the name of the region Lindsey, which means \"Lincoln island\" in Old English."
+          "quote": "the name of the region Lindsey, which means \"Lincoln island\" in Old English."
         }
       ],
       "factReview": {
@@ -57016,7 +57040,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Elmer",
           "workId": "behind-the-name:dictionary",
-          "quote": "Elmer entry: it is sometimes given in honour of brothers Jonathan (1745-1817) and Ebenezer Elmer (1752-1843), who were active in early American politics."
+          "quote": "it is sometimes given in honour of brothers Jonathan (1745-1817) and Ebenezer Elmer (1752-1843), who were active in early American politics."
         }
       ],
       "factReview": {
@@ -57344,7 +57368,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Layla",
           "workId": "behind-the-name:dictionary",
-          "quote": "Layla entry: Layla was the love interest of the poet Qays (called Majnun) in an old Arab tale"
+          "quote": "Layla was the love interest of the poet Qays (called Majnun) in an old Arab tale"
         }
       ],
       "factReview": {
@@ -57824,7 +57848,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Cory",
           "workId": "behind-the-name:dictionary",
-          "quote": "Cory entry: Variant of Corey. Corey entry: From a surname that was derived from the Old Norse given name Kóri, of unknown meaning."
+          "quote": "Variant of Corey."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: Corey",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From a surname that was derived from the Old Norse given name Kóri, of unknown meaning."
         }
       ],
       "factReview": {
@@ -58792,7 +58824,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Gwendolyn",
           "workId": "behind-the-name:dictionary",
-          "quote": "Gwendolyn entry: Variant of Gwendolen."
+          "quote": "Variant of Gwendolen."
         }
       ],
       "factReview": {
@@ -59903,29 +59935,29 @@
         }
       ],
       "id": "ssa:F:Kylie",
-      "fact": "Australian singer Kylie Minogue is a bearer of the name.",
+      "fact": "Kylie Minogue gained early fame on the soap opera Neighbours.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Kylie+%28name%29&oldid=1368634401",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Kylie (name)",
-          "workId": "wikipedia:Kylie (name):1368634401",
-          "quote": "Australian singer [[Kylie Minogue]]"
+          "url": "https://www.britannica.com/biography/Kylie-Minogue",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Kylie Minogue | Biography, Songs, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Minogue, who had been acting since she was a child, first garnered fame in Australia and Great Britain for her role (1986–88) on the popular soap opera Neighbours."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Kylie",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Kylie entry: A famous bearer is the Australian singer Kylie Minogue (1968-)."
+          "url": "https://en.wikipedia.org/w/index.php?title=Kylie_Minogue&oldid=1377629190",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Kylie Minogue",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Born and raised in [[Melbourne]], Minogue first achieved recognition starring as [[Charlene Robinson|Charlene Mitchell]] in the Australian soap opera ''[[Neighbours]]'' (1986–1988)."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Only the bearer identity agrees in both sources. Uncertain boomerang/Kyle origins and any causal popularity claim are excluded. Final surprisingness review remains separate."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Independent AI review of actual retained sources. Britannica's five human paragraphs, visible Editors byline and Article metadata, and pinned Wikipedia lead/complete early-career section support early fame through Neighbours. Two canonical authored works; AI FAQs excluded. Both quotes are contiguous and unchanged. Wiki's selected lead sentence is unfootnoted; role context cites David Lister's Independent article, unread and uncounted. No direct Britannica token was found in the loaded Wiki body; this does not prove deeper independence. The 2007 archive is excluded from factual approval and references: only dated presence of a sentence predating retrieved Britannica publication metadata is recorded; unrelated vandalized Eastenders/Electric Furs claims are excluded. No given-name origin, recording chronology, dates, character details or fame rankings asserted. Wiki quote: CC BY-SA 4.0 with revision attribution; no article-specific footer fetch claimed. No human playtest."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -60912,7 +60944,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Aidan",
           "workId": "behind-the-name:dictionary",
-          "quote": "Aidan entry: Anglicized form of Aodhán."
+          "quote": "Anglicized form of Aodhán."
         }
       ],
       "factReview": {
@@ -61072,7 +61104,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Milton",
           "workId": "behind-the-name:dictionary",
-          "quote": "Milton entry: a place name meaning \"mill town\" in Old English."
+          "quote": "a place name meaning \"mill town\" in Old English."
         }
       ],
       "factReview": {
@@ -61568,7 +61600,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Alison",
           "workId": "behind-the-name:dictionary",
-          "quote": "Alison entry: Norman French diminutive of Aalis (see Alice)."
+          "quote": "Norman French diminutive of Aalis (see Alice)."
         }
       ],
       "factReview": {
@@ -61728,7 +61760,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Tanya",
           "workId": "behind-the-name:dictionary",
-          "quote": "Tanya entry: Russian diminutive of Tatiana."
+          "quote": "Russian diminutive of Tatiana."
         }
       ],
       "factReview": {
@@ -62240,7 +62272,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Maxine",
           "workId": "behind-the-name:dictionary",
-          "quote": "Maxine entry: Feminine form of Max."
+          "quote": "Feminine form of Max."
         }
       ],
       "factReview": {
@@ -62920,7 +62952,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Hayden",
           "workId": "behind-the-name:dictionary",
-          "quote": "Hayden entry: From an English surname"
+          "quote": "From an English surname"
         }
       ],
       "factReview": {
@@ -63248,7 +63280,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Caitlin",
           "workId": "behind-the-name:dictionary",
-          "quote": "Caitlin entry: Anglicized form of Caitlín."
+          "quote": "Anglicized form of Caitlín."
         }
       ],
       "factReview": {
@@ -63568,7 +63600,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Scarlett",
           "workId": "behind-the-name:dictionary",
-          "quote": "Scarlett entry: From a surname that denoted a person who sold or made clothes made of scarlet"
+          "quote": "From a surname that denoted a person who sold or made clothes made of scarlet"
         }
       ],
       "factReview": {
@@ -64896,7 +64928,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Aaliyah",
           "workId": "behind-the-name:dictionary",
-          "quote": "Aaliyah entry: It was popularized in the English-speaking world by the singer Aaliyah Haughton (1979-2001), who was known simply as Aaliyah."
+          "quote": "It was popularized in the English-speaking world by the singer Aaliyah Haughton (1979-2001), who was known simply as Aaliyah."
         }
       ],
       "factReview": {
@@ -65216,7 +65248,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Penelope",
           "workId": "behind-the-name:dictionary",
-          "quote": "Penelope entry: It has occasionally been used as an English given name since the 16th century."
+          "quote": "It has occasionally been used as an English given name since the 16th century."
         }
       ],
       "factReview": {
@@ -66536,7 +66568,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Neil",
           "workId": "behind-the-name:dictionary",
-          "quote": "Neil entry: From the Gaelic name Niall, which is of disputed origin"
+          "quote": "From the Gaelic name Niall, which is of disputed origin"
         }
       ],
       "factReview": {
@@ -67352,7 +67384,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Billie",
           "workId": "behind-the-name:dictionary",
-          "quote": "Billie entry: It is also used as a feminine form of William."
+          "quote": "It is also used as a feminine form of William."
         }
       ],
       "factReview": {
@@ -67856,7 +67888,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Kara",
           "workId": "behind-the-name:dictionary",
-          "quote": "Kara entry: Variant of Cara."
+          "quote": "Variant of Cara."
         }
       ],
       "factReview": {
@@ -68856,7 +68888,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Harrison",
           "workId": "behind-the-name:dictionary",
-          "quote": "Harrison entry: From an English surname that meant \"son of Harry\"."
+          "quote": "From an English surname that meant \"son of Harry\"."
         }
       ],
       "factReview": {
@@ -69824,7 +69856,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Hope",
           "workId": "behind-the-name:dictionary",
-          "quote": "Hope entry: From the English word hope, ultimately from Old English hopian."
+          "quote": "From the English word hope, ultimately from Old English hopian."
         }
       ],
       "factReview": {
@@ -69984,7 +70016,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Briana",
           "workId": "behind-the-name:dictionary",
-          "quote": "Briana entry: This name was used by Edmund Spenser in The Faerie Queene (1590)."
+          "quote": "This name was used by Edmund Spenser in The Faerie Queene (1590)."
         }
       ],
       "factReview": {
@@ -70632,7 +70664,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Leonardo",
           "workId": "behind-the-name:dictionary",
-          "quote": "Leonardo entry: Italian, Spanish and Portuguese form of Leonard."
+          "quote": "Italian, Spanish and Portuguese form of Leonard."
         }
       ],
       "factReview": {
@@ -71296,7 +71328,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Kennedy",
           "workId": "behind-the-name:dictionary",
-          "quote": "Kennedy entry: The name is often given in honour of assassinated American president John F. Kennedy (1917-1963)."
+          "quote": "The name is often given in honour of assassinated American president John F. Kennedy (1917-1963)."
         }
       ],
       "factReview": {
@@ -71776,7 +71808,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Dakota",
           "workId": "behind-the-name:dictionary",
-          "quote": "Dakota entry: The tribal name means \"allies, friends\" in the Dakota language."
+          "quote": "The tribal name means \"allies, friends\" in the Dakota language."
         }
       ],
       "factReview": {
@@ -71936,7 +71968,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Darryl",
           "workId": "behind-the-name:dictionary",
-          "quote": "Darryl entry: Variant of Darrell. Daryl entry: Variant of Darrell."
+          "quote": "Variant of Darrell."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: Daryl",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Variant of Darrell."
         }
       ],
       "factReview": {
@@ -72399,29 +72439,53 @@
         }
       ],
       "id": "ssa:F:Summer",
-      "fact": "Summer is also the English word for a season.",
+      "fact": "Earth is farthest from the Sun during Northern Hemisphere summer.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Summer (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the name of the season, ultimately from Old English sumor."
+          "url": "https://en.wikipedia.org/w/index.php?title=Apsis&oldid=1375960810",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Apsis, revision 1375960810: Earth perihelion and aphelion",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Apsides pertaining to orbits around the [[Sun]] are named '''''aphelion''''' for the farthest and '''''perihelion''''' for the nearest point in a [[heliocentric orbit]]."
         },
         {
-          "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/s/su.json",
-          "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
-          "author": "Wiktionary contributors",
-          "title": "English Wiktionary lexical entry: summer",
-          "workId": "wiktionary:dictionary",
-          "quote": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag."
+          "url": "https://en.wikipedia.org/w/index.php?title=Apsis&oldid=1375960810",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Apsis, revision 1375960810: Earth perihelion and aphelion",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In the northern hemisphere, summer occurs at the same time as aphelion, when solar radiation is lowest."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Apsis&oldid=1375960810",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Apsis, revision 1375960810: Earth perihelion and aphelion",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In contrast, the Earth reaches aphelion currently in early July, approximately 14 days after the [[June solstice]]."
+        },
+        {
+          "url": "https://www.britannica.com/science/aphelion",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Aphelion | Definition, Perihelion, 2026, Date, Time, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "the point in the orbit of a planet, comet, or other body most distant from the Sun. When Earth is at its aphelion in early July"
+        },
+        {
+          "url": "https://www.britannica.com/science/season",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Season | Meteorological Divisions & Climate Effects",
+          "workId": "britannica:encyclopedia",
+          "quote": "The seasons—winter, spring, summer, and autumn—are commonly regarded in the Northern Hemisphere as beginning respectively on the winter solstice, December 21 or 22; on the vernal equinox, March 20 or 21; on the summer solstice, June 21 or 22; and on the autumnal equinox, September 22 or 23"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. Hold the proposed arithmetic homograph claim: the mirror has no original dependency/citation metadata, and A person who sums is a near-equivalent of Webster’s One who sums. Two delivery identities do not prove two independently authored supports for this unusual sense. The replacement refers only to the season. It uses the actually read BTN Summer description and Wiktionary Summer etymology 0 noun sense 0, not the arithmetic sense. Both bodies identify the same season word. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read Apsis lead/Earth section, precession and citations; pinned API bytes match revision1375960810. Read all human Britannica Aphelion/Season paragraphs, printed Editors bylines/signatures and metadata. Wiki directly states northern summer/aphelion; Britannica jointly defines farthest point, puts Earth there in early July and places July inside Northern summer. Both Britannica pages count as one authored work/group, Wiki as the second. Split omission joins into five contiguous quotes; Season preserves all respective boundaries. Selected lead cites Joe Rao Space.com2023; Earth summer paragraph cites Space Weather2008; nearby timing cites Tanner2023. Underlying bodies are unread and uncounted. No visible Britannica citation in Apsis; deeper shared astronomy/ephemeris lineage unresolved. Ordinary present-era scope, not all precession history. No exact dates, distances, radiation/temperature or season-cause claim. Brief quotes retain publisher/Wikimedia rights."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -72736,7 +72800,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Guy",
           "workId": "behind-the-name:dictionary",
-          "quote": "Guy entry: Guy Mannering (1815) by Sir Walter Scott"
+          "quote": "Guy Mannering (1815) by Sir Walter Scott"
         }
       ],
       "factReview": {
@@ -73056,7 +73120,15 @@
           "author": "Behind the Name",
           "title": "Behind the Name first-name dictionary: Giovanni",
           "workId": "behind-the-name:dictionary",
-          "quote": "Giovanni entry: Italian form of Iohannes (see John). John entry: English form of Iohannes, the Latin form of the Greek name Ἰωάννης (Ioannes)"
+          "quote": "Italian form of Iohannes (see John)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name first-name dictionary: John",
+          "workId": "behind-the-name:dictionary",
+          "quote": "English form of Iohannes, the Latin form of the Greek name Ἰωάννης (Ioannes)"
         }
       ],
       "factReview": {
@@ -77455,29 +77527,61 @@
         }
       ],
       "id": "ssa:F:Ivy",
-      "fact": "Ivy takes its name from the plant.",
+      "fact": "English ivy clings to walls using rootlike fibers on its stems.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Ivy+%28name%29&oldid=1363689710",
-          "publisher": "Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Ivy (name)",
-          "workId": "wikipedia:Ivy (name)",
-          "quote": "taken from the name of the [[Hedera|plant]]"
+          "url": "https://raw.githubusercontent.com/GITenberg/Webster-s-Unabridged-Dictionary_29765/296ecf5d49b6b6f141a8efc015cb3a32d31feff3/29765-8.txt",
+          "publisher": "Webster’s Unabridged Dictionary; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Various (Project Gutenberg catalog and primary-text credit)",
+          "title": "Webster's Unabridged Dictionary, IVY (Project Gutenberg29765)",
+          "workId": "webster-unabridged-dictionary-gutenberg-29765",
+          "quote": "stem clings to walls and trees by rootlike fibers."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Ivy name entry",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the English word for the climbing plant"
+          "url": "https://raw.githubusercontent.com/GITenberg/Webster-s-Unabridged-Dictionary_29765/296ecf5d49b6b6f141a8efc015cb3a32d31feff3/29765-8.txt",
+          "publisher": "Webster’s Unabridged Dictionary; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Various (Project Gutenberg catalog and primary-text credit)",
+          "title": "Webster's Unabridged Dictionary, IVY (Project Gutenberg29765)",
+          "workId": "webster-unabridged-dictionary-gutenberg-29765",
+          "quote": "English ivy (Bot.), a popular name in America for the ivy proper (Hedera helix)."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Hedera_helix&oldid=1377862646",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Hedera helix, revision 1377862646",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "''Hedera helix'' grows vigorously and clings by means of fibrous roots, which develop along the entire length of the stems."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Hedera_helix&oldid=1377862646",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Hedera helix, revision 1377862646",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''''Hedera helix''''', simply '''ivy''', or '''common ivy''', '''English ivy''',"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Hedera_helix&oldid=1377862646",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Hedera helix, revision 1377862646",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "It climbs by means of [[aerial root]]lets with matted pads which cling strongly to the substrate."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Hedera_helix&oldid=1377862646",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Hedera helix, clinging-vine/wall context; revision 1377862646",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Ivy is a clinging [[evergreen]] [[vine]] that grows on tree trunks, walls, and fences in gardens, waste spaces, and wild habitats."
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250 (second slice 450:487)",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Patrick Hanks, Kate Hardcastle and Flavia Hodges, Oxford Dictionary of First Names (2006), p. 133. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. Only the shared plant-name relationship is asserted; flowers and Old English root are not added. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review independent two-source review",
+        "note": "Independently read actual Webster IVY and pinned catalog, plus Wiki revision1377862646 lead, Description, building-root and attachment sections. Both identify English ivy/Hedera helix, wall clinging and stem attachment structures. Webster’s rootlike fibers is descriptive wording compatible with Wiki fibrous roots/aerial rootlets; these are roots, not a claim that fibers identify root hairs alone. Species climbing behavior is generic, without every stem type or every plant called ivy. Wiki distinguishes juvenile climbing leaves from adult flowering leaves; no adult-root absence claim is inferred. Selected citations name RHS, Plants & Flowers and EPPO; underlying bodies remain unread/uncounted. Two authored treatments; deeper botanical lineage unaudited. Various is Webster’s author group, with no sole Noah/print-year invention. Brief attributed quotes; alias hardwrap normalized only. No name etymology, sizes, damage, medicine, assets or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
