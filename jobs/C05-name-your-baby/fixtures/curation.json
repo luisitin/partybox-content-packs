@@ -11513,29 +11513,37 @@
   },
   {
     "id": "ssa:F:Sophie",
-    "fact": "Sophie is the French form of Sophia.",
+    "fact": "Sophie Germain wrote to Gauss under a male pseudonym.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Sophie (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "French form of Sophia."
+        "url": "https://en.wikipedia.org/w/index.php?title=Sophie_Germain&oldid=1379030509",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Sophie Germain, revision 1379030509",
+        "workId": "wikipedia:Sophie_Germain",
+        "quote": "she wrote, again under the pseudonym of M. Le Blanc,{{sfn|Gray|1978|p=48}} to the author himself, who was one year younger than she.{{sfn|Sampson|1990|p=157}}"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "│ English. │ French. │ German. │ Danish. │ Frisian. │ │Sophia │Sophie │Sophia │Saffi │Vye │ │Sophy │ │Fieke │ │ │ ├────────────┼────────────┼────────────┼────────────┼────────────┤"
+        "url": "https://en.wikipedia.org/w/index.php?title=Sophie_Germain&oldid=1379030509",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Sophie Germain, revision 1379030509",
+        "workId": "wikipedia:Sophie_Germain",
+        "quote": "Gauss's replies were mailed to the home of [[Antoine Isaac Silvestre de Sacy|Antoine-Isaac, Baron Silvestre De Sacy]], who must have understood Germain's reasons for assuming a masculine pseudonym and agreed to help her conceal her identity."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Sophie-Germain",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "June Barrow-Green",
+        "title": "Sophie Germain",
+        "workId": "britannica:encyclopedia",
+        "quote": "In 1804 she initiated a correspondence with Gauss under her male pseudonym."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Independent agent reread of exact Sophie Germain Wikipedia Gauss-correspondence paragraph and preceding pseudonym context, plus human Britannica topic-paragraph1 and printed June Barrow-Green authorship. Both explicitly describe writing to Gauss under a male pseudonym. Wiki immediate citations are Gray1978/Sampson1990/Musielak2020; those underlying works are unread and uncounted. Exact API revision/body equality and source hashes checked; no identified cross-dependency in complete retained bodies, deeper historical scholarship unaudited. Exact alias spelling, dates, motive, identity-discovery story and every Sophie’s origin are excluded. Selected Britannica sentence is in human editorial prose, outside AI FAQs. Whitespace-only quote normalization retains raw evidence. Brief revision-linked Wiki support retains CC-BY-SA4.0; Britannica remains copyrighted prose with original fact wording and brief attribution. Agent review only."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -11545,29 +11553,61 @@
   },
   {
     "id": "ssa:F:Kristina",
-    "fact": "Kristina is a form of Christina.",
+    "fact": "Queen Kristina of Sweden gave up her throne in 1654.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Kristina (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Form of Christina in several languages."
+        "url": "https://en.wikipedia.org/w/index.php?title=Christina,_Queen_of_Sweden&oldid=1378527667",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Christina, Queen of Sweden, revision 1378527667",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "'''Christina''' ({{langx|sv|Kristina}}"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │ │Chrissie │ │Tine │Krikszte │ │Xina │ │Kristel │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Portuguese. │ Spanish. │ Italian. │ Danish. │ │Christinha │Cristine │Cristina │Karstin │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Slavonic. │ Lusatian. │ Lett. │ Esthonian. │ │Kristina │Krystla │Kristine │Kirstin │ │Kina │Kita │Kersti │Kirste │"
+        "url": "https://en.wikipedia.org/w/index.php?title=Christina,_Queen_of_Sweden&oldid=1378527667",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Christina, Queen of Sweden, revision 1378527667",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "was [[Queen of Sweden]] from 1632 until her [[abdication]] in 1654."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Christina,_Queen_of_Sweden&oldid=1378527667",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Christina, Queen of Sweden, revision 1378527667",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Christina abdicated her throne on 6 June 1654 in favor of Charles Gustav.{{sfn|Granlund|2004|p=57}}"
+      },
+      {
+        "url": "https://www.britannica.com/biography/Christina-queen-of-Sweden",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Ruth Stephan",
+        "title": "Christina, queen of Sweden",
+        "workId": "britannica:encyclopedia",
+        "quote": "Swedish: Kristina"
+      },
+      {
+        "url": "https://www.britannica.com/biography/Christina-queen-of-Sweden",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Ruth Stephan",
+        "title": "Christina, queen of Sweden",
+        "workId": "britannica:encyclopedia",
+        "quote": "Charles X Gustav as her successor, and, when he was crowned on June 6, 1654, the day of her abdication, Christina left Sweden immediately."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Christina-queen-of-Sweden",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Ruth Stephan",
+        "title": "Christina, queen of Sweden",
+        "workId": "britannica:encyclopedia",
+        "quote": "was the queen of Sweden (1644–54) who stunned all Europe by abdicating her throne."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Both actual pinned authored dictionary/book passages individually read for this narrow original claim. Linked dictionary entries remain one work. Yonge disputed roots/chronology excluded; BTN corporate editorial identity read-supported and individual author unestablished. Distinct authored works, with shared deeper authorities unaudited. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual Wiki revision1378527667 Swedish Kristina lead/queen identity and1654 abdication sentence read; that sentence cites Granlund2004p57, whose bibliography entry was resolved but book is unread/not counted. Independently parsed Ruth Stephan Britannica human article and Swedish:Kristina Quick Facts identify same queen and1654 abdication; exact queen-role excerpt added. All FAQ/AI answers excluded. Wiki explicitly cites this Britannica biography for separate council/Minerva/appearance claims; dependencies disclosed and unused. Swedish-name lead has no immediate citation, so deeper source lineage remains unresolved; no selected-clause Britannica attribution identified. Two authored selected presentations accepted, no whole-article independence claim. No reign-start date, day/calendar, cause, religion or universal Kristina origin. Whitespace-only normalized quotes/raw evidence retained. Brief Wiki CC-BY-SA4.0 and copyrighted Britannica excerpts retain rights; no MIT relicensing."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -12857,29 +12897,29 @@
   },
   {
     "id": "ssa:M:Jeff",
-    "fact": "Jeff is a short form of Jeffrey.",
+    "fact": "Jeff Bridges played the Dude in The Big Lebowski.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Jeff (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Short form of Jeffrey."
+        "url": "https://en.wikipedia.org/w/index.php?title=Jeff_Bridges&oldid=1373540692",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Jeff Bridges, revision 1373540692",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "In 1998, he starred as what is arguably his most iconic role, [[The Big Lebowski#Production|Jeffrey \"The Dude\" Lebowski]], in the [[Coen brothers]]' noir comedy ''[[The Big Lebowski]]''."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "│Jeffrey │ │Geoffroi │Giotto │ │Jeff │ │Jeoffroi │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤"
+        "url": "https://www.britannica.com/biography/Jeff-Bridges",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Jeff Bridges",
+        "workId": "britannica:encyclopedia",
+        "quote": "The Big Lebowski (1998), in which Bridges played the Dude,"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual Wiki revision1373540692 role paragraph identifies Jeff Bridges as the Dude in The Big Lebowski and immediately cites tca, resolved to Inside the Actors Studio2003. Independently parsed Britannica human topic-paragraph3 agrees; actual author is Britannica Editors. Wiki also cites this Britannica biography for birth date: that separate dependency is disclosed and unused; whole-article independence is not claimed. Both authored role presentations directly support selected actor/character/film, with no identified attribution of this role clause to Britannica. Interview is unread and not counted. No dates, birth names, substance use, name origin or universal Jeff claim. Only source whitespace normalized in quote; raw evidence retained. Brief Wiki CC-BY-SA4.0 and copyrighted Britannica extracts retain rights, no MIT relicensing. Broader influence/shared primary film-credit lineage remains unaudited."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -16776,28 +16816,28 @@
     }
   },
   {
-    "fact": "Rick is a short form of Richard.",
+    "fact": "Rick Riordan’s Percy Jackson books began as bedtime stories.",
     "factReferences": [
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Short form of Richard or names ending in rick.",
-        "title": "Behind the Name: Rick and explicitly linked name entries",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://en.wikipedia.org/w/index.php?title=Rick_Riordan&oldid=1378527474",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Rick Riordan, revision 1378527474",
+        "workId": "wikipedia:Rick_Riordan",
+        "quote": "He conceived the idea for the ''Percy Jackson'' series as bedtime stories about ancient Greek heroes for his son Haley."
       },
       {
-        "author": "Ernest Weekley",
-        "publisher": "John Murray, London; digital text retained by GITenberg",
-        "quote": "Richard gave Rick, Hick and Dick.",
-        "title": "The Romance of Names, third revised edition (1922)",
-        "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-        "workId": "weekley-romance-of-names-1922"
+        "url": "https://www.britannica.com/biography/Rick-Riordan",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Rick Riordan",
+        "workId": "britannica:encyclopedia",
+        "quote": "He began writing for young adults after his son asked him to tell bedtime stories involving Greek gods. Once he related all the myths he knew, Riordan began making up stories, and the idea for Percy Jackson was created."
       }
     ],
     "factReview": {
-      "note": "Individual comparison of actual cached Ernest Weekley book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. The other names ending in rick are not excluded; this is one attested short-form relationship. Recognition is separately reviewed below.",
-      "reviewer": "Codex source research subagent /root/c05_bible_gap_facts"
+      "reviewer": "/root/c05_quality_review",
+      "note": "Independent agent reread of exact Rick Riordan Wikipedia author context and bedtime-story paragraph with immediate Sally Williams Guardian2010 citation, plus human Britannica topic-paragraph3 and printed Editors authorship. Both describe the Percy Jackson series idea emerging from bedtime tales for his son; began as refers to that origin, not verbatim oral versions of every published novel. Exact API revision/body equality and source hashes checked. No son’s name, medical details, dates, fictional parentage or SSA naming cause asserted. Full retained bodies searched with no cross-dependency identified; Guardian article unread and uncounted, deeper shared interview lineage unaudited. Selected Britannica paragraph is human editorial content, outside AI FAQs. Brief Wiki contributor/revision quotes retain CC-BY-SA4.0; Britannica remains copyrighted prose with original fact wording and brief support. Agent review only."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Rick",
