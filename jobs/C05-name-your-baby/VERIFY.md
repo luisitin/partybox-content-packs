@@ -2736,3 +2736,24 @@ exit "$partybox_reviewed_status"
 ```
 
 Actual completed exec exit 0, independently persisted underlying npm status 0. The initial full suite executed and passed **38/38** tests, zero failures/cancellations/skips/todos, 43.452257 seconds. Full/historical/current mutation baselines passed their exact 38/15/9 counts; **34/34** semantic mutations were caught (25 historical, nine current). All ten compiled JavaScript files were restored byte-for-byte with matching SHA256 values. All 13 checksum entries passed. The current report is preserved at `/tmp/c05-reviewed-integrated-mutation-report.json`; `/tmp/c05-reviewed-integrated-completion-evidence.json` records actual completion independently of prior runs. This run was necessary for the new reviewed builder, CLI, schema, tests and data; repeat only after a relevant change or concrete failure. These passing engineering checks do not establish complete content, a PR, green CI or KEEP GOING completion.
+
+## Expanded content checks: 306 then 343 reviewed facts
+
+First expansion generation `npm run generate:reviewed` from this job folder exited 0. `node --test dist/test/reviewed.test.js > /tmp/c05-expanded-curation-focused-test.log 2>&1` executed four tests and passed all four, zero failures/cancellations/skips/todos, 11.504643 seconds. Actual exec exit and persisted status were 0. It carried 306 reviewed facts, 194 missing facts and 487 explicit recognition judgments, preserving every numeric field for all 500 rows.
+
+Then integrated 24 directly compared Weekley/Yonge gap facts, 12 new literary identities, two literary replacements and one Todd surname fact. The first subsequent `npm run generate:reviewed` was mistakenly invoked from `/workspace` and returned exec exit 254; that is the wrong directory, not a repository defect. Reran from this job folder after correcting cwd, actual exec exit 0. No assertion, dependency or source checksum was bypassed. Final changed-target commands:
+
+```sh
+npm run generate:reviewed > /tmp/c05-expanded-343-generate.log 2>&1
+node --test dist/test/reviewed.test.js > /tmp/c05-expanded-343-focused-test.log 2>&1
+partybox_fact_batch_status=$?
+printf '%s\n' "$partybox_fact_batch_status" > /tmp/c05-expanded-343-focused-test.exit
+tail -n 12 /tmp/c05-expanded-343-focused-test.log
+exit "$partybox_fact_batch_status"
+sha256sum --check SHA256SUMS.txt
+git diff --check
+```
+
+The four final focused tests executed and passed with actual exec exit 0 and separately persisted test status 0, zero failures/cancellations/skips/todos, 10.708890 seconds. Strict build succeeded during generation. Actual source/golden/schema checks validate 487 editorial input rows, 343 reviewed facts, 157 null unresolved facts, 487 accepted recognition reviews and 13 unresolved decisions. Every numeric field for all 500 rows still matches the base pack. Two CLI generations under different timezones are byte-identical to the committed reviewed golden; all 25 invalid CLI invocations preserve their inputs and sentinel output. Coverage/review assertions were deliberately updated to the new counts, including separate recognition equality and rejection of a missing recognition review. The existing parser/schema remain unchanged.
+
+Curation SHA256 `a0b9e65efbd7fff69cd3fa2cf5b1f5b84001be469a6fccf6b5d6a658a3cc759e`; reviewed pack SHA256 `94f15426033e5e52852f037db2b365544389dc07158358508c70e86f27238e5e`. All 13 checksum entries passed, and diff whitespace check passed. Completion proof is retained at `/tmp/c05-expanded-343-completion-evidence.json`. The previous full 38-test/34-mutant run applies to its 144-fact milestone; no new full/mutation run is claimed for this content-only expansion. A full run is required for the planned selected-source contract change. Full content/PR/CI/KEEP GOING remains incomplete.

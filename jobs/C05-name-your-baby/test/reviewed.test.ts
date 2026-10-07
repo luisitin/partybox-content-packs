@@ -38,15 +38,21 @@ test('actual editorial evidence validates with the reused schema and preserves r
   assert.equal(valid([]), false);
   assert.equal(valid({ curation: CURATION }), false);
   const pack = buildReviewedCandidates(SOURCE, CURATION);
-  assert.equal(CURATION.length, 144);
-  assert.equal(new Set(CURATION.map(item => item.id)).size, 144);
+  assert.equal(CURATION.length, 487);
+  assert.equal(new Set(CURATION.map(item => item.id)).size, 487);
+  assert.equal(CURATION.filter(item => item.factStatus === 'reviewed').length, 343);
   for (const item of CURATION) {
-    assert.equal(item.factStatus, 'reviewed');
-    assert.ok(item.fact !== null && [...item.fact].length <= 90);
-    assert.ok(item.factReview !== null);
-    assert.ok(item.factReferences.length >= 2);
-    assert.equal(item.recognitionVerified, false);
-    assert.equal(item.recognitionReview, null);
+    if (item.factStatus === 'reviewed') {
+      assert.ok(item.fact !== null && [...item.fact].length <= 90);
+      assert.ok(item.factReview !== null);
+      assert.ok(item.factReferences.length >= 2);
+    } else {
+      assert.equal(item.fact, null);
+      assert.equal(item.factReview, null);
+      assert.deepEqual(item.factReferences, []);
+    }
+    assert.equal(item.recognitionVerified, true);
+    assert.ok(item.recognitionReview !== null);
   }
   const first = CURATION[0]!;
   const carried = pack.rows.find(row => row.id === first.id)!;
@@ -66,7 +72,7 @@ test('actual editorial evidence validates with the reused schema and preserves r
     item => { item.fact = 'x'.repeat(91); },
     item => { item.fact = null; },
     item => { item.factReferences[0]!.url = 'https://user:password@example.org'; },
-    item => { item.recognitionVerified = true; },
+    item => { item.recognitionReview = null; },
     item => { item.id = 'ssa:F:Neverselected'; },
   ];
   for (const damage of damages) {
@@ -92,18 +98,21 @@ test('editorial candidates preserve all 500 numeric rows and leave outstanding f
   assert.deepEqual(pack.source, baseline.source);
   assert.deepEqual(pack.analysis, baseline.analysis);
   assert.deepEqual(pack.rows.map(metrics), baseline.rows.map(metrics));
-  assert.equal(pack.rows.filter(row => row.factStatus === 'reviewed').length, 144);
-  assert.equal(pack.rows.filter(row => row.factStatus === 'unverified').length, 356);
+  assert.equal(pack.rows.filter(row => row.factStatus === 'reviewed').length, 343);
+  assert.equal(pack.rows.filter(row => row.factStatus === 'unverified').length, 157);
+  assert.equal(pack.rows.filter(row => row.recognitionVerified).length, 487);
   const editorial = new Map(CURATION.map(item => [item.id, item]));
   for (const row of pack.rows) {
-    assert.equal(row.recognitionVerified, false);
-    assert.equal(row.recognitionReview, null);
     const item = editorial.get(row.id);
     if (item !== undefined) {
+      assert.equal(row.recognitionVerified, true);
+      assert.deepEqual(row.recognitionReview, item.recognitionReview);
       assert.equal(row.fact, item.fact);
       assert.deepEqual(row.factReferences, item.factReferences);
       assert.deepEqual(row.factReview, item.factReview);
     } else {
+      assert.equal(row.recognitionVerified, false);
+      assert.equal(row.recognitionReview, null);
       assert.equal(row.fact, null);
       assert.equal(row.factStatus, 'unverified');
       assert.deepEqual(row.factReferences, []);

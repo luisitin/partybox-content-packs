@@ -40,7 +40,20 @@ chosen safer paraphrases will be recorded here as facts are accepted.
 
 ## Reviewed subset: narrow claims and attribution
 
-- Audrey: the older dictionary's components were retained while avoiding an overbroad statement about a modern English word. Pick: “Audrey traces to Old English words for \"noble\" and \"strength\".” Both read passages support those components.
+- Audrey: the older dictionary's components were retained while avoiding an overbroad statement about a modern English word. Pick: “Audrey traces to Old English words for "noble" and "strength".” Both read passages support those components.
 - Harriet: sources describe its relationship with Harry through different grammatical routes. Pick the common relation, “Harriet is a feminine name related to Harry.” This avoids asserting that every source treats it as precisely the same diminutive.
 - Older Yonge derivations sometimes conflict with current descriptions. Use only the shared, directly supported form relationship for this subset; historical disagreement is not resolved by counting sources. Individual curation notes retain the relevant restriction.
 - Corporate Behind the Name authorship is verified; individual authorship is not. Do not infer an individual author from the GitHub mirror owner. DMNES uses actual per-entry citations, not a generic technical-maintainer attribution.
+
+## Expanded candidate review
+
+- Alan: the earlier Wikipedia introduction's specific sixth-century Brittany claim had only a broad reused Bachrach citation about the Alans. That citation did not verify the particular date/place. Hold it; pick the directly supported Alan/Allen spelling relationship from the actual modern dictionary and Yonge bodies. The frozen old audit remains historical evidence, with explicit errata.
+- Alvin: a reviewer initially treated a self-closing named reference as missing. Its definition was actually present later in the pinned article. Correct the inventory error and accept only the shared nineteenth-century surname influence, without extrapolating a precise first-use date.
+- Laura: old and medieval accounts leave multiple possible origins. Pick only the traditional laurel association, not a certain Latin origin.
+- Madison: Wikipedia presents Matthew and Maud as possible surname origins; Behind the Name gives Maud. The current fact says “may” and does not exclude Matthew. A directly supported film hook could improve certainty and interest.
+- Brian and Gary: retained tentative ancestry claims preserve their sources' uncertainty. These are candidates for stronger bearer or cultural facts; do not remove the qualification.
+- Caleb, Jesse, Judith, Ruth and other biblical hooks assert what the biblical narrative calls the bearer, rather than presenting religious narratives as independently established historical events. Candace's ancient dynastic title does not imply today's nation of Ethiopia.
+- Recognition: Micheal, Johnathan, Ayden, Kaleb, Jaxon, Nevaeh, Lula, Geneva, Jace, Easton, Makayla, Collin and Erick are held after the separate editorial review. These holds mean uncertainty about broad exact-form familiarity, not demonstrated unrecognizability. Possible substitutions must satisfy the same official numeric qualification and receive their own facts.
+- Wyatt: Weekley connects a possible surname lineage to Guy while the modern dictionary gives Wigheard. Hold the older/newer etymology rather than picking one without further proof. Lynn's waterfall-versus-lake gloss is likewise held. A two-work chain must support the selected exact name and sense.
+- Gina Lollobrigida: the modern dictionary gives Luigina as her birth name, while the read pinned Wikipedia article and its cited Italian presidency material give Luigia. Hold this fact; neither is silently substituted.
+- Troy: the modern dictionary attributes the actor's stage name to the ancient city, but the read independent article supports only the name change. Select only the stage-name fact; the city-origin claim remains unverified.
