@@ -124,7 +124,7 @@ const mutations = [
     "mode: 'current-candidates', complete: false, currentMetricsVerified: true,",
     "mode: 'current-candidates', complete: true, currentMetricsVerified: true,", 'current'),
   change('M34', 'Accept current source-derived counts that fail the pinned canonical fingerprint', 'main',
-    "if (createHash('sha256').update(metricsBytes).digest('hex') !== '8dd80f3f6dc38705be47541fb994d073270ffe4d861732471c0c339e385905e9')",
+    "if (createHash('sha256').update(metricsBytes).digest('hex') !== 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2')",
     'if (false)', 'current-cli'),
 ];
 

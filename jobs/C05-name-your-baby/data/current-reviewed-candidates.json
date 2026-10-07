@@ -2231,29 +2231,29 @@
         }
       ],
       "id": "ssa:M:Brian",
-      "fact": "Brian may trace to a Celtic word for \"high\" or \"noble\".",
+      "fact": "Brian Boru was an Irish king killed at the Battle of Clontarf.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Brian&oldid=1370598924",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Brian, revision 1370598924",
-          "workId": "wikipedia:Brian:1370598924",
-          "quote": "|Occitan]] origin.<ref name=\"lastn\"/> It is common in the [[English-speaking world]]. ==History== It is possible that the name is derived from an [[Celtic languages|Old Celtic]] word meaning \"high\" or \"noble\".<ref name=\"firstn\" /> For example, the element ''bre'' mea"
-        },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
           "title": "Behind the Name: Brian (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "The meaning of this name is not known for certain but it is possibly related to the old Celtic element bre meaning \"hill\", or by extension \"high, noble\". It was borne by the semi-legendary Irish king"
+          "quote": "It was borne by the semi-legendary Irish king Brian Boru, who thwarted Viking attempts to conquer Ireland in the 11th century. He was slain in the Battle of Clontarf,"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Brian+Boru&oldid=1372348261",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Brian Boru",
+          "workId": "wikipedia:Brian_Boru",
+          "quote": "In the resulting [[Battle of Clontarf]] Brian was killed;"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits A Dictionary of First Names, Oxford University Press, 1996. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence. Both sources call this etymology uncertain; the original sentence retains may."
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual introduction identifies High King of Ireland. Narrow historical event; uncertain etymology, purely Viking-war framing and disputed battle interpretation are not asserted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -4471,29 +4471,29 @@
         }
       ],
       "id": "ssa:M:Gary",
-      "fact": "Gary may trace to a Germanic element meaning \"spear\".",
+      "fact": "Gary Cooper's stage name came from Gary, Indiana.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Gary+%28given+name%29&oldid=1377761674",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Gary (given name), revision 1377761674",
-          "workId": "wikipedia:Gary (given name):1377761674",
-          "quote": "ng-of-geiserich-40747.html | title=Geiserich }}</ref> name ''Geiserich'', composed of two elements: \"*gaizaz\" (spear, pike, javelin) plus \"*rīkijaz\" (kingly, royal).<ref name=\"Hanks2006-106107\">{{citation |last1=Hanks |first1=Patrick |author1-link=Patrick Hanks"
-        },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
           "title": "Behind the Name: Gary (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "h was itself originally a short form of names beginning with the Germanic element ger meaning \"spear\". This name was popularized in the late 1920s the American actor Gary Cooper (1901-1961), who took his stage name from the city of Gary in Indiana wher"
+          "quote": "who took his stage name from the city of Gary in Indiana where his agent was born."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Gary+Cooper&oldid=1377500722",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Gary Cooper",
+          "workId": "wikipedia:Gary_Cooper",
+          "quote": "Collins suggested he change his first name to \"Gary\" after her hometown of [[Gary, Indiana]]."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Patrick Hanks and Flavia Hodges, A Dictionary of First Names, 2003/2006, pp.106–107. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence. Wikipedia and BTN offer different deeper derivation pathways. Only their shared tentative Germanic spear ancestry is asserted."
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual article cites Meyers 1998 p29, Swindell1980 p66, Arce1979 p25 for the advice from his agent Nan Collins; those books were not directly read. Wording does not imply that the actor personally originated the city suggestion."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -5411,10 +5411,30 @@
         }
       ],
       "id": "ssa:F:Carol",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Two Romanian kings were named Carol.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Carol (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "This was the name of two Romanian kings."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=King+of+Romania&oldid=1377721785",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "King of Romania",
+          "workId": "wikipedia:King_of_Romania",
+          "quote": "with Carol I becoming King of Romania. […] After a ten-year rule, Carol II was forced to give up his crown"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual complete monarch article history and rulers table identify Carol I and Carol II. This uses the Romanian male-name bearer history as a surprising fact for the same exact Carol spelling, not an assertion that every US female Carol has Romanian roots. Article cites Kremnitz/Whitman1899 for first coronation; underlying book not directly read."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -6491,10 +6511,30 @@
         }
       ],
       "id": "ssa:M:Jack",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Jack can be a familiar form of John.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Jack (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Derived from Jackin (earlier Jankin), a medieval diminutive of John."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Brittany, where the diminutive is Jannik. Jock is the recognized Scottish abbreviation, and it would seem to have been the older English one according to the warning to Jockey of Norfolk, at Bosworth. Jack sounds much as if the French Jacques had been his true parent; but “sweet Jack Falstaff, old Jack Falstaff” has made it alienable from John. […] and adopted Janet from the French Jeanette, like Annot from Annette. The various forms and contractions are infinite:— ┌────────────┬────────────┬────────────┬────────────┬────────────┐ │ English. │ Scotch. │ Welsh. │ Breton. │ Gaelic. │ │John │John │Jan │Jan │Ian │ │Johnny │Johnnie │Jenkin │Jannik │ │ │Jack │Jock │ │ │ │ │Jenkin │ │ │ │ │ ├────────────┼────────────┼────────────┼────────────┼────────────┤ │ Erse. │ German. │ Danish. │ Dutch. │ Belgian. │ │Shawn │Johannes │Johan │Jan │Jehan │ │Eoin │Hans │Janne │Jantje │Jan │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_full_facts",
+        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Both sources allow or conjecture French Jacques influence. Weekley explicitly says the John/Jacques origin is a difficult question. Only the established John-associated familiar form is asserted, not an exclusive etymology."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -7911,10 +7951,30 @@
         }
       ],
       "id": "ssa:F:Virginia",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Virginia was also the name of a woman in an ancient Roman legend.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Virginia (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "According to a legend, it was the name of a Roman woman"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Verginia&oldid=1368376827",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Verginia",
+          "workId": "wikipedia:Verginia",
+          "quote": "'''Verginia''', or '''Virginia''' […] was the subject of an [[ancient Rome|ancient Roman]] story recounted"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Article independently identifies the ancient Roman story recounted by Livy, with live citation context to Livy3.44–58 and Smith classical biography. Those underlying works were not directly read here. Fact omits violent events, exact dates and the disputed truth of the legend; it never asserts historical existence."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -11351,10 +11411,30 @@
         }
       ],
       "id": "ssa:M:Arthur",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Arthur's original meaning is still debated.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Arthur (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "The meaning of this name is unknown."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Arthur&oldid=1371175958",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Arthur",
+          "workId": "wikipedia:Arthur",
+          "quote": "The exact origins of the name Arthur remains a matter of debate."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actually read extensive competing etymologies with non-BTN authored citation cluster: John T. Koch2006, Kemp Malone1925, Stefan Zimmer2009, Kenneth Jackson. No unqualified bear-man or Roman Artorius origin selected; underlying academic works were not directly read."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -15931,29 +16011,29 @@
         }
       ],
       "id": "ssa:F:Madison",
-      "fact": "Madison may come from a surname meaning \"son of Maud\".",
+      "fact": "In Splash, Madison chose her name from a Madison Avenue sign.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Madison+%28name%29&oldid=1376716694",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Madison (name), revision 1376716694",
-          "workId": "wikipedia:Madison (name):1376716694",
-          "quote": "spelled [[Maddison]], is a variant of [[Mathieson]], meaning ''son of [[Matthew (name)|Matthew]]''. It may also have come from ''son of Maddy'', Maddy being a diminutive of [[Maud (name)|Maud]].<ref>{{cite book |title=Dictionary of American family names |date=2022 |publish"
-        },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
           "title": "Behind the Name: Madison (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "From an English surname meaning \"son of Maud\". It was not commonly used as a feminine name until after the movie Splash (1984), in which the main character adopted it as her name after seeing a s"
+          "quote": "the main character adopted it as her name after seeing a street sign for Madison Avenue in New York City."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Splash+%28film%29&oldid=1372106737",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Splash (film)",
+          "workId": "wikipedia:Splash_(film)",
+          "quote": "she selects \"Madison\" from a [[Madison Avenue]] sign."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Oxford University Press, Dictionary of American Family Names, 2nd edition, 2022. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence. Wikipedia lists son of Matthew as another possible surname origin; the selected Maud possibility is qualified."
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual movie plot article was read; original film was not watched and no script/dialogue copied. Stronger claims about exact percent popularity increases and direct causation omitted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -17051,10 +17131,30 @@
         }
       ],
       "id": "ssa:M:Bruce",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Robert the Bruce was a medieval king of Scotland.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Bruce (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "The surname was borne by Robert the Bruce, a Scottish hero of the 14th century who achieved independence from England and became the king of Scotland."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Robert+the+Bruce&oldid=1374637320",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Robert the Bruce",
+          "workId": "wikipedia:Robert_the_Bruce",
+          "quote": "was [[King of Scots]] from 1306 until his death in 1329."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Non-BTN historical biography with Alison Weir dynastic citation in immediate introduction. Underlying book not directly read. No disputed surname literal meaning or name popularity causation asserted."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -19531,10 +19631,30 @@
         }
       ],
       "id": "ssa:M:Wayne",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Wayne Gretzky is often called hockey's greatest player.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Wayne (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "generally considered the greatest player in the history of the sport."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Wayne+Gretzky&oldid=1378862813",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Wayne Gretzky",
+          "workId": "wikipedia:Wayne_Gretzky",
+          "quote": "Gretzky is often considered the greatest hockey player of all time."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual biography gives qualified reputation and cites NHL records/player page plus sportswriter surveys, not an objective greatest-player calculation. No fabricated survey or current ranking claim. Other exact factual records need second authored source before being added."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -22711,10 +22831,38 @@
         }
       ],
       "id": "ssa:F:Erin",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Erin is an English form of Ireland's Irish name.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Erin (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Anglicized form of Eireann."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Eireann (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From Éireann, the genitive case of Gaelic Éire, meaning \"Ireland\". It is commonly Anglicized as Erin."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=%C3%89ire&oldid=1369720917",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Éire",
+          "workId": "wikipedia:Éire",
+          "quote": "''Erin'' is a common poetic name for Ireland,"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actually read linked Eireann dictionary entry and separate Éire language/geographical article. Exact grammar/source path remains conflicted: dictionary linked entry uses genitive Éireann, whereas independently authored article derives poetic Erin from dative Éirinn. Accepted only broad English/Irish country-name relation, with no asserted case or precise historical origin. The separate Erin given-name article cites BTN for nearby case discussion and was not counted as independent derivation authority."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -24751,10 +24899,30 @@
         }
       ],
       "id": "ssa:F:Shannon",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Ireland's longest river is called the Shannon.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Shannon (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the name of the River Shannon, the longest river in Ireland,"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=River+Shannon&oldid=1378098391",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "River Shannon",
+          "workId": "wikipedia:River_Shannon",
+          "quote": "is the longest [[Rivers of Ireland|river]] in the [[British Isles]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual river introduction puts it on Ireland and ranks it longest in British Isles, which implies longest in Ireland. Immediate citations include Ordnance Survey Ireland and Irish EPA report2072017. Underlying pages not directly read. No uncertain goddess-direction derivation, precise river-length estimate or baby-name causation asserted."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -36911,29 +37079,29 @@
         }
       ],
       "id": "ssa:F:Stella",
-      "fact": "Philip Sidney used Stella for the woman in his sonnet collection.",
+      "fact": "Philip Sidney used Stella for the subject of his sonnets.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Stella+%28given+name%29&oldid=1377672382",
-          "publisher": "Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Stella (given name)",
-          "workId": "wikipedia:Stella (given name)",
-          "quote": "first used by [[Philip Sidney]] in ''[[Astrophel and Stella]]''"
-        },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Stella name entry",
+          "title": "Behind the Name: Stella (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "created by the 16th-century poet Sir Philip Sidney for the subject of his collection of sonnets Astrophel and Stella"
+          "quote": "This name was created by the 16th-century poet Sir Philip Sidney for the subject of his collection of sonnets Astrophel and Stella."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/Sir-PS-His-Astrophel-and-Stella_56375/efc029e852908516267672ad37699af2e7d68e4c/56375-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Philip Sidney",
+          "title": "Sir P.S.: His Astrophel and Stella",
+          "workId": "primary:gitenberg/sir-ps-his-astrophel-and-stella_56375",
+          "quote": "True and most true, that I must _Stella_ love."
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Patrick Hanks, Kate Hardcastle and Flavia Hodges, Oxford Dictionary of First Names (2006), p. 252. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. Shared literary use is chosen; joint BTN/Etymonline star-word cluster and Greek Styliani derivation are not used. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored primary literary text were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actually read retained 1591 text/title and poems addressing Stella. Fact does not assert that Sidney first invented the name, first used it as a given name, wrote the printed title, or that the Stella persona can be confidently identified with a specific historical woman. Unrelated Sidney Lanier book obtained in broad initial repository search was detected and excluded; correct author identified before qualification."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -42931,10 +43099,30 @@
         }
       ],
       "id": "ssa:M:Max",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Max can be a shortened form of Maximilian.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Max (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Maximilian (or sometimes of Maxwell in English)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Fabius Maximus and Scipio Æmilianus. “The Last of the Knights,” with his wild effrontery and spirited chamois-hunting might be despised by the Italians, as _Massimiliano Pochi Danari_; but he was beloved by the Austrians as “Our Max.” His great grandson, Maximilian II., contributed to the popularity of his unwieldy name, and Max continues to be one of the favourite German appellations, from the archduke to the peasant, to the present day; and has even thrown out the feminine Maximiliane. The Poles and Illyrians use _ks_ instead of _x_ in spelling it."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_full_facts",
+        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Max also has a separate Maxwell or Russian-transcription use. The imperial blend anecdote is not asserted; Yonge wrongly numbers the father Frederick VII whereas BTN gives Frederick III."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -45971,29 +46159,29 @@
         }
       ],
       "id": "ssa:F:Cora",
-      "fact": "Cora appeared in The Last of the Mohicans in 1826.",
+      "fact": "Cooper used Cora for a character in The Last of the Mohicans.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Cora+%28name%29&oldid=1374177770",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Cora (name)",
-          "workId": "wikipedia:Cora (name):1374177770",
-          "quote": "a character in his 1826 novel ''[[The Last of the Mohicans]]''"
-        },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Cora",
+          "title": "Behind the Name: Cora (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Cora entry: James Fenimore Cooper for a character in his novel The Last of the Mohicans (1826)."
+          "quote": "it was employed by James Fenimore Cooper for a character in his novel The Last of the Mohicans (1826)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Last-of-the-Mohicans--A-narrative-of-1757_940/c6c9bcee671cc7ace8e429a7e0e023b12f316fb2/940-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "James Fenimore Cooper",
+          "title": "The Last of the Mohicans",
+          "workId": "primary:gitenberg/the-last-of-the-mohicans--a-narrative-of-1757_940",
+          "quote": "both Cora and I shall have need to draw largely on that stock of hereditary courage which we boast,"
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN reference scope checked; underlying cited works not directly read. No first-invention or first-real-world-use claim is made."
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored primary literary text were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Primary author/title header and surrounding Cora/Alice interaction actually read. No invented-first-use claim or etymology asserted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -46160,143 +46348,6 @@
         "reviewer": "codex-c05-recognition-editorial-review",
         "note": "Lewis is a recognizable older given-name form to this reviewer. Datedness adds a useful decade contrast rather than making the name obscure. Explicit editorial judgment for adult US general-audience players; not a measured survey or source-derived recognition score."
       }
-    },
-    {
-      "name": "Micheal",
-      "sex": "M",
-      "totalPublishedCount": 154719,
-      "peakDecade": 1950,
-      "peakCount": 40908,
-      "runnerUpCount": 31979,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 142,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 119,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 218,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 1249,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 1460,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 1403,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 10619,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 40908,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 31979,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 23798,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 18735,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 12871,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 7271,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 3004,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 943,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Micheal",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
     },
     {
       "name": "Floyd",
@@ -49048,10 +49099,30 @@
         }
       ],
       "id": "ssa:M:Chris",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Chris can be a short form of Christopher.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Chris (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Christopher, Christian, Christine and other names that begin with Chris."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "earthquake, fire, or flood, for the rest of the day, and it was therefore carved out and painted in huge proportions outside churches and houses, especially in Italy, Spain, and Germany. The cumbrous length is cut down in England into Kit, Kester, and Chris. The modern Greeks shorten Christophoros into Christachi. The two feminine are the German Christophine and English Christophera."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_full_facts",
+        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Other Chris parent names are explicitly retained as possible alternatives; no exclusive derivation claimed."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -49808,10 +49879,30 @@
         }
       ],
       "id": "ssa:M:Clyde",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Clyde shares its name with a river in Scotland.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Clyde (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the name of the River Clyde in Scotland,"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=River+Clyde&oldid=1371217205",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "River Clyde",
+          "workId": "wikipedia:River_Clyde",
+          "quote": "| subdivision_name1 = [[Scotland]]"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Read actual river geographical prose/catchment section including cited Brown2023/Club2020 and Kenneth Jackson1953 etymology. Kept geographical shared-name fact; uncertain Cumbric deeper meaning and exact length excluded."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -55968,10 +56059,30 @@
         }
       ],
       "id": "ssa:F:Brooklyn",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "New York's Brooklyn was named after the Dutch town of Breukelen.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Brooklyn (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "a borough of New York City, originally named after the Dutch town of Breukelen,"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Brooklyn&oldid=1378366685",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Brooklyn",
+          "workId": "wikipedia:Brooklyn",
+          "quote": "Brooklyn, named after the Dutch town of [[Breukelen]], was founded by [[New Netherland|the Dutch]]"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual borough article shared geographical naming history, independent of the BTN given-name text. Conflicting deeper translations broken-land/marsh-land excluded; no causal claim about every newborn name."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -56568,10 +56679,38 @@
         }
       ],
       "id": "ssa:F:Camila",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Camila is a form of Camilla, a warrior in Virgil's Aeneid.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Camila (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Spanish and Portuguese form of Camilla."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Camilla (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "This was the name of a legendary warrior maiden of the Volsci, as told by Virgil in the Aeneid."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Camilla+%28given+name%29&oldid=1376621444",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Camilla (given name)",
+          "workId": "wikipedia:Camilla_(given_name)",
+          "quote": "'''Camilla''' or '''Camila''' is a feminine given name. […] In the ''[[Aeneid]]'', [[Camilla (mythology)|Camilla]] was the name of a queen of the [[Volsci]] […] raised as a \"warrior virgin\""
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actually read linked Camilla entry in same dictionary; not counted as independent second work. Actual separate Camilla given-name article identifies both spellings and the warrior in Aeneid, with independently authored Etymonline responsibility for name introduction. The precise modern variant form is not claimed to be Virgil’s own spelling. Root acceptance should evaluate the linked-entry chain; no invented name-creation or publication-popularity assertion."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -59939,143 +60078,6 @@
       }
     },
     {
-      "name": "Jaxon",
-      "sex": "M",
-      "totalPublishedCount": 113651,
-      "peakDecade": 2010,
-      "peakCount": 69196,
-      "runnerUpCount": 27421,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 34,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 98,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 1171,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 15731,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 69196,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 27421,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Jaxon",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Jocelyn",
       "sex": "F",
       "totalPublishedCount": 113061,
@@ -61145,10 +61147,30 @@
         }
       ],
       "id": "ssa:M:Jessie",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Jessie can be a feminine relative of Jean and Janet.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Jessie (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Originally a Scottish diminutive of Jean 2. […] Medieval English variant of Jehanne (see Jane). […] Medieval diminutive of Jane. […] Medieval English form of Jehanne, an Old French feminine form of Iohannes (see John)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "her marriage; and Joan Beaufort was the maiden romantically beloved by the captive James I. The Scots, however, usually called the name Jean, and adopted Janet from the French Jeanette, like Annot from Annette. […] Jessie, though now a separate name, is said to be short for Janet. Queen"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_full_facts",
+        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Yonge says Jessie is said to be short for Janet, while BTN routes it through Jean, both in the same Jane/John family. The direct Jessie-to-Janet diminutive claim is excluded. Modern masculine Jesse and feminine Jessica senses are not conflated."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -62194,143 +62216,6 @@
         "reviewer": "codex-c05-recognition-editorial-review",
         "note": "Penelope is readily recognizable as a contemporary conventional given name to this reviewer, with familiarity judged independently of its SSA total. Explicit editorial judgment for adult US general-audience players; not a measured survey or source-derived recognition score."
       }
-    },
-    {
-      "name": "Makayla",
-      "sex": "F",
-      "totalPublishedCount": 108030,
-      "peakDecade": 2000,
-      "peakCount": 54990,
-      "runnerUpCount": 27875,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 83,
-          "publishedYearCount": 9,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 593,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 20083,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 54990,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 27875,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 4406,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Makayla",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
     },
     {
       "name": "Isabelle",
@@ -63382,10 +63267,30 @@
         }
       ],
       "id": "ssa:M:Lincoln",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "The city of Lincoln was called Lindum Colonia by the Romans.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Lincoln (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the name of a city in England, called Lindum Colonia by the Romans,"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Lincoln%2C+England&oldid=1378838526",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Lincoln, England",
+          "workId": "wikipedia:Lincoln,_England",
+          "quote": "[[Roman Britain|Roman]] ''[[Lindum Colonia]]'' developed from an [[Iron Age]] settlement"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual city history further discusses Roman colonia and modern contraction. Name-place fact, not a claim that every US Lincoln was named after the city or after the president. Brythonic lake/pool analysis omitted."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -65973,280 +65878,6 @@
       }
     },
     {
-      "name": "Nevaeh",
-      "sex": "F",
-      "totalPublishedCount": 98497,
-      "peakDecade": 2010,
-      "peakCount": 45048,
-      "runnerUpCount": 38050,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 18,
-          "publishedYearCount": 3,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 7,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 38050,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 45048,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 15381,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Nevaeh",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Johnathan",
-      "sex": "M",
-      "totalPublishedCount": 98262,
-      "peakDecade": 1990,
-      "peakCount": 27264,
-      "runnerUpCount": 21920,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 11,
-          "publishedYearCount": 2,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 8,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 51,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 93,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 97,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 215,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 792,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 2432,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 7820,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 21908,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 27264,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 21920,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 11804,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 3855,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Johnathan",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Whitney",
       "sex": "F",
       "totalPublishedCount": 97663,
@@ -68016,10 +67647,30 @@
         }
       ],
       "id": "ssa:M:Andy",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Andy can be a short form of Andrew.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Andy (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Diminutive of Andrew or sometimes Andrea 2."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "popular, and its variations are as follows:— ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ Scotch. │ Dutch. │ Danish. │ │Andrew │Andrew │Andreas │Anders │ │Andy │Dandie │Andries │ │ │ │ │Andries │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ French. │ German. │ Italian. │ Spanish. │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_full_facts",
+        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Andrea is an additional modern sense. The actual book introduces variations of Andrew before the English Andrew/Andy table."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -68987,143 +68638,6 @@
       }
     },
     {
-      "name": "Jace",
-      "sex": "M",
-      "totalPublishedCount": 91544,
-      "peakDecade": 2010,
-      "peakCount": 47476,
-      "runnerUpCount": 20444,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 5,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 14,
-          "publishedYearCount": 2,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 8,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 308,
-          "publishedYearCount": 8,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 2,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 290,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 505,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 1650,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 4536,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 16316,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 47476,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 20444,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Jace",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Claude",
       "sex": "M",
       "totalPublishedCount": 91337,
@@ -70044,280 +69558,6 @@
       }
     },
     {
-      "name": "Ayden",
-      "sex": "M",
-      "totalPublishedCount": 89180,
-      "peakDecade": 2010,
-      "peakCount": 49636,
-      "runnerUpCount": 26295,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 445,
-          "publishedYearCount": 9,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 26295,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 49636,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 12804,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Ayden",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Geneva",
-      "sex": "F",
-      "totalPublishedCount": 88758,
-      "peakDecade": 1920,
-      "peakCount": 23273,
-      "runnerUpCount": 15043,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 663,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 1669,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 3861,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 15043,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 23273,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 14279,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 9485,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 6175,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 3350,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 2510,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 2336,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 1974,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 1603,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 1712,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 825,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Geneva",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Bobbie",
       "sex": "F",
       "totalPublishedCount": 88627,
@@ -70747,10 +69987,30 @@
         }
       ],
       "id": "ssa:F:Luna",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Luna was a Roman moon goddess shown riding a chariot.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Luna (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Luna was the Roman goddess of the moon, frequently depicted driving a white chariot through the sky."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Luna+%28goddess%29&oldid=1354733662",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Luna (goddess)",
+          "workId": "wikipedia:Luna_(goddess)",
+          "quote": "In [[ancient Roman art|Roman art]], Luna attributes are the crescent moon plus the two-yoke chariot"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual deity article distinguishes ancient Roman religion/mythology and attributes, citing C.M.C.Green2007 and Horace CarmenSaeculare. Underlying works not directly read. White chariot colour and exclusive one-goddess claims omitted; no assertion that a goddess historically existed."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -71218,143 +70478,6 @@
       }
     },
     {
-      "name": "Kaleb",
-      "sex": "M",
-      "totalPublishedCount": 86649,
-      "peakDecade": 2000,
-      "peakCount": 34761,
-      "runnerUpCount": 26039,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 387,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 2537,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 14904,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 34761,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 26039,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 8021,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Kaleb",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Tracey",
       "sex": "F",
       "totalPublishedCount": 86515,
@@ -71773,7 +70896,7 @@
           "author": "Behind the Name",
           "title": "Behind the Name: Kate (pinned 2021 dictionary distribution)",
           "workId": "behind-the-name:dictionary",
-          "quote": "This was the name of the woman who Petruchio marries and tries to tame in Shakespeare's comedy Taming of the Shrew (1593)."
+          "quote": "Diminutive of Katherine, often used independently. […] This was the name of the woman who Petruchio marries and tries to tame in Shakespeare's comedy Taming of the Shrew (1593)."
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/The-Taming-of-the-Shrew_1508/96e0ca4610a55aecfd8be731c82ba50021829e4c/1508-0.txt",
@@ -72364,10 +71487,30 @@
         }
       ],
       "id": "ssa:F:Trinity",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Trinity refers to Father, Son and Holy Spirit in Christian belief.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Trinity (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Father, Son and Holy Spirit."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Trinity&oldid=1378148702",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Trinity",
+          "workId": "wikipedia:Trinity",
+          "quote": "[[God the Father]], [[God the Son]] ([[Jesus in Christianity|Jesus Christ]]), and [[God the Holy Spirit]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_literary_gap_facts",
+        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual doctrine article immediate Daley2009/Ramelli2012 citation scope defines three persons sharing one essence. Fact attributes Christian belief, not universally adopted theology or a factual supernatural assertion. Avoided calling the persons three gods or mere interchangeable expressions."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -72533,143 +71676,6 @@
         "reviewer": "codex-c05-recognition-editorial-review",
         "note": "Jonah is readily recognizable as a contemporary conventional given name to this reviewer, with familiarity judged independently of its SSA total. Explicit editorial judgment for adult US general-audience players; not a measured survey or source-derived recognition score."
       }
-    },
-    {
-      "name": "Lula",
-      "sex": "F",
-      "totalPublishedCount": 85248,
-      "peakDecade": 1920,
-      "peakCount": 16317,
-      "runnerUpCount": 13930,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 8882,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 10238,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 9518,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 13930,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 16317,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 11077,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 7332,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 3819,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 1373,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 501,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 210,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 116,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 290,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 976,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 669,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Lula",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
     },
     {
       "name": "Candace",
@@ -73381,10 +72387,30 @@
         }
       ],
       "id": "ssa:F:Kristine",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
+      "fact": "Kristine belongs to the same name family as Christina.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kristine (pinned 2021 dictionary distribution)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Scandinavian and Georgian form of Christina, as well as an English and German variant of Christine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │ │Chrissie │ │Tine │Krikszte │ │Xina │ │Kristel │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Portuguese. │ Spanish. │ Italian. │ Danish. │ │Christinha │Cristine │Cristina │Karstin │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Slavonic. │ Lusatian. │ Lett. │ Esthonian. │ │Kristina │Krystla │Kristine │Kirstin │ │Kina │Kita │Kersti │Kirste │ │ │Kitka │Skersten │ │ └───────────────┴───────────────┴───────────────┴───────────────┘"
+        }
+      ],
+      "factReview": {
+        "reviewer": "/root/c05_full_facts",
+        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Book gives Lettish Kristine within the feminine Christian/Christina variants table; selected claim is only the name relationship, not the same language classification."
+      },
       "recognitionVerified": true,
       "recognitionReview": {
         "reviewer": "codex-c05-recognition-editorial-review",
@@ -75800,143 +74826,6 @@
       }
     },
     {
-      "name": "Collin",
-      "sex": "M",
-      "totalPublishedCount": 81437,
-      "peakDecade": 2000,
-      "peakCount": 27831,
-      "runnerUpCount": 23753,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 5,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 14,
-          "publishedYearCount": 2,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 8,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 119,
-          "publishedYearCount": 9,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 191,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 149,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 405,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 488,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 848,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 2018,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 6132,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 23753,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 27831,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 15610,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 3874,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Collin",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Hilda",
       "sex": "F",
       "totalPublishedCount": 81022,
@@ -76577,48 +75466,48 @@
       }
     },
     {
-      "name": "Erick",
-      "sex": "M",
-      "totalPublishedCount": 79463,
-      "peakDecade": 2000,
-      "peakCount": 21430,
-      "runnerUpCount": 15682,
+      "name": "Ariel",
+      "sex": "F",
+      "totalPublishedCount": 78697,
+      "peakDecade": 1990,
+      "peakCount": 28142,
+      "runnerUpCount": 19377,
       "sparkline": [
         {
           "decade": 1880,
-          "count": 25,
-          "publishedYearCount": 4,
+          "count": 0,
+          "publishedYearCount": 0,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 6,
+          "missingPublishedYearCount": 10,
           "unobservedYearCount": 0
         },
         {
           "decade": 1890,
-          "count": 49,
+          "count": 15,
+          "publishedYearCount": 3,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 7,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 52,
           "publishedYearCount": 7,
           "observedYearCount": 10,
           "missingPublishedYearCount": 3,
           "unobservedYearCount": 0
         },
         {
-          "decade": 1900,
-          "count": 10,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
           "decade": 1910,
-          "count": 140,
-          "publishedYearCount": 8,
+          "count": 156,
+          "publishedYearCount": 10,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 2,
+          "missingPublishedYearCount": 0,
           "unobservedYearCount": 0
         },
         {
           "decade": 1920,
-          "count": 194,
+          "count": 129,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76626,7 +75515,7 @@
         },
         {
           "decade": 1930,
-          "count": 147,
+          "count": 83,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76634,31 +75523,31 @@
         },
         {
           "decade": 1940,
-          "count": 472,
-          "publishedYearCount": 10,
+          "count": 86,
+          "publishedYearCount": 9,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
+          "missingPublishedYearCount": 1,
           "unobservedYearCount": 0
         },
         {
           "decade": 1950,
-          "count": 938,
-          "publishedYearCount": 10,
+          "count": 63,
+          "publishedYearCount": 8,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
+          "missingPublishedYearCount": 2,
           "unobservedYearCount": 0
         },
         {
           "decade": 1960,
-          "count": 3295,
-          "publishedYearCount": 10,
+          "count": 139,
+          "publishedYearCount": 9,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
+          "missingPublishedYearCount": 1,
           "unobservedYearCount": 0
         },
         {
           "decade": 1970,
-          "count": 7167,
+          "count": 717,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76666,7 +75555,7 @@
         },
         {
           "decade": 1980,
-          "count": 9001,
+          "count": 6353,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76674,7 +75563,7 @@
         },
         {
           "decade": 1990,
-          "count": 15682,
+          "count": 28142,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76682,7 +75571,7 @@
         },
         {
           "decade": 2000,
-          "count": 21430,
+          "count": 16265,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76690,7 +75579,7 @@
         },
         {
           "decade": 2010,
-          "count": 14670,
+          "count": 19377,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76698,28 +75587,211 @@
         },
         {
           "decade": 2020,
-          "count": 6243,
+          "count": 7120,
           "publishedYearCount": 6,
           "observedYearCount": 6,
           "missingPublishedYearCount": 0,
           "unobservedYearCount": 4
         }
       ],
-      "id": "ssa:M:Erick",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
+      "id": "ssa:F:Ariel",
+      "fact": "Ariel is a biblical name meaning \"lion of God\".",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ariel and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Means \"lion of God\" in Hebrew"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+          "author": "William Smith",
+          "title": "Smith's Bible Dictionary",
+          "workId": "smith-bible-dictionary-1863",
+          "quote": "(lion of God)."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual William Smith source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Smith gives an alternate hearth sense for a Jerusalem/altar interpretation. Only the shared name gloss is selected; the conflicting contextual sense is not denied. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar first-name form with a readily recognizable popular-culture association; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
     },
     {
-      "name": "Easton",
+      "name": "Emmett",
       "sex": "M",
-      "totalPublishedCount": 79440,
+      "totalPublishedCount": 78564,
       "peakDecade": 2010,
-      "peakCount": 46805,
-      "runnerUpCount": 23634,
+      "peakCount": 26161,
+      "runnerUpCount": 19429,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 901,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1136,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1187,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 4190,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 5433,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 3559,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 3432,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 2988,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2032,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 1334,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 1072,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 1640,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 4070,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 26161,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 19429,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Emmett",
+      "fact": "Emmett’s surname roots lead back to the feminine name Emma.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Emmett and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "an English surname that was derived from a diminutive of the feminine given name Emma."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
+          "publisher": "John Murray, London; digital text retained by GITenberg",
+          "author": "Ernest Weekley",
+          "title": "The Romance of Names, third revised edition (1922)",
+          "workId": "weekley-romance-of-names-1922",
+          "quote": "Emmett is a dim. of Emma"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Ernest Weekley source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Weekley's metronymics chapter treats female given names becoming surnames. This is an origin relationship, without asserting any current bearer's gender. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar conventional first-name form across older and contemporary contexts; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Meredith",
+      "sex": "F",
+      "totalPublishedCount": 77787,
+      "peakDecade": 1980,
+      "peakCount": 19204,
+      "runnerUpCount": 15840,
       "sparkline": [
         {
           "decade": 1880,
@@ -76731,54 +75803,6 @@
         },
         {
           "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 5,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 41,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 37,
-          "publishedYearCount": 5,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 5,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 36,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 27,
-          "publishedYearCount": 5,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 5,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
           "count": 6,
           "publishedYearCount": 1,
           "observedYearCount": 10,
@@ -76786,32 +75810,80 @@
           "unobservedYearCount": 0
         },
         {
-          "decade": 1960,
-          "count": 18,
-          "publishedYearCount": 3,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 7,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 25,
-          "publishedYearCount": 4,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 6,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 208,
+          "decade": 1900,
+          "count": 85,
           "publishedYearCount": 9,
           "observedYearCount": 10,
           "missingPublishedYearCount": 1,
           "unobservedYearCount": 0
         },
         {
+          "decade": 1910,
+          "count": 464,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 892,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1300,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 2901,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 2889,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 3927,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 15840,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 19204,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
           "decade": 1990,
-          "count": 1406,
+          "count": 12779,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76819,7 +75891,7 @@
         },
         {
           "decade": 2000,
-          "count": 7192,
+          "count": 8889,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76827,7 +75899,7 @@
         },
         {
           "decade": 2010,
-          "count": 46805,
+          "count": 5147,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -76835,20 +75907,1643 @@
         },
         {
           "decade": 2020,
-          "count": 23634,
+          "count": 3464,
           "publishedYearCount": 6,
           "observedYearCount": 6,
           "missingPublishedYearCount": 0,
           "unobservedYearCount": 4
         }
       ],
-      "id": "ssa:M:Easton",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
+      "id": "ssa:F:Meredith",
+      "fact": "Meredith has been used as both a first name and a surname.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Meredith and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "it has been used more often for girls than for boys in English-speaking countries […] A famous bearer of this name as surname was the English novelist and poet George Meredith"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884)",
+          "workId": "yonge-history-of-christian-names-1884",
+          "quote": "the Welsh Meredith, both as a Christian and a surname."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The uncertain sea-protector versus great/sea-lord literal meanings are held. The stable given-name/surname usage is selected. The BTN user-submitted surname description is not used as a corporate-authored authority. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar conventional first-name form to this reviewer; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Bianca",
+      "sex": "F",
+      "totalPublishedCount": 77564,
+      "peakDecade": 1990,
+      "peakCount": 28558,
+      "runnerUpCount": 18914,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 0,
+          "publishedYearCount": 0,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 10,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 0,
+          "publishedYearCount": 0,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 10,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 16,
+          "publishedYearCount": 3,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 7,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 89,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 95,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 33,
+          "publishedYearCount": 4,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 6,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 73,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 324,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 560,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 3041,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 12462,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 28558,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 18914,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 9293,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 4106,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Bianca",
+      "fact": "Bianca is the Italian cousin of Blanche.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Bianca and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Italian cognate of Blanche."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884)",
+          "workId": "yonge-history-of-christian-names-1884",
+          "quote": "│ English. │ French. │ Italian. │ Spanish. │Portuguese. │ […] │Blanch │Blanche │Bianca │Blanca │Branca │"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The complete country-column table supports the cognate relationship. No exclusive origin or literal white gloss is needed. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar first-name form across US and international contexts; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Elise",
+      "sex": "F",
+      "totalPublishedCount": 75186,
+      "peakDecade": 2010,
+      "peakCount": 18245,
+      "runnerUpCount": 14576,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 293,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 465,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 595,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 1620,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 1809,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1229,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1369,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 3511,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 3688,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 2716,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 7753,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 9712,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 14576,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 18245,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 7605,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Elise",
+      "fact": "Elise is a shortened form of Elizabeth.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Elise and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Elizabeth."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884)",
+          "workId": "yonge-history-of-christian-names-1884",
+          "quote": "modern usage, Elizabeth is placed separately from Isabella. […] │Elizabeth │Elizabeth │Elisabeth […] │Eliza │Elspeth │Elise"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Yonge's name-specific contraction table and its introductory caption were read together; glossary occurrence alone is not verification. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar conventional first-name form without variant ambiguity; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Eliza",
+      "sex": "F",
+      "totalPublishedCount": 70569,
+      "peakDecade": 2010,
+      "peakCount": 17726,
+      "runnerUpCount": 14227,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 2851,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 2723,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 2397,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 3289,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 3227,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1817,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1391,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 1057,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 1007,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 1725,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 2774,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 4750,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 9608,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 17726,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 14227,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Eliza",
+      "fact": "Eliza is a shortened form of Elizabeth.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Eliza and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Short form of Elizabeth."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884)",
+          "workId": "yonge-history-of-christian-names-1884",
+          "quote": "Poetry did not improve our Queen Elizabeth by making her into Eliza, a form which, however, became so prevalent in England"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Only the name relationship is selected. Yonge's literary and social judgments about the form are not asserted as modern facts. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar conventional first-name form across older and contemporary contexts; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Malcolm",
+      "sex": "M",
+      "totalPublishedCount": 70209,
+      "peakDecade": 1990,
+      "peakCount": 10064,
+      "runnerUpCount": 7105,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 209,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 335,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 564,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 3555,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 6088,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 5380,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 5681,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 5700,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 4907,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 3848,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 4527,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 10064,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 5145,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 7105,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 7101,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Malcolm",
+      "fact": "Malcolm’s roots mean \"disciple of Saint Columba\".",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Malcolm and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "means \"disciple of Saint Columba\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884)",
+          "workId": "yonge-history-of-christian-names-1884",
+          "quote": "this good man is generally called St. Columkill, St. Columb of the cell […] Gillie-colum and Maol-colm, the disciple, or shaveling, of Columb, from whence arose Malcolm"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The saint's shortened Columb/Colum forms are explicitly introduced by Yonge before the name relationship. No historical Scottish royal dates or political narratives are selected. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar conventional first-name form across historical and contemporary contexts; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Kirk",
+      "sex": "M",
+      "totalPublishedCount": 68067,
+      "peakDecade": 1960,
+      "peakCount": 22204,
+      "runnerUpCount": 16223,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 40,
+          "publishedYearCount": 5,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 5,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 48,
+          "publishedYearCount": 7,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 3,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 68,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 284,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 387,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 584,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 2755,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 16223,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 22204,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 11641,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 7186,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 3960,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 1418,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 924,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 345,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Kirk",
+      "fact": "Kirk comes from a surname meaning \"church\".",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Kirk and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "surname meaning \"church\""
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
+          "publisher": "John Murray, London; digital text retained by GITenberg",
+          "author": "Ernest Weekley",
+          "title": "The Romance of Names, third revised edition (1922)",
+          "workId": "weekley-romance-of-names-1922",
+          "quote": "In English names c is northern, ch southern, e.g. Carlton, Charlton, Kirk, Church. […] -church or -kirk, Greco-Lat. kuriakon, belonging to the Lord."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Ernest Weekley source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Weekley explicitly pairs the northern and southern forms and their shared root. The narrow meaning is selected without inventing a particular original family or claiming every current Kirk bears a religious identity. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar short first-name form across adult cohorts; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Otis",
+      "sex": "M",
+      "totalPublishedCount": 61082,
+      "peakDecade": 1920,
+      "peakCount": 9352,
+      "runnerUpCount": 7654,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 1006,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1349,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1966,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 6963,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 9352,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 7456,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 7654,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 7285,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 4955,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 3553,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 2237,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 1367,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 1028,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 2414,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 2497,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Otis",
+      "fact": "Otis was the surname of the revolutionary James Otis (1725–1783).",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Otis and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "the revolutionary James Otis (1725-1783)."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1377740774",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "James Otis Jr. (revision 1377740774)",
+          "workId": "wikipedia-article-24637333",
+          "quote": "'''James Otis Jr.''' (February 5, 1725 – May 23, 1783) was an American lawyer, politician, and activist who was an early supporter of patriotic causes […] at the beginning of the [[American Revolution]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Wikipedia contributors source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The actual pinned biography's introduction and dates were read and agree with BTN. The naming-in-his-honour claim occurs in only BTN, so it is omitted. Quotations attributed to Otis and the cause of his death are not asserted. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar older first-name form with useful decade contrast; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Homer",
+      "sex": "M",
+      "totalPublishedCount": 60912,
+      "peakDecade": 1920,
+      "peakCount": 15145,
+      "runnerUpCount": 11471,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 2213,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 2637,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 2915,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 11471,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 15145,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 9413,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 6956,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 4606,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2492,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 1308,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 747,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 363,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 207,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 256,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 183,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Homer",
+      "fact": "Homer is the name traditionally linked to the ancient Odyssey.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Homer and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Homer was the Greek epic poet who wrote the Iliad, about the Trojan War, and the Odyssey"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+          "author": "William Smith",
+          "title": "Smith's Bible Dictionary",
+          "workId": "smith-bible-dictionary-1863",
+          "quote": "the palace of Menelaus described by Homer. Odys. iv. 73."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual William Smith source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Smith's Ivory article actually cites Homer and Odys. iv. 73 for the classical palace description. This is distinct from Smith's unrelated Homer unit-of-measure headword. Traditionally linked preserves the BTN caveat that Homer's identity and dates are debated. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Readily recognizable older first-name form with a broad popular-culture association; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Tabitha",
+      "sex": "F",
+      "totalPublishedCount": 59200,
+      "peakDecade": 1980,
+      "peakCount": 19578,
+      "runnerUpCount": 13685,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 50,
+          "publishedYearCount": 7,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 3,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 73,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 44,
+          "publishedYearCount": 6,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 4,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 95,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 83,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 66,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 74,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 150,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2409,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 11947,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 19578,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 13685,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 6843,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 3163,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 940,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Tabitha",
+      "fact": "In the biblical story, Peter brings Tabitha back to life.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Tabitha and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Tabitha in the New Testament was a woman restored to life by Saint Peter."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
+          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+          "author": "William Smith",
+          "title": "Smith's Bible Dictionary",
+          "workId": "smith-bible-dictionary-1863",
+          "quote": "then commanded Tabitha to arise. […] She opened-her eyes and sat up"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual William Smith source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Explicitly a biblical story, rather than a claim that a supernatural event is historically established. Smith's full headword and its Acts 9 reference were read; the character's story is independently corroborated. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar conventional first-name form with useful decade contrast; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Rudolph",
+      "sex": "M",
+      "totalPublishedCount": 53441,
+      "peakDecade": 1920,
+      "peakCount": 12561,
+      "runnerUpCount": 8200,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 652,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 998,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1339,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 6857,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 12561,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 8200,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 6553,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 6652,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 3535,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 2186,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 1703,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 1054,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 589,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 392,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 170,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Rudolph",
+      "fact": "Robert L. May created Rudolph the Red-Nosed Reindeer in 1939.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Rudolph and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Robert L. May used it in 1939 for his Christmas character Rudolph the Red-Nosed Reindeer."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1375906177",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Rudolph the Red-Nosed Reindeer (revision 1375906177)",
+          "workId": "wikipedia-article-157222",
+          "quote": "is a fictional [[reindeer]] created in 1939 by [[Robert L. May]]."
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Wikipedia contributors source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The actual pinned article body and its cited 1939 booklet/May passage were read. Wikipedia references Snopes and Lankford, not BTN, for this historical character origin; those underlying works were not directly read. No character artwork or poem text is copied. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar older first-name form with broad cultural readability; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
+    },
+    {
+      "name": "Pablo",
+      "sex": "M",
+      "totalPublishedCount": 50370,
+      "peakDecade": 2000,
+      "peakCount": 10482,
+      "runnerUpCount": 8003,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 95,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 121,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 214,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 586,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 1632,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1416,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1417,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 1967,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2690,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 4020,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 5124,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 8003,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 10482,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 7862,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 4741,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Pablo",
+      "fact": "Pablo is the Spanish cousin of Paul.",
+      "factStatus": "reviewed",
+      "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Pablo and explicitly linked entries",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Spanish form of Paulus (see Paul)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884)",
+          "workId": "yonge-history-of-christian-names-1884",
+          "quote": "│ English. │ French. │ Italian. │ Portuguese. │ […] │Paul │Paul │ […] │ Spanish. │ Wallachian. │ German. │ Russian. │ […] │Pablo │Pawel │Paul │Pavel"
+        }
+      ],
+      "factReview": {
+        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
+        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The full multilingual table is in the Paul/Paulus section. No tradition about an apostle preaching in Spain is asserted as established history. Recognition review pending."
+      },
+      "recognitionVerified": true,
+      "recognitionReview": {
+        "reviewer": "codex-c05-recognition-editorial-review",
+        "note": "Familiar first-name form in a culturally diverse US context; source-qualifies numerically. Explicit editorial reserve judgment for adult US general-audience players, also accepted by root when selecting this exact form. Numeric eligibility was independently rechecked against the official ZIP. Recognition is not a measured survey."
+      }
     }
   ]
 }

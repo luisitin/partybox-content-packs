@@ -12,6 +12,7 @@ import type { AnnualCount } from '../src/core.js';
 const ROOT = process.cwd();
 const SOURCE_PATH = join(ROOT, 'fixtures/current-source.json');
 const FIXTURE = JSON.parse(readFileSync(SOURCE_PATH, 'utf8')) as any;
+const SELECTION = JSON.parse(readFileSync(join(ROOT, 'fixtures/selection.json'), 'utf8')) as string[];
 const CLI = fileURLToPath(new URL('../src/current-cli.js', import.meta.url));
 const SEEDS = JSON.parse(readFileSync(join(ROOT, 'test/seeds.json'), 'utf8')) as { fixed: number[]; random: number[] };
 const clone = <T>(value: T): T => structuredClone(value);
@@ -59,13 +60,18 @@ test('official snapshot produces exactly 500 incomplete candidates with observed
   assert.equal(pack.currentMetricsVerified, true);
   assert.equal(pack.rows.length, 500);
   assert.equal(new Set(pack.rows.map(row => row.name)).size, 500);
-  assert.equal(pack.rows.filter(row => row.sex === 'M').length, 216);
-  assert.equal(pack.rows.filter(row => row.sex === 'F').length, 284);
-  assert.equal(pack.rows.reduce((sum, row) => sum + row.totalPublishedCount, 0), 152_069_509);
+  assert.equal(pack.rows.filter(row => row.sex === 'M').length, 214);
+  assert.equal(pack.rows.filter(row => row.sex === 'F').length, 286);
+  assert.equal(pack.rows.reduce((sum, row) => sum + row.totalPublishedCount, 0), 151_696_279);
+  assert.deepEqual(pack.rows.map(row => row.id), SELECTION);
+  const identities = new Set(pack.rows.map(row => row.id));
+  for (const id of ['ssa:M:Micheal', 'ssa:M:Jaxon', 'ssa:F:Makayla', 'ssa:F:Nevaeh', 'ssa:M:Johnathan', 'ssa:M:Jace', 'ssa:M:Ayden', 'ssa:F:Geneva', 'ssa:M:Kaleb', 'ssa:F:Lula', 'ssa:M:Collin', 'ssa:M:Erick', 'ssa:M:Easton']) assert.equal(identities.has(id), false);
+  for (const id of ['ssa:F:Ariel', 'ssa:F:Bianca', 'ssa:F:Elise', 'ssa:F:Eliza', 'ssa:F:Tabitha', 'ssa:F:Meredith', 'ssa:M:Emmett', 'ssa:M:Malcolm', 'ssa:M:Kirk', 'ssa:M:Otis', 'ssa:M:Homer', 'ssa:M:Rudolph', 'ssa:M:Pablo']) assert.equal(identities.has(id), true);
   assert.equal(pack.rows[0]!.name, 'Thomas');
   assert.equal(pack.rows[0]!.peakDecade, 1950);
   assert.equal(pack.rows[0]!.peakCount, 454_385);
-  assert.equal(pack.rows.at(-1)!.name, 'Easton');
+  assert.equal(pack.rows.at(-1)!.name, 'Pablo');
+  assert.equal(pack.rows.at(-1)!.totalPublishedCount, 50_370);
   assert.deepEqual(pack.rows.filter(row => row.peakDecade === 2020).map(row => [row.name, row.peakCount, row.runnerUpCount]), [
     ['Theodore', 65_579, 40_530], ['Mateo', 62_272, 50_604], ['Ezra', 47_728, 38_650], ['Luna', 46_161, 34_179], ['Ivy', 28_572, 23_492],
   ]);
@@ -212,9 +218,18 @@ test('explicit editorial evidence is carried without inferring verification or f
 test('strict current schemas validate source and pack and reject inconsistent coverage and review gates', () => {
   const ajv = new Ajv({ strict: true, allErrors: true });
   const sourceValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/current-source.schema.json'), 'utf8')));
+  const selectionValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/selection.schema.json'), 'utf8')));
   const packValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/current-pack.schema.json'), 'utf8')));
   const pack = buildCurrent(FIXTURE);
   assert.equal(sourceValid(FIXTURE), true, ajv.errorsText(sourceValid.errors));
+  assert.equal(selectionValid(SELECTION), true, ajv.errorsText(selectionValid.errors));
+  const damagedSelections: unknown[] = [SELECTION.slice(1), [...SELECTION, SELECTION[0]], { ids: SELECTION }];
+  for (const changed of ['ssa:M:Never-selected', 'ssa:X:Thomas', 'ssa:M:A', 'ssa:M:' + 'A'.repeat(16), SELECTION[1]]) {
+    const damaged = clone(SELECTION);
+    damaged[0] = changed!;
+    damagedSelections.push(damaged);
+  }
+  for (const damaged of damagedSelections) assert.equal(selectionValid(damaged), false);
   assert.equal(packValid(pack), true, ajv.errorsText(packValid.errors));
   const damages: ((value: any) => void)[] = [
     value => { value.complete = true; },

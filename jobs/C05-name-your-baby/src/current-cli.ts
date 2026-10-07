@@ -29,7 +29,7 @@ async function main(): Promise<void> {
   }
   const fixture = parseCurrentFixture(JSON.parse(await readFile(input, 'utf8')) as unknown);
   const metricsBytes = JSON.stringify(canonical({ source: fixture.source, analysis: fixture.analysis, annualCounts: fixture.annualCounts, curation: [] }), null, 2) + '\n';
-  if (createHash('sha256').update(metricsBytes).digest('hex') !== '8dd80f3f6dc38705be47541fb994d073270ffe4d861732471c0c339e385905e9') throw new Error('current source-derived metrics fail the pinned fixture checksum');
+  if (createHash('sha256').update(metricsBytes).digest('hex') !== 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2') throw new Error('current source-derived metrics fail the pinned fixture checksum');
   const content = serialiseCurrent(buildCurrent(fixture));
   let stage: string | undefined;
   try {

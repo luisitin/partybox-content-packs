@@ -178,7 +178,7 @@ export function parseCurrentFixture(value: unknown): CurrentFixture {
   const analysis = object(root.analysis, 'current analysis');
   keys(analysis, ['startYear', 'endYear', 'gridEndYear'], 'current analysis');
   for (const key of ['startYear', 'endYear', 'gridEndYear'] as const) if (analysis[key] !== ANALYSIS[key]) throw new Error(`unrecognized current analysis ${key}`);
-  if (!Array.isArray(root.annualCounts) || root.annualCounts.length !== 63643) throw new Error('current fixture requires exactly 63643 annual records');
+  if (!Array.isArray(root.annualCounts) || root.annualCounts.length !== 64262) throw new Error('current fixture requires exactly 64262 annual records');
   const annualCounts = observedRecords(root.annualCounts);
   const names = new Set(annualCounts.map(row => row.name));
   const identities = new Set(annualCounts.map(row => `ssa:${row.sex}:${row.name}`));

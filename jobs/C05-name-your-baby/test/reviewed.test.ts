@@ -38,9 +38,9 @@ test('actual editorial evidence validates with the reused schema and preserves r
   assert.equal(valid([]), false);
   assert.equal(valid({ curation: CURATION }), false);
   const pack = buildReviewedCandidates(SOURCE, CURATION);
-  assert.equal(CURATION.length, 487);
-  assert.equal(new Set(CURATION.map(item => item.id)).size, 487);
-  assert.equal(CURATION.filter(item => item.factStatus === 'reviewed').length, 343);
+  assert.equal(CURATION.length, 500);
+  assert.equal(new Set(CURATION.map(item => item.id)).size, 500);
+  assert.equal(CURATION.filter(item => item.factStatus === 'reviewed').length, 375);
   for (const item of CURATION) {
     if (item.factStatus === 'reviewed') {
       assert.ok(item.fact !== null && [...item.fact].length <= 90);
@@ -98,9 +98,9 @@ test('editorial candidates preserve all 500 numeric rows and leave outstanding f
   assert.deepEqual(pack.source, baseline.source);
   assert.deepEqual(pack.analysis, baseline.analysis);
   assert.deepEqual(pack.rows.map(metrics), baseline.rows.map(metrics));
-  assert.equal(pack.rows.filter(row => row.factStatus === 'reviewed').length, 343);
-  assert.equal(pack.rows.filter(row => row.factStatus === 'unverified').length, 157);
-  assert.equal(pack.rows.filter(row => row.recognitionVerified).length, 487);
+  assert.equal(pack.rows.filter(row => row.factStatus === 'reviewed').length, 375);
+  assert.equal(pack.rows.filter(row => row.factStatus === 'unverified').length, 125);
+  assert.equal(pack.rows.filter(row => row.recognitionVerified).length, 500);
   const editorial = new Map(CURATION.map(item => [item.id, item]));
   for (const row of pack.rows) {
     const item = editorial.get(row.id);

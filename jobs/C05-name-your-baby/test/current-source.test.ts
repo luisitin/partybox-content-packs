@@ -9,10 +9,13 @@ import test from 'node:test';
 const job = resolve(process.cwd());
 const tool = join(job, 'tools/extract_current.py');
 const source = join(job, 'fixtures/ssa-names-2026-10-07.zip');
+const selection = join(job, 'fixtures/selection.json');
 const python = process.env.PARTYBOX_SOURCE_PYTHON ?? 'python3';
 const sourceBytes = readFileSync(source); // Missing pinned input is an error, never a skipped test.
+const selectionBytes = readFileSync(selection);
 const sourceSha = 'cd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724';
-const fixtureSha = '8dd80f3f6dc38705be47541fb994d073270ffe4d861732471c0c339e385905e9';
+const fixtureSha = 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2';
+const selectionSha = '2d61d267cc4e711d3d3d09d5232ba22995447175bfad7dcd3f82118258b6fab2';
 const sha = (bytes: Buffer): string => createHash('sha256').update(bytes).digest('hex');
 const commands: unknown[] = [];
 
@@ -34,8 +37,9 @@ function execute(argv: string[], timeout = 120_000) {
   return result;
 }
 
-function invoke(args: string[], withoutSitePackages = false) {
-  return execute([...(withoutSitePackages ? ['-S'] : []), tool, ...args]);
+function invoke(args: string[], withoutSitePackages = false, includeSelection = true) {
+  return execute([...(withoutSitePackages ? ['-S'] : []), tool, ...args,
+    ...(includeSelection && !args.includes('--selection') ? ['--selection', selection] : [])]);
 }
 
 function failure(args: string[], message: RegExp, withoutSitePackages = false): void {
@@ -49,10 +53,12 @@ function temporary(body: (directory: string) => void): void {
   try { body(directory); }
   finally { rmSync(directory, { recursive: true, force: true }); }
   assert.deepEqual(readFileSync(source), sourceBytes, 'Official ZIP was altered');
+  assert.deepEqual(readFileSync(selection), selectionBytes, 'Editorial selection was altered');
 }
 
 test('official extractor performs two uncached full-ZIP regenerations identical to the frozen fixture', { timeout: 240_000 }, () => {
   assert.equal(sha(sourceBytes), sourceSha);
+  assert.equal(sha(selectionBytes), selectionSha);
   temporary(directory => {
     const fixture = readFileSync(join(job, 'fixtures/current-source.json'));
     assert.equal(sha(fixture), fixtureSha);
@@ -63,7 +69,8 @@ test('official extractor performs two uncached full-ZIP regenerations identical 
       const report = JSON.parse(result.stdout) as Record<string, unknown>;
       assert.equal(report.sourceAnnualRecords, 2_181_032);
       assert.equal(report.selectedNames, 500);
-      assert.equal(report.selectedAnnualRecords, 63_643);
+      assert.equal(report.selectedAnnualRecords, 64_262);
+      assert.equal(report.selectionSha256, selectionSha);
       assert.deepEqual(report.coverage, [1880, 2025]);
       assert.equal(report.sha256, fixtureSha);
       assert.deepEqual(readFileSync(output), fixture);
@@ -73,7 +80,7 @@ test('official extractor performs two uncached full-ZIP regenerations identical 
   });
 });
 
-test('corrupt and truncated official bytes fail the pinned hash before ZIP decode and preserve destinations', () => {
+test('corrupt sources and forged selections fail their pinned hashes before decoding and preserve destinations', () => {
   temporary(directory => {
     const output = join(directory, 'existing.json');
     const sentinel = Buffer.from('existing output survives\n');
@@ -85,11 +92,28 @@ test('corrupt and truncated official bytes fail the pinned hash before ZIP decod
       assert.deepEqual(readFileSync(output), sentinel);
       assert.deepEqual(readFileSync(input), bytes);
     }
+    const original = JSON.parse(selectionBytes.toString('utf8')) as string[];
+    const validButForged = [...original]; validButForged[0] = 'ssa:M:Easton';
+    const unqualified = [...original]; unqualified[0] = 'ssa:M:Unknown';
+    const duplicate = [...original]; duplicate[0] = duplicate[1]!;
+    const variants: [string, Buffer][] = [
+      ['valid-forged-selection.json', Buffer.from(JSON.stringify(validButForged))],
+      ['nonqualifying-selection.json', Buffer.from(JSON.stringify(unqualified))],
+      ['duplicate-selection.json', Buffer.from(JSON.stringify(duplicate))],
+      ['missing-selection-identity.json', Buffer.from(JSON.stringify(original.slice(1)))],
+      ['malformed-selection.json', Buffer.from('{')],
+    ];
+    for (const [name, bytes] of variants) {
+      const input = join(directory, name); writeFileSync(input, bytes);
+      failure(['--source', source, '--selection', input, '--output', output], /Selection SHA256.*no JSON decode attempted/, true);
+      assert.deepEqual(readFileSync(output), sentinel);
+      assert.deepEqual(readFileSync(input), bytes);
+    }
     assert.equal(readdirSync(directory).some(name => name.startsWith('.c05-current-extract-')), false);
   });
 });
 
-test('official source/output direct, normalized, symlink and hardlink aliases are rejected before writing', () => {
+test('source and selection output aliases through direct, normalized, symlink and hardlink paths are rejected before writing', () => {
   temporary(directory => {
     const input = join(directory, 'input.zip'); copyFileSync(source, input);
     const child = join(directory, 'child'); mkdirSync(child);
@@ -102,6 +126,16 @@ test('official source/output direct, normalized, symlink and hardlink aliases ar
     }
     failure(['--source', symbolic, '--output', input], /different files, including aliases/);
     failure(['--source', hard, '--output', input], /different files, including aliases/);
+    const manifest = join(directory, 'selection.json'); copyFileSync(selection, manifest);
+    const manifestSymbolic = join(directory, 'selection-symlink.json'); symlinkSync(manifest, manifestSymbolic);
+    const manifestHard = join(directory, 'selection-hardlink.json'); linkSync(manifest, manifestHard);
+    for (const output of [manifest, `${child}/../selection.json`, manifestSymbolic, manifestHard]) {
+      failure(['--source', input, '--selection', manifest, '--output', output], /different files, including aliases/);
+      assert.deepEqual(readFileSync(manifest), selectionBytes);
+      assert.deepEqual(readFileSync(output), selectionBytes);
+    }
+    failure(['--source', input, '--selection', manifestSymbolic, '--output', manifest], /different files, including aliases/);
+    failure(['--source', input, '--selection', manifestHard, '--output', manifest], /different files, including aliases/);
     assert.deepEqual(readFileSync(input), sourceBytes);
     assert.equal(readdirSync(directory).some(name => name.startsWith('.c05-current-extract-')), false);
   });
@@ -117,11 +151,16 @@ test('missing inputs, directories, dangling destination links and malformed opti
     const dangling = join(directory, 'dangling.json'); symlinkSync(missingTarget, dangling);
     failure(['--source', join(directory, 'missing.zip'), '--output', output], /No such file or directory/);
     failure(['--source', inputDirectory, '--output', output], /Source must be a regular file/);
+    failure(['--source', source, '--selection', join(directory, 'missing-selection.json'), '--output', output], /No such file or directory/);
+    failure(['--source', source, '--selection', inputDirectory, '--output', output], /Selection must be a regular file/);
     failure(['--source', source, '--output', destinationDirectory], /Output must be a regular file/);
     failure(['--source', source, '--output', dangling], /Output must be a regular file/);
     failure(['--source', source, '--output', output, '--wrong-name'], /unrecognized arguments/);
     failure(['--source', source], /required: --output/);
     failure(['--output', output], /required: --source/);
+    const missingSelection = invoke(['--source', source, '--output', output], false, false);
+    assert.notEqual(missingSelection.status, 0);
+    assert.match(missingSelection.stderr, /required: --selection/);
     assert.deepEqual(readFileSync(output), sentinel);
     assert.deepEqual(readdirSync(destinationDirectory), []);
     assert.equal(existsSync(missingTarget), false);
@@ -131,8 +170,10 @@ test('missing inputs, directories, dangling destination links and malformed opti
 
 const annualBoundaryChecks = String.raw`
 import json, runpy, sys
+from pathlib import Path
 module = runpy.run_path(sys.argv[1])
 records = module['records']
+parse_selection = module['parse_selection']
 class SyntheticArchive:
     def __init__(self, replacement=None, year=1880):
         self.replacement = replacement
@@ -187,16 +228,42 @@ except UnicodeDecodeError:
     pass
 else:
     raise AssertionError('Accepted non-ASCII archive bytes')
-print(json.dumps({'syntheticRecordCases':len(cases)+1,'passed':len(cases)+1,'validAnnualYears':len(base),'actualMalformedZipDecoded':False}))
+manifest = json.loads(Path(sys.argv[2]).read_text())
+assert len(parse_selection(manifest)) == 500
+first = manifest[0].split(':')
+other_category = 'ssa:'+('F' if first[1]=='M' else 'M')+':'+first[2]
+selection_cases = [
+    ('not-array', {'ids':manifest}, 'exactly 500'),
+    ('missing-identity', manifest[:-1], 'exactly 500'),
+    ('extra-identity', manifest+[manifest[0]], 'exactly 500'),
+    ('non-string', [7]+manifest[1:], 'exact ssa'),
+    ('wrong-category', ['ssa:X:Thomas']+manifest[1:], 'exact ssa'),
+    ('short-name', ['ssa:M:A']+manifest[1:], 'exact ssa'),
+    ('long-name', ['ssa:M:'+'A'*16]+manifest[1:], 'exact ssa'),
+    ('punctuation', ['ssa:F:Anne-Marie']+manifest[1:], 'exact ssa'),
+    ('missing-prefix', ['M:Thomas']+manifest[1:], 'exact ssa'),
+    ('duplicate-identity', [manifest[1]]+manifest[1:], 'Duplicate selection'),
+    ('duplicate-spelling-across-categories', [manifest[0],other_category]+manifest[2:], 'distinct name spellings'),
+]
+for label, value, message in selection_cases:
+    try:
+        parse_selection(value)
+    except ValueError as error:
+        assert message in str(error), (label, str(error))
+    else:
+        raise AssertionError('Accepted invalid selection: '+label)
+print(json.dumps({'syntheticRecordCases':len(cases)+1,'passed':len(cases)+1,'validAnnualYears':len(base),'actualMalformedZipDecoded':False,'selectionBoundaryCases':len(selection_cases),'selectionCasesPassed':len(selection_cases)}))
 `;
 
-test('synthetic annual records enforce exact fields, safe counts, duplicate keys and publisher ordering', () => {
-  const result = execute(['-S', '-c', annualBoundaryChecks, tool], 30_000);
+test('source record and selection parsers enforce exact shapes, safe boundaries and duplicate identities', () => {
+  const result = execute(['-S', '-c', annualBoundaryChecks, tool, selection], 30_000);
   assert.equal(result.status, 0, result.stderr);
-  const report = JSON.parse(result.stdout) as { syntheticRecordCases: number; passed: number; validAnnualYears: number; actualMalformedZipDecoded: boolean };
+  const report = JSON.parse(result.stdout) as { syntheticRecordCases: number; passed: number; validAnnualYears: number; actualMalformedZipDecoded: boolean; selectionBoundaryCases: number; selectionCasesPassed: number };
   assert.equal(report.syntheticRecordCases, 36);
   assert.equal(report.passed, 36);
   assert.equal(report.validAnnualYears, 146);
   assert.equal(report.actualMalformedZipDecoded, false);
+  assert.equal(report.selectionBoundaryCases, 11);
+  assert.equal(report.selectionCasesPassed, 11);
   assert.deepEqual(readFileSync(source), sourceBytes);
 });

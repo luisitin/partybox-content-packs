@@ -40711,143 +40711,6 @@
       "recognitionReview": null
     },
     {
-      "name": "Micheal",
-      "sex": "M",
-      "totalPublishedCount": 154719,
-      "peakDecade": 1950,
-      "peakCount": 40908,
-      "runnerUpCount": 31979,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 142,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 119,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 218,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 1249,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 1460,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 1403,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 10619,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 40908,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 31979,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 23798,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 18735,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 12871,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 7271,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 3004,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 943,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Micheal",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Floyd",
       "sex": "M",
       "totalPublishedCount": 154370,
@@ -53041,143 +52904,6 @@
       "recognitionReview": null
     },
     {
-      "name": "Jaxon",
-      "sex": "M",
-      "totalPublishedCount": 113651,
-      "peakDecade": 2010,
-      "peakCount": 69196,
-      "runnerUpCount": 27421,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 34,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 98,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 1171,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 15731,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 69196,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 27421,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Jaxon",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Jocelyn",
       "sex": "F",
       "totalPublishedCount": 113061,
@@ -55088,143 +54814,6 @@
         }
       ],
       "id": "ssa:F:Penelope",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Makayla",
-      "sex": "F",
-      "totalPublishedCount": 108030,
-      "peakDecade": 2000,
-      "peakCount": 54990,
-      "runnerUpCount": 27875,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 83,
-          "publishedYearCount": 9,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 593,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 20083,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 54990,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 27875,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 4406,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Makayla",
       "fact": null,
       "factStatus": "unverified",
       "factReferences": [],
@@ -58521,280 +58110,6 @@
       "recognitionReview": null
     },
     {
-      "name": "Nevaeh",
-      "sex": "F",
-      "totalPublishedCount": 98497,
-      "peakDecade": 2010,
-      "peakCount": 45048,
-      "runnerUpCount": 38050,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 18,
-          "publishedYearCount": 3,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 7,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 38050,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 45048,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 15381,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Nevaeh",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Johnathan",
-      "sex": "M",
-      "totalPublishedCount": 98262,
-      "peakDecade": 1990,
-      "peakCount": 27264,
-      "runnerUpCount": 21920,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 11,
-          "publishedYearCount": 2,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 8,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 51,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 93,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 97,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 215,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 792,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 2432,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 7820,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 21908,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 27264,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 21920,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 11804,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 3855,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Johnathan",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Whitney",
       "sex": "F",
       "totalPublishedCount": 97663,
@@ -61261,143 +60576,6 @@
       "recognitionReview": null
     },
     {
-      "name": "Jace",
-      "sex": "M",
-      "totalPublishedCount": 91544,
-      "peakDecade": 2010,
-      "peakCount": 47476,
-      "runnerUpCount": 20444,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 5,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 14,
-          "publishedYearCount": 2,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 8,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 308,
-          "publishedYearCount": 8,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 2,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 290,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 505,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 1650,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 4536,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 16316,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 47476,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 20444,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Jace",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Claude",
       "sex": "M",
       "totalPublishedCount": 91337,
@@ -62220,280 +61398,6 @@
       "recognitionReview": null
     },
     {
-      "name": "Ayden",
-      "sex": "M",
-      "totalPublishedCount": 89180,
-      "peakDecade": 2010,
-      "peakCount": 49636,
-      "runnerUpCount": 26295,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 445,
-          "publishedYearCount": 9,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 26295,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 49636,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 12804,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Ayden",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Geneva",
-      "sex": "F",
-      "totalPublishedCount": 88758,
-      "peakDecade": 1920,
-      "peakCount": 23273,
-      "runnerUpCount": 15043,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 663,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 1669,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 3861,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 15043,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 23273,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 14279,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 9485,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 6175,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 3350,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 2510,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 2336,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 1974,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 1603,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 1712,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 825,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Geneva",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Bobbie",
       "sex": "F",
       "totalPublishedCount": 88627,
@@ -63308,143 +62212,6 @@
         }
       ],
       "id": "ssa:F:Velma",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Kaleb",
-      "sex": "M",
-      "totalPublishedCount": 86649,
-      "peakDecade": 2000,
-      "peakCount": 34761,
-      "runnerUpCount": 26039,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 387,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 2537,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 14904,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 34761,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 26039,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 8021,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Kaleb",
       "fact": null,
       "factStatus": "unverified",
       "factReferences": [],
@@ -64541,143 +63308,6 @@
         }
       ],
       "id": "ssa:M:Jonah",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
-      "name": "Lula",
-      "sex": "F",
-      "totalPublishedCount": 85248,
-      "peakDecade": 1920,
-      "peakCount": 16317,
-      "runnerUpCount": 13930,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 8882,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 10238,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 9518,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 13930,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 16317,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 11077,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 7332,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 3819,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 1373,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 501,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 210,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 116,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 290,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 976,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 669,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:F:Lula",
       "fact": null,
       "factStatus": "unverified",
       "factReferences": [],
@@ -67563,143 +66193,6 @@
       "recognitionReview": null
     },
     {
-      "name": "Collin",
-      "sex": "M",
-      "totalPublishedCount": 81437,
-      "peakDecade": 2000,
-      "peakCount": 27831,
-      "runnerUpCount": 23753,
-      "sparkline": [
-        {
-          "decade": 1880,
-          "count": 0,
-          "publishedYearCount": 0,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 10,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1890,
-          "count": 5,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1900,
-          "count": 14,
-          "publishedYearCount": 2,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 8,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 119,
-          "publishedYearCount": 9,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 191,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 149,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 405,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 488,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 848,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1970,
-          "count": 2018,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1980,
-          "count": 6132,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1990,
-          "count": 23753,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2000,
-          "count": 27831,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2010,
-          "count": 15610,
-          "publishedYearCount": 10,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 2020,
-          "count": 3874,
-          "publishedYearCount": 6,
-          "observedYearCount": 6,
-          "missingPublishedYearCount": 0,
-          "unobservedYearCount": 4
-        }
-      ],
-      "id": "ssa:M:Collin",
-      "fact": null,
-      "factStatus": "unverified",
-      "factReferences": [],
-      "factReview": null,
-      "recognitionVerified": false,
-      "recognitionReview": null
-    },
-    {
       "name": "Hilda",
       "sex": "F",
       "totalPublishedCount": 81022,
@@ -68248,48 +66741,48 @@
       "recognitionReview": null
     },
     {
-      "name": "Erick",
-      "sex": "M",
-      "totalPublishedCount": 79463,
-      "peakDecade": 2000,
-      "peakCount": 21430,
-      "runnerUpCount": 15682,
+      "name": "Ariel",
+      "sex": "F",
+      "totalPublishedCount": 78697,
+      "peakDecade": 1990,
+      "peakCount": 28142,
+      "runnerUpCount": 19377,
       "sparkline": [
         {
           "decade": 1880,
-          "count": 25,
-          "publishedYearCount": 4,
+          "count": 0,
+          "publishedYearCount": 0,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 6,
+          "missingPublishedYearCount": 10,
           "unobservedYearCount": 0
         },
         {
           "decade": 1890,
-          "count": 49,
+          "count": 15,
+          "publishedYearCount": 3,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 7,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 52,
           "publishedYearCount": 7,
           "observedYearCount": 10,
           "missingPublishedYearCount": 3,
           "unobservedYearCount": 0
         },
         {
-          "decade": 1900,
-          "count": 10,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
           "decade": 1910,
-          "count": 140,
-          "publishedYearCount": 8,
+          "count": 156,
+          "publishedYearCount": 10,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 2,
+          "missingPublishedYearCount": 0,
           "unobservedYearCount": 0
         },
         {
           "decade": 1920,
-          "count": 194,
+          "count": 129,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68297,7 +66790,7 @@
         },
         {
           "decade": 1930,
-          "count": 147,
+          "count": 83,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68305,31 +66798,31 @@
         },
         {
           "decade": 1940,
-          "count": 472,
-          "publishedYearCount": 10,
+          "count": 86,
+          "publishedYearCount": 9,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
+          "missingPublishedYearCount": 1,
           "unobservedYearCount": 0
         },
         {
           "decade": 1950,
-          "count": 938,
-          "publishedYearCount": 10,
+          "count": 63,
+          "publishedYearCount": 8,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
+          "missingPublishedYearCount": 2,
           "unobservedYearCount": 0
         },
         {
           "decade": 1960,
-          "count": 3295,
-          "publishedYearCount": 10,
+          "count": 139,
+          "publishedYearCount": 9,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 0,
+          "missingPublishedYearCount": 1,
           "unobservedYearCount": 0
         },
         {
           "decade": 1970,
-          "count": 7167,
+          "count": 717,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68337,7 +66830,7 @@
         },
         {
           "decade": 1980,
-          "count": 9001,
+          "count": 6353,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68345,7 +66838,7 @@
         },
         {
           "decade": 1990,
-          "count": 15682,
+          "count": 28142,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68353,7 +66846,7 @@
         },
         {
           "decade": 2000,
-          "count": 21430,
+          "count": 16265,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68361,7 +66854,7 @@
         },
         {
           "decade": 2010,
-          "count": 14670,
+          "count": 19377,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68369,14 +66862,14 @@
         },
         {
           "decade": 2020,
-          "count": 6243,
+          "count": 7120,
           "publishedYearCount": 6,
           "observedYearCount": 6,
           "missingPublishedYearCount": 0,
           "unobservedYearCount": 4
         }
       ],
-      "id": "ssa:M:Erick",
+      "id": "ssa:F:Ariel",
       "fact": null,
       "factStatus": "unverified",
       "factReferences": [],
@@ -68385,12 +66878,286 @@
       "recognitionReview": null
     },
     {
-      "name": "Easton",
+      "name": "Emmett",
       "sex": "M",
-      "totalPublishedCount": 79440,
+      "totalPublishedCount": 78564,
       "peakDecade": 2010,
-      "peakCount": 46805,
-      "runnerUpCount": 23634,
+      "peakCount": 26161,
+      "runnerUpCount": 19429,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 901,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1136,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1187,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 4190,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 5433,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 3559,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 3432,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 2988,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2032,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 1334,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 1072,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 1640,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 4070,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 26161,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 19429,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Emmett",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Meredith",
+      "sex": "F",
+      "totalPublishedCount": 77787,
+      "peakDecade": 1980,
+      "peakCount": 19204,
+      "runnerUpCount": 15840,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 0,
+          "publishedYearCount": 0,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 10,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 6,
+          "publishedYearCount": 1,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 9,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 85,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 464,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 892,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1300,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 2901,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 2889,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 3927,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 15840,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 19204,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 12779,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 8889,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 5147,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 3464,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Meredith",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Bianca",
+      "sex": "F",
+      "totalPublishedCount": 77564,
+      "peakDecade": 1990,
+      "peakCount": 28558,
+      "runnerUpCount": 18914,
       "sparkline": [
         {
           "decade": 1880,
@@ -68410,79 +67177,79 @@
         },
         {
           "decade": 1900,
-          "count": 5,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1910,
-          "count": 41,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1920,
-          "count": 37,
-          "publishedYearCount": 5,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 5,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1930,
-          "count": 36,
-          "publishedYearCount": 6,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 4,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1940,
-          "count": 27,
-          "publishedYearCount": 5,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 5,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1950,
-          "count": 6,
-          "publishedYearCount": 1,
-          "observedYearCount": 10,
-          "missingPublishedYearCount": 9,
-          "unobservedYearCount": 0
-        },
-        {
-          "decade": 1960,
-          "count": 18,
+          "count": 16,
           "publishedYearCount": 3,
           "observedYearCount": 10,
           "missingPublishedYearCount": 7,
           "unobservedYearCount": 0
         },
         {
-          "decade": 1970,
-          "count": 25,
+          "decade": 1910,
+          "count": 89,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 95,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 33,
           "publishedYearCount": 4,
           "observedYearCount": 10,
           "missingPublishedYearCount": 6,
           "unobservedYearCount": 0
         },
         {
-          "decade": 1980,
-          "count": 208,
-          "publishedYearCount": 9,
+          "decade": 1940,
+          "count": 73,
+          "publishedYearCount": 8,
           "observedYearCount": 10,
-          "missingPublishedYearCount": 1,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 324,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 560,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 3041,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 12462,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
           "unobservedYearCount": 0
         },
         {
           "decade": 1990,
-          "count": 1406,
+          "count": 28558,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68490,7 +67257,7 @@
         },
         {
           "decade": 2000,
-          "count": 7192,
+          "count": 18914,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68498,7 +67265,7 @@
         },
         {
           "decade": 2010,
-          "count": 46805,
+          "count": 9293,
           "publishedYearCount": 10,
           "observedYearCount": 10,
           "missingPublishedYearCount": 0,
@@ -68506,14 +67273,1247 @@
         },
         {
           "decade": 2020,
-          "count": 23634,
+          "count": 4106,
           "publishedYearCount": 6,
           "observedYearCount": 6,
           "missingPublishedYearCount": 0,
           "unobservedYearCount": 4
         }
       ],
-      "id": "ssa:M:Easton",
+      "id": "ssa:F:Bianca",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Elise",
+      "sex": "F",
+      "totalPublishedCount": 75186,
+      "peakDecade": 2010,
+      "peakCount": 18245,
+      "runnerUpCount": 14576,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 293,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 465,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 595,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 1620,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 1809,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1229,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1369,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 3511,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 3688,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 2716,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 7753,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 9712,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 14576,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 18245,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 7605,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Elise",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Eliza",
+      "sex": "F",
+      "totalPublishedCount": 70569,
+      "peakDecade": 2010,
+      "peakCount": 17726,
+      "runnerUpCount": 14227,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 2851,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 2723,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 2397,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 3289,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 3227,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1817,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1391,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 1057,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 1007,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 1725,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 2774,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 4750,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 9608,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 17726,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 14227,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Eliza",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Malcolm",
+      "sex": "M",
+      "totalPublishedCount": 70209,
+      "peakDecade": 1990,
+      "peakCount": 10064,
+      "runnerUpCount": 7105,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 209,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 335,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 564,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 3555,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 6088,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 5380,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 5681,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 5700,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 4907,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 3848,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 4527,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 10064,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 5145,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 7105,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 7101,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Malcolm",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Kirk",
+      "sex": "M",
+      "totalPublishedCount": 68067,
+      "peakDecade": 1960,
+      "peakCount": 22204,
+      "runnerUpCount": 16223,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 40,
+          "publishedYearCount": 5,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 5,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 48,
+          "publishedYearCount": 7,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 3,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 68,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 284,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 387,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 584,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 2755,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 16223,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 22204,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 11641,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 7186,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 3960,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 1418,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 924,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 345,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Kirk",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Otis",
+      "sex": "M",
+      "totalPublishedCount": 61082,
+      "peakDecade": 1920,
+      "peakCount": 9352,
+      "runnerUpCount": 7654,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 1006,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1349,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1966,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 6963,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 9352,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 7456,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 7654,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 7285,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 4955,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 3553,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 2237,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 1367,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 1028,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 2414,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 2497,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Otis",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Homer",
+      "sex": "M",
+      "totalPublishedCount": 60912,
+      "peakDecade": 1920,
+      "peakCount": 15145,
+      "runnerUpCount": 11471,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 2213,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 2637,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 2915,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 11471,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 15145,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 9413,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 6956,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 4606,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2492,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 1308,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 747,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 363,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 207,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 256,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 183,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Homer",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Tabitha",
+      "sex": "F",
+      "totalPublishedCount": 59200,
+      "peakDecade": 1980,
+      "peakCount": 19578,
+      "runnerUpCount": 13685,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 50,
+          "publishedYearCount": 7,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 3,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 73,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 44,
+          "publishedYearCount": 6,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 4,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 95,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 83,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 66,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 74,
+          "publishedYearCount": 8,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 2,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 150,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2409,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 11947,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 19578,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 13685,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 6843,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 3163,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 940,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:F:Tabitha",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Rudolph",
+      "sex": "M",
+      "totalPublishedCount": 53441,
+      "peakDecade": 1920,
+      "peakCount": 12561,
+      "runnerUpCount": 8200,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 652,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 998,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1339,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 6857,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 12561,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 8200,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 6553,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 6652,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 3535,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 2186,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 1703,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 1054,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 589,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 392,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 170,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Rudolph",
+      "fact": null,
+      "factStatus": "unverified",
+      "factReferences": [],
+      "factReview": null,
+      "recognitionVerified": false,
+      "recognitionReview": null
+    },
+    {
+      "name": "Pablo",
+      "sex": "M",
+      "totalPublishedCount": 50370,
+      "peakDecade": 2000,
+      "peakCount": 10482,
+      "runnerUpCount": 8003,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 95,
+          "publishedYearCount": 9,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 1,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 121,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 214,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 586,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 1632,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1416,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1417,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 1967,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 2690,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 4020,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 5124,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 8003,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 10482,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2010,
+          "count": 7862,
+          "publishedYearCount": 10,
+          "observedYearCount": 10,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 0
+        },
+        {
+          "decade": 2020,
+          "count": 4741,
+          "publishedYearCount": 6,
+          "observedYearCount": 6,
+          "missingPublishedYearCount": 0,
+          "unobservedYearCount": 4
+        }
+      ],
+      "id": "ssa:M:Pablo",
       "fact": null,
       "factStatus": "unverified",
       "factReferences": [],

@@ -2757,3 +2757,80 @@ git diff --check
 The four final focused tests executed and passed with actual exec exit 0 and separately persisted test status 0, zero failures/cancellations/skips/todos, 10.708890 seconds. Strict build succeeded during generation. Actual source/golden/schema checks validate 487 editorial input rows, 343 reviewed facts, 157 null unresolved facts, 487 accepted recognition reviews and 13 unresolved decisions. Every numeric field for all 500 rows still matches the base pack. Two CLI generations under different timezones are byte-identical to the committed reviewed golden; all 25 invalid CLI invocations preserve their inputs and sentinel output. Coverage/review assertions were deliberately updated to the new counts, including separate recognition equality and rejection of a missing recognition review. The existing parser/schema remain unchanged.
 
 Curation SHA256 `a0b9e65efbd7fff69cd3fa2cf5b1f5b84001be469a6fccf6b5d6a658a3cc759e`; reviewed pack SHA256 `94f15426033e5e52852f037db2b365544389dc07158358508c70e86f27238e5e`. All 13 checksum entries passed, and diff whitespace check passed. Completion proof is retained at `/tmp/c05-expanded-343-completion-evidence.json`. The previous full 38-test/34-mutant run applies to its 144-fact milestone; no new full/mutation run is claimed for this content-only expansion. A full run is required for the planned selected-source contract change. Full content/PR/CI/KEEP GOING remains incomplete.
+
+## Selected-source first full run: failed expectation, not skipped
+
+Ran `PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda npm test > /tmp/c05-selected-integrated-npm-test.log 2>&1` from this job folder, preserving underlying status in `/tmp/c05-selected-integrated-npm-test.exit`. Actual completed exec exit 1 and persisted npm status 1. All 38 tests executed: 37 passed, one failed, zero skipped/cancelled/todo. The new source/selection tests and current numeric tests passed. The reviewed uniqueness assertion still expected 487 while its input now correctly contains 500 distinct selected identities; root had updated the length assertion but missed this separate set-size assertion. Corrected the expected distinct count to the intended manifest contract of 500, retaining both cardinality and uniqueness guards. Mutation and final checksum commands did not execute because npm correctly stopped at the failed test gate. No success is claimed for this run. The next full run also includes 13 newly sourced facts, with coverage assertions deliberately changed to 375 reviewed / 125 missing.
+
+## Final selected 30-row manual numeric check
+
+After the manifest change, re-drew 30 row indices with Python Random seed 20261007 against the final total/name/category ordering. Root read every displayed source row and Boys/Girls header from the cached independently retrieved SSA decade tables. All name/category/peak-count comparisons matched; 17 names overlapped the previous draw and 13 were newly inspected. The helper displayed source cells without comparing or normalizing numeric values. Existing verified cached source bodies were reused rather than refetched unchanged. All nine exact URLs, curl commands and body SHA256 values are recorded in the earlier manual section.
+
+This checks published peak subtotals and their period labels. It does not manually verify every lifetime total, every sparkline cell or etymology; independent full-source generation, differential/schema/property tests and separate two-author fact review cover those other requirements. These tables share SSA authorship with the archive and do not count as independent authored fact sources.
+
+| Final index | Name/category | Period | Source rank | Read peak count | Result |
+| --- | --- | --- | --- | --- | --- |
+| 2 | Daniel / M | 1980–1989 | 7 | 345,537 | Matched read cells |
+| 39 | Melissa / F | 1970–1979 | 3 | 253,267 | Matched read cells |
+| 51 | Walter / M | 1920–1929 | 16 | 119,809 | Matched read cells |
+| 52 | Dennis / M | 1950–1959 | 21 | 204,267 | Matched read cells |
+| 61 | Nathan / M | 2000–2009 | 26 | 134,857 | Matched read cells |
+| 65 | Maria / F | 1960–1969 | 49 | 88,850 | Matched read cells |
+| 97 | Jacqueline / F | 1960–1969 | 51 | 84,398 | Matched read cells |
+| 116 | Diana / F | 1950–1959 | 55 | 80,234 | Matched read cells |
+| 143 | Theodore / M | 2020–2025 (6 observed years) | 9 | 65,579 | Matched read cells |
+| 149 | Travis / M | 1980–1989 | 42 | 102,927 | Matched read cells |
+| 181 | Connie / F | 1950–1959 | 40 | 88,799 | Matched read cells |
+| 243 | Randall / M | 1950–1959 | 58 | 62,450 | Matched read cells |
+| 256 | Renee / F | 1960–1969 | 70 | 55,815 | Matched read cells |
+| 284 | Jerome / M | 1950–1959 | 114 | 29,705 | Matched read cells |
+| 288 | Haley / F | 1990–1999 | 46 | 71,197 | Matched read cells |
+| 311 | Shelby / F | 1990–1999 | 44 | 71,995 | Matched read cells |
+| 318 | Terri / F | 1960–1969 | 64 | 63,741 | Matched read cells |
+| 323 | Sabrina / F | 1990–1999 | 91 | 38,664 | Matched read cells |
+| 360 | Gwendolyn / F | 1950–1959 | 132 | 31,945 | Matched read cells |
+| 369 | Marissa / F | 1990–1999 | 63 | 51,214 | Matched read cells |
+| 381 | Maxine / F | 1920–1929 | 84 | 33,743 | Matched read cells |
+| 384 | Miranda / F | 1990–1999 | 84 | 42,225 | Matched read cells |
+| 416 | Nicolas / M | 2000–2009 | 139 | 28,267 | Matched read cells |
+| 417 | Katrina / F | 1980–1989 | 101 | 28,828 | Matched read cells |
+| 420 | Toni / F | 1960–1969 | 156 | 24,840 | Matched read cells |
+| 421 | Harrison / M | 2010–2019 | 136 | 28,557 | Matched read cells |
+| 423 | Christy / F | 1970–1979 | 71 | 44,592 | Matched read cells |
+| 442 | Claude / M | 1920–1929 | 105 | 16,999 | Matched read cells |
+| 452 | Becky / F | 1960–1969 | 135 | 29,601 | Matched read cells |
+| 468 | Hugh / M | 1920–1929 | 127 | 14,106 | Matched read cells |
+
+Read page footer: Social Security card application data as of March 2026. Read 2020 page title: “Top names of the period 2020 - 2025”; explanatory paragraph: “Based on data for 6 of the 10 years in the 2020s decade.” Theodore is 65,579 in the Boys column; this is the observed partial subtotal, not a projected full-decade count. The final draw transferred unchanged into the newly generated reviewed pack, verified independently after generation.
+
+Exact final draw command from this job folder:
+
+```sh
+python3 - <<'PY'
+import json, random
+from pathlib import Path
+rows = json.loads(Path('data/current-reviewed-candidates.json').read_text())['rows']
+indices = sorted(random.Random(20261007).sample(range(500), 30))
+for i in indices: print(i, {k: rows[i][k] for k in ('id', 'name', 'sex', 'peakDecade', 'peakCount')})
+PY
+```
+
+The actual source excerpt read used Python HTMLParser on /workspace/.partybox-source-cache/c05/manual-secondary/names<decade>s.html, retained each tr/td/th text cell, printed the two header rows, then printed whole rows when a cell exactly matched the selected name. It did not compare counts. Full displayed cells are retained in /tmp/c05-final-selection-manual-excerpts.json; seed/identity/field-transfer proof in /tmp/c05-selected-golden-readiness-evidence.json.
+
+## Selected-source 375-fact full integrated completion
+
+From this job folder, generation commands `npm run generate:current` and `npm run generate:reviewed` both completed with actual exec exit 0. Current generation rebuilt strict TypeScript, consumed both immutable ZIP and selected manifest, produced exact fixture fd96 and base golden 4a6e0a012142945a59160809194975fbfd3b944f340142f52db06d06be6465f4. After correcting the stale uniqueness assertion and integrating the next 13 facts, the final full command was:
+
+```sh
+PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda npm test > /tmp/c05-selected-375-integrated-npm-test.log 2>&1
+partybox_selected_375_status=$?
+printf '%s\n' "$partybox_selected_375_status" > /tmp/c05-selected-375-integrated-npm-test.exit
+tail -n 18 /tmp/c05-selected-375-integrated-npm-test.log
+exit "$partybox_selected_375_status"
+```
+
+Actual completed exec exit **0**, independently persisted underlying npm status **0**. All **38/38** initial tests passed, zero failures/cancellations/skips/todos, 38.811335 seconds. Runner full/historical/current baselines passed their exact **38/15/9** test counts; **34/34** semantic mutants were caught (**25 historical / nine current**). All ten compiled JavaScript files were restored byte-for-byte with equal SHA256 snapshots. All **15** checksum entries passed, including the new selected-ID manifest and its standalone schema. This completes the changed engineering checks; do not repeat without a relevant change or concrete failure.
+
+Expanded five official-source tests executed 32 Python processes: two full uncached ZIP regenerations, 29 rejected CLI invocations and one direct decoder/manifest boundary process. Eleven manifest boundary cases join the existing 36 annual-record cases. The selected manifest's hash is checked before JSON decode; ZIP hash before archive decoding. Every selected identity is requalified/ranked against the full source. Direct, normalized, symlink and hardlink output aliases of both inputs are rejected; changed inputs are rehashed before atomic publication; sentinels/inputs and staging cleanup are checked. These tests would catch forged manifests, accidental input overwrites, unqualified names or source changes during extraction. Current tests validate the exact 500-ID manifest with strict AJV and assert removed/added identities, category totals, partial peaks and final qualification.
+
+Reviewed output: 500 rows, **375** reviewed facts, **125** null unresolved facts, **500** separate editorial recognition notes, complete false. Every numeric field matches the base pack. Two generators' outputs are byte-identical to their respective checked-in source/golden fixtures under the existing timezone/repetition tests. Current curation SHA256 `e2a9cae41bb12f9223e950f02e9e58c1691e6b5bdbcda915b7f12aeee98d9493`; reviewed pack SHA256 `7116c2a23983d7714a81c203b4378b40d46d7ff9464c57bbc590e23aa53944c6`. Mutation report and actual completion proof are retained separately at `/tmp/c05-selected-375-integrated-mutation-report.json` and `/tmp/c05-selected-375-integrated-completion-evidence.json`. This is not complete content, PR/CI or KEEP GOING completion.

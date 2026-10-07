@@ -76,8 +76,8 @@
     },
     "annualCounts": {
       "type": "array",
-      "minItems": 63643,
-      "maxItems": 63643,
+      "minItems": 64262,
+      "maxItems": 64262,
       "items": {
         "type": "object",
         "additionalProperties": false,

@@ -4,7 +4,7 @@ import { basename, dirname, join, resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { buildCurrent, parseCurrentFixture, serialiseCurrent, type CurrentPack } from './current.js';
 
-const BASE_SHA256 = '8dd80f3f6dc38705be47541fb994d073270ffe4d861732471c0c339e385905e9';
+const BASE_SHA256 = 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2';
 
 function canonical(value: unknown): unknown {
   if (Array.isArray(value)) return value.map(canonical);

@@ -12,10 +12,12 @@ Neither missing rows nor zero published subtotals prove zero births.
 
 The checksum-pinned CC0 official ZIP is retained under `fixtures/` so SSA
 revisions cannot silently change this build. Candidate filters require 50,000
-published occurrences and a peak at least 15% above its runner-up. Usage is
-not recognition review. `data/current-reviewed-candidates.json` adds 343 reviewed
-facts from two authored works apiece. Recognition has 487 editorial accepts;
-157 facts and 13 recognition decisions remain unresolved. Its numeric fields match the base pack. `complete` remains
+published occurrences and a peak at least 15% above its runner-up. A pinned
+500-ID manifest replaces 13 held spellings with reviewed reserves. Usage is
+not recognition review. `data/current-reviewed-candidates.json` adds 375 reviewed
+facts from two authored works apiece. Recognition has 500 editorial accepts;
+125 facts remain unresolved. Its numeric fields match the base pack.
+`complete` remains
 false. The historical 30-name sample is retained separately.
 
 With Node 24 and Python 3.12, from this folder:
@@ -38,7 +40,8 @@ Regenerate current source input without touching tracked files:
 
 ```sh
 python3 tools/extract_current.py \
-  --source fixtures/ssa-names-2026-10-07.zip --output /tmp/c05-current.json
+  --source fixtures/ssa-names-2026-10-07.zip \
+  --selection fixtures/selection.json --output /tmp/c05-current.json
 cmp fixtures/current-source.json /tmp/c05-current.json
 ```
 

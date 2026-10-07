@@ -10,7 +10,7 @@
     "build": "tsc -p tsconfig.json",
     "test": "npm run build && node --test dist/test/*.test.js && node test/mutations.mjs --report /tmp/partybox-c05-mutation-report.json && sha256sum --check SHA256SUMS.txt",
     "generate:sample": "npm run build && node dist/src/cli.js fixtures/source.json data/sample.json --sample",
-    "generate:current": "npm run build && python3 tools/extract_current.py --source fixtures/ssa-names-2026-10-07.zip --output fixtures/current-source.json && node dist/src/current-cli.js fixtures/current-source.json data/current-candidates.json --current-candidates",
+    "generate:current": "npm run build && python3 tools/extract_current.py --source fixtures/ssa-names-2026-10-07.zip --selection fixtures/selection.json --output fixtures/current-source.json && node dist/src/current-cli.js fixtures/current-source.json data/current-candidates.json --current-candidates",
     "generate:reviewed": "npm run build && node dist/src/reviewed-cli.js fixtures/current-source.json fixtures/curation.json data/current-reviewed-candidates.json --reviewed-candidates"
   },
   "devDependencies": {
