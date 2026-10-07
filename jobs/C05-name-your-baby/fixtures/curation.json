@@ -2105,29 +2105,37 @@
   },
   {
     "id": "ssa:F:Maria",
-    "fact": "Maria is a form of the name Mary.",
+    "fact": "Opera singer Maria Callas was born in New York City.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Maria (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "see Mary"
+        "url": "https://en.wikipedia.org/w/index.php?title=Maria_Callas&oldid=1378709450",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Maria Callas, revision 1378709450",
+        "workId": "wikipedia:Maria_Callas",
+        "quote": "| birth_place = [[New York City]], U.S."
       },
       {
-        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Maria",
-        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-        "author": "S.L. Uckelman",
-        "title": "The Dictionary of Medieval Names from European Sources: Maria, edition 2023.1",
-        "workId": "dmnes:dictionary:2023.1",
-        "quote": "Masc. of Mary."
+        "url": "https://en.wikipedia.org/w/index.php?title=Maria_Callas&oldid=1378709450",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Maria Callas, revision 1378709450",
+        "workId": "wikipedia:Maria_Callas",
+        "quote": "one of the most renowned and influential opera singers of the 20th century."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Maria-Callas",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Maria Callas",
+        "workId": "britannica:encyclopedia",
+        "quote": "Maria Callas (born December 2, 1923, New York City, New York , U.S.—died September 16, 1977, Paris , France) was an American-born Greek operatic soprano"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Independent agent reread of actual Wikipedia Maria Callas lead/infobox and early-life context, exact API revision equality, plus human Britannica introduction/early-life paragraphs and printed Britannica Editors authorship. Both identify the opera singer and New York City birth. Britannica quote belongs to reading-channel section ref1 p.topic-paragraph, outside AI FAQs. Wiki distinguishes a birth-certificate name from christened name; Britannica gives another original-name order. All such name claims, dates and citizenship are excluded. Full bodies searched with no identified cross-dependency; named Petsalis-Diomidis/Jellinek books are unread and uncounted. Brief revision-linked Wiki evidence retains CC-BY-SA4.0; Britannica remains copyrighted prose with original factual wording and brief attributed support. Deeper biographical lineage unaudited. Agent review only."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -4617,37 +4625,29 @@
   },
   {
     "id": "ssa:M:Randy",
-    "fact": "Miranda has a Latin root meaning 'admirable'.",
+    "fact": "Randy Newman composed music for multiple Toy Story films.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Randy (pinned dictionary entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Randall, Randolf or Miranda."
+        "url": "https://www.britannica.com/biography/Randy-Newman",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Randy Newman | Biography, Songs, Scores, & Facts, updated September 14, 2026",
+        "workId": "britannica:encyclopedia",
+        "quote": "Newman’s Pixar sound tracks continued to bear fruit, as he won a Grammy for the song “Our Town” from Cars (2006) and another for the instrumental score for Toy Story 3 (2010) and a second Oscar, for the song “We Belong Together” from the latter film. He also scored Cars 3 (2017) and Toy Story 4 (2019)."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Miranda (pinned dictionary entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Derived from Latin mirandus meaning \"admirable, wonderful\"."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Miranda, _f._ _Eng._ Lat. to be admired."
+        "url": "https://en.wikipedia.org/w/index.php?title=Randy_Newman&oldid=1376996314",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Randy Newman, Film composer section",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Newman has scored ten [[Walt Disney Pictures|Disney]]/[[Pixar]] feature films; ''[[Toy Story]]'', ''[[A Bug's Life]]'', ''[[Toy Story 2]]'', ''[[Monsters, Inc.]]'', ''[[Cars (film)|Cars]]'', ''[[Toy Story 3]]'', ''[[Monsters University]]'', ''[[Cars 3]]'', ''[[Toy Story 4]]'', and ''[[Toy Story 5]]''."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. The modern dictionary explicitly permits Randy as Miranda’s diminutive and derives Miranda from Latin mirandus admirable/wonderful. The exact historical Miranda entry glosses Latin to be admired. The modal phrasing preserves masculine Randy routes via Randall/Randolf. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual retained Wiki revision1376996314 identity/API bytes, Film composer list and Toy Story3/4 filmography rows read; full body searched for Britannica, absent. Independently parsed Britannica human topic-paragraph3 credits Newman’s Toy Story3 instrumental score and Toy Story4 score; byline/Article metadata actually credit Britannica Editors. All FAQ/AI answers excluded. Two authored works support the narrow composer/music relation for more than one Toy Story film. Wiki score-list sentence is unfootnoted; prior Kevin Courrier television-work citation is not its evidence and book is unread. No exact film count, all-franchise coverage, dates, award totals, songs, lyrics or name-origin claim. Existing source rights retained: brief CC-BY-SA4.0 Wiki quotes and copyrighted Britannica excerpts; no MIT relicensing. Shared primary film-credit lineage unaudited; two authored presentations, not independent eyewitness credits."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -5977,29 +5977,45 @@
   },
   {
     "id": "ssa:F:Jamie",
-    "fact": "Jamie is a familiar form of James.",
+    "fact": "Actor Jamie Foxx’s original name is Eric Marlon Bishop.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Jamie (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Originally a Lowland Scots diminutive of James."
+        "url": "https://en.wikipedia.org/w/index.php?title=Jamie_Foxx&oldid=1378993582",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Jamie Foxx, revision 1378993582",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "| birth_name = Eric Marlon Bishop"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "│ English. │ Scotch. │ Erse. │ Gaelic. │ Dutch. │ │Jacob │James │Seumuis │Hamish │Jacob │ │James │Jamie │ │ │Jaap │ │Jem │ │ │ │ │"
+        "url": "https://en.wikipedia.org/w/index.php?title=Jamie_Foxx&oldid=1378993582",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Jamie Foxx, revision 1378993582",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "known professionally as '''Jamie Foxx''', is an American actor, comedian, singer, and film producer."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Jamie-Foxx",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Jamie Foxx",
+        "workId": "britannica:encyclopedia",
+        "quote": "Original name: Eric Marlon Bishop"
+      },
+      {
+        "url": "https://www.britannica.com/biography/Jamie-Foxx",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Jamie Foxx",
+        "workId": "britannica:encyclopedia",
+        "quote": "is an American comedian, musician, and actor"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual retained Wiki revision1378993582 infobox, lead and early-life birth sentence/immediate citations read; full body has no Britannica reference. Independently parsed Britannica human Quick Facts labels original name Eric Marlon Bishop, while human topic-paragraph0 identifies actor Jamie Foxx; exact actor excerpt added. Actual contributor is Britannica Editors. All FAQ/AI answers excluded. Wiki cites TheWrap/Ashley Boucher, UPI, Entertainment Weekly and TV Guide; underlying bodies are unread and not counted. SSA F:Jamie identity does not generalize the named actor’s sex or origin to other Jamies. No birth date, name-choice motives, future credits or certificate assertion. Brief Wiki excerpts retain CC-BY-SA4.0; Britannica prose copyrighted, no MIT relicensing. No identified direct dependency; deeper shared biography lineage unaudited."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -6513,29 +6529,45 @@
   },
   {
     "id": "ssa:M:Tony",
-    "fact": "Tony is a short form of Anthony.",
+    "fact": "Actor Tony Curtis was born Bernard Schwartz.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Tony (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Short form of Anthony."
+        "url": "https://en.wikipedia.org/w/index.php?title=Tony_Curtis&oldid=1378626182",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Tony Curtis, revision 1378626182",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "'''Tony Curtis''' (born '''Bernard Schwartz'''"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "│Antony │Antoine │Antoni │Antonio │ │Anthony │ │ │Tonio │ │Tony │ │ │Tonetto │ │Antholin │ │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤"
+        "url": "https://www.britannica.com/biography/Tony-Curtis",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Tony Curtis",
+        "workId": "britannica:encyclopedia",
+        "quote": "Tony Curtis was born Bernard Schwartz."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Tony_Curtis&oldid=1378626182",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Tony Curtis, revision 1378626182",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "was an American actor with a career that spanned six decades"
+      },
+      {
+        "url": "https://www.britannica.com/biography/Tony-Curtis",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Tony Curtis",
+        "workId": "britannica:encyclopedia",
+        "quote": "was an American actor whose handsome looks first propelled him to fame in the 1950s."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "Codex independent source-pair review: /root/c05_quality_review/alicia_pair_review",
+      "note": "Actual retained Wiki revision1378626182 lead, infobox and early-life birth paragraph/immediate citations read; full body has no Britannica reference. Independently parsed Britannica human topic-paragraphs explicitly state Tony Curtis was born Bernard Schwartz and identify him as an actor; actual contributor is Britannica Editors. Both clauses have two authored works; exact actor excerpts added from each. Britannica FAQ/AI material is unused. Biography.com, Encyclopaedia Judaica and the mentioned1993 autobiography were not read or counted. No birth date, ancestry, stage-name motive or universal Tony origin asserted. Brief Wiki quotes retain CC-BY-SA4.0, Britannica prose is copyrighted; no wholesale reuse or MIT relicensing. No identified direct dependency; deeper shared biographical-source lineage unaudited."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -16281,29 +16313,29 @@
   },
   {
     "id": "ssa:F:Gracie",
-    "fact": "Gracie is a familiar form of Grace.",
+    "fact": "Gracie Fields’s original name was Grace Stansfield.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Gracie (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Grace."
+        "url": "https://en.wikipedia.org/w/index.php?title=Gracie_Fields&oldid=1377869274",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Gracie Fields, revision 1377869274",
+        "workId": "wikipedia:Gracie_Fields",
+        "quote": "'''Dame Gracie Fields''' (born '''Grace Stansfield'''"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "The English name of Grace is intended as the abstract theological term, and was adopted with many others of like nature at the Reformation. Its continuation after the dying away of most of its congeners is owing to the Irish, who thought it resembled their native _Grainé_ (love), and thereupon adopted it so plentifully that Grace or Gracie is generally to be found wherever there is an Irish connection."
+        "url": "https://www.britannica.com/biography/Gracie-Fields",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Dame Gracie Fields",
+        "workId": "britannica:encyclopedia",
+        "quote": "Original name: Grace Stansfield"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Independent agent reread of actual Wikipedia Gracie Fields lead/infobox and early-life birth paragraph, exact API revision equality, plus human Britannica title/Quick Facts and printed Britannica Editors authorship. Wiki says born Grace Stansfield; Britannica dt Original name/dd Grace Stansfield identifies the same named performer. Reference line breaks collapsed only, raw evidence retained. No birthplace, dates, ancestry, fame ranking or origin for all Gracies asserted. Wiki BFI/AllMovie citations concern performer context, while its immediate birth-name clause lacks an inline citation; underlying sources are unread and uncounted. Full bodies searched with no identified cross-dependency; deeper biographical lineage unaudited. Brief attributed Wiki excerpts retain CC-BY-SA4.0; Britannica stays copyrighted prose with original factual wording, not wholesale/MIT relicensing. Agent review only."
     },
     "recognitionVerified": true,
     "recognitionReview": {

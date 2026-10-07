@@ -19,3 +19,7 @@ actual CONNECT denials with useful pinned GitHub fallbacks. Check actual current
 responses before relying on historical blocks. Saved environment draft is not
 runtime application, publication or proof of new-task restoration. The latest
 confirmed restart/reconnect was20:48:48Z; retained toolchain checks passed.
+
+## Current round2
+
+Integrated5 independently approved playerfact replacements: ssa:F:Gracie, ssa:F:Jamie, ssa:F:Maria, ssa:M:Randy, ssa:M:Tony. Generation/focused checks/delivery are pending; this is not yet a completed LOOP round. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-next-five-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
