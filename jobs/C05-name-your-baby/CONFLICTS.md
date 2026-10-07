@@ -100,3 +100,7 @@ Thirty-four later variant facts were narrowed to independently supported roots, 
 
 - Ronnie: the earlier Veronica cloth legend was source-supported but silently chose an alternative feminine route on a male Ronnie card. Pick the explicit, nonexclusive Ronnie/Ronald relationship and supported Norse ruler component. BTN allows Ronald or Veronica; neither every-bearer origin nor falsehood of the legend is asserted. Two authored presentations, not the unread Oxford book or three dictionary headwords counted separately, support the new sentence.
 - Danielle and Maureen: the earlier Daniel/Deiniol and Polly/Molly/Mary sentences were narrow true facts but left their card links invisible. Use direct named-bearer hooks. Do not infer all-bearer biography, name ancestry or popularity causation. The unfootnoted Danielle first-novel sentence is retained as Wikipedia’s authored statement, not as an independently read People article.
+
+## Round6 Evan
+
+The modern dictionary gives Evan a Welsh Iefan/John route, while the actually read Yonge context permits John but also discusses a competing Eoghan route. A qualified origin sentence is supportable but remains a weaker hook. Pick the two-work Bevan patronymic fact, avoiding that ultimate-origin dispute entirely. Bardsley explicitly defines ap=son and Ap-Evan→Bevan; the modern editorial surname entry agrees. No citation-needed Wikipedia origin introduction, unavailable biography or cross-reference index is counted.

@@ -27111,37 +27111,37 @@
         }
       ],
       "id": "ssa:M:Evan",
-      "fact": "Ian is another form of the name John.",
+      "fact": "The Welsh surname Bevan comes from ap Evan, meaning 'son of Evan'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Evan (pinned dictionary entry)",
+          "title": "Behind the Name: Bevan (pinned editorial surname dictionary entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Anglicized form of Iefan, a Welsh form of John."
+          "quote": "Derived from Welsh ap Evan meaning \"son of Evan\"."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Ian (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Scottish form of John."
+          "url": "https://raw.githubusercontent.com/GITenberg/English-Surnames-Their-Sources-and-Significations_59959/04db3bc201c1f096c5fba0c6e26990fd551971ea/59959-0.txt",
+          "publisher": "Chatto and Windus, London; Project Gutenberg text retained by GITenberg",
+          "author": "Charles Wareing Endell Bardsley",
+          "title": "English Surnames: Their Sources and Significations, second revised edition (1875), Welsh patronymics",
+          "workId": "bardsley:english-surnames:1875",
+          "quote": "This ‘ap,’ the Welsh equivalent of our English ‘son,’ when it has come before a name beginning with a vowel, has in many instances become incorporated with it."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "The various forms and contractions are infinite:— ┌────────────┬────────────┬────────────┬────────────┬────────────┐ │ English. │ Scotch. │ Welsh. │ Breton. │ Gaelic. │ │John │John │Jan │Jan │Ian │ │Johnny │Johnnie │Jenkin │Jannik │ │ │Jack │Jock │ │ │ │"
+          "url": "https://raw.githubusercontent.com/GITenberg/English-Surnames-Their-Sources-and-Significations_59959/04db3bc201c1f096c5fba0c6e26990fd551971ea/59959-0.txt",
+          "publisher": "Chatto and Windus, London; Project Gutenberg text retained by GITenberg",
+          "author": "Charles Wareing Endell Bardsley",
+          "title": "English Surnames: Their Sources and Significations, second revised edition (1875), Welsh patronymics",
+          "workId": "bardsley:english-surnames:1875",
+          "quote": "‘Ap-Evan,’ ‘Bevan;’"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly gives Evan as Welsh-family John and Ian as Scottish John. The actual historical John table independently identifies Ian as a Gaelic form of John. No equivalence of Scottish/Gaelic locale labels is asserted by the player fact. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read actual BTN editorial surname Bevan entry and scraper surname-route/submitted flag provenance, plus Bardsley’s full Welsh patronymic paragraph and surrounding context, author/title1875 and USA-PD metadata. BTN explicitly derives Welsh Bevan from ap Evan, son of Evan. Bardsley calls ap the Welsh equivalent of son and maps Ap-Evan to Bevan in the same surname discussion. Both authored works support every selected clause; two book excerpts remain one work. Quotes are actual contiguous excerpts, book whitespace collapsed only. This is a surname/name-family hook, without choosing Evan’s competing ultimate John/Eoghan origin, dates or every bearer’s ancestry. No citation-needed Wiki or unavailable biography is used. Deeper BTN linguistic authorities and shared older scholarship remain unaudited. Brief attributed protected BTN prose and USA-public-domain Bardsley evidence only; no unrestricted mirror-prose licence or source branding copied."
       },
       "recognitionVerified": true,
       "recognitionReview": {
