@@ -13,7 +13,7 @@ const currentPath = join(distDirectory, 'src', 'current.js');
 const currentCliPath = join(distDirectory, 'src', 'current-cli.js');
 const coreTests = join(distDirectory, 'test', 'core.test.js');
 const currentTests = join(distDirectory, 'test', 'current.test.js');
-const expectedFullTests = 34;
+const expectedFullTests = 38;
 const expectedCoreTests = 15;
 const expectedCurrentTests = 9;
 const timeoutMilliseconds = 90_000;
@@ -215,7 +215,7 @@ function main() {
   try {
     evidence.baseline = runSuite(allTests, baselineTimeoutMilliseconds);
     assert.equal(evidence.baseline.fail, 0, `Unmodified full baseline failed\n${evidence.baseline.output}`);
-    assert.equal(evidence.baseline.tests, expectedFullTests, 'All 34 full baseline tests must execute');
+    assert.equal(evidence.baseline.tests, expectedFullTests, 'All 38 full baseline tests must execute');
     evidence.coreBaseline = runSuite([coreTests]);
     assert.equal(evidence.coreBaseline.fail, 0, `Unmodified core baseline failed\n${evidence.coreBaseline.output}`);
     assert.equal(evidence.coreBaseline.tests, expectedCoreTests, 'All 15 historical core baseline tests must execute');

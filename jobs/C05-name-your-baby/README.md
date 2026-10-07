@@ -13,8 +13,10 @@ Neither missing rows nor zero published subtotals prove zero births.
 The checksum-pinned CC0 official ZIP is retained under `fixtures/` so SSA
 revisions cannot silently change this build. Candidate filters require 50,000
 published occurrences and a peak at least 15% above its runner-up. Usage is
-not recognition review. Facts remain null until independently reviewed.
-`complete` remains false. The historical 30-name sample is retained separately.
+not recognition review. `data/current-reviewed-candidates.json` adds 144 reviewed
+facts from two authored works apiece; 356 facts and all recognition reviews
+remain unresolved. Its numeric fields match the base pack. `complete` remains
+false. The historical 30-name sample is retained separately.
 
 With Node 24 and Python 3.12, from this folder:
 
@@ -27,6 +29,7 @@ curl --fail --location --output /tmp/c05-babynames.rda \
 PARTYBOX_SOURCE_PYTHON=/tmp/c05-source-venv/bin/python \
   PARTYBOX_SOURCE_FILE=/tmp/c05-babynames.rda npm test
 npm run generate:current
+npm run generate:reviewed
 npm run generate:sample
 sha256sum --check SHA256SUMS.txt
 ```

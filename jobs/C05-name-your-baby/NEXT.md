@@ -1,23 +1,25 @@
 # Resume C05
 
-Stage: the historical milestone is pushed; the official 500-name candidate pipeline is being integrated. The historical fresh-environment npm test exited 0:
-20 tests, 25/25 mutations, four restored compiled files and five checksums.
-Original SSA and GitHub API access
-became available at 17:20 UTC; C05 remains ACTIVE. Its earlier source denials
-must not be used as current blockers. Claim 37cf5c5 reached main at
-2026-10-07T17:03:49Z, nickname codex-queue.
+Stage: official 500-name metrics and a separate 144-fact reviewed candidate
+pack are implemented and checked. C05 is ACTIVE, with 356 missing facts and
+all 500 recognition reviews still outstanding. No PR, green CI or KEEP GOING
+round is claimed. SSA/GitHub source access works; historical denials are not
+current blockers. Nickname: codex-queue.
 
-1. Read main CLAIMS and this branch's documents; preserve concurrent changes. Refresh the claim on main and push each milestone, at least every 30 minutes.
-2. The historical checks are complete: rerun only for a code/data/dependency change or a new failure. Maintain full test/mutation/schema/source-regeneration coverage when expanding the pack.
-3. Historical commit 435d9a1 and feature merge abc31c4 are retained. Official candidate milestone b99b12d and feature merge b6b98a8 are pushed; claim 807a4ad is on main. Fixture SHA starts c6bbc9; golden SHA starts f9006943. Preserve this reproducible sample while expanding the source/format.
-4. The official-source audit and two identical integrated fixture regenerations passed. The immutable archive and 63,643-row current fixture are retained under fixtures/. The current builder/schema/CLI passed nine isolated tests; five expanded official-source tests also passed. The retained integrated log/report show 34 tests, 34 caught mutations and ten checksums, but the second environment transition lost the original process return. One fresh-instance run with a persisted exit file is pending; inspect its actual completed result. Check actual recorded results before treating those checks as complete. Inspect the official archive at /workspace/.partybox-source-cache/c05/ssa-names-2026-10-07.zip, SHA cd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724. Its 146 annual files cover 1880–2025. Read NationalReadMe, background and licensing; resolve source revisions and partial-decade semantics.
-5. Complete the official 500-name candidate integration and run its changed targets. Current analysis covers 1880–2025 on a 15-decade grid ending 2029; 2020–2025 is partial, with four unobserved years kept separate from missing published years. Candidate metrics are source-pinned; complete stays false. Review broad recognition and original facts before a final pack. Retain legacy sample regression checks.
-6. Write original facts of at most 90 characters, each checked against two independent sources. Local /tmp/c05-facts-research.json records historical Thomas/Didymus and Joshua/Jesus candidates. Historical etymologies need current accuracy review; other names still need sources. Do not assume licenses or label recollection as verified.
-7. Curate recognition and clear peaks. Manually check 30 seeded random rows against a second source and log each one. Regenerate every data file twice, validate schemas/checksums, then open the PR after all required local checks pass and verify actual green CI.
-8. After green CI, run KEEP GOING: list five weaknesses, fix the worst, measure and log the gain, push. Finish only after three consecutive rounds without a gain a player would notice, then claim the next eligible job.
+1. Read main CLAIMS and these documents; preserve concurrent changes. Refresh the claim on main for each push, at least every 30 minutes. Latest confirmed feature merge before this milestone: a6ca384, claim 477fa39 at 2026-10-07T19:21:29Z. Confirm later pushes from Git history.
+2. Engineering checks now completed with actual exec exit 0 and persisted npm status 0: 38 tests, 34/34 semantic mutants (25 historical and nine current), ten restored compiled JS files and 13 checksum matches. Evidence: /tmp/c05-reviewed-integrated-npm-test.log, its .exit file and /tmp/c05-reviewed-integrated-completion-evidence.json. Do not repeat absent a relevant code/data/dependency change or failure.
+3. Keep the pinned official ZIP, normalized annual fixture, base pack and historical sample. Current years 1880–2025 use 15 decade cells ending 2029; 2020–2025 is partial, with future years separate from missing published observations. No projected counts. All 500 numeric fields in the reviewed pack match the base pack.
+4. The portable editorial input fixtures/curation.json contains 144 reviewed fact pairs. Source citations, authors, works, brief quotations and explicit review notes are retained. Recognition stays false; complete stays false. Generate with npm run generate:reviewed. Fact coverage counts in reviewed.test.ts currently pin 144/356 and must change deliberately when coverage expands.
+5. Continue the read-only source research. Retained /tmp artifacts include c05-current-curation-wiki73.json, wiki-facts-review-150-250-curation.json, wiki-facts-review-250-350-curation.json, c05-current-curation-yonge-extra30.json, c05-current-curation-alan-replacement.json and c05-current-curation-historical-hooks4.json, each with audits/hashes. These are candidate inputs, not automatically reviewed production data. Prefer actual directly read books over uncertain citation clusters. The Alan sixth-century claim is held; the direct Alan/Allen form replacement is available with explicit errata. Later reviewer artifacts may add more coverage.
+6. Complete original short surprising facts for every retained row using two independent authored sources. Investigate disagreements in CONFLICTS. Cached source-review work is not a network blocker. Retain brief quotations only; do not publish whole scraped dictionaries or claim their prose is open-licensed.
+7. Review broad recognition separately. A read-only recognition reviewer is preparing /tmp/c05-recognition-review.json. Exact spelling variants may need replacing with qualifying familiar alternatives from the official full-source audit. A selection change requires a deliberate source/fixture/schema/golden/check update; never edit numeric rows by hand.
+8. Thirty seeded random numeric rows were actually read against SSA decade-table columns and logged individually in VERIFY. These tables are a second retrieval route, not a second authored etymology source. Regenerate changed data twice, validate every schema/checksum and run all required checks before opening a PR; verify actual green CI.
+9. After green CI, re-read the job, list five weaknesses, fix the worst, measure and log each round in LOOP.md, push. Continue until three consecutive rounds give no player-visible gain, then claim the lowest eligible job.
 
 ## Re-verify when web works
 
-SSA and GitHub API requests now succeed. Check actual sources and redirects
-when needed; old denials are historical evidence. Draft saving does not prove
-publication or restoration in a new task.
+Current SSA and GitHub access is verified. Direct dictionary publisher hosts
+have actual CONNECT denials, with usable pinned GitHub fallbacks for two
+authored dictionaries. Do not use old denials without current evidence.
+Environment configuration is saved as a draft; saving does not prove runtime
+application, publication or restoration in a new task.

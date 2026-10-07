@@ -2692,3 +2692,47 @@ PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOUR
 The observed initial suite executed 34 tests and passed all 34, with zero failures/skips/cancellations/todos, duration 34.506453 seconds. Runner baselines passed 34 full / 15 historical / 9 current tests. Retained final report and log show all 34 mutations caught (25 historical, nine current), compiled byte/hash restoration, and all ten checksum matches. The environment then reprovisioned; attempting to resume exec session 37668 returned Unknown process id. Thus the original underlying npm process's final exit status is unavailable, and is not claimed as a confirmed tool-returned exit 0. Prior report is preserved at `/tmp/c05-pre-restart-integrated-mutation-report.json`; the original log remains available. A single fresh-instance integrated run is recording its underlying exit status in `/tmp/c05-restarted-integrated-npm-test.exit` and is pending at this documentation milestone. No assertions or source checks were skipped.
 
 The new mutations M26–M34 respectively plant future-year acceptance, dropping observed partial counts, ten observed years in the 2020s, future years counted as missing published observations, a single author for reviewed facts, absent fact review, absent recognition review, claimed candidate completion, and bypassed canonical count fingerprint. All are syntax-valid before execution. Current mutants must all be caught independently of the historical >=24 gate. The runner snapshots/restores every compiled JavaScript file and rejects crashes that do not execute the expected 15 historical or nine current tests. Exact pre-execution anchor/syntax proof is retained in `/tmp/c05-current-mutation-anchor-evidence.json`.
+
+## Fresh-instance integrated completion
+
+Executed from `jobs/C05-name-your-baby` after the second environment transition:
+
+```sh
+PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda npm test > /tmp/c05-restarted-integrated-npm-test.log 2>&1
+partybox_test_status=$?
+printf '%s\n' "$partybox_test_status" > /tmp/c05-restarted-integrated-npm-test.exit
+tail -n 18 /tmp/c05-restarted-integrated-npm-test.log
+exit "$partybox_test_status"
+```
+
+Actual completed exec tool exit code: **0**, independently preserved underlying npm status file: **0**. Initial full suite: **34/34 passed**, zero failures/cancellations/skips/todos. Runner full, historical core and current baselines passed their exact 34/15/9 counts; all **34/34** semantic mutations caught (25/25 historical and 9/9 current). Every compiled JavaScript file was restored to the original byte/hash snapshot, and all ten checksum entries passed. Completion log, status file and current-run report are distinct from the pre-transition artifacts. `/tmp/c05-restarted-integrated-completion-evidence.json` records the concrete final outcome and restoration hashes. This resolves the previously missing process return. Do not repeat this passing full run without a relevant code/data/dependency change or a concrete new failure. Content recognition and complete per-name independent facts remain outstanding; this is not PR/CI/KEEP GOING completion.
+
+## Reviewed candidate milestone: four focused tests
+
+Added the separate reviewed CLI, standalone curation schema and four tests. Strict isolated compile command, from this job folder:
+
+```sh
+./node_modules/.bin/tsc --target ES2022 --module NodeNext --moduleResolution NodeNext --strict --noUncheckedIndexedAccess --exactOptionalPropertyTypes --noEmitOnError --forceConsistentCasingInFileNames --skipLibCheck --rootDir . --outDir /tmp/c05-reviewed-check src/core.ts src/current.ts src/reviewed-cli.ts test/reviewed.test.ts
+node /tmp/c05-reviewed-check/src/reviewed-cli.js fixtures/current-source.json fixtures/curation.json /tmp/c05-reviewed-candidates-golden.json --reviewed-candidates
+node --test /tmp/c05-reviewed-check/test/reviewed.test.js
+```
+
+Actual compile, generation and focused test exit codes were all 0. All four tests executed and passed, zero failures/cancellations/skips/todos, 8.042564 seconds. Tests validate all 144 curation records with the reused strict schema, enforce author/work/review gates and deep copies, compare every numeric field for all 500 output rows with the base pack, run two byte-identical CLI generations under UTC and Pacific/Honolulu, and reject 25 invalid invocations while preserving both source inputs and existing output. Rejections include direct, symlink and hardlink aliases of both inputs, forged numeric metrics, unsupported flags, absent review, malformed/empty curation and invalid destinations. This would catch editorial data changing counts, shallow copies, nondeterministic output or accidental source destruction.
+
+The reviewed output is SHA256 `2bd620db02bb821622f6e7eb1d6e759d7575c5e1481a8d2aa8294b268ab4532f`. Curation input is SHA256 `b62036cc72f85a3fc47c4403a3c6d5c121ae1af360b6c9198f92a6162e822946`. The output has 500 rows, 144 reviewed facts, 356 null unresolved facts and zero completed recognition reviews; complete is false. The mutation runner's full baseline now requires 38 tests, while historical/current mutation baselines remain 15/9. Checksums cover 13 source/data/schema files. The changed full npm test was launched and must have an actual completion recorded before its outcome is claimed.
+
+Source assembly used the 100-row medieval artifact SHA256 `8b02815e1d150f08861b9a101b0a0bae536d5d0f855aed70d6f536b26e5cbe79` and 52-row book artifact SHA256 `7a9da0f11221c6bbf38f5a673d6b4b4081de0b2fa01eb2a5abc99dc15149df24`; eight overlaps retained the medieval pair. The independent agent's 30-pair source audit used Python Random seed 20261007 on sorted names and read both actual source bodies, reporting 28 accepted plus two narrower claims that were incorporated. Its frozen original input SHA256 is `870087978926930ab112b7c71c63c1c486a842c69c481b5ae63ea7582015fffa`. This does not claim human review or replace the existing manual numeric spot-check. Assembly/focused evidence is retained at `/tmp/c05-curation-assembly-evidence.json` and `/tmp/c05-reviewed-pipeline-evidence.json`.
+
+## Reviewed milestone: full integrated completion
+
+Executed from this job folder:
+
+```sh
+PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda npm test > /tmp/c05-reviewed-integrated-npm-test.log 2>&1
+partybox_reviewed_status=$?
+printf '%s\n' "$partybox_reviewed_status" > /tmp/c05-reviewed-integrated-npm-test.exit
+tail -n 18 /tmp/c05-reviewed-integrated-npm-test.log
+exit "$partybox_reviewed_status"
+```
+
+Actual completed exec exit 0, independently persisted underlying npm status 0. The initial full suite executed and passed **38/38** tests, zero failures/cancellations/skips/todos, 43.452257 seconds. Full/historical/current mutation baselines passed their exact 38/15/9 counts; **34/34** semantic mutations were caught (25 historical, nine current). All ten compiled JavaScript files were restored byte-for-byte with matching SHA256 values. All 13 checksum entries passed. The current report is preserved at `/tmp/c05-reviewed-integrated-mutation-report.json`; `/tmp/c05-reviewed-integrated-completion-evidence.json` records actual completion independently of prior runs. This run was necessary for the new reviewed builder, CLI, schema, tests and data; repeat only after a relevant change or concrete failure. These passing engineering checks do not establish complete content, a PR, green CI or KEEP GOING completion.

@@ -37,3 +37,10 @@ finding a dictionary headword or a Wikipedia article is not corroboration.
 Wikipedia text that derives its only support from Behind the Name is not a
 second independent authored source for that claim. Specific disagreements and
 chosen safer paraphrases will be recorded here as facts are accepted.
+
+## Reviewed subset: narrow claims and attribution
+
+- Audrey: the older dictionary's components were retained while avoiding an overbroad statement about a modern English word. Pick: “Audrey traces to Old English words for \"noble\" and \"strength\".” Both read passages support those components.
+- Harriet: sources describe its relationship with Harry through different grammatical routes. Pick the common relation, “Harriet is a feminine name related to Harry.” This avoids asserting that every source treats it as precisely the same diminutive.
+- Older Yonge derivations sometimes conflict with current descriptions. Use only the shared, directly supported form relationship for this subset; historical disagreement is not resolved by counting sources. Individual curation notes retain the relevant restriction.
+- Corporate Behind the Name authorship is verified; individual authorship is not. Do not infer an individual author from the GitHub mirror owner. DMNES uses actual per-entry citations, not a generic technical-maintainer attribution.

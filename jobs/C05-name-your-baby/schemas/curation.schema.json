@@ -1,0 +1,228 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.invalid/C05/curation.schema.json",
+  "type": "array",
+  "maxItems": 500,
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "fact",
+      "factStatus",
+      "factReferences",
+      "factReview",
+      "recognitionVerified",
+      "recognitionReview"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^ssa:[FM]:[A-Za-z]{2,15}$"
+      },
+      "fact": {
+        "anyOf": [
+          {
+            "type": "null"
+          },
+          {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 90,
+            "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+          }
+        ]
+      },
+      "factStatus": {
+        "enum": [
+          "unverified",
+          "reviewed"
+        ]
+      },
+      "factReferences": {
+        "type": "array",
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "url",
+            "publisher",
+            "author",
+            "title",
+            "workId",
+            "quote"
+          ],
+          "properties": {
+            "url": {
+              "type": "string",
+              "pattern": "^https://[^\\s/@]+(?:/[^\\s]*)?$"
+            },
+            "publisher": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200,
+              "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+            },
+            "author": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200,
+              "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+            },
+            "title": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200,
+              "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+            },
+            "workId": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200,
+              "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+            },
+            "quote": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000,
+              "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+            }
+          }
+        }
+      },
+      "factReview": {
+        "anyOf": [
+          {
+            "type": "null"
+          },
+          {
+            "$ref": "#/definitions/review"
+          }
+        ]
+      },
+      "recognitionVerified": {
+        "type": "boolean"
+      },
+      "recognitionReview": {
+        "anyOf": [
+          {
+            "type": "null"
+          },
+          {
+            "$ref": "#/definitions/review"
+          }
+        ]
+      }
+    },
+    "allOf": [
+      {
+        "if": {
+          "type": "object",
+          "properties": {
+            "factStatus": {
+              "const": "reviewed"
+            }
+          }
+        },
+        "then": {
+          "type": "object",
+          "properties": {
+            "fact": {
+              "type": "string"
+            },
+            "factReferences": {
+              "type": "array",
+              "minItems": 2
+            },
+            "factReview": {
+              "$ref": "#/definitions/review"
+            }
+          }
+        },
+        "else": {
+          "type": "object",
+          "properties": {
+            "factReview": {
+              "type": "null"
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "type": "object",
+          "properties": {
+            "fact": {
+              "type": "null"
+            }
+          }
+        },
+        "then": {
+          "type": "object",
+          "properties": {
+            "factReferences": {
+              "type": "array",
+              "maxItems": 0
+            },
+            "factStatus": {
+              "const": "unverified"
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "type": "object",
+          "properties": {
+            "recognitionVerified": {
+              "const": true
+            }
+          }
+        },
+        "then": {
+          "type": "object",
+          "properties": {
+            "recognitionReview": {
+              "$ref": "#/definitions/review"
+            }
+          }
+        },
+        "else": {
+          "type": "object",
+          "properties": {
+            "recognitionReview": {
+              "type": "null"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "minItems": 1,
+  "definitions": {
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reviewer",
+        "note"
+      ],
+      "properties": {
+        "reviewer": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200,
+          "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000,
+          "pattern": "^[^\\s\\u0000-\\u001f\\u007f](?:[^\\u0000-\\u001f\\u007f]*[^\\s\\u0000-\\u001f\\u007f])?$"
+        }
+      }
+    }
+  }
+}
