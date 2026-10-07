@@ -21767,53 +21767,45 @@
         }
       ],
       "id": "ssa:F:Kathy",
-      "fact": "Kathleen is an Irish relative of Katherine.",
+      "fact": "Kathy Bates won a best-actress Oscar for the Stephen King adaptation Misery.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kathy (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Katherine."
+          "url": "https://www.britannica.com/biography/Kathy-Bates",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Kathy Bates",
+          "workId": "britannica:encyclopedia",
+          "quote": "Bates won an Academy Award for best actress for her chilling performance of an obsessed fan in Misery (1990)."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kathleen (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Anglicized form of Caitlín."
+          "url": "https://www.britannica.com/biography/Kathy-Bates",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Kathy Bates",
+          "workId": "britannica:encyclopedia",
+          "quote": "In 1990 Bates established herself as a powerful screen presence in the film adaptation of Stephen King’s Misery."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Caitlín (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Irish form of Cateline, the Old French form of Katherine."
+          "url": "https://en.wikipedia.org/w/index.php?title=Kathy_Bates&oldid=1375811451",
+          "publisher": "Wikipedia / Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Kathy Bates",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Bates won the [[Academy Award for Best Actress]] for portraying [[Annie Wilkes]] in the psychological thriller ''[[Misery (film)|Misery]]'' (1990)."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "her coins Ekaterina. On the whole, Katherine would seem properly to be a namesake of the Alexandrian princess, Catherine, the Votaress of Sienna. No name is more universal in all countries and in all ranks, partly from its own beauty of sound, partly from association, and none has more varied contractions. Our truest old English ones are Kate and Kitty—the latter was almost universal in the last century, though now supplanted by the Scottish Katie and the graceful Irish Kathleen."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ Scotch. │ Irish. │ Welsh. │ │Katharine │Catharine │Kathleen │Cathwg │ │Catherine │Katie │Katty │ │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Kathy_Bates&oldid=1375811451",
+          "publisher": "Wikipedia / Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Kathy Bates",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Bates' performance in the 1990 horror film ''[[Misery (film)|Misery]]'', based on the [[Misery (novel)|book of the same name]] by [[Stephen King]], marked her [[Cinema of the United States|Hollywood]] breakthrough."
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Kathy→Katherine and Kathleen→Caitlín→Katherine. The actual historical Katherine section independently lists Irish Kathleen. Only the named root’s Irish form is corroborated in both works. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all seven actual human Britannica paragraphs, printed Editors/Amy Tikkanen signature and Article metadata; separate peer read the full64,233-character pinned Wiki biography and matched API bytes. Both works explicitly identify the Best Actress Academy Award for Misery and its Stephen King source novel. Oscar is ordinary synonymous award wording; the selected category is Best Actress. Four exact contiguous quotes represent two authored encyclopedia works. Wiki award lead is unfootnoted; the adaptation sentence cites Gold Derby, whose underlying body is unread and uncounted. No visible Britannica citation in Wiki; deeper common award/biography-source lineage is unresolved. Actual Wiki accolades summary/category/nav-template are context only; no expanded award table or primary Academy record was read. No dates, firstness, plot, genre-superlative, King screenplay/director credit or generic Kathy origin. Brief quotes retain publisher/Wikimedia rights; no media assets reused."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -29599,61 +29591,45 @@
         }
       ],
       "id": "ssa:F:Carrie",
-      "fact": "Caroline and Charlotte are feminine forms in Charles's name family.",
+      "fact": "Carrie Fisher wrote the novel and screenplay for Postcards from the Edge.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Carrie (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Caroline."
+          "url": "https://www.britannica.com/biography/Carrie-Fisher",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Patricia Bauer",
+          "title": "Carrie Fisher | Biography, Movies, Books, & Facts, human article: novel authorship",
+          "workId": "britannica:encyclopedia",
+          "quote": "In addition to acting, she began writing, and in 1987 her first novel, Postcards from the Edge, was published."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Caroline (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French feminine form of Carolus."
+          "url": "https://www.britannica.com/biography/Carrie-Fisher",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Patricia Bauer",
+          "title": "Carrie Fisher | Biography, Movies, Books, & Facts, human article: film screenplay authorship",
+          "workId": "britannica:encyclopedia",
+          "quote": "She wrote the screenplay for the 1990 film version, which starred Meryl Streep."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Carolus (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Latin form of Charles."
+          "url": "https://en.wikipedia.org/w/index.php?title=Carrie_Fisher&oldid=735965416",
+          "publisher": "Wikipedia, Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Carrie Fisher, revision 735965416, 1980s novel paragraph",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In 1987, Fisher published her first novel, ''[[Postcards from the Edge]].''"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Charlotte (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French feminine diminutive of Charles."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "The two feminines are of late invention. The first I have been able to find was Carlota or Charlotte, of Savoy, who married Louis XI., and thus introduced this form to French royalty. Charlotte d'Albret had the misfortune to be given in marriage to Cesare Borgia, and had one"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Carolina, the other form, seems to have been at first Italian, and thence to have spread to Southern Germany, and all over that country, whence we received it with the wife of George II., by whom it was much spread among the nobility, and is now very common among the peasantry. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Spanish. │ Italian │ │Charlotte │Charlotte │Carlota │Carlotta │ │Lotty │Lolotte │Lola │Carlota │ │Chatty │Caroline │ │Carolina │ │Caroline │ │ │ │ │Carry │ │ │ │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Carrie_Fisher&oldid=735965416",
+          "publisher": "Wikipedia, Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Carrie Fisher, revision 735965416, 1990s film adaptation paragraph",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In 1990, [[Columbia Pictures]] released a film version of ''[[Postcards from the Edge (film)|Postcards from the Edge]],'' adapted for the screen by Fisher and starring [[Meryl Streep]], [[Shirley MacLaine]], and [[Dennis Quaid]]."
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Carrie→Caroline and both Caroline and Charlotte as Charles-family feminine forms. The surrounding historical Charles discussion independently treats the two feminine forms and lists Caroline/Charlotte. The older spelling Carry is not used as independent proof of exact Carrie. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read five actual human Britannica paragraphs, Patricia Bauer byline/signature and Article metadata, plus pinned Wiki2016 full lead, 1980s/1990s career sections, bibliography and literary citation contexts. Both works identify Fisher as author of the novel and its film screenplay. Four exact contiguous excerpts represent two authored works. Wiki revision735965416 matches retained API bytes and predates this retrieved Britannica metadata’s datePublished2016-08-25; this does not establish all earlier publisher history or exclude reverse copying/common sources. Selected2016 career sentences are unfootnoted; later script-doctor material cites NYT. The current Wiki adaptation sentence cites Margot Dougherty’s EW interview; these underlying bodies are unread and uncounted. No visible Britannica citation in selected Wiki; deeper lineage unresolved. No firstness, dates, autobiographical/award claim or book text/assets reused. Brief quotes retain publisher/Wikimedia rights."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -33335,45 +33311,37 @@
         }
       ],
       "id": "ssa:M:Derek",
-      "fact": "Thierry and Dietrich are French and German forms of Theodoric.",
+      "fact": "Derek Walcott’s poem Omeros echoes Homer’s Iliad.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Derek (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "a Low German form of Theodoric."
+          "url": "https://www.britannica.com/biography/Derek-Walcott",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Derek Walcott | Biography, Poems, Books, Famous Works, Love After Love, Nobel Prize, Nationality, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "In his book-length poem Omeros (1990), he retells the dramas of Homer’s ancient Greek epics the Iliad and Odyssey"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Thierry (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French form of Theodoric."
+          "url": "https://en.wikipedia.org/w/index.php?title=Derek_Walcott&oldid=1371386812",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Derek Walcott, revision 1371386812",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "His works include the [[Homeric]] [[Epic poetry|epic poem]] ''[[Omeros]]'' (1990)"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Dietrich (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "German form of Theodoric."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-          "publisher": "John Murray, London; GITenberg delivery",
-          "author": "Ernest Weekley",
-          "title": "The Romance of Names, third revised edition (1922)",
-          "workId": "weekley-romance-of-names-1922",
-          "quote": "Thierry, the French form of Ger. Dietrich (Theodoric)"
+          "url": "https://en.wikipedia.org/w/index.php?title=Derek_Walcott&oldid=1371386812",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Derek Walcott, revision 1371386812",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The poem very loosely echoes and references [[Homer]] and some of his major characters from ''[[The Iliad]]''."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
-        "note": "The actual BTN Thierry and Dietrich descriptions and Weekley passage agree on their French/German relationship to Theodoric. The player sentence claims only these forms. BTN alone supplies the Derek-to-Dederick linkage; Weekley mentions Derrick, not Derek, so no exact modern spelling corroboration is inferred. Full book context and relevant dictionary/body checks were inspected. Shared BTN headwords count as one work; cited earlier authorities were not read or counted. Agent review only, with no human manual spot-check claimed."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all13 actual human Britannica paragraphs, printed Editors byline, René Ostberg revision credit and Article metadata; actual Wiki full lead and Omeros section/citation contexts read, API identity matched and full body scanned for disclosed dependency. Separate peer checked the selected Wiki relation. Both treatments identify Walcott’s poem and its Homer/Iliad echo; Wiki says very loosely, so echoes implies no complete retelling. Three exact contiguous fragments represent two authored encyclopedia works. Lead ownership ends with Poetry Foundation citation; the Omeros paragraph ends with Lefkowitz NYT1990, later setting/themes cite Morrison/Bixby. Underlying bodies and original poem are unread and uncounted. No visible Britannica reference; deeper shared literary lineage unresolved. Research audit’s shortened subsection opening is corrected in source proof, not used as an exact quote. No all-poem setting, plot, dates, Nobel firstness or name origin. Brief attributed quotes only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -70975,61 +70943,45 @@
         }
       ],
       "id": "ssa:M:Lonnie",
-      "fact": "Alonzo and the Spanish royal name Alfonso belong to the same name family.",
+      "fact": "Blues guitarist Lonnie Johnson was also known as Alonzo Johnson.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Lonnie (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Short form of Alonzo and other names containing the same sound."
+          "url": "https://www.britannica.com/biography/Lonnie-Johnson",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Lonnie Johnson: American musician",
+          "workId": "britannica:encyclopedia",
+          "quote": "Byname of: Alonzo Johnson"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Alonzo (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Alonso in use in America."
+          "url": "https://www.britannica.com/biography/Lonnie-Johnson",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Lonnie Johnson: American musician",
+          "workId": "britannica:encyclopedia",
+          "quote": "American musician, singer, and songwriter who was one of the first major blues and jazz guitarists."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Alonso (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Spanish variant of Alfonso."
+          "url": "https://en.wikipedia.org/w/index.php?title=Lonnie+Johnson+%28musician%29&oldid=1373791950",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Lonnie Johnson (musician), revision 1373791950",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''Alonzo \"Lonnie\" Johnson'''"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Alfonso (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "This was the name of six kings of Portugal and kings of several ancient regions of Spain."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Gothic Spain coined, however, the most noted form of the name when Hildefuns, or battle vehemence, came on the Latin lips of her people to be Ildefonso, or Illefonso, as the great bishop of Toledo, of the seventh century, was called. Then, shortening into Alfonso, and again into Alonzo, the same came to the second gallant king of the Asturias, husband of Pelayo’s daughter, and became the most national of all the Peninsular names, belonging to eleven Castillian kings and nine Aragonese, and to the present king of Spain; but never passing beyond"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ German. │ French. │ Spanish. │ Italian. │ │Alphonso │Alfons │Alphonse │Ildefonso │Alfonso │ │Alonzo │ │ │Alfonso │ │ │ │ │ │Alonso │ │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Lonnie+Johnson+%28musician%29&oldid=1373791950",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Lonnie Johnson (musician), revision 1373791950",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "was an American [[blues]] and [[jazz]] singer, guitarist, violinist and songwriter."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to Alonzo/Alfonso: BTN’s chain explicitly links Alonzo→Alonso→Alfonso and identifies Spanish royal bearers; Yonge independently gives Alfonso→Alonzo in the Spanish royal name family. Lonnie is dictionary context only. Conflicting noble-ready/battle derivations, exact royal counts and every bearer’s ancestry are excluded."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all four human Britannica paragraphs, actual Byname-of dt/dd and Also-known-as records, printed Editors byline/signature/Article metadata and full pinned Wiki musician biography. Both treatments connect Lonnie Johnson with Alonzo Johnson and blues guitar. Split the candidate’s joined ellipsis records into four separate exact contiguous quotations; metadata is identified as metadata, not prose. Wiki revision1373791950 matches retained API bytes. Name fields/opening name are unfootnoted; nearby Sallis notes concern disputed birth years, and Herzhaft/Delmark concern pioneering, not separate name proof. Underlying books/sites are unread and uncounted. No visible Britannica citation in Wiki; deeper music-source lineage unresolved. Birth dates, priority, recording totals, disputed band employment, general Lonnie etymology and the different inventor are omitted. Brief excerpts retain publisher/Wikimedia rights; no lyrics or assets reused."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -73247,37 +73199,37 @@
         }
       ],
       "id": "ssa:F:Bobbie",
-      "fact": "Barbara comes from a Greek word meaning 'foreign'.",
+      "fact": "The British police nickname ‘bobby’ comes from Sir Robert Peel.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Bobbie (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "As a feminine name it can be a diminutive of Roberta or Barbara."
+          "url": "https://www.britannica.com/topic/bobby",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Patricia Bauer",
+          "title": "Bobby | Definition, History, Duties, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "bobby, slang term for a member of London’s Metropolitan Police derived from the name of Sir Robert Peel"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Barbara (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Derived from Greek βάρβαρος (barbaros) meaning \"foreign\"."
+          "url": "https://raw.githubusercontent.com/GITenberg/Webster-s-Unabridged-Dictionary_29765/296ecf5d49b6b6f141a8efc015cb3a32d31feff3/29765-8.txt",
+          "publisher": "Webster’s Unabridged Dictionary; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Various (Project Gutenberg catalog and primary-text credit)",
+          "title": "Webster's Unabridged Dictionary, BOBBY entry (Project Gutenberg29765)",
+          "workId": "webster-unabridged-dictionary-gutenberg-29765",
+          "quote": "A nickname for a policeman; -- from Sir Robert Peel"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "of artificers and soldiers, seldom rising to princely rank. Barbara is the feminine of βάρβαρος (a stranger), the term applied by the Greeks to all who did not speak their own tongue. Horne Tooke derives it from the"
+          "url": "https://raw.githubusercontent.com/GITenberg/Webster-s-Unabridged-Dictionary_29765/296ecf5d49b6b6f141a8efc015cb3a32d31feff3/29765-8.txt",
+          "publisher": "Webster’s Unabridged Dictionary; public domain delivery by Project Gutenberg / GITenberg",
+          "author": "Various (Project Gutenberg catalog and primary-text credit)",
+          "title": "Webster's Unabridged Dictionary, BOBBY entry (Project Gutenberg29765)",
+          "workId": "webster-unabridged-dictionary-gutenberg-29765",
+          "quote": "[Slang, Eng.]"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to Barbara’s Greek root: BTN gives barbaros, foreign; Yonge independently gives Barbara as feminine barbaros, a stranger, applied to non-Greek speakers. The full retained Bobbie description was read and its explicit feminine Roberta/Barbara sentence replaces the insufficient supplied Variant of Bobby snippet. Bobbie linkage remains dictionary context only."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all four actual human Patricia Bauer Britannica paragraphs, named byline/signature and Article metadata; separate peer read full primary Webster BOBBY entry, three PEELER homonyms, Various frontmatter/catalog, retained requests and USA-PD/license passages. Both selected treatments derive the police nickname from Sir Robert Peel. Webster labels BOBBY Slang, Eng.; its reciprocal police PEELER says British Slang. Three separate exact contiguous quotations represent two authored works. Various is the source credit, not sole Noah Webster; no historical print year is invented. Bobbie/bobby wordplay is visible spelling association only, with no female-name origin, meaning or all-bearer ancestry claim. Shared nickname/dictionary lineage remains unaudited. Dickens attribution/internal crossrefs add no verified source bodies. Dates, legislation, weapons and universal officer usage are omitted; Chambers1828/Bauer1829 alternative dates are not reconciled. Brief attributed quotes only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
