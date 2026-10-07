@@ -2945,3 +2945,20 @@ sha256sum --check SHA256SUMS.txt
 ```
 
 Generation/focused actualexec9641 exit0; persisted status0.8/8 tests pass,zero failures/cancellations/skips/todos,20.793541632seconds. Each changed output is regenerated twice across timezones and compared with committed bytes; strict realcomplete schema/golden and25 negativeinvocations perCLI protect source/curation/sentinels. Root also compared all500 numericfields with unchangedbasepack: identical; complete remains true, candidate modesfalse,500reviewedfacts/recognition. All17 refreshed checksums match. Measured gain:9 changed player-visible factlines,3/4 flagged confusing chains replaced; no fabricated participant playtest or cosmetic convergence. Full42/34/12 campaign remains the actual pre-fact-only-code result, not a repeated run. Evidence `/tmp/c05-keep1-completion-evidence.json`.
+
+## KEEP GOING round2: 5 substantive improvements
+
+Reread C05 in JOBS and listed five weaknesses: remaining Randy root chain; obvious variant-only facts; tentative etymologies; partial-period comparability; recognition demographic limits. Actual `python /tmp/c05-integrate-quality-round.py 2 /tmp/c05-quality-next-five-approved-fact-overlays.json 8191659221379b716d55f64bf5f81cd30e2040a15077e12bef8b365a3ad0e453` replaced 5 reviewed facts, preserving495 untouchedrows and everyrecognitionrecord. Then from this job folder actually ran:
+
+```sh
+npm run generate:reviewed > /tmp/c05-keep2-generate-reviewed.log 2>&1
+npm run generate:complete > /tmp/c05-keep2-generate-complete.log 2>&1
+node --test dist/test/reviewed.test.js dist/test/complete.test.js > /tmp/c05-keep2-focused-tests.log 2>&1
+sha256sum --check SHA256SUMS.txt > /tmp/c05-keep2-sha.log
+```
+
+Actual generator/focused execsession18603 exit0 and persistedstatus0:8/8 tests,zero fail/cancel/skip/todo,13.58325098seconds. All17 refreshed checksums pass. Tests run strict realcomplete/candidate schemas, exact actualgolden bytes, two-timezone repeatability and25 protected negativeinvocations perCLI; root additionally compared all500 metricfields with unchangedbasepack. Candidate modes remainfalse; realcomplete:true with500reviewedfacts/recognition. This catches changed counts, nondeterministic data, forgedgoldens and source-overwrites. Measured gain:5 changed playervisiblefacts; no fabricated participant survey or cosmetic convergence. Code/source/dependencies are unchanged, so the earlier full42/34/12 result remains separately identified. Evidence `/tmp/c05-keep2-completion-evidence.json`.
+
+Round2 bookkeeping correction: first `sha256sum --check SHA256SUMS.txt` ran from the repository root, failed because that relative file was absent, and the completion-note helper then correctly rejected the empty SHAlog. A data milestone had nevertheless committed/pushed due to missing fail-fast in that shell command; no successful checksum or completedround was recorded there. Corrected to this jobfolder with `set -e`: actual17 checksums passed and completion notes were then recorded. The data/code had not changed and successful8 focusedtests were retained; no unnecessary rerun is claimed.
+
+PR body tooling: `gh pr edit 1 --repo luisitin/partybox-content-packs --body-file /tmp/c05-pr-body.md` failed on deprecated GraphQL ProjectsClassic fields. Wrote exact bodyJSON to `/tmp/c05-pr-edit-payload.json`; `gh api --method PATCH repos/luisitin/partybox-content-packs/pulls/1 --input /tmp/c05-pr-edit-payload.json --jq '{html_url,updated_at}'` completed exit0, actualupdatedPR#1. These CLI compatibility failures are not unavailable GitHub API/source blockers.

@@ -22,4 +22,4 @@ confirmed restart/reconnect was20:48:48Z; retained toolchain checks passed.
 
 ## Current round2
 
-Integrated5 independently approved playerfact replacements: ssa:F:Gracie, ssa:F:Jamie, ssa:F:Maria, ssa:M:Randy, ssa:M:Tony. Generation/focused checks/delivery are pending; this is not yet a completed LOOP round. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-next-five-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
+Integrated5 independently approved playerfact replacements: ssa:F:Gracie, ssa:F:Jamie, ssa:F:Maria, ssa:M:Randy, ssa:M:Tony. Round2 actual localchecks pass:8/8 focusedtests,17SHA matches,bothoutputs repeat identically,all500metrics/recognitions preserved. Read LOOP/Git fordelivery. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-next-five-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
