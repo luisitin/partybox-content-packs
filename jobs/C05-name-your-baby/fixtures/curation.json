@@ -3897,29 +3897,37 @@
   },
   {
     "id": "ssa:M:Alan",
-    "fact": "Alan has also been spelled Allen.",
+    "fact": "Alan Shepard swung a golf club on the Moon.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Allen (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Alan."
+        "url": "https://www.britannica.com/biography/Alan-B-Shepard-Jr",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Alan B. Shepard, Jr. | Mercury Program, Apollo Program, Moon Landing, & Spaceflight | Britannica; updated 2026-09-12",
+        "workId": "britannica:encyclopedia",
+        "quote": "Near the end of his Moon walk, Shepard—an avid golfer—swung at two golf balls with a makeshift six-iron club as a playful demonstration for live television cameras of the weak lunar gravity."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "ever since filled Scotland. That country has taken much more kindly to this Breton name than has England, in spite of Allen-a-dale, and of a few families where Allen has been kept up; but as a surname, spelt various ways, it is still common."
+        "url": "https://en.wikipedia.org/w/index.php?title=Alan_Shepard&oldid=1378495434",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Alan Shepard, Apollo 14 / Moon golf passage; revision 1378495434",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "While on the Moon, Shepard used a Wilson six-iron head attached to a lunar sample scoop handle to drive golf balls."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Alan_Shepard&oldid=1378495434",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Alan Shepard, explicit golf-club swing sentence; revision 1378495434",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Despite thick gloves and a stiff space suit, which forced him to swing the club with one hand, Shepard struck two golf balls, driving the second, as he jokingly put it, \"miles and miles and miles\"."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Both actual dictionary/book bodies individually read. BTN Allen explicitly says Variant of Alan, and Yonge traces the same name into the hosts of Alans and Allens and discusses Allen as this Breton name in England. This stable spelling relationship replaces the unsupported specific sixth-century claim, whose Wiki intro has only a broad Bachrach citation. Uncertain ultimate meanings excluded. BTN corporate identity is read-supported; individual authorship unestablished. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review/alicia_pair_review independent retained-source review",
+      "note": "Independently reviewed the actual human Britannica Moon-golf paragraph and full retained Wikipedia revision 1378495434 with the preceding mission context and immediate citations. Both support Alan Shepard swinging a golf club on the Moon; Wikipedia’s next sentence explicitly says swing the club. Human Britannica Editors byline and article metadata were read; AI FAQ is excluded. The Wiki sentence cites the National Air and Space Museum, and its explicit swing sentence cites NASA’s lunar journal; their underlying bodies were not read or counted. No Britannica occurrence was found in the full Wiki text, but deeper shared upstream evidence is unresolved. Two separately authored encyclopedia treatments count as two work/author groups; repeated Wiki excerpts count once. Original narrow factual wording, brief attributed quotes and retained revision/rights provenance. No distances, first/only claim, dates, certificate or human playtest."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -5985,29 +5993,29 @@
   },
   {
     "id": "ssa:M:Allen",
-    "fact": "Allen is a variant spelling of Alan.",
+    "fact": "Allen Ginsberg wrote the poem Howl.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Allen (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Alan."
+        "url": "https://www.britannica.com/biography/Allen-Ginsberg",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Allen Ginsberg | Biography, Howl, Poems, & Facts | Britannica; updated 2026-08-17",
+        "workId": "britannica:encyclopedia",
+        "quote": "Allen Ginsberg (born June 3, 1926, Newark, New Jersey, U.S.—died April 5, 1997, New York, New York) was an American poet whose epic poem Howl (1956) is considered to be one of the most significant products of the Beat movement."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "ever since filled Scotland. That country has taken much more kindly to this Breton name than has England, in spite of Allen-a-dale, and of a few families where Allen has been kept up; but as a surname, spelt various ways, it is still common."
+        "url": "https://en.wikipedia.org/w/index.php?title=Allen_Ginsberg&oldid=1378100022",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Allen Ginsberg, Lead / Howl authorship; revision 1378100022",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Best known for his poem \"[[Howl (poem)|Howl]]\", Ginsberg denounced what he saw as the destructive forces of [[capitalism]] and [[conformity]] in the United States."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read actual Britannica human introduction, its Editors signature and Article metadata, plus the full retained Wiki lead and immediate references. Both explicitly identify Howl as Allen Ginsberg’s poem; every selected authorship/title clause is supported. Wiki revision1378100022 exactly matches the retained API content. Nearby Deliberate Prose/PBS citations were inspected as labels, not directly read underlying bodies or extra sources. Full Wiki has no Britannica citation; deeper common literary/biographical lineage remains unaudited. Two authored presentations, not independently witnessed composition. The trial alternative stays held: none of six actual human Britannica paragraphs mentions a trial; AI Top Questions/JSON-LD text is excluded. Fact uses poem title only, with no poem lines, trial defendant, date, book-firstness, name origin or every-Allen claim. Brief attributed copyrighted Britannica and CC-BY-SA4 Wiki excerpts retain rights, no MIT relicensing."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -10033,37 +10041,29 @@
   },
   {
     "id": "ssa:F:Lillie",
-    "fact": "Elizabeth was the name of John the Baptist's mother.",
+    "fact": "Lillie Langtry's given names were Emilie Charlotte.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Lillie (entry index 0; pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Lily, or a diminutive of Lillian or Elizabeth."
+        "url": "https://www.britannica.com/biography/Lillie-Langtry",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Lillie Langtry | Victorian Era, Royal Court, Jersey, biography Quick Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "Byname of: Emilie Charlotte, Lady de Bathe"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Elizabeth (entry index 0; pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "while the Greek form appears in the New Testament where Elizabeth is the mother of John the Baptist."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
-        "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
-        "author": "William Smith",
-        "title": "Smith's Bible Dictionary: Elisabeth",
-        "workId": "smith:bible-dictionary:1863",
-        "quote": "(the oath of God), the wife of Zacharias and mother of John the Baptist."
+        "url": "https://en.wikipedia.org/w/index.php?title=Lillie_Langtry&oldid=1376136486",
+        "publisher": "Wikipedia, Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Lillie Langtry, revision1376136486, lead identity",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "'''Emilie Charlotte, Lady de Bathe''' (née '''Le Breton''', formerly '''Langtry'''; 13 October 1853 – 12 February 1929), known as '''Lillie''' (or '''Lily''') '''Langtry'''"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-      "note": "Narrowed to the biblical bearer Elizabeth. Lillie→Elizabeth is BTN-only review context; other Lily/Lillian routes remain possible. BTN’s Elizabeth description and Smith’s Elisabeth headword independently identify John the Baptist’s mother, using the familiar biblical spelling variants. The XML definition was parsed and read, with its hash and excerpt checked; shared biblical tradition and deeper lineage are unaudited."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read actual human Britannica Byname-of Quick Facts dt/dd, two article paragraphs, printed Editors byline and Article metadata, plus pinned Wiki lead/infobox and citation context. Both selected identity presentations identify Lillie Langtry as Emilie Charlotte; Quick Facts metadata is not article prose. Wiki revision1376136486 matches retained API bytes. Narrowed by dropping Actress: a later Wiki sentence explicitly cites the same Britannica biography for became-an-actress/debut/firstness; the selected lead has a Washington Post citation label, whose body is unread. Profession remains context only. Given-name identity has no directly attached Britannica citation; deeper shared biographical lineage is unresolved, and whole-article or primary-source independence is not claimed. No birth identity, full surname, timing, stage-name cause or every-Lillie claim. Two exact contiguous quotes represent two authored works. Brief excerpts retain source rights; AI FAQ evidence excluded."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -10601,37 +10601,53 @@
   },
   {
     "id": "ssa:F:Sadie",
-    "fact": "Sarah can mean 'princess'.",
+    "fact": "Sadie Hawkins Day comes from Al Capp's comic strip Li'l Abner.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Sadie (entry index 0; pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Sarah."
+        "url": "https://www.britannica.com/topic/Lil-Abner-comic-strip-by-Capp",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Li’l Abner",
+        "workId": "britannica:encyclopedia",
+        "quote": "Li’l Abner, American newspaper comic strip"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Sarah (entry index 0; pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Means \"lady, princess, noblewoman\" in Hebrew."
+        "url": "https://www.britannica.com/topic/Lil-Abner-comic-strip-by-Capp",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Li’l Abner",
+        "workId": "britannica:encyclopedia",
+        "quote": "Li’l Abner was created in 1934 by cartoonist Al Capp."
       },
       {
-        "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
-        "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
-        "author": "William Smith",
-        "title": "Smith's Bible Dictionary: Sarah",
-        "workId": "smith:bible-dictionary:1863",
-        "quote": "(princess)."
+        "url": "https://www.britannica.com/topic/Lil-Abner-comic-strip-by-Capp",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Li’l Abner",
+        "workId": "britannica:encyclopedia",
+        "quote": "A notable celebration in Dogpatch was the annual Sadie Hawkins Day, on which the women of the town were allowed to marry any bachelor they could chase down and capture; a day of role reversal in which females asked males to dances was widely adopted at college campuses throughout the United States."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Sadie_Hawkins_Day&oldid=1360466114",
+        "publisher": "Wikipedia / Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Sadie Hawkins Day",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "is an American folk event and pseudo-holiday originated by [[Al Capp]]'s [[hillbilly]] [[comic strip]] ''[[Li'l Abner]]'' (1934–1977)."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Sadie_Hawkins_Day&oldid=1360466114",
+        "publisher": "Wikipedia / Wikimedia Foundation",
+        "author": "Wikipedia contributors",
+        "title": "Sadie Hawkins Day",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The annual comic strip storyline inspired real-world [[Sadie Hawkins dance|Sadie Hawkins event]]s, the premise of which is that women ask men for a date or dancing."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-      "note": "Narrowed to Sarah’s princess gloss; Sadie→Sarah is BTN-only review context. BTN lists lady/princess/noblewoman, and Smith’s parsed Sarah definition independently supplies “princess”. “Can mean” avoids an exhaustive translation claim. The wider biblical tradition and deeper source lineage are unaudited."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read all four human Britannica paragraphs, printed Editors signature/Amy Tikkanen revision credit and Article metadata; separate peer read the full pinned Wiki Day article and matched API bytes. Britannica names Capp as creator, places Sadie Hawkins Day in the strip and describes real-world adoption; Wiki explicitly states the comic origin. Added a separate exact comic-strip medium quote. Five contiguous fragments represent two authored encyclopedia works. The selected first two Wiki sentences are unfootnoted; later introduction/recurrence sentences cite Capp collections and campus adoption cites a biography. Those books are unread and uncounted. No visible Britannica citation occurs in this Wiki article; deeper common comic-source lineage is unresolved. Calendar/date disputes, firstness, universal modern dance customs and every-Sadie name origin are omitted. Brief attributed quotes retain publisher/Wikimedia rights; no comic art or assets reused. No human playtest claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -11401,61 +11417,37 @@
   },
   {
     "id": "ssa:F:Kaylee",
-    "fact": "Katherine's name family includes masculine forms.",
+    "fact": "A ship’s lee side is sheltered from the wind.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Kaylee (pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Combination of Kay 1 and the popular name suffix lee."
+        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
+        "author": "Princeton University WordNet editorial contributors",
+        "title": "WordNet 3.1 noun database (2011), synset 08609908",
+        "workId": "princeton-wordnet-3-1",
+        "quote": "the side of something that is sheltered from the wind"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Kay (English feminine Kay, entry 2) (pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Short form of Katherine and other names beginning with K."
+        "url": "https://raw.githubusercontent.com/GITenberg/Chambers-s-Twentieth-Century-Dictionary--part-2-of-4--E-M-_38538/907ed19339d40c51187eb1b935d79652a726bd3d/38538.txt",
+        "publisher": "W. & R. Chambers, Limited, London and Edinburgh; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Various; Thomas Davidson (editor)",
+        "title": "Chambers's Twentieth Century Dictionary, 1908, E–M",
+        "workId": "chambers-twentieth-century-dictionary-1908",
+        "quote": "LEE'-SIDE, the sheltered side of a ship."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Cătălin (pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Romanian masculine form of Katherine."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Catherine (pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "French form of Katherine, and also a common English variant."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "On the whole, Katherine would seem properly to be a namesake of the Alexandrian princess, Catherine, the Votaress of Sienna."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Catherine has even produced a masculine name. Perhaps Anne and Mary are the only others which have been thus honoured; but the sole instance is Caterino or Catherin Davila, the historian, who had the misfortune to have Catherine de Medici for his godmother."
+        "url": "https://raw.githubusercontent.com/GITenberg/Chambers-s-Twentieth-Century-Dictionary--part-2-of-4--E-M-_38538/907ed19339d40c51187eb1b935d79652a726bd3d/38538.txt",
+        "publisher": "W. & R. Chambers, Limited, London and Edinburgh; public domain delivery by Project Gutenberg / GITenberg",
+        "author": "Various; Thomas Davidson (editor)",
+        "title": "Chambers's Twentieth Century Dictionary, 1908, E–M",
+        "workId": "chambers-twentieth-century-dictionary-1908",
+        "quote": "UNDER THE LEE, on the side sheltered from the wind, under shelter from the wind."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-      "note": "Kaylee to feminine Kay to Katherine is supported by BTN only and retained as review context. Published fact states only the Katherine family hook: BTN gives masculine Cătălin; Yonge discusses Katherine/Catherine together and identifies masculine Caterino/Catherin Davila. The two works give different masculine examples, so no particular example or exclusive derivation is asserted. Multiple BTN headwords are one work. Actual cached bodies, pointers, hashes and literal excerpts checked independently; deeper source lineage unaudited."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read actual WordNet3.1 synset08609908, complete 2011 Princeton header, registry integrity, archive member identity, README and stale3.0 LICENSE; Chambers peer read actual frontmatter, full LEE entry, metadata and retained requests. WordNet explicitly includes lee_side; Chambers separately states LEE-SIDE of a ship and UNDER THE LEE wind shelter. Added a separate exact wind-clause quote. Three contiguous quotations represent two authored lexicons. Their selected wording differs; deeper common dictionary lineage is unresolved, and Chambers invokes Webster elsewhere. The visible lee ending in Kaylee supplies wordplay only, with no name meaning, origin or suffix derivation claim. A modest lexical gain over the remote Kay/Katherine hook is editorial judgment, not measured player feedback. Full Princeton3.1 notice remains in SOURCES; npm MIT/stale3.0 notice does not replace it. Chambers metadata says public domain in USA. Mirrors/volumes add no works."
     },
     "recognitionVerified": true,
     "recognitionReview": {

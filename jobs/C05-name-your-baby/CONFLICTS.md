@@ -104,3 +104,10 @@ Thirty-four later variant facts were narrowed to independently supported roots, 
 ## Round6 Evan
 
 The modern dictionary gives Evan a Welsh Iefan/John route, while the actually read Yonge context permits John but also discusses a competing Eoghan route. A qualified origin sentence is supportable but remains a weaker hook. Pick the two-work Bevan patronymic fact, avoiding that ultimate-origin dispute entirely. Bardsley explicitly defines ap=son and Ap-Evan→Bevan; the modern editorial surname entry agrees. No citation-needed Wikipedia origin introduction, unavailable biography or cross-reference index is counted.
+
+## Round7 alternatives and dependencies
+
+- Alan and Allen: the reciprocal spelling facts are true but repeat one low-surprise proposition. Pick distinct named-bearer Moon-golf and Howl-authorship hooks. The stronger Howl trial candidate had no usable human Britannica support: trial occurrences are AI FAQ/JSON-LD answers, while all six human paragraphs lack the proposition. Hold it, and do not claim Ginsberg personally was tried.
+- Lillie: the optional Elizabeth-family branch is replaced by shared given names Emilie Charlotte. Omit “Actress” because the known Wikipedia Britannica citation also covers becoming an actress, besides debut/firstness. Underlying Washington Post body is unread, so its citation label is not a third source.
+- Kaylee: the Firefly mechanic alternative has two Wikipedia pages from one authored encyclopedia work, plus no verified second presentation; hold it. Choose lee-side wordplay from WordNet/Chambers, without asserting Kaylee derives from the sailing term. Older Webster/Chambers lineage remains unaudited; lossy Webster JSON’s unrelated obsolete lie sense is excluded.
+- Sadie: the earlier Sarah/princess gloss left the card connection hidden. Choose the comic celebration’s origin, omitting dates and universal modern dance customs. Wikipedia’s first two selected origin sentences are unfootnoted; later references are not falsely scoped to those sentences or counted as directly read books.
