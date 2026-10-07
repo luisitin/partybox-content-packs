@@ -22,7 +22,8 @@ Tests cover two independent century-range implementations, 10,000 inputs,
 seeds 1–3 and 1,000 saved random seeds, source/schema/provenance validation,
 byte-identical builds, CLI preservation and 25 one-at-a-time mutations.
 The image tests use original patterns, enforce <=512 pixels and <40,000 bytes,
-and preserve alpha, aspect and caller-supplied attribution.
+and preserve alpha, aspect and caller-supplied attribution. Compatible embedded
+ICC profiles are converted to sRGB before metadata is removed.
 
 Regenerate from pinned raw metadata cached outside the public repository:
 

@@ -1185,3 +1185,37 @@ Full 23-test baseline; each syntax-valid compiled core/CLI bug then runs all 13 
 | 25 | CLI source overwrite protection removed | caught | 1 |
 
 Result: 25/25 caught; all syntax-valid, no timeout/cancellation/errors. Both compiled files restored byte-for-byte with matching SHA256. Complete source/media/manual/CI checks remain outstanding.
+
+## Colour-profile correction
+
+```sh
+./node_modules/.bin/tsc --target ES2022 --module NodeNext --moduleResolution NodeNext --strict --noUncheckedIndexedAccess --exactOptionalPropertyTypes --noEmitOnError --forceConsistentCasingInFileNames --skipLibCheck --rootDir . --outDir dist test/portrait.test.ts
+PARTYBOX_PORTRAIT_PYTHON=/workspace/.partybox-source-venv/bin/python node --test dist/test/portrait.test.js
+```
+
+Final targeted result: compile exit 0; 11/11 tests passed, zero failed/skipped/cancelled, 28.440 seconds. There were 149 converter calls: 76 successes and 73 expected rejections. New original LAB and custom wide-gamut RGB ICC fixtures test conversion against an independently computed reference from saved source pixels/profile. Both converted images and metadata are byte-identical across repeated calls. Alpha is exactly preserved; malformed/incompatible profiles and untagged LAB/CMYK reject before destination changes. Existing schemas and dependencies are unchanged.
+
+```sh
+/workspace/.partybox-source-venv/bin/python /tmp/c04-color-probe.py
+```
+
+Final probe exit 0, 14 before/after converter calls. Maximum decoded wide-gamut patch error versus the saved-source ICC-to-sRGB reference fell from 40 to 1 channel levels; corrected LAB error was 1; tagged alpha remained [0,128,255]. Four invalid/missing-profile cases now reject and preserve source, image and metadata sentinels. All probe pictures are original synthetic fixtures, not museum photographs.
+
+The first probe failed its assertion that plain LAB conversion would fail: Pillow 12 uses a default LAB profile internally. A standard LAB fixture therefore did not expose disregard of an embedded profile. The strengthened custom wide-gamut RGB fixture demonstrably changes source colors (up to 40 levels), and the final regression catches the original defect. No failing assertion was disabled. Probe details are retained locally in /tmp/c04-color-evidence.json.
+
+## Delivery
+
+```sh
+python3 /tmp/queue_delivery.py milestone C04
+git ls-remote --heads origin main job/C04-ancient-or-ikea
+```
+
+First milestone exit 0: baseline commit 698ceac, main claim refresh 6b35e41, feature merge ff183f4749f4fb7dd5367fe382eddae0106d2d18. Native Git subsequently confirmed both remote refs. This establishes delivery of the incomplete engineering baseline; no PR or green CI is inferred.
+
+## Final local check after colour correction
+
+```sh
+PARTYBOX_PORTRAIT_PYTHON=/workspace/.partybox-source-venv/bin/python npm test > /tmp/c04-color-final-npm-test.log 2>&1
+```
+
+Result: exit 0; strict build and 24/24 tests passed (29.687 seconds, none skipped/cancelled), full mutation baseline 24/24, all 25 semantic mutations caught by the 13 core tests, and all eight checksum entries passed. The independent algorithms, required seeds, schemas, source/pack repeatability, image conversion and preservation checks all executed. This validates the engineering sample only. Real licensed museum images, roughly 500+ curated rows, independent short facts, 30 manual second-source checks and real green CI remain unrun; no PR was opened.

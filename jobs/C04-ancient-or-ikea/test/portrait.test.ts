@@ -190,7 +190,13 @@ for index in range(30):
         image.info["transparency"] = 255
     name = f"synthetic-pattern-{index:02d}"
     path = directory / f"{name}.png"
-    if index == 7:
+    if index == 3:
+        profile = ImageCms.ImageCmsProfile(ImageCms.createProfile("sRGB")).tobytes()
+        image.save(path, format="PNG", icc_profile=profile)
+        with Image.open(path) as saved:
+            assert saved.info.get("icc_profile")
+            assert saved.getchannel("A").getpixel((width // 4, height // 2)) == 128
+    elif index == 7:
         exif = Image.Exif()
         exif[274] = 6
         exif[270] = "Synthetic test orientation metadata only"
@@ -570,5 +576,170 @@ test("directory destinations are rejected before replacing either existing artif
     assert.deepEqual(readFileSync(input), original, "preserve original source bytes");
     assert.deepEqual(readFileSync(imageSentinelPath), imageSentinel, "preserve existing image or directory contents");
     assert.deepEqual(readFileSync(metadataSentinelPath), metadataSentinel, "preserve existing metadata or directory contents");
+  }
+});
+
+test("tagged LAB and wide-gamut RGB pixels convert to sRGB and unsafe profiles reject before writes", () => {
+  const fixture = JSON.parse(runPython(String.raw`
+import json
+import struct
+import sys
+from io import BytesIO
+from pathlib import Path
+from PIL import Image, ImageCms, ImageDraw
+
+directory = Path(sys.argv[1])
+srgb = ImageCms.ImageCmsProfile(ImageCms.createProfile("sRGB"))
+lab_profile = ImageCms.ImageCmsProfile(ImageCms.createProfile("LAB"))
+intent = ImageCms.Intent.RELATIVE_COLORIMETRIC
+original = Image.new("RGB", (192, 128))
+draw = ImageDraw.Draw(original)
+swatches = [(180, 70, 40), (40, 160, 80), (60, 90, 190),
+            (170, 70, 170), (140, 140, 140), (35, 150, 170)]
+positions = []
+for index, color in enumerate(swatches):
+    left, top = (index % 3) * 64, (index // 3) * 64
+    draw.rectangle((left, top, left + 63, top + 63), fill=color)
+    positions.append((left + 32, top + 32))
+lab = ImageCms.profileToProfile(original, srgb, lab_profile,
+    outputMode="LAB", renderingIntent=intent)
+input_path = directory / "synthetic-tagged-lab.tiff"
+lab.save(input_path, format="TIFF", icc_profile=lab_profile.tobytes())
+with Image.open(input_path) as saved:
+    assert saved.mode == "LAB" and saved.info.get("icc_profile")
+    # Reference uses the actual saved source pixels and embedded profile.
+    reference = ImageCms.profileToProfile(saved,
+        ImageCms.ImageCmsProfile(BytesIO(saved.info["icc_profile"])), srgb,
+        outputMode="RGB", renderingIntent=intent)
+    expected = [reference.getpixel(point) for point in positions]
+    # The source came from these known sRGB colors, rather than tool output.
+    assert max(abs(a - b) for actual, wanted in zip(expected, swatches)
+               for a, b in zip(actual, wanted)) <= 8
+
+# Generate a valid RGB matrix profile with wider D50 colorants and sRGB curves.
+# A default LAB profile alone would not catch Pillow's built-in LAB conversion.
+wide_bytes = bytearray(srgb.tobytes())
+colorants = {b"rXYZ": (0.6097559, 0.3111242, 0.0194811),
+             b"gXYZ": (0.2052401, 0.6256560, 0.0608902),
+             b"bXYZ": (0.1492240, 0.0632197, 0.7448387)}
+for index in range(struct.unpack_from(">I", wide_bytes, 128)[0]):
+    signature, offset, size = struct.unpack_from(">4sII", wide_bytes, 132 + index * 12)
+    if signature in colorants:
+        assert wide_bytes[offset:offset + 4] == b"XYZ " and size >= 20
+        for channel, value in enumerate(colorants[signature]):
+            struct.pack_into(">i", wide_bytes, offset + 8 + channel * 4, round(value * 65536))
+wide = original.convert("RGBA")
+alpha = Image.new("L", original.size, 128)
+alpha_draw = ImageDraw.Draw(alpha)
+alpha_draw.rectangle((0, 0, 7, 7), fill=0)
+alpha_draw.rectangle((28, 28, 36, 36), fill=255)
+wide.putalpha(alpha)
+wide_input = directory / "synthetic-wide-gamut-rgba.png"
+wide.save(wide_input, format="PNG", icc_profile=bytes(wide_bytes))
+with Image.open(wide_input) as saved:
+    wide_reference = ImageCms.profileToProfile(saved.convert("RGB"),
+        ImageCms.ImageCmsProfile(BytesIO(saved.info["icc_profile"])), srgb,
+        outputMode="RGB", renderingIntent=intent)
+    wide_expected = [wide_reference.getpixel(point) for point in positions]
+    assert max(abs(a - b) for actual, raw in zip(wide_expected, swatches)
+               for a, b in zip(actual, raw)) > 16
+
+malformed = directory / "synthetic-malformed-icc.png"
+original.save(malformed, format="PNG", icc_profile=b"synthetic-not-a-valid-icc-profile")
+incompatible = directory / "synthetic-lab-profile-on-rgb.png"
+original.save(incompatible, format="PNG", icc_profile=lab_profile.tobytes())
+untagged_lab = directory / "synthetic-untagged-lab.tiff"
+untagged = lab.copy()
+untagged.info.clear()
+untagged.save(untagged_lab, format="TIFF")
+untagged_cmyk = directory / "synthetic-untagged-cmyk.tiff"
+Image.new("CMYK", (16, 16), (20, 80, 120, 30)).save(untagged_cmyk, format="TIFF")
+for path in (untagged_lab, untagged_cmyk):
+    with Image.open(path) as saved:
+        assert not saved.info.get("icc_profile")
+print(json.dumps({"input": str(input_path), "width": 192, "height": 128,
+    "positions": positions, "expectedSamples": expected,
+    "wideInput": str(wide_input), "wideExpectedSamples": wide_expected,
+    "rejectedInputs": [str(path) for path in
+        (malformed, incompatible, untagged_lab, untagged_cmyk)]}))
+`, [temporaryDirectory])) as {
+    input: string;
+    width: number;
+    height: number;
+    positions: [number, number][];
+    expectedSamples: [number, number, number][];
+    wideInput: string;
+    wideExpectedSamples: [number, number, number][];
+    rejectedInputs: string[];
+  };
+  for (const [colorLabel, colorInput, expectedSamples] of [
+    ["lab", fixture.input, fixture.expectedSamples],
+    ["wide-rgba", fixture.wideInput, fixture.wideExpectedSamples],
+  ] as const) {
+    const original = readFileSync(colorInput);
+    const outputs = ["first", "second"].map((label) => join(temporaryDirectory, `tagged-${colorLabel}-${label}.webp`));
+    for (const output of outputs) {
+      const result = convert(colorInput, output);
+      assert.equal(result.status, 0, result.stderr);
+      const bytes = readFileSync(output);
+      const metadata = readMetadata(`${output}.json`);
+      assert.ok(bytes.length > 0 && bytes.length < 40_000);
+      assert.equal(metadata.width, fixture.width);
+      assert.equal(metadata.height, fixture.height);
+      assert.equal(metadata.quality, 85);
+      assert.equal(metadata.bytes, bytes.length);
+      assert.equal(metadata.sha256, createHash("sha256").update(bytes).digest("hex"));
+      assert.equal(metadata.mediaType, "image/webp");
+      assert.equal(metadata.provenanceStatus, "caller-supplied");
+    }
+    assert.deepEqual(readFileSync(outputs[0]!), readFileSync(outputs[1]!), "color conversion is deterministic");
+    assert.deepEqual(readFileSync(`${outputs[0]!}.json`), readFileSync(`${outputs[1]!}.json`));
+    assert.deepEqual(readFileSync(colorInput), original, "color conversion preserves original tagged pixels");
+
+    const inspections = JSON.parse(runPython(String.raw`
+import json
+import sys
+from PIL import Image
+request = json.load(sys.stdin)
+results = []
+for path in request["paths"]:
+    with Image.open(path) as saved:
+        saved.load()
+        rgb = saved.convert("RGB")
+        results.append({"format": saved.format, "width": saved.width, "height": saved.height,
+            "iccPresent": bool(saved.info.get("icc_profile")),
+            "alphaSamples": [saved.getchannel("A").getpixel(point) for point in
+                ((0, 0), (16, 16), (32, 32))] if "A" in saved.getbands() else None,
+            "samples": [rgb.getpixel(tuple(point)) for point in request["positions"]]})
+print(json.dumps(results))
+  `, [], JSON.stringify({ paths: outputs, positions: fixture.positions }))) as {
+      format: string;
+      width: number;
+      height: number;
+      iccPresent: boolean;
+      alphaSamples: number[] | null;
+      samples: [number, number, number][];
+    }[];
+    assert.equal(inspections.length, 2);
+    for (const inspection of inspections) {
+      assert.equal(inspection.format, "WEBP");
+      assert.equal(inspection.width, fixture.width);
+      assert.equal(inspection.height, fixture.height);
+      assert.equal(inspection.iccPresent, false, "strip the profile after applying its color conversion");
+      if (colorLabel === "wide-rgba") {
+        assert.deepEqual(inspection.alphaSamples, [0, 128, 255], "color transformation preserves alpha exactly");
+      }
+      assert.equal(inspection.samples.length, expectedSamples.length);
+      for (const [index, sample] of inspection.samples.entries()) {
+        const expected = expectedSamples[index]!;
+        for (const channel of [0, 1, 2] as const) {
+          assert.ok(Math.abs(sample[channel] - expected[channel]) <= 8,
+            `${colorLabel} patch ${index}, channel ${channel}: ${sample[channel]} should be near ${expected[channel]}`);
+        }
+      }
+    }
+  }
+  for (const [index, input] of fixture.rejectedInputs.entries()) {
+    rejectedWithoutWrites(`invalid-color-profile-${index}`, input, validAttribution);
   }
 });

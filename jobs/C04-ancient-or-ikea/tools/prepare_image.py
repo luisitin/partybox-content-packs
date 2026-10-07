@@ -14,7 +14,7 @@ import tempfile
 from urllib.parse import urlsplit
 import warnings
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageCms, ImageOps
 
 MAX_DIMENSION = 512
 MAX_BYTES = 40_000
@@ -88,6 +88,48 @@ def validate_paths(source: Path, output: Path, metadata: Path, source_root: Path
     return resolved
 
 
+def convert_to_srgb(image: Image.Image) -> Image.Image:
+    # Unpremultiply before separating color channels from alpha.
+    if image.mode == 'RGBa':
+        image = image.convert('RGBA')
+    elif image.mode == 'La':
+        image = image.convert('LA')
+    transparent = 'A' in image.getbands() or 'transparency' in image.info
+    embedded = image.info.get('icc_profile')
+    if embedded is None and 'icc_profile' not in image.info:
+        if image.mode in ('CMYK', 'LAB'):
+            raise ValueError('CMYK and LAB images require a compatible embedded ICC profile')
+        # Untagged RGB, palette and grayscale sources use the sRGB convention.
+        return image.convert('RGBA' if transparent else 'RGB')
+    if not isinstance(embedded, bytes) or not embedded:
+        raise ValueError('Embedded ICC profile must contain valid profile bytes')
+    try:
+        profile = ImageCms.ImageCmsProfile(BytesIO(embedded))
+        alpha = image.convert('RGBA').getchannel('A') if transparent else None
+        if image.mode in ('RGBA', 'RGBX', 'P', 'PA'):
+            colors = image.convert('RGB')
+        elif image.mode == 'LA':
+            colors = image.getchannel('L')
+        elif image.mode == '1':
+            colors = image.convert('L')
+        elif image.mode in ('RGB', 'L', 'CMYK', 'LAB'):
+            colors = image
+        else:
+            raise ValueError(f'Embedded ICC profiles are unsupported for image mode {image.mode}')
+        expected_space = {'RGB': 'RGB', 'L': 'GRAY', 'CMYK': 'CMYK', 'LAB': 'LAB'}[colors.mode]
+        if profile.profile.xcolor_space.strip().upper() != expected_space:
+            raise ValueError('Embedded ICC color space does not match the image pixel mode')
+        result = ImageCms.profileToProfile(
+            colors, profile, ImageCms.createProfile('sRGB'), outputMode='RGB',
+            renderingIntent=ImageCms.Intent.RELATIVE_COLORIMETRIC,
+        )
+        if alpha is not None:
+            result.putalpha(alpha)
+        return result
+    except Exception as error:
+        raise ValueError(f'Cannot convert embedded ICC profile to sRGB: {error}') from error
+
+
 def load_image(path: Path) -> Image.Image:
     with warnings.catch_warnings():
         warnings.simplefilter('error', Image.DecompressionBombWarning)
@@ -97,9 +139,8 @@ def load_image(path: Path) -> Image.Image:
             probe.verify()
         with Image.open(path) as loaded:
             loaded.load()
-            transparent = 'A' in loaded.getbands() or 'transparency' in loaded.info
             oriented = ImageOps.exif_transpose(loaded)
-            result = oriented.convert('RGBA' if transparent else 'RGB')
+            result = convert_to_srgb(oriented)
     # Encoding carries no EXIF, location, embedded thumbnails, XMP or ICC bytes.
     result.info.clear()
     return result
