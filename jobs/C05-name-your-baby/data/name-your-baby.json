@@ -2079,29 +2079,37 @@
         }
       ],
       "id": "ssa:M:Kevin",
-      "fact": "Kevin's Irish roots include gein, meaning \"birth\".",
+      "fact": "Kevin's Irish roots pair 'birth' with a root variously glossed 'handsome' or 'noble'.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Kevin&oldid=1378375374",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Kevin, revision 1378375374",
-          "workId": "wikipedia:Kevin:1378375374",
-          "quote": "ive-date=2017-08-13 |url-status=live }}</ref> Old Irish {{lang|sga|cóem}} and {{wikt-lang|ga|-gin}} (\"birth\"; Old Irish {{lang|sga|gein}}).<ref>{{cite web |url=http://www.dil.ie/25530 |title=gein |publisher=Irish Language Dictionary |access-date=201"
-        },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Kevin (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Kevin and linked Irish entries (pinned dictionary)",
           "workId": "behind-the-name:dictionary",
-          "quote": "composed of the Old Irish elements cóem \"kind, gentle, handsome\" and gein \"birth\". Saint Caoimhín established a monastery in Glendalough, Ireland in the 6th century and is the patron saint of Dublin. It became popular in the English"
+          "quote": "Old Irish elements cóem \"kind, gentle, handsome\" and gein \"birth\""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Kevin&oldid=1378375374",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Kevin (revision1378375374)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "\"dear; noble\";"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Kevin&oldid=1378375374",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Kevin (revision1378375374)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Old Irish {{lang|sga|cóem}} and {{wikt-lang|ga|-gin}} (\"birth\"; Old Irish {{lang|sga|gein}})."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Irish Language Dictionary, entry gein, dil.ie/25530. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independently read complete BTN Kevin/Caoimhín/Cóemgein descriptions and retained scraper identity. Pinned Wiki1378375374 full infobox/lead, History, References and External links read with complete immediate DIL cáem/gein and Oxford2007 definitions. Both works connect modern Kevin via Irish Caoimhín/Cóemgein to two components and gein birth. BTN gives Old Irish cóem kind/gentle/handsome; Wiki gives Irish caomh dear/noble linked to Old Irish cóem. The fact compares these first-root alternatives: handsome is BTN-only and noble Wiki-only, not two-source corroboration of each adjective or a fused noble-birth meaning. Underlying DIL/book bodies unread. Wiki BTN citation is in popularity History, outside selected root; deeper common lineage unaudited. Linked BTN entries/mirrors count once. Original fact/brief attributed copyright-bearing BTN quote; Wiki attribution/CC-BY-SA4.0. No bearer trait, noble ancestry or popularity claim. Independent comparison accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -14543,29 +14551,29 @@
         }
       ],
       "id": "ssa:F:Mildred",
-      "fact": "Mildred includes an Old English word for \"strength\".",
+      "fact": "Mildred pairs Old English 'strength' with a root glossed 'gentle' or 'mild'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Mildred (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Mildred (pinned2021 retained first-name description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Old English […] þryð \"strength\""
+          "quote": "From the Old English name Mildþryð meaning \"gentle strength\", derived from the elements milde \"gentle\" and þryð \"strength\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Mildred",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "A. Brown, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Mildred, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Mildred, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
           "quote": "Mildred f. Old English mild 'mild' + Old English þryþ 'strength'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary + /root/c05_fact_pair_review",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independently read full retained BTN Mildred description and complete small DMNES2023.1 page, including etymology, saint context, exact A. Brown/S.L. Uckelman credit and copyright footer. Pinned scraper/tree establish corporate BTN provenance. Both exact Mildred entries pair strength with another Old English root: BTN milde/gentle, þryð/strength; DMNES mild/mild, þryþ/strength. Gloss/spelling alternatives stay explicit, without identical forms or fused whole-name translation. Unselected seventh/eighth-century saint context remains unresolved. No direct BTN/Wiki label in DMNES; deeper scholarship unaudited. Underlying medieval documents unread/count0. Two dictionaries, mirrors/headwords counted once; pinned editions, not live-currentness claims. Brief attributed copyrighted excerpts and notices retained. Added gentle/mild component materially enriches the valid strength-only fact; no bearer trait, ancestry, popularity, player-testing or convergence claim. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -17143,29 +17151,45 @@
         }
       ],
       "id": "ssa:M:Louis",
-      "fact": "Louis includes a Germanic name element meaning \"famous\".",
+      "fact": "Louis combines Germanic roots for 'famous' and 'battle'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Louis (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Louis (pinned2021 retained first-name description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Latinized form of Ludwig […] Germanic name […] hlud \"famous\""
+          "quote": "French form of Ludovicus, the Latinized form of Ludwig."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ludovicus (pinned2021 retained first-name description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Latinized form of Chlodovech (see Ludwig)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ludwig (pinned2021 retained first-name description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Germanic name Chlodovech meaning \"famous battle\", composed of the elements hlud \"famous\" and wig \"war, battle\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Louis",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "R. Le Get, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Louis, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Louis, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Old High German […] 'loud; famous, renowned'"
+          "quote": "Louis m. Old High German hlūt, lūt, Old Saxon hlūd from Proto-Germanic *hlūdaz, *hlūþaz 'loud; famous, renowned' + Old Saxon, Old English wig, Old High German wīc 'war, battle'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independently read complete retained BTN Louis, Ludovicus and Ludwig descriptions, plus actual DMNES2023.1 Louis etymology, full usage/variant contexts, exact three citeme authors and copyright footer. Full pinned scraper/tree establish corporate BTN provenance. BTN's explicit modern-name chain and DMNES's exact Louis entry each support famous plus battle roots. DMNES also glosses loud/renowned and war; no fused whole-name translation or all-spelling equivalence. Louis excerpt ends[more]; continuation unread. Linked BTN entries count one dictionary work. No direct BTN/Wiki label in DMNES; deeper scholarship unaudited. Bulk attestations and underlying medieval books unread/count0; pinned archive, not live-currentness. Four literal brief refs/two canonical works; attributed copyrighted excerpts/notices retained. Battle component materially enriches valid famous-only fact; no bearer trait, ancestry, royal/popularity cause, player-testing or convergence claim. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -39623,16 +39647,24 @@
         }
       ],
       "id": "ssa:M:Bernard",
-      "fact": "Bernard includes a Germanic word meaning \"bear\".",
+      "fact": "Bernard's 'bear' root and Leonard's 'lion' root both pair with Germanic 'hard'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Bernard (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Bernard (pinned2021 full retained description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Germanic element bern \"bear\""
+          "quote": "Germanic element bern \"bear\" combined with hard \"brave, hardy\""
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Leonard (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Germanic elements lewo \"lion\" (of Latin origin) and hard \"brave, hardy\""
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Bernard",
@@ -39640,12 +39672,20 @@
           "author": "A. Brown, G. Grim, R. Le Get, J. Pepe, J. Uckelman, S.L. Uckelman",
           "title": "The Dictionary of Medieval Names from European Sources: Bernard, edition 2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Bernard m. Old High German, Old Saxon bero 'bear' + Old Saxon hard, Old High German hart 'strong, hard'."
+          "quote": "Old High German, Old Saxon bero 'bear' + Old Saxon hard, Old High German hart 'strong, hard'."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Leonard",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "A. Brown, J. Uckelman, S.L. Uckelman",
+          "title": "The Dictionary of Medieval Names from European Sources: Leonard, edition 2023.1",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Old High German lewo 'lion' + Old Saxon hard, Old High German hart 'strong, hard'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary + /root/c05_fact_pair_review",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independently read full BTN Bernard/Leonard descriptions and both complete DMNES human entry paragraphs/citeme credits reread, source hashes and historical receipts checked. Both authored dictionaries attach the bear/lion first roots to hard as their shared second Germanic element; DMNES also gives hart. This adds a cross-name compound relationship beyond current animal-only lines. Modern headwords establish the name link. BTN glosses hard brave/hardy; DMNES strong/hard; Yonge firm-bear is supplementary and uncounted. No forced shared gloss, all-bearer trait or literal modern spelling claim. DMNES named writers are actual citeme credits; BTN individual writer unestablished. No selected direct BTN dependence found in DMNES; deeper lineage unaudited. Independent acceptance; brief attributed copyright-bearing excerpts and original notices preserved. Leonard saint-century 5th/6th context differs and is unselected."
       },
       "recognitionVerified": true,
       "recognitionReview": {
