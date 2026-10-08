@@ -1,3 +1,47 @@
+# Resume C05 — round55 local completion
+
+C05 remains active; do not merge or advance while KEEP GOING is incomplete. Cumulative 164 editorial changes across 52 content rounds plus API36/46/48 = 55 KEEP GOING rounds.0 established consecutive no-player-gain rounds.
+
+Prior exact head 87c78c55656846c61b0e173e81f45f0f192c13cd / full CI 37851847222 completed/success; root personally inspected CI at 2026-10-08T22:22:08.248737+00:00 and reread the job at 2026-10-08T22:27:46.124999+00:00.
+
+Round55 locally completed at 2026-10-08T22:28:35Z; claim refresh, normal feature/main pushes, native draft save and this new head's own full CI are separate root operations. Inspect live status/claims/CI before writing.
+
+Changed:ssa:M:Mason.
+
+One qualitative player-facing gain: an everyday jar now connects to John Mason while the complete occupational lesson survives.70characters/14words versus65/14 means+5characters/no additional words, not a gain metric. Two clauses/semicolon, three mason repetitions, a new proper name and eponym template add density; distinct reviewer and root judge the retellable relationship worth those modest costs. No survey, primary-source or numerical audience effect claimed.
+
+Root actually observed parent exec 95625 exit0 at 2026-10-08T22:28:31.640522+00:00 before completion. Both generators,8/8 focused tests in 14.270708148s,0 failures/cancellations/skips/todos and17 checksum matches passed. All500 numeric/recognition records and 499 other complete curation/generated rows remain unchanged. Current source index contains 539 URLs.
+
+- fixtures/curation.json: 4d5d9455b94e0afe948ac16c6d2766c13fc4ddc07645ca253f9e3aa0d59b8439
+- data/name-your-baby.json: bd667cf436ebbede41900e7e0f4b7b8e960735e8e47b6eb756e63451bffd6fcc
+- data/current-reviewed-candidates.json: f77d693103c76268bf3cd3827a46f37c68116618f66e63ffe51a5c5927eff12e
+
+Portable source/approval summary:
+
+Four actual authored works, two for each necessary clause: occupational Wiktionary plus Princeton; naming Wikipedia plus Douglas Harper. Wikipedia NIHF/Ball imports and dictionary mirrors are grouped; Harper authored lexical treatment/corpus is positive distinct-work evidence while exact jar ancestor/deeper genealogy remain unknown. Preserve continuous quotes, collective authors/revisions, CC BY-SA duties, full Princeton2011 notice and Harper brief-quotation/copyright limits. Omit disputed patent years and given-name-origin/inventor claims; no corpus/art/MIT/primary/audience certification.
+
+Full notices are in SOURCES.md; selected fields/reviews remain in curation. Temporary proofs/helpers are optional, not restored dependencies.
+
+Root sole repository writer; familiar source-aware currenthead renewal. After own87c GREEN observed22:22:08, root reread all four governing documents86341f, all500 actual facts in five complete100-row blocks1a4280/50c952/621239/8cc8ec/1d4d77, locked currentfive274d31 and read every full curation/production pair274d31/3d0409/047b01/693ea8/23134a, all75 decadecells450values and all16 references in each copy. Mason originals/exact proposal/rootsourceapproval were already known at this renewal; no blind/pre-source claim. The earlier7ec pre-source rootlock and source-naive counter remain historical with their distinct exposure/order disagreement. Player-facing weakness, not source availability, keeps Mason worst. All500 exactfact/pair/live17pins/normalrefs/claim/sourceprefix52818-byte whole-tail/NEXT/history/artifact guard15d771. Additional whole governing reread f816ac has directly captured UTC22:27:46.124999Z; it replaces the earlier estimated metadata timestamp.
+
+Root priorities:ssa:M:Mason — Ordinary-word builder/stone/brick lesson feels obvious; a familiar object naming connection earns modest density while preserving all old lesson.; ssa:F:Jasmine — Plant-name association is predictable; botanical detail could add a scene or mechanism if independently sourced.; ssa:M:Colton — Two city locations provide little surprising linkage; existing engineering inquiry is a HOLD and does not rerank priority.; ssa:F:Kristine — Same-name-family relation repeats widespread pack pattern; prior literal-source gap remains, not evidence of zero gain.; ssa:F:Velma — Generic brainy-role summary offers little new knowledge; prior authorship inquiry remains held, not exhausted.
+
+Mason remains worst because its obvious occupational definition offers less retellable novelty than the approved concrete jar/person naming connection. Full old common-word, builder, stone and brick lesson retained in lowercase A mason. Jasmine is a predictable plant relation; Colton two-place listing, Kristine name-family equivalence and Velma generic brainy-role retain bounded research holds, not no-gain votes. Source-neutral priorities were locked historically; current review explicitly source-aware.
+
+Remaining gates:
+
+Round55 exact source/materiality and prior87c ownGREEN/current500/five gates are approved. New integration, generator/focused parent actualexit, protected-data checks and completion are pending at this execution-metadata timestamp. After local completion and normal claim-refresh push, the new fullhead requires its own CI and renewed current500/five KEEP GOING gate. All bounded prior holds remain; no three consecutive no-player-gain rounds, no merge/advance or global source/tool exhaustion. Cloud saved draft99 still requires Review/Save and Publish; no activation/restoration claim. Earlier API401 is historical; distinct read-only capability evidence shows unchanged normal REST and GraphQL reads returned0 at22:26:35, with root write verification still required.
+
+Valid short lessons can remain. Any new clause requires two qualified authored works after grouping known imports/common lineage, actual original credits/rights and a positive net materiality judgment. Holds/docs/pendingCI/optional403s are not zero-gain rounds.
+
+## Prior continuation — historical, preserved verbatim below
+
+# Resume C05 — round55 integration (checks pending)
+
+At 2026-10-08T22:28:00.268460+00:00, integrated 1 exact root-approved facts: ssa:M:Mason. Both generators, focused checks, protected-data checks, hashes and root parent-exit observation remain pending. C05 remains active; this is not a completed LOOP round or a claim about new-head CI.
+
+## Prior continuation — historical, preserved verbatim below
+
 # Resume C05 — Mason qualification pending, documentation checkpoint
 
 At 2026-10-08T22:09:36.912079+00:00, accepted state remains 54 meaningful KEEP GOING rounds, 163 editorial changes across 51 content rounds plus API36/46/48, and 0 established consecutive no-player-gain rounds. No round55 approved overlay/root metadata/integration/focused parent/completion/LOOP entry exists. This documentation milestone does not count as an improvement or a zero-gain round. C05 stays active; no merge or queue advance.

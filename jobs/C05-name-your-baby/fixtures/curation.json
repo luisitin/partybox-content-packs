@@ -4577,16 +4577,16 @@
   },
   {
     "id": "ssa:M:Mason",
-    "fact": "Mason is also a word for a builder who works with stone or brick.",
+    "fact": "A mason builds in stone or brick; Mason jars are named for John Mason.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "author": "Wiktionary contributors",
-        "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
-        "quote": "A bricklayer, one whose occupation is to build with stone or brick",
-        "title": "English Wiktionary lexical entry: mason",
-        "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/m/ma.json",
-        "workId": "wiktionary:dictionary"
+        "url": "https://en.wiktionary.org/w/index.php?title=mason&oldid=93412961",
+        "publisher": "English Wiktionary",
+        "author": "Wiktionary contributors (revision 93412961; last editor Sasha1095 is not sole author)",
+        "title": "English mason: complete noun, etymology and verb contexts",
+        "workId": "wiktionary:dictionary",
+        "quote": "one whose occupation is to build with stone or brick."
       },
       {
         "author": "Princeton University WordNet editorial contributors",
@@ -4595,11 +4595,27 @@
         "title": "WordNet 3.1 noun database (2011)",
         "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
         "workId": "princeton-wordnet-3-1"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Mason_jar&oldid=1377498339",
+        "publisher": "English Wikipedia",
+        "author": "Wikipedia contributors (revision 1377498339; last editor DonnieNova is not sole author)",
+        "title": "Mason jar: lead and John Landis Mason history",
+        "workId": "wikipedia:mason-jar",
+        "quote": "It was named after American tinsmith [[John Landis Mason]]"
+      },
+      {
+        "url": "https://www.etymonline.com/word/mason",
+        "publisher": "Online Etymology Dictionary",
+        "author": "Douglas Harper (entry citation credit; site copyright also names Talia Felix)",
+        "title": "Etymology of mason: complete entry and Mason jar naming paragraph",
+        "workId": "harper:online-etymology-dictionary:mason",
+        "quote": "The Mason jar (by 1868), a type of molded glass jar with an airtight screw lid, used for home preserves, is named for John L. Mason of New York"
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. Both selected lexical definitions describe the mason as a builder/craftsman working in stone or brick. The fact does not ascribe an occupation to name bearers. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      "reviewer": "Codex Queue after distinct prelocked authored-source and materiality review",
+      "note": "Root accepted after independent prelocked review. Lowercase occupational mason retains builder/stone/brick meaning; the jar eponym adds a concrete connection for +5 characters/no added words, with semicolon/repetition/proper-name costs. Two authored treatments per clause: pinned Wiktionary plus Princeton WordNet for occupation; scoped Wikipedia plus Douglas Harper for naming. Wiki cites NIHF/Ball1960; Harper declares a lexical research corpus, but exact jar ancestor/deeper shared lineages are unread. Omit conflicting patent years, Landis expansion, inventor role and given-name-origin claims. All four quotes are continuous original substrings; last Wiki editors are not sole authors. Keep CC BY-SA attribution/applicable ShareAlike, full Princeton2011 notice and Harper copyright/brief-quotation limits; wrapper MIT is no corpus/art grant. No primary, survey or numerical audience gain claimed. Full limits and notices in SOURCES."
     },
     "recognitionVerified": true,
     "recognitionReview": {
