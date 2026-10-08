@@ -3671,29 +3671,53 @@
         }
       ],
       "id": "ssa:M:Jeffrey",
-      "fact": "Jeffrey and Geoffrey are forms of the same name.",
+      "fact": "Jeffrey Wright played Felix Leiter in Bond films and Gordon in The Batman.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jeffrey (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Medieval variant of Geoffrey."
+          "url": "https://www.britannica.com/biography/Jeffrey-Wright",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "René Ostberg",
+          "title": "Jeffrey Wright | Movies, TV Shows, Hunger Games, The Last of Us, Shaft, Basquiat, Biography, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Wright played CIA operative Felix Leiter."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│Godfrey │Jaffrez │Godefroi │Goffredo │ │Geoffrey │ │Godafrey │Godofredo │ │Jeffrey │ │Geoffroi │Giotto │ │Jeff │ │Jeoffroi │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤"
+          "url": "https://www.britannica.com/biography/Jeffrey-Wright",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "René Ostberg",
+          "title": "Jeffrey Wright | Movies, TV Shows, Hunger Games, The Last of Us, Shaft, Basquiat, Biography, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Wright reprised his role as Felix Leiter in the 2008 Bond movie Quantum of Solace."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Jeffrey-Wright",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "René Ostberg",
+          "title": "Jeffrey Wright | Movies, TV Shows, Hunger Games, The Last of Us, Shaft, Basquiat, Biography, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "The Batman (2022), playing Lieut. James Gordon."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Jeffrey_Wright&oldid=1375164583",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Jeffrey Wright, revision 1375164583",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In 2006, he appeared as [[Felix Leiter]] in the [[James Bond]] film ''[[Casino Royale (2006 film)|Casino Royale]]''."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Jeffrey_Wright&oldid=1375164583",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Jeffrey Wright, revision 1375164583",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "[[Commissioner Gordon|Jim Gordon]] in ''[[The Batman (film)|The Batman]]'' (2022)"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all 10 human Britannica paragraphs, René Ostberg printed/Article credit; Wiki1375164583 full lead, 2004–2015 career and Film table. Both support Felix Leiter in multiple Bond films and Gordon in The Batman. Generic Gordon avoids Jim/James alias or rank precision. Wiki lead roles unfootnoted; Bond paragraph cites Meza/Siegel2008 Variety, Batman row Galuppo/Kit2019 THR. Underlying bodies/films unread/uncounted; the 2008 citation does not establish later No Time to Die, and no three-film total promoted. Whole Wiki no Britannica/Ostberg strings; deeper shared reporting unproved. Five literal quotes, two canonical authored groups. Accurate Geoffrey relationship replaced by specific roles; editorial gain only. Wrong-bearer Geoffrey Rush research excluded. Copyrighted human proof and attributed CC-BY-SA4.0 revision; prior actual rights read reused, no fresh subject footer, assets or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -7903,29 +7927,29 @@
         }
       ],
       "id": "ssa:F:Catherine",
-      "fact": "Catherine is a spelling variant of Katherine.",
+      "fact": "Catherine Zeta-Jones won an Oscar for playing Velma Kelly in Chicago.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Katherine&oldid=1362740352",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Katherine, revision 1362740352",
-          "workId": "wikipedia:Katherine:1362740352",
-          "quote": "a}} | footnotes = |region=[[Ancient Greece]]}} '''Katherine''' ({{IPAc-en|k|æ|θ|ə|r|ɪ|n}}), also spelled '''Catherine''' and [[Catherina|other variations]], is a feminine [[given name]]. The name and its variants are popular in countries where large"
+          "url": "https://www.britannica.com/biography/Catherine-Zeta-Jones",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Catherine Zeta-Jones | Biography, Movies, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "In 2002 Zeta-Jones starred as the homicidal entertainer Velma Kelly in the film adaptation of the popular Broadway musical Chicago. Her singing and dancing skills impressed critics and audiences and helped her win an Oscar."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Catherine (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "French form of Katherine, and also a common English variant."
+          "url": "https://en.wikipedia.org/w/index.php?title=Catherine_Zeta-Jones&oldid=1378831051",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "Catherine Zeta-Jones, revision 1378831051",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Zeta-Jones received critical acclaim for her performances as a vengeful pregnant woman in ''[[Traffic (2000 film)|Traffic]]'' (2000) and [[Velma Kelly]] in the musical ''[[Chicago (2002 film)|Chicago]]'' (2002), winning the [[Academy Award for Best Supporting Actress]] for the latter."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits E. G. Withycombe, The Concise Dictionary of English Christian Names, 3rd ed., 1976. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Read all seven human Britannica paragraphs, printed Editors credit and metadata, plus pinned Wiki complete lead, role/career and awards sections, full Media image and singing-reference context. Both connect Velma Kelly in Chicago with Zeta-Jones’s award win. Human prose uses Oscar and Academy Award for that performance; Oscar is the conventional alias, not another award. Wiki role cites Gans/Playbill; award statements reuse Brockes/Guardian singing, defined in a Broadway critique paragraph. Those bodies are unread and uncounted. Wiki cites the same Britannica biography for a separate versatility assessment; selected citation placement does not prove deeper lineage independence. Two authored treatments count once each. No year, category, firstness, award criteria, primary verification or all-Catherine meaning asserted. Brief exact quotes, retained CC BY-SA revision attribution and no media. Agent editorial review; no measured audience result or human playtest."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -41448,7 +41472,15 @@
           "author": "Wikipedia contributors",
           "title": "Sophia (given name)",
           "workId": "wikipedia:Sophia (given name):1378939956",
-          "quote": "|meaning = Wisdom '''Sophia''', also spelled '''Sofia'''"
+          "quote": "|meaning = Wisdom"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Sophia+%28given+name%29&oldid=1378939956",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Sophia (given name)",
+          "workId": "wikipedia:Sophia (given name):1378939956",
+          "quote": "'''Sophia''', also spelled '''Sofia''', is a feminine [[given name]], from the [[Sophia (wisdom)|Greek personification of wisdom]]"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -42984,7 +43016,23 @@
           "author": "Wikipedia contributors",
           "title": "Hayley",
           "workId": "wikipedia:Hayley:1343360687",
-          "quote": "a compound of ''heg'' \"hay\" and ''leah'' \"clearing or meadow\" along with variants such as Haley and Hailey"
+          "quote": "It is derived from the English surname [[Haley (surname)|Haley]]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Hayley&oldid=1343360687",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Hayley",
+          "workId": "wikipedia:Hayley:1343360687",
+          "quote": "a compound of ''heg'' \"hay\" and ''leah'' \"clearing or meadow\"."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Hayley&oldid=1343360687",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Hayley",
+          "workId": "wikipedia:Hayley:1343360687",
+          "quote": "along with variants such as Haley and Hailey"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -49584,7 +49632,15 @@
           "author": "Wikipedia contributors",
           "title": "Destiny (given name)",
           "workId": "wikipedia:Destiny (given name):1370659265",
-          "quote": "given name meaning \"destiny\", \"fate\", which is ultimately derived from the [[Late Latin]] word | origin = [[English language|English]]"
+          "quote": "| origin = [[English language|English]]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Destiny+%28given+name%29&oldid=1370659265",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Destiny (given name)",
+          "workId": "wikipedia:Destiny (given name):1370659265",
+          "quote": "given name meaning \"destiny\", \"fate\", which is ultimately derived from the [[Late Latin]] word"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -51895,29 +51951,29 @@
         }
       ],
       "id": "ssa:F:Willie",
-      "fact": "Willie is a familiar form of William.",
+      "fact": "Willie Nelson co-founded Farm Aid to support farmers.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Willie (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Masculine or feminine diminutive of William."
+          "url": "https://www.britannica.com/biography/Willie-Nelson",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Willie Nelson | Biography, Songs, On the Road Again, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "in 1985 he cofounded Farm Aid, which organizes festivals to raise money for farmers."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ Welsh. │ Breton. │ French. │ │William │Guillim │Guillern │Guillaume │ │Will │ │Guillarn │Guillemot │ │Willie │ │ │ │ │Bill │ │ │ │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Willie_Nelson&oldid=1378940884",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Willie Nelson, revision 1378940884",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Along with [[Neil Young]] and [[John Mellencamp]], he set up [[Farm Aid]] in 1985 to assist and increase awareness of the importance of family farms"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all 13 human Britannica paragraphs, Editors printed/Article credit; Wiki1378940884 full lead, activism and selected book definitions. Both support Farm Aid cofounding to help farmers; exact Wiki quote includes fellow founders. Farm Aid clause cites Durchholz/Graff2010 p134; nearby concert/board clauses p135/Richmond2000 p94. Underlying books unread/uncounted. Wiki explicitly cites this same Britannica for musical style; that predicate excluded. Deeper shared biographical lineage unproved, not whole-article independence. No year, totals, sole founder, current board role, music or political endorsement. Named musician predicate does not classify all female-selection Willie bearers. Two literal quotes, two canonical authored groups. Specific charity hook improves basic William diminutive relation; editorial gain only. Copyrighted human proof and attributed CC-BY-SA4.0 revision; prior actual rights read reused, no fresh footer, recordings or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -58040,7 +58096,7 @@
           "author": "Wikipedia contributors",
           "title": "Cory",
           "workId": "wikipedia:Cory:1374283337",
-          "quote": "a number of possible derivations, including an [[Old Norse]] personal name Kori of uncertain meaning As a surname, it has a number of possible derivations"
+          "quote": "As a surname, it has a number of possible derivations, including an [[Old Norse]] personal name Kori of uncertain meaning"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -59815,29 +59871,53 @@
         }
       ],
       "id": "ssa:F:Maggie",
-      "fact": "Maggie is a familiar form of Margaret.",
+      "fact": "Maggie traces through Margaret to the Greek word for 'pearl'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Maggie (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Maggie (pinned dictionary)",
           "workId": "behind-the-name:dictionary",
           "quote": "Diminutive of Margaret."
         },
         {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Margaret (pinned dictionary)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Derived from Latin Margarita, which was from Greek μαργαρίτης (margarites) meaning \"pearl\""
+        },
+        {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co.; Project Gutenberg / GITenberg digital delivery",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names: exact Maggie glossary entry",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "High Steward of Scotland. Margaret turned into Meg before the time of “Muckle-moued Meg of the Border,” and this as well as Maggie was shared with England, which likewise had Margery and Marget, as well as the more vulgar Peggy and Gritty, and likewise Madge."
+          "quote": "_Maggie_, _f._ _Scot._ Gr. pearl, 121"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co.; Project Gutenberg / GITenberg digital delivery",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names: Margaret Greek word and forms",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "No name has been the occasion of more pretty fancies than Μαργαρίτης (a pearl)"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co.; Project Gutenberg / GITenberg digital delivery",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names: Margaret/Maggie relationship",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Margaret turned into Meg before the time of “Muckle-moued Meg of the Border,” and this as well as Maggie was shared with England"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Read the complete retained BTN Maggie/Margaret fields, Yonge’s full Margaret section and labeled table, exact Maggie index and glossary legend. Both support Maggie→Margaret→Greek pearl. Wording identifies a Greek stage, not the ultimate origin: BTN discloses probable Indo-Iranian borrowing; Yonge asserts an older Persian account, which is not adopted. Margaret’s retained field ends [more]; omitted live text was not read. BTN corporate dictionary attribution is supported by the pinned scraper; no individual author invented. Linked entries count once, Yonge once; its cited underlying works are unread and deeper shared lineage unverified. Scottish index/table labels plus English-use narrative do not establish exclusive geography or every bearer’s naming history. Quotes are contiguous with whitespace-only book normalization. Brief copyrighted BTN proof and USA-public-domain Yonge evidence; no media. Agent review, no human playtest."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -61296,7 +61376,15 @@
           "author": "Wikipedia contributors",
           "title": "Milton (given name)",
           "workId": "wikipedia:Milton (given name):1374243513",
-          "quote": "{{wikt-lang|ang|mylen|mylen}} (\"mill\") {{wikt-lang|ang|tun|tun}} (\"settlement\")"
+          "quote": "{{wikt-lang|ang|mylen|mylen}} (\"mill\")"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Milton+%28given+name%29&oldid=1374243513",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Milton (given name)",
+          "workId": "wikipedia:Milton (given name):1374243513",
+          "quote": "{{wikt-lang|ang|tun|tun}} (\"settlement\")"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -63144,7 +63232,7 @@
           "author": "Wikipedia contributors",
           "title": "Hayden (given name)",
           "workId": "wikipedia:Hayden (given name):1369785778",
-          "quote": "used for both boys and girls It is now used in roughly equal numbers for American boys and girls."
+          "quote": "In the 1980s, the name reappeared and was used for both boys and girls, with increasing popularity."
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -63472,7 +63560,23 @@
           "author": "Wikipedia contributors",
           "title": "Caitlin",
           "workId": "wikipedia:Caitlin:1373695301",
-          "quote": "the Irish name '''Caitlín''' non-Irish speakers began pronouncing the name according to English spelling rules"
+          "quote": "the Irish name '''Caitlín''' was anglicized as [[Cathleen]] or [[Kathleen (given name)|Kathleen]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Caitlin&oldid=1373695301",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Caitlin",
+          "workId": "wikipedia:Caitlin:1373695301",
+          "quote": "non-Irish speakers began pronouncing the name according to English spelling rules"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Caitlin&oldid=1373695301",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Caitlin",
+          "workId": "wikipedia:Caitlin:1373695301",
+          "quote": "which led to many variations in spelling such as '''Caitlin'''"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -66919,29 +67023,37 @@
         }
       ],
       "id": "ssa:M:Roman",
-      "fact": "Roman comes from Latin Romanus, meaning \"Roman\".",
+      "fact": "Clocks with Roman numerals often show four as IIII instead of IV.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Roman (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Latin name Romanus meaning \"Roman\""
+          "url": "https://www.britannica.com/topic/Roman-numerals",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Erik Gregersen",
+          "title": "Roman numerals | Chart, LX, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "clocks, which usually display 4 as IIII."
         },
         {
-          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Roman",
-          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-          "author": "A. Brown, R. Le Get, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Roman, edition 2023.1",
-          "workId": "dmnes:dictionary:2023.1",
-          "quote": "Latin romanus […] 'a Roman'"
+          "url": "https://www.britannica.com/topic/Roman-numerals",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Erik Gregersen",
+          "title": "Roman numerals | Chart, LX, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "IV = −1 + 5 = 4"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Roman+numerals&oldid=1378701982",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Roman numerals, revision 1378701982",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Modern [[clock face]]s that use Roman numerals still very often use {{rn|IIII}} for four o'clock"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all five human Britannica paragraphs, Erik Gregersen printed/Article credit (Editors fact-check); Wiki1378701982 complete Other additive forms section (8045 characters). Human text gives ordinary IV=4 then clocks usually IIII; Wiki says Roman-numeral clocks very often IIII, with IV modern standard and Elizabeth Tower counterexample. Often excludes universality, not a frequency study. Wiki clock paragraph cites Milham1947, Pickover2003 and Adams/Zotti1988; books unread/uncounted. Whole cached Wiki no Britannica/Gregersen strings; deeper common lineage unproved. Three literal quotes/two canonical authored groups. Roman word supplies lexical context, not personal-name origin/all-bearer meaning. Visible notation replaces accurate repeated-word gloss; editorial gain only. No causal Jupiter story, historical date or clock artwork. Copyrighted human proof/attributed CC-BY-SA4.0 revision, prior actual rights reused; no fresh footer or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -68079,29 +68191,45 @@
         }
       ],
       "id": "ssa:F:Kara",
-      "fact": "Kara is an English spelling variant of Cara.",
+      "fact": "In early comics, Supergirl Kara Zor-El's Linda Lee disguise included a brunette wig.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Kara+%28name%29&oldid=1374069771",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Kara (name)",
-          "workId": "wikipedia:Kara (name):1374069771",
-          "quote": "Both Cara and Kara were used regularly in the [[Anglosphere]] and have been regarded as spelling variants of the same name."
+          "url": "https://www.britannica.com/topic/Supergirl",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Peter Sanderson",
+          "title": "Supergirl | DC Comics, Superman,Woman of Tomorrow, Cast, 2026, Milly Alcock, Krypto, & Powers",
+          "workId": "britannica:encyclopedia",
+          "quote": "Though several heroines throughout DC Comics history have taken up the Supergirl mantle, it is most commonly associated with Superman’s cousin, Kara Zor-El."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Kara",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Cara."
+          "url": "https://www.britannica.com/topic/Supergirl",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Peter Sanderson",
+          "title": "Supergirl | DC Comics, Superman,Woman of Tomorrow, Cast, 2026, Milly Alcock, Krypto, & Powers",
+          "workId": "britannica:encyclopedia",
+          "quote": "Superman concealed Kara’s existence from the world, disguising her with a brunette wig and covertly instructing her on the use of her powers. Taking the Earth name Linda Lee, Supergirl resided at an orphanage in Midvale"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Supergirl_(Kara_Zor-El)&oldid=1377068985",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Supergirl (Kara Zor-El), revision 1377068985",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''Kara Zor-El''' is the original [[superheroine]] known as '''[[Supergirl]]''', appearing in [[American comic book]]s published by [[DC Comics]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Supergirl_(Kara_Zor-El)&oldid=1377068985",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Supergirl (Kara Zor-El), revision 1377068985",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In Supergirl's subsequent backup feature in ''Action Comics'' drawn by artist [[Jim Mooney]] for ten years until 1968, Supergirl adopts the identity of Linda Lee, an orphan at Midvale Orphanage presided over by headmistress Miss Hart. She disguises herself by hiding her blond hair beneath a brunette wig;"
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Selected English feminine entry is retained. Unrelated Ottoman Turkish male meaning and uncited Norse roots are excluded."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all nine human Britannica paragraphs, Peter Sanderson printed/Article credit; Wiki1377068985 full lead, First appearances and Silver Age. Both support Kara Zor-El/Supergirl using Linda Lee identity and brunette wig in early comics. Wiki wig paragraph cites Jerry Siegel, Supergirl Archives Vol.2 (2004); debut section cites Action Comics. Books/comics unread/uncounted. Whole retained Wiki no Britannica/Sanderson strings; deeper shared scholarship unproved. Early-comics qualifier excludes universal TV/film/later-version claims. No dates/issues, who placed wig, hair biology, firstness or all-Kara origin. Four literal quotes/two canonical authored groups. Specific fictional detail improves accurate basic short-name route; editorial judgment only. Copyrighted human proof and attributed CC-BY-SA4.0 revision, prior actual rights read reused; no fresh footer, panels, film or human checks. Official DC CONNECT403/no body excluded."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -70888,7 +71016,7 @@
           "author": "Wikipedia contributors",
           "title": "Leonardo (given name)",
           "workId": "wikipedia:Leonardo (given name):1367466461",
-          "quote": "the Italian, Spanish, and Portuguese equivalent name, [[Leonard]]"
+          "quote": "'''Leonardo''' is a masculine given name, the Italian, Spanish, and Portuguese equivalent of the [[English language|English]], [[German language|German]], and [[Dutch language|Dutch]] name, [[Leonard]]."
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -72032,7 +72160,15 @@
           "author": "Wikipedia contributors",
           "title": "Dakota (given name)",
           "workId": "wikipedia:Dakota (given name):1376159100",
-          "quote": "translated to mean \"friend\", \"friendly\" or \"allies\" derived from the name of the [[Native Americans of the United States|Native American]] [[Dakota people]]"
+          "quote": "derived from the name of the [[Native Americans of the United States|Native American]] [[Dakota people]]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Dakota+%28given+name%29&oldid=1376159100",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Dakota (given name)",
+          "workId": "wikipedia:Dakota (given name):1376159100",
+          "quote": "translated to mean \"friend\", \"friendly\" or \"allies\""
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -72183,37 +72319,45 @@
         }
       ],
       "id": "ssa:M:Darryl",
-      "fact": "Darryl and Daryl are variant spellings of the same name.",
+      "fact": "Darryl Strawberry helped both the Mets and Yankees win the World Series.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Darryl&oldid=1331368383",
+          "url": "https://www.britannica.com/biography/Darryl-Strawberry",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Fred Frommer",
+          "title": "Darryl Strawberry | Pardon, New York Mets, Career, All Star, Addiction, Sobriety, & Biography",
+          "workId": "britannica:encyclopedia",
+          "quote": "In 1986 Strawberry helped the Mets win their first World Series since 1969"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Darryl-Strawberry",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Fred Frommer",
+          "title": "Darryl Strawberry | Pardon, New York Mets, Career, All Star, Addiction, Sobriety, & Biography",
+          "workId": "britannica:encyclopedia",
+          "quote": "The Yankees went on to win the World Series."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Darryl-Strawberry",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Fred Frommer",
+          "title": "Darryl Strawberry | Pardon, New York Mets, Career, All Star, Addiction, Sobriety, & Biography",
+          "workId": "britannica:encyclopedia",
+          "quote": "played with the Yankees for part of the 1999 season, helping them win another World Series, before retiring."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Darryl_Strawberry&oldid=1375180481",
           "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
-          "title": "Darryl",
-          "workId": "wikipedia:Darryl:1331368383",
-          "quote": "Variations of this name include: Daryl"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Darryl",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Darrell."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Daryl",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Darrell."
+          "title": "Darryl Strawberry, revision 1375180481",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "helped lead the [[New York Mets]] to a [[World Series]] championship in {{wsy|1986}} over the [[Boston Red Sox]] and the [[New York Yankees]] to two [[World Series]] championships in {{wsy|1996}} and {{wsy|1999}}, both over the [[Atlanta Braves]]."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Both BTN entries independently within one dictionary identify the same Darrell form. The read Wiki directly lists Daryl among Darryl variations; exact Darell/Darrell lead spelling need not be silently equated."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all 15 human Britannica paragraphs, Fred Frommer printed/Article credit, pinned Wiki1375180481 full lead, Prime/Later years and named source definitions. Both explicitly support Strawberry helping Mets and Yankees win World Series. Wiki lead title sentence has no immediate footnote; nickname/ring notes address other clauses. Team-season context cites Baseball Reference and Mike Puma/ESPN; underlying bodies unread/uncounted. Full cached Wiki no Britannica/Frommer strings, not deeper shared reporting proof. No title total/year or 1998 postseason/ring equivalence. Unselected jersey-retirement chronology differs; no resolution promoted. Four literal quotes, two canonical authored groups. Specific baseball hook improves accurate spelling relation, editorial judgment only. Copyrighted human proof and attributed CC-BY-SA4.0 pinned revision; prior actual rights read reused, no fresh subject footer, footage or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -73024,7 +73168,7 @@
           "author": "Wikipedia contributors",
           "title": "Guy (given name)",
           "workId": "wikipedia:Guy (given name):1369372447",
-          "quote": "the 1815 novel ''[[Guy Mannering]]'' Its use for characters by [[Sir Walter Scott]]"
+          "quote": "Its use for characters by [[Sir Walter Scott]] in the 1815 novel ''[[Guy Mannering]]''"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
@@ -74376,7 +74520,15 @@
           "author": "Britannica Editors",
           "title": "Scooby-Doo",
           "workId": "britannica:encyclopedia",
-          "quote": "characters include the cowardly and gluttonous but good-natured dog Scooby-Doo, who traveled around the United States in a van called the Mystery Machine with four young friends, the Mystery, Inc., gang: slacker Shaggy, shrewd ascot-wearing group leader Fred, beautiful but “danger-prone” Daphne, and brainy, tomboyish Velma. They were later joined by Scooby’s brash nephew, Scrappy-Doo."
+          "quote": "The original Scooby-Doo-based cartoon series, Scooby-Doo, Where Are You!"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Scooby-Doo",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Scooby-Doo",
+          "workId": "britannica:encyclopedia",
+          "quote": "and brainy, tomboyish Velma"
         }
       ],
       "factReview": {
