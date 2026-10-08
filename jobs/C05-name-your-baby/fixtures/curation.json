@@ -2321,7 +2321,7 @@
   },
   {
     "id": "ssa:F:Carolyn",
-    "fact": "Caroline is a feminine relative of Charles.",
+    "fact": "Carolyn is a variant of Caroline, a feminine relative of Charles.",
     "factStatus": "reviewed",
     "factReferences": [
       {
@@ -2349,25 +2349,25 @@
         "quote": "Latin form of Charles."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "The two feminines are of late invention. The first I have been able to find was Carlota or Charlotte, of Savoy, who married Louis XI., and thus introduced this form to French royalty. Charlotte d'Albret had the misfortune to be given in marriage to Cesare Borgia, and had one"
+        "url": "https://babynames.com/name/carolyn",
+        "publisher": "BabyNames.com, Moss Gathering LLC",
+        "author": "Jennifer Moss",
+        "title": "Carolyn: Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Carolyn is a variant of Caroline."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Carolina, the other form, seems to have been at first Italian, and thence to have spread to Southern Germany, and all over that country, whence we received it with the wife of George II., by whom it was much spread among the nobility, and is now very common among the peasantry. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Spanish. │ Italian │ │Charlotte │Charlotte │Carlota │Carlotta │ │Lotty │Lolotte │Lola │Carlota │ │Chatty │Caroline │ │Carolina │ │Caroline │ │ │ │ │Carry │ │ │ │"
+        "url": "https://babynames.com/name/caroline",
+        "publisher": "BabyNames.com, Moss Gathering LLC",
+        "author": "Jennifer Moss",
+        "title": "Caroline: Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Caroline is the French feminine form of the Latin name Carolus, which derives from Charles."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. The modern dictionary explicitly links Carolyn to Caroline and Caroline through Carolus to Charles. The independently authored historical Charles discussion treats Caroline and Charlotte as feminine forms. Its table and the surrounding Charles chapter were read; no exact Carolyn spelling is claimed in the older work. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_reconnected_assessment; independent actual-source and materiality peer",
+      "note": "Complete stored BTN Carolyn→Caroline→Carolus→Charles fields and full original Moss Carolyn/Caroline entries support both clauses. Both Moss pages are one work; H1/title/canonical/JSONLD identities match. JSONLD credits Jennifer Moss; no printed entry byline. Her full human profile, About and copyright policy were read. BTN creator/rights/source-catalog prose was read; mirrors, scraper and known imports add no works. Possible shared Hanks/deeper lineage is unknown, not certified absent. Charles ends [more]; full original individual BTN pages and cited books remain unread. Meaning, gender/usage and ancestor alternatives are held. Yonge’s full selected Charles section, tables, footnote, front credits and full PG notice were read as historical-only context; no Carolyn bridge or historical excerpt retained. Brief literal Moss quotes need visible original links. The missing Carolyn-to-Caroline link is a modest own-card benefit retaining the feminine lesson; no empirical gain claimed."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -14601,24 +14601,32 @@
   },
   {
     "id": "ssa:F:Vickie",
-    "fact": "Victoria means 'victory' in Latin.",
+    "fact": "Vickie can be short for Victoria, which means 'victory' in Latin.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "url": "https://www.behindthename.com/name/vickie",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Vickie (entry index 0; pinned dictionary)",
+        "title": "Meaning, origin and history of the name Vickie - Behind the Name",
         "workId": "behind-the-name:dictionary",
         "quote": "Diminutive of Victoria."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "url": "https://babynames.com/name/vickie",
+        "publisher": "BabyNames.com, Moss Gathering LLC",
+        "author": "Jennifer Moss",
+        "title": "Vickie human entry (Vicky canonical title): Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Diminutive form of Victoria"
+      },
+      {
+        "url": "https://www.behindthename.com/name/victoria",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Victoria (entry index 0; pinned dictionary)",
+        "title": "Meaning, origin and history of the name Victoria - Behind the Name",
         "workId": "behind-the-name:dictionary",
-        "quote": "Means \"victory\" in Latin, being borne by the Roman goddess of victory."
+        "quote": "Means \"victory\" in Latin"
       },
       {
         "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Victoria",
@@ -14626,12 +14634,12 @@
         "author": "S.L. Uckelman",
         "title": "The Dictionary of Medieval Names from European Sources: Victoria, edition 2023.1",
         "workId": "dmnes:dictionary:2023.1",
-        "quote": "Victoria f. Latin victoria 'victory'; fem. of Victor or Victorius ."
+        "quote": "Latin victoria 'victory'"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review",
-      "note": "Narrowed to Victoria: BTN’s exact Victoria entry and S.L. Uckelman’s independently authored DMNES Victoria entry give Latin victoria, victory. The actual HTML definition, edition 2023.1 author citation and copyright footer were read. Vickie→Victoria is BTN-only context; no goddess, saint identity or open prose licence is inferred."
+      "reviewer": "/root/c05_reconnected_assessment (independent actual-source/materiality peer)",
+      "note": "Independent actual-body/materiality peer read full BTN Vickie/Victoria pages, both Moss alias pages, and S.L. Uckelman’s full DMNES Victoria 2023.1 entry. BTN and Moss explicitly support Vickie→Victoria; BTN and DMNES support Victoria’s Latin victory. DMNES gives no Vickie bridge. Moss /vickie request/H1/body differs from Vicky title/canonical/JSONLD; /vicky lists Vickie. Both one Moss work. Moss is credited in Article/Person JSONLD and human profile, not a printed entry byline. BTN’s live Latin clause cites Lewis/Short; stored Victoria ends [more]. General Hanks/DMNES/Wiki catalogue overlap and deeper shared scholarship remain unknown; no selected import is established or primary independence certified. Can avoids all-bearer claims; gender, ancestry, goddess/saints held. This adds an explicit name-family link to the retained Latin fact, a modest editorial benefit without player evidence. Brief quotes preserve attribution/original links; no open corpus licence inferred."
     },
     "recognitionVerified": true,
     "recognitionReview": {
