@@ -10816,28 +10816,60 @@
     }
   },
   {
-    "fact": "Yvonne is a French feminine form of Yvon.",
+    "fact": "Yvonne is a French feminine form of Yvon; one proposed root means 'yew'.",
     "factReferences": [
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Meaning, origin and history of the name Yvonne",
+        "url": "https://www.behindthename.com/name/yvonne",
+        "workId": "behind-the-name:dictionary",
+        "quote": "French feminine form of Yvon."
+      },
       {
         "author": "Wikipedia contributors",
         "publisher": "Wikipedia",
-        "quote": "the female form of [[Yvon (given name)|Yvon]]",
         "title": "Yvonne",
         "url": "https://en.wikipedia.org/w/index.php?title=Yvonne&oldid=1372718483",
-        "workId": "wikipedia:Yvonne:1372718483"
+        "workId": "wikipedia:Yvonne:1372718483",
+        "quote": "the female form of [[Yvon (given name)|Yvon]]"
       },
       {
         "author": "Behind the Name",
         "publisher": "Behind the Name",
-        "quote": "French feminine form of Yvon.",
-        "title": "Behind the Name first-name dictionary: Yvonne",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "title": "Meaning, origin and history of the name Yvon",
+        "url": "https://www.behindthename.com/name/yvon",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Medieval diminutive of Yves."
+      },
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Meaning, origin and history of the name Yves",
+        "url": "https://www.behindthename.com/name/yves",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Medieval French form of Ivo 1."
+      },
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Meaning, origin and history of the name Ivo (1)",
+        "url": "https://www.behindthename.com/name/ivo-1",
+        "workId": "behind-the-name:dictionary",
+        "quote": "element iwa meaning \"yew\""
+      },
+      {
+        "author": "Jennifer Moss",
+        "publisher": "BabyNames.com",
+        "title": "Yvonne: Name Meaning, Popularity and Info on BabyNames.com",
+        "url": "https://babynames.com/name/yvonne",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "The name Yvonne is primarily a Female name of French origin that means Yew."
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN reference scope checked; underlying cited works not directly read. Questionable further language/root details in the paragraph are excluded.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "Codex distinct actual-source/materiality peer /root/c05_reconnected_otis_shirley",
+      "note": "Independent full BTN/Moss headwords and pinned Wiki raw/rendered reads support this qualified sentence. Exact Yvon uses BTN+Wiki; BTN lists Wiki, with selected/deeper lineage untraced. Yew uses BTN's explicit Yvonne→Yvon→Yves→Ivo chain+Moss's direct Yvonne meaning. Named Campbell/Moss compilation and contributor authorship are distinct credited presentations, not certified primary independence. Ivo names Förstemann/Köbler/Withycombe and a Celtic alternative; underlying bodies unread. Moss Yvon prints Ewe; Moss Yvonne says Yves, not Yvon. Wiki's yew cites unread DNL. Yonge's old Yvon/Ivar/possible Owen is context only. Full auxiliary rights read: brief linked quotes, CC4 attribution; external Moss terms body unread. The French/feminine/Yvon lesson stays; +31 chars earns modest yew learning with uncertainty/plant-repetition costs. No all-bearer ancestry, archery, naming cause or empirical claim."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Yvonne",
