@@ -63,3 +63,7 @@ Round12 integrated all8 independently approved replacements: Glen/Grace/Hope/Joh
 ## Current round12
 
 Integrated8 independently approved playerfact replacements: ssa:F:Becky, ssa:F:Grace, ssa:F:Hope, ssa:F:Judy, ssa:M:Andy, ssa:M:Bobby, ssa:M:Glen, ssa:M:Johnny. Round12 actual localchecks pass:8/8 focusedtests,17SHA matches,bothoutputs repeat identically,all500metrics/recognitions preserved. Read LOOP/Git fordelivery. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-round-twelve-combined-eight-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
+
+## Source-review checkpoint, 2026-10-08T01:14Z
+
+Round12 head2d870aff401411817c7d4e169a1ec0b4cc55464d actually passed CI run37709219312. Charlie/Chris/Jimmy are now independently approved for narrowed music/performance/war-flight facts; Allison/Maggie/Skylar candidate bodies are frozen but are not yet accepted by the independent reviewer. No additional LOOP round or zero-gain claim is recorded. Latest actual500-text assessment finds further Darryl/Catherine/Jayden/Kara/Gwendolyn/Jeffery opportunities; Darryl doubles R relative to Daryl, not L. Root missed the prior 01:13Z push deadline during handoff and records that breach rather than inventing an earlier push. Refresh the main claim and deliver this checkpoint now, then integrate approved evidence sequentially.
