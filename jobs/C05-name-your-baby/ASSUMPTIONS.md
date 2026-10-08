@@ -21,3 +21,5 @@
 - All 500 selected names now have explicit editorial recognition notes. This records review completion, not measured human familiarity. The complete generator requires every selected fact to retain two authored works and reviewed evidence. The name-related fact can concern a different historical bearer/category without claiming that every SSA family shares that person's ancestry or name origin.
 
 - Modern variant linkage supported only by one dictionary stays editorial context. Player facts name the root/bearer independently described by two works; older books are not claimed to contain absent modern spellings. Generic review limits are centralized here and in SOURCES; review notes remain within the strict1000-character gate.
+
+Round11 generation/checksum ordering was initially wrong: an early checksum pass described a transitional output. Correct the stale final checksum without changing verified content, preserve the actual failing full npm exit in VERIFY, and await every generating process before dependent hash/checkpoint commands. A prior green CI or completed test subtotal never proves a new full head green.

@@ -50,6 +50,12 @@ Round10 uses the controlling v2bundle4df23d3053d35f9e7e0b51976c00b563578af72c9c5
 
 ## Current round11
 
-Integrated4 independently approved playerfact replacements: ssa:F:Amelia, ssa:F:June, ssa:F:Mabel, ssa:F:Meredith. Round11 actual localchecks pass:8/8 focusedtests,17SHA matches,bothoutputs repeat identically,all500metrics/recognitions preserved. Read LOOP/Git fordelivery. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-round-eleven-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
+Integrated4 independently approved playerfact replacements: ssa:F:Amelia, ssa:F:June, ssa:F:Mabel, ssa:F:Meredith. Round11 focused tests pass8/8 and preserve all500 metrics/recognitions. An initially premature final checksum was corrected after full reproduction; see the current CI investigation and VERIFY. Read LOOP/Git fordelivery. Preserve500 numeric andrecognition records. Overlay /tmp/c05-quality-round-eleven-approved-fact-overlays.json. Read subsequent completion notes/Git for later status.
 
 Round11 also applied Lily’s guarded reference-only evidence addition, with zero player gains. Exactly4 bonus lines changed,495 full curation rows stayed unchanged, and all500 numeric/recognition records were preserved. The current-head CI must be checked after pushing.
+
+## Current CI investigation
+
+Round11 heada748b922215c9c6ac87df371dc75ff38b544a322/run37707069768 failed npm test. The actual same-data full local reproduction session58368 returned1 after42/42 tests, exact42/15/9 baselines,34/34 caught mutants and12 restored compiled files: only the final complete-pack checksum was stale. Root had refreshed hashes before generation completed. The checksum is now corrected and17/17 actual checks pass; VERIFY records the earlier premature claims and failing overall exit honestly. No code/data/dependency change was needed. The corrected pushed head must obtain actual green CI before more KEEP GOING integrations. Always await generator/focused exec completion before any hash or completion-record operation.
+
+Round12 Glen/Grace/Hope source-paired overlays are approved but not integrated while current CI is unresolved. The actual500-text assessment ranks Johnny/Bobby/Andy/Judy/Becky as remaining material opportunities. Judy is independently approved only in passive song-inspiration wording; Jessel's actual whole-name agency claim must remain in CONFLICTS. The other four source pairs await independent approval. No cosmetic convergence is established.
