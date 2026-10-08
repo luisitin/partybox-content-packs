@@ -236,3 +236,7 @@ Current53 post-own-green checkpoint 2026-10-08T17:59:01.988251+00:00: the new ro
 
 
 Restored-workspace checkpoint 2026-10-08T18:46:09.183719+00:00: environment-starting transition was followed by first available rootclock18:42:35Z/readywait and clean retained5d branch inspection18:43:10.476429Z. Claim17:59:28 deadline18:29:28 was exceeded; not30-minute compliance. No verified54 object/integration/execution. Source/peer/helper draft permissions remain mutable and no frozen/approval credit is inherited. Rough compact-Lindsay-read UTC18:04:50 was removed in native87: only actual untruncated toole3e719 and before18:05:06 mechanicalcheck boundary are known. Colton11words/Dale48characters corrected from rough12/46 before approval. Reconnection is retained-workspace evidence, not publication/application/fresh-task restoration.
+
+## Frozen-source checkpoint assumptions and pending follow-ups
+
+No milestonehold counts as a completedzero:161editorial/50content+3API=53meaningfulrounds/0establishedconsecutiveno-player-gainrounds remain. Rootcorrected owncurationlist/HTMLliteral/checksumfilename or nonexistentchecksumfile expectations before issuing any read/hashcredit. Published sourcepacket counts refer toownedphysicalfiles/bindings, never independentworks; Colton75unique payloads have150physicalcopies plus2manifestcopies. RootinitialAddonpositive opinion and laterdistinctHOLD remainseparate datedevidence. Native88draftonly; restartdeadline miss retained. Any currentnewHEAD needs ownCI and each nativeupdate freshdiscovery/read/head/remote guard.
