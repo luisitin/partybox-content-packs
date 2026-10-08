@@ -13831,29 +13831,61 @@
         }
       ],
       "id": "ssa:F:Julia",
-      "fact": "Julia is a feminine form of the name Julius.",
+      "fact": "Julia is a feminine form of Julius; a proposed Greek root means 'downy-bearded'.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Julia (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Feminine form of the Roman family name Julius."
-        },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Julia",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Julia, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Julia, edition 2023.1 (complete original entry)",
           "workId": "dmnes:dictionary:2023.1",
           "quote": "Fem. of Julius."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Julius",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "S.L. Uckelman",
+          "title": "The Dictionary of Medieval Names from European Sources: Julius, edition 2023.1 (complete original entry)",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Latin Julius, a Roman patrician nomen, of uncertain origin. It was supposed, by the Romans, to have derived from Greek ιουλος 'downy-beared', though there is not much evidence to support this."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised 1884, SectionVIII Julius (complete selected section including feminine table)",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The feminine shared the same fate, being hereditary in Italy, and adopted as ornamental when classical names came into fashion in other countries."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised 1884, SectionVIII Julius (complete selected Iulus tradition and alternatives)",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Iulus, from ιουλος (the first down on the chin)"
+        },
+        {
+          "url": "https://www.behindthename.com/name/julia",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Julia (complete original entry; corroboration)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Feminine form of the Roman family name Julius."
+        },
+        {
+          "url": "https://www.behindthename.com/name/julius",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Julius (complete original entry; corroboration)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Roman family name that was possibly derived from Greek ἴουλος (ioulos) meaning \"downy-bearded\""
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_reconnected_source_recovery:independent-julia-source-materiality-peer",
+        "note": "Independent actual-source/materiality review accepted this qualified proposal. DMNES directly calls Julia feminine of Julius; full Yonge Julius section identifies the feminine and lists Julia. DMNES says the supposed Greek 'downy-beared' route has little evidence; Yonge reports Iulus from first down on the chin. BTN literally gives 'downy-bearded', but its catalogue lists DMNES, so it is corroboration, not a separate root vote. DMNES and Yonge are distinct credited presentations; deeper common classical scholarship or borrowing is untraced. Jove/Jupiter and divine-name alternatives remain; no certain origin or universal bearer ancestry. Moss's youthful/downy gloss proves no Julius bridge and is excluded. Full selected contexts, footnotes, credits and rights were read; brief literal excerpts only, no open whole-database or worldwide PD claim. The feminine lesson is retained; the unusual proposed root adds modest learning at +36 characters. Recognition unchanged; no player study."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -32815,29 +32847,61 @@
         }
       ],
       "id": "ssa:F:Alexandra",
-      "fact": "Alexandra is a feminine form of Alexander.",
+      "fact": "Alexandra is a feminine form of Alexander, with Greek roots for 'defend' and 'man'.",
       "factStatus": "reviewed",
       "factReferences": [
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Alexandra (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Feminine form of Alexander."
-        },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Alexandra",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Alexandra, edition 2023.1",
+          "title": "DMNES: Alexandra, edition2023.1, complete original entry",
           "workId": "dmnes:dictionary:2023.1",
           "quote": "Fem. of Alexander."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Alexander",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "A. Brown, R. Le Get, J. Uckelman, S.L. Uckelman",
+          "title": "DMNES: Alexander, edition2023.1, complete original entry",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Ancient Greek ἀλέξω 'I defend' + Ancient Greek ἀνδρός, gen. of Ancient Greek ἀνήρ 'man'."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised1884, complete SectionII Alexander and immediate boundaries",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "the feminine Alexa, Alexandrina, and Alexandra"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised1884, complete SectionII Alexander: compound and differing glosses",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Ἀλέξανδρος (Alexandros), from ἀλέξω (alexo), to help, and ἄνδρες (andres), men"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/lexica/56061ca127f4a2844980baffc5f2b6d1332897b3/CTS_XML_TEI/perseus/pdllex/grc/lsj/grc.lsj.perseus-eng1.xml",
+          "publisher": "Clarendon Press 1940; electronic Perseus Digital Library, CC BY-SA4.0",
+          "author": "Henry George Liddell and Robert Scott; revised by Henry Stuart Jones with Roderick McKenzie",
+          "title": "A Greek-English Lexicon 1940, complete alexo entry n4019 (a)le/cw), Perseus electronic text",
+          "workId": "liddell-scott-jones:greek-english-lexicon:1940",
+          "quote": "assist, defend"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/lexica/56061ca127f4a2844980baffc5f2b6d1332897b3/CTS_XML_TEI/perseus/pdllex/grc/lsj/grc.lsj.perseus-eng1.xml",
+          "publisher": "Clarendon Press 1940; electronic Perseus Digital Library, CC BY-SA4.0",
+          "author": "Henry George Liddell and Robert Scott; revised by Henry Stuart Jones with Roderick McKenzie",
+          "title": "A Greek-English Lexicon 1940, complete aner entry n8665 (a)nh/r), Perseus electronic text",
+          "workId": "liddell-scott-jones:greek-english-lexicon:1940",
+          "quote": "man, opp. woman"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_post38_player_review (distinct actual-source/materiality peer)",
+        "note": "Actual source peer read complete selected DMNES/Yonge/LSJ entries and source credits/rights. DMNES+Yonge support feminine Alexander and the compound; DMNES+full LSJ1940 support defend/man senses. Yonge says help/men, retained as differing glosses, not identical literal translations. BTN explicitly catalogues DMNES/classic lexicons and adds no independent vote; Moss proves no exact bridge. Distinct authored presentations, deeper shared scholarship untraced; cited original classical/medieval works unread. Full1940 LSJ is not BTN's linked Intermediate. Family lesson retained; 42→83 adds two useful senses at +41 characters: modest editorial benefit, no measured gain. Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from The National Endowment for the Humanities. Data accessed from https://github.com/PerseusDL/lexica/ 2026-10-08. Full licence/availability/header retained. Recognition unchanged."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -71167,14 +71231,14 @@
         }
       ],
       "id": "ssa:F:Adriana",
-      "fact": "Adriana is a feminine form of Adrian.",
+      "fact": "Adriana is a feminine form of Adrian, linked to the place name Hadria in Italy.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/adriana",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Adriana (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Adriana (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Feminine form of Adrian."
         },
@@ -71182,14 +71246,54 @@
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Adriana",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Adriana, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Adriana, edition2023.1 (complete original entry)",
           "workId": "dmnes:dictionary:2023.1",
           "quote": "Fem. of Adrian."
+        },
+        {
+          "url": "https://babynames.com/name/adriana",
+          "publisher": "BabyNames.com / Moss Gathering LLC",
+          "author": "Jennifer Moss (original Article JSON-LD attribution; no printed entry byline)",
+          "title": "Adriana: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:dictionary",
+          "quote": "Female form of Adrian."
+        },
+        {
+          "url": "https://www.behindthename.com/name/adrian",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Adrian (complete original entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Form of Hadrianus (see Hadrian)"
+        },
+        {
+          "url": "https://www.behindthename.com/name/hadrian",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Hadrian (complete original entry and immediate citations)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Roman cognomen Hadrianus, which meant \"from Hadria\" in Latin"
+        },
+        {
+          "url": "https://www.behindthename.com/name/hadrian",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Hadrian (full two-settlement context)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "The first (modern Adria) is in northern Italy"
+        },
+        {
+          "url": "https://babynames.com/name/adriana",
+          "publisher": "BabyNames.com / Moss Gathering LLC",
+          "author": "Jennifer Moss (original Article JSON-LD attribution; no printed entry byline)",
+          "title": "Adriana: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:dictionary",
+          "quote": "Person from Hadria (Northern Italy)"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_reconnected_source_recovery:independent-adriana-actual-source-materiality-peer",
+        "note": "Independent actual-source/materiality review accepted this shared link. BTN and Moss directly give Adriana's feminine Adrian relation; DMNES agrees. Full BTN Adrian/Hadrian definitions lead to Hadria and two settlements in Italy. Moss Adriana gives Person from Hadria (Northern Italy), with Spanish usage-origin label. Only the place-name/Italy link is selected: exact Adria/Atri, harbor, north/central, sea, Italian-language identity, whole-name translation and naming cause remain held. DMNES Adrian's harbor Adria is not another exact Hadria vote. BTN cites Kajanto/Hanks and lists DMNES; deeper common scholarship or borrowing is untraced. Moss Article JSON-LD credits Jennifer Moss; no printed entry byline or sentence-drafting certificate. Distinct credited presentations, no primary-independence claim. Full contexts/credits/rights read or exact own prior reads rebound; brief excerpts. The feminine lesson is retained with modest geographic learning at +42 characters. Recognition unchanged."
       },
       "recognitionVerified": true,
       "recognitionReview": {
