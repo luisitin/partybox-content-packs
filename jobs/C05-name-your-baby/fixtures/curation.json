@@ -1993,29 +1993,29 @@
   },
   {
     "id": "ssa:F:Samantha",
-    "fact": "Bewitched gave its lead character the name Samantha.",
+    "fact": "Bewitched's Samantha often cast spells by twitching her nose.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Samantha&oldid=1373051492",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "Samantha, revision 1373051492",
-        "workId": "wikipedia:Samantha:1373051492",
-        "quote": "featuring as a lead character a young witch named [[Samantha Stephens]]"
+        "author": "Britannica Editors",
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Bewitched",
+        "url": "https://www.britannica.com/topic/Bewitched",
+        "workId": "britannica:encyclopedia",
+        "quote": "Samantha typically casts her spells by twitching her nose and mouth;"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Samantha (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "the main character on the television show Bewitched."
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "Bewitched (revision1378031341)",
+        "url": "https://en.wikipedia.org/w/index.php?title=Bewitched&oldid=1378031341",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "To perform magic, Samantha often twitches her nose to create a spell."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Nara Schoenberg, Chicago Tribune (2010), plus separately cited SSA observations; claim is character name, not causation or speculative etymology. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+      "note": "Peer read all three human Britannica topic paragraphs, printed written/fact-checked Editors credit and Article author; AI FAQ excluded. Read pinned Wiki lead, complete Plot, Reception and Sources sections plus McNeil/Metz definitions. Plot explicitly says Samantha often twitches her nose to create a spell and is uncited; Reception separately cites Metz for nose-twitch sound, not the selected spell predicate. Underlying books and TV episodes unread and uncounted. BRT says typically nose and mouth; often/nose wording asserts neither only-nose nor every spell. Two authored retellings of the same fictional series, not independent observations. Two brief literal quotes rematched; no selected direct BRT dependency identified, deeper lineage unaudited. Preserve source attribution/terms for copyright-bearing BRT and pinned Wiki excerpts. Direct character action improves the prior name-only identity; no etymology, name-popularity, magic-reality, participant-test or convergence claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -2377,45 +2377,29 @@
   },
   {
     "id": "ssa:F:Debra",
-    "fact": "Deborah means 'bee' in Hebrew.",
+    "fact": "Debra Winger played Sissy opposite John Travolta in Urban Cowboy.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Debra (pinned dictionary entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Deborah."
+        "url": "https://www.britannica.com/biography/James-Bridges",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Michael Barson",
+        "title": "James Bridges | American Film Director, Screenwriter & Actor",
+        "workId": "britannica:encyclopedia",
+        "quote": "Bridges also scored big with Urban Cowboy (1980), a formulaic but entertaining story about a young Texas construction worker (John Travolta) who lets his marriage to independent Sissy (Debra Winger) disintegrate"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Deborah (pinned dictionary entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "From the Hebrew name דְּבוֹרָה (Devorah) meaning \"bee\"."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Deborah, _f._ _Eng._ Heb. bee, 2, 14"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Here too should be mentioned the faithful nurse of Rebekah, who was so lamented that the tree beneath which she was buried was known as the oak of weeping. Her name of Deborah came from a verb meaning to hum or buzz, and signified a bee, or, in after times, eloquent."
+        "url": "https://en.wikipedia.org/w/index.php?title=Urban_Cowboy&oldid=1378428701",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Urban Cowboy, revision 1378428701",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The film takes place in [[Pasadena, Texas]], and follows the turbulent marriage between young [[Blue-collar worker|blue-collar]] couple Buford \"Bud\" Davis ([[John Travolta]]) and Sissy ([[Debra Winger]])."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Debra→Deborah and Hebrew bee. The actual historical Deborah glossary entry and nurse narrative independently give Hebrew bee. The scope is the named relative Deborah, rather than an assertion that Yonge contains Debra. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_resumed_source_review",
+      "note": "Independent reviewer read six raw human James Bridges paragraphs, printed Michael Barson writing/Editors checking and Article author; promotional Scorsese paragraph/AI FAQ excluded. Read Urban Cowboy1378428701 full lead/infobox, complete Plot and Cast, with CBR/AFI/AP definitions; API/main text matched. Both presentations identify Winger's Sissy opposite Travolta; two brief literal quotes rematch. Wiki selected role sentence/cast unfootnoted; adjacent genre/budget/music authorities and film/script/Esquire bodies unread/uncounted. Two authored retellings of the same film, no separately witnessed historical-event claim. No selected direct BRT reference or distinctive copied prose identified; deeper lineage unproved. No bull-riding inference, awards, dates, plot violence or real spouse claim. Brief copyrighted evidence and attributed pinned Wiki CC-BY-SA4.0 under retained rights audit; no art/new footer. Accepted."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -14889,29 +14873,29 @@
   },
   {
     "id": "ssa:M:Darren",
-    "fact": "Bewitched featured a character named Darrin Stephens.",
+    "fact": "Bewitched's Darrin (with an i) was played by Dick York, then Dick Sargent.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name; immutable dictionary delivery",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Darren (pinned dictionary entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "the character Darrin Stephens from the television show Bewitched."
+        "author": "Britannica Editors",
+        "publisher": "Encyclopaedia Britannica",
+        "quote": "Darrin Stephens (Dick York, 1964–69; Dick Sargent, 1969–72)",
+        "title": "Bewitched | Cast, Characters, & Facts",
+        "url": "https://www.britannica.com/topic/Bewitched",
+        "workId": "britannica:encyclopedia"
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Bewitched&oldid=1378031341",
-        "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Bewitched (revision 1378031341)",
-        "workId": "wikipedia:Bewitched",
-        "quote": "starred [[Elizabeth Montgomery]] as Samantha Stephens, [[Dick York]] (1964–1969) as Darrin Stephens,"
+        "publisher": "Wikimedia Foundation",
+        "quote": "a mortal named Darrin Stephens ([[Dick York]], later [[Dick Sargent]])",
+        "title": "Bewitched",
+        "url": "https://en.wikipedia.org/w/index.php?title=Bewitched&oldid=1378031341",
+        "workId": "wikipedia:encyclopedia"
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The actual Darren dictionary entry names the related spelling Darrin Stephens in Bewitched; the independently authored television article confirms the character and exact Darrin spelling. The player fact does not rename him Darren. Limits: Character spelling is Darrin, not Darren. No universal meaning or television-caused name popularity assertion. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+      "note": "Peer read all three human Britannica paragraphs, printed Editors writing/fact-checking and Article author; AI FAQ excluded. Read pinned Wiki full lead, Plot, Cast, full York-to-Sargent replacement paragraph and LA Times definition. BRT cast ranges and explicit Wiki later/then establish actor order for Darrin. Exact character spelling with i is explicit; no Darren=Darrin identity or modern-name equivalence inferred. Wiki lead/Plot/Cast casting is unfootnoted; replacement paragraph cites LA Times 1969, whose body was unread and uncounted. Two authored retellings of the same fictional series, no separate event observations or deep-lineage certification. Two literal brief quotes rematched; canonical work IDs applied. Source copies match the actually read Samantha raw bytes and original fetch receipts. No health reason, date, motive, film-version performer, name-popularity or participant-test claim. Original concise TV fact; preserve brief copyrighted quote attribution and source terms."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -16921,7 +16905,7 @@
   },
   {
     "id": "ssa:F:Shelly",
-    "fact": "Mary Shelley was the author of Frankenstein.",
+    "fact": "Mary Shelley's Frankenstein grew from Lord Byron's ghost-story challenge.",
     "factStatus": "reviewed",
     "factReferences": [
       {
@@ -16941,17 +16925,33 @@
         "quote": "Mary Shelley (1797-1851), his wife, the author of the horror story Frankenstein."
       },
       {
-        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
-        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
-        "author": "Princeton University WordNet editorial contributors",
-        "title": "WordNet 3.1 noun database (2011)",
-        "workId": "princeton-wordnet-3-1",
-        "quote": "English writer who created Frankenstein's monster and married Percy Bysshe Shelley (1797-1851)"
+        "url": "https://www.britannica.com/biography/Mary-Wollstonecraft-Shelley",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "René Ostberg",
+        "title": "Mary Wollstonecraft Shelley | Biography, Books, Frankenstein, Parents, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "a mansion in Cologny (near Geneva) that Byron had leased. There he challenged his guests to a ghost story contest, which proved to be the genesis for Godwin’s soon-to-be masterpiece, Frankenstein."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Frankenstein&oldid=1378840467",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Frankenstein, revision 1378840467",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "In 1816—at the suggestion of [[Lord Byron]]—Mary, Percy, [[John Polidori]] and Byron himself, each agreed to try writing a ghost story."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Frankenstein&oldid=1378840467",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Frankenstein, revision 1378840467",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "After thinking for days, Shelley was inspired to write ''Frankenstein'' after imagining a scientist who created life and was horrified by what he had made."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review",
-      "note": "Narrowed to Mary Shelley: BTN explicitly identifies her as Frankenstein’s author; the verified WordNet Mary Shelley synset independently identifies the English writer who created Frankenstein’s monster. Shelly→Shelley is dictionary context only. No direct reading of the novel or claim that every given-name bearer was named for her. The full Princeton 3.1/2011 notice must accompany copied synset text."
+      "reviewer": "/root/c05_resumed_source_review",
+      "note": "Independent reviewer read18 raw human BRT paragraphs, René Ostberg/Editors credit and Article author; two promotions/AI FAQ excluded. Read Wiki1378840467 full lead, Author's background, Composition/Sources and definitions; API matched. BRT challenge-genesis and Wiki challenge-then-writing support two literary retellings, not historical eyewitnesses. Read full1831 introduction/preface/title and USA-PD catalogue: Wiki retells this one retrospective primary account, not extra independent corroboration. Other cited news/books unread. No selected direct BRT dependence established; deeper lineage unproved. Full BTN Shelly/Shelley descriptions preserve variant/surname-bearer context only. Five exact quotes/three works; challenge has BRT+Wiki support. Omit dates, judging/winner, overnight completion, exclusive inspiration and all-bearer ancestry. Brief copyrighted BRT/BTN and pinned CC-BY-SA Wiki; preserve full Princeton notice. Accepted."
     },
     "recognitionVerified": true,
     "recognitionReview": {
