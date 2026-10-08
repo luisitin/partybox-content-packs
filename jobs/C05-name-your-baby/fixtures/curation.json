@@ -8289,7 +8289,7 @@
   },
   {
     "id": "ssa:F:Rhonda",
-    "fact": "Viscountess Rhondda was a British feminist.",
+    "fact": "Viscountess Rhondda, with an extra d, was British feminist Margaret Mackworth.",
     "factStatus": "reviewed",
     "factReferences": [
       {
@@ -8298,7 +8298,15 @@
         "author": "Behind the Name",
         "title": "Behind the Name: Rhonda (pinned 2021 dictionary distribution)",
         "workId": "behind-the-name:dictionary",
-        "quote": "Margaret Mackworth, Viscountess Rhondda (1883-1956), a British feminist."
+        "quote": "Margaret Mackworth, Viscountess Rhondda"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Rhonda (pinned 2021 dictionary distribution)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "a British feminist."
       },
       {
         "url": "https://en.wikipedia.org/w/index.php?title=Margaret+Haig+Thomas%2C+2nd+Viscountess+Rhondda&oldid=1372580241",
@@ -8306,7 +8314,7 @@
         "author": "Wikipedia contributors",
         "title": "Margaret Haig Thomas, 2nd Viscountess Rhondda",
         "workId": "wikipedia:Margaret_Haig_Thomas,_2nd_Viscountess_Rhondda",
-        "quote": "Margaret Haig, suo jure Viscountess Rhondda (1883–1958), feminist and magazine proprietor"
+        "quote": "Margaret Haig Mackworth, 2nd Viscountess Rhondda"
       },
       {
         "url": "https://en.wikipedia.org/w/index.php?title=Margaret+Haig+Thomas%2C+2nd+Viscountess+Rhondda&oldid=1372580241",
@@ -8318,8 +8326,8 @@
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The name-dictionary entry identifies Margaret Mackworth, Viscountess Rhondda, as a British feminist; the actual biography identifies her as Welsh and documents women’s-rights activism. This related-title bearer fact does not assert the hedged name-inspiration story. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: BTN’s death date 1956 conflicts with biography’s 1958; both omitted. Welsh good-spear/Rhondda-valley derivations and naming inspiration remain hedged and unused. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_post38_player_review; distinct actual-source/materiality peer",
+      "note": "Distinct peer read full pinned BTN Rhonda record, live entry/citations, site creator/catalog/copyright/Terms, and full Wiki revision1372580241 in wikitext/rendered form with all30refs. Both identify Margaret Mackworth as Viscountess Rhondda and feminist/women's-rights activist; Wiki lead/peerage/British categories confirm scope. Extra d is a spelling cue, not origin. BTN's live selected clause cites Edgar; Wiki cites Beddoe/John and autobiography context. Those original works remain unread; deeper shared lineage unknown. Four date-free quotes21words match; two authored works, not4sources. Retain attribution, BTN original linkback and WikiCC-BY-SA4.0 notice/link; no corpus relicensing. Origins/inspiration, death1956vs1958 and peerage-year discrepancy held. Adds personal-name/title clarity while preserving feminist lesson; modest editorial benefit, no player measurement. Baseline Wiki quote has a real en dash and matches; no escaped-quote defect."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -11585,24 +11593,24 @@
   },
   {
     "id": "ssa:F:Terri",
-    "fact": "Theresa has a proposed Greek link to harvesting.",
+    "fact": "Terri can be short for Theresa, which has a proposed Greek link to harvesting.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "url": "https://www.behindthename.com/name/terri",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Terri (entry index 0; pinned 2021 distribution)",
+        "title": "Behind the Name: Terri (complete original entry, updated February 28, 2019)",
         "workId": "behind-the-name:dictionary",
         "quote": "Either a feminine variant of Terry 1 or a diminutive of Theresa."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "url": "https://www.behindthename.com/name/theresa",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Theresa (entry index 0; pinned 2021 distribution)",
+        "title": "Behind the Name: Theresa (complete original entry, updated May 26, 2026)",
         "workId": "behind-the-name:dictionary",
-        "quote": "The meaning is uncertain, but it could be derived from Greek θέρος (theros) meaning \"summer\", from Greek θερίζω (therizo) meaning \"to harvest\", or from the name of the Greek island of Therasia (the western island of Santorini).... [more]"
+        "quote": "The meaning is uncertain, but it could be derived from Greek θέρος (theros) meaning \"summer\" [3] or θερίζω (therizo) meaning \"to harvest\""
       },
       {
         "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
@@ -11610,12 +11618,20 @@
         "author": "Charlotte Mary Yonge",
         "title": "History of Christian Names, revised edition 1884",
         "workId": "yonge:history-of-christian-names:1884",
-        "quote": "From θέρω (to heat) was derived θέρος (summer), which, in sunny Greece, came likewise to mean the summer crop, just as in Germany _Herbst_ serves for both autumn and harvest. θερίζω (to reap or gather in the crop), and from this verb comes the pretty feminine Theresa, the reaper."
+        "quote": "θερίζω (to reap or gather in the crop), and from this verb comes the pretty feminine Theresa, the reaper."
+      },
+      {
+        "url": "https://babynames.com/name/terri",
+        "publisher": "BabyNames.com",
+        "author": "Jennifer Moss",
+        "title": "Terri: Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Diminutive form of Theresa"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-      "note": "Narrowed to Theresa’s harvesting proposal; Terri→Theresa is BTN-only review context and a Terry route also exists. BTN explicitly calls the meaning uncertain and offers Greek therizo “to harvest”; Yonge independently derives Theresa from the Greek reaping verb. The approved fact reports a proposal, not an established unique etymology. The separate summer/island alternatives are not claimed as independently agreed origins."
+      "reviewer": "/root/c05_reconnected_assessment",
+      "note": "Full BTN Terri permits Terry 1 or a diminutive of Theresa; complete Moss Terri explicitly says 'Diminutive form of Theresa'. 'Can' preserves the alternative. Full BTN Theresa calls the meaning uncertain and offers harvesting, summer and Therasia; complete Yonge Harvest Names derives Theresa from Greek reaping. 'Proposed' retains the existing lesson. BTN's harvest-word gloss cites Liddell/Scott/Jones; Yonge Footnote 49 lists Liddell and Scott. This shared lexical pointer is known; deeper dependence of the named proposal is unresolved, not primary-independence proof. Two authored presentations per clause, three groups; copies count once. Corporate BTN credit retained; individual entry writer unestablished. Moss JSON-LD credits Jennifer Moss, with no printed entry byline. Four-word Moss quote/original link and brief BTN quotes retained; historical US/regional/PG limits preserved. Direct optional card link adds modest clarity without lesson loss; recognition untouched."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -14113,61 +14129,29 @@
   },
   {
     "id": "ssa:F:Mariah",
-    "fact": "In the Bible, Miriam is the sister of Moses and Aaron.",
+    "fact": "Mariah Carey's 1994 'All I Want for Christmas Is You' reached Hot 100 No. 1 in 2019.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Mariah (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Maria."
+        "publisher": "Encyclopaedia Britannica",
+        "author": "The Editors of Encyclopaedia Britannica",
+        "title": "Mariah Carey (complete human biography, updated October 2, 2026)",
+        "workId": "britannica:mariah-carey:biography",
+        "url": "https://www.britannica.com/biography/Mariah-Carey",
+        "quote": "In 2019 “All I Want for Christmas Is You” went to number one during the holiday season, 25 years after the song’s release."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Maria (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Latin form of Greek Μαρία, from Hebrew מִרְיָם (see Mary)."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Mary (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Usual English form of Maria, the Latin form of the New Testament Greek names Μαριάμ (Mariam) and Μαρία (Maria) - the spellings are interchangeable - which were from Hebrew מִרְיָם (Miryam), a name borne by the sister of Moses in the Old Testament."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Miriam (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "It is used in the Old Testament, where it belongs to the elder sister of Moses and Aaron."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "The sister of Moses and Aaron, who led the songs of the Israelites when they saw their enemies dead upon the sea-shore, was the first owner of that name which was to be the most highly honoured among those of women."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Miriam does not seem to have been repeated until after the captivity, when it took the Greek forms of Mariam and Mariamne, and became very frequent among Jewish women, probably in the expectation of the new"
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "All I Want for Christmas Is You (revision 1378984712, lead and North America section)",
+        "workId": "wikipedia:all-i-want-for-christmas-is-you:1378984712",
+        "url": "https://en.wikipedia.org/w/index.php?title=All_I_Want_for_Christmas_Is_You&oldid=1378984712",
+        "quote": "On the chart dated December 21, 2019, \"All I Want for Christmas Is You\" topped the Hot 100 for the first time"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review",
-      "note": "Narrowed to the named biblical Miriam: BTN’s Miriam entry and Yonge’s actual Miriam section identify the sister of Moses and Aaron. Mariah→Maria→Mary→Miriam is dictionary context only; no Mariah spelling or any certain Mary etymology is attributed to Yonge. The sentence describes the biblical narrative."
+      "reviewer": "/root/c05_reconnected_assessment",
+      "note": "Same-name bearer chronology. Britannica's human narrative places the named song on Merry Christmas (1994), says it went to No. 1 in 2019, 25 years after release, and links that 19th No. 1 to Billboard Hot 100 in its lead. The 1994 release is contextual/arithmetic support, not a standalone narrative date. Wiki's pinned lead gives 1994 and its complete North America section gives the Dec. 21, 2019 Hot 100 result. Two authored work groups; deeper shared chart-report lineage unknown, cited Billboard bodies unread. AI FAQ/month differences, firstness, U.S., records, lyrics and name origins excluded. Britannica editor credits do not identify sentence authors; copyright 2026, brief quote only, full Terms unavailable (403). Wiki contributors, revision and CC BY-SA 4.0 attribution/license/change notice retained. Direct Mariah/song link and 25-year interval justify replacing the valid Miriam lesson as a modest editorial improvement; recognition untouched."
     },
     "recognitionVerified": true,
     "recognitionReview": {
