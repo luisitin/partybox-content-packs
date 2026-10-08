@@ -36095,22 +36095,30 @@
         }
       ],
       "id": "ssa:M:Ricky",
-      "fact": "Richard’s nickname Dick lies behind the surname Dixon.",
+      "fact": "Ricky and Dick can be short for Richard; Dick lies behind the surname Dixon.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/ricky",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Ricky (pinned dictionary entry)",
+          "title": "Ricky — Meaning & History, complete original entry",
           "workId": "behind-the-name:dictionary",
           "quote": "Diminutive of Richard."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://babynames.com/name/ricky",
+          "publisher": "BabyNames.com / Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Ricky: Name Meaning, Popularity and Info",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "Diminutive form of Richard."
+        },
+        {
+          "url": "https://www.behindthename.com/name/dick-1",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Dick (pinned dictionary entry)",
+          "title": "Dick 1 — Meaning & History, complete original entry",
           "workId": "behind-the-name:dictionary",
           "quote": "Medieval diminutive of Richard."
         },
@@ -36123,22 +36131,6 @@
           "quote": "Means \"son of Dick 1\"."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-          "publisher": "John Murray, London; GITenberg delivery",
-          "author": "Ernest Weekley",
-          "title": "The Romance of Names, third revised edition (1922)",
-          "workId": "weekley-romance-of-names-1922",
-          "quote": "Richard gave Rick, Hick and Dick."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-          "publisher": "John Murray, London; GITenberg delivery",
-          "author": "Ernest Weekley",
-          "title": "The Romance of Names, third revised edition (1922)",
-          "workId": "weekley-romance-of-names-1922",
-          "quote": "ks and x, Dickson, Dixon, are a matter of taste or accident."
-        },
-        {
           "url": "https://raw.githubusercontent.com/GITenberg/English-Surnames-Their-Sources-and-Significations_59959/04db3bc201c1f096c5fba0c6e26990fd551971ea/59959-0.txt",
           "publisher": "Chatto and Windus, London; Project Gutenberg text retained by GITenberg",
           "author": "Charles Wareing Endell Bardsley",
@@ -36148,8 +36140,8 @@
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
-        "note": "The actual BTN Dick and editorial Dixon descriptions, together with Bardsley’s explicit Dick/Diccon-to-Dickson/Dixon passage in his Richard paragraph, support the full player claim. These form the core source pair. Weekley also gives Richard-to-Dick and Dickson/Dixon spelling equivalence; his preface acknowledges consulting Bardsley’s separate 1901 Dictionary, so deeper lineage is not proved. BTN alone supplies Ricky-to-Richard context. No exact Ricky claim or bearer ancestry is inferred. Agent review only."
+        "reviewer": "Codex distinct actual-original-source/materiality peer /root/c05_reconnected_otis_shirley",
+        "note": "Independent original BTN Ricky/Dick1, pinned editorial Dixon, Moss Ricky and full Bardsley ChapterI/Foot25–27/prefaces reads support this sentence. Ricky→Richard has explicit BTN+Moss definitions; Dick→Richard and Dixon use BTN+Bardsley's direct Richard paragraph. Named Campbell/Moss compilation and Bardsley1875 are three work groups; selected/deeper genealogy remains untraced. BTN Dick cites Hanks/Hodges1990p84 for unselected phonology; its generalWiki/DMNES catalogue retained. Weekley's acknowledged Bardsley Dictionary help is lineage only; no Rick→Ricky step inferred. Dutch Dick→Diederik, MossAmerican/gender-neutral/BraveRuler and BTNEnglish/masculine labels excluded. Eight recent personally read auxiliary rights bodies reused exact bytes; external Moss policy unread. Full PG terms/LICENSE template conflict and regional limits retained. +22 chars makes Ricky link explicit and preserves Dick/Dixon lesson; nickname repetition costs remain. No ancestry/naming cause/empirical claim."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -70143,22 +70135,30 @@
         }
       ],
       "id": "ssa:F:Christy",
-      "fact": "In legend, Saint Christopher carried Jesus across a river.",
+      "fact": "For boys, Christy can shorten Christopher; the saint bore Jesus over a river in legend.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/christy",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Christy (entry index 0; pinned dictionary)",
+          "title": "Christy (complete original dictionary entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Scottish and Irish diminutive of Christopher."
+          "quote": "Diminutive of Christine, Christina, Christopher and other names beginning with Christ."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://en.wiktionary.org/w/index.php?title=Christy&oldid=85746860",
+          "publisher": "Wiktionary, Wikimedia Foundation",
+          "author": "Wiktionary contributors",
+          "title": "Christy (pinned revision85746860)",
+          "workId": "wiktionary:Christy",
+          "quote": "A diminutive of the male given name Christopher."
+        },
+        {
+          "url": "https://www.behindthename.com/name/christopher",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Christopher (entry index 0; pinned dictionary)",
+          "title": "Christopher (complete original dictionary entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "In the Middle Ages, literal interpretations of the name's etymology led to legends about a Saint Christopher who carried the young Jesus across a river."
         },
@@ -70166,14 +70166,14 @@
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
           "publisher": "Project Gutenberg, mirrored by GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition1884",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "From the same holy title was derived that of Χριστοφόρος (Christ-bearer), claimed by many an early Christian as an expression of his membership, as St. Ignatius on his trial spoke of himself as Θεοφορος. To this title was attached the beautiful allegory of the giant ever in search of the strongest master, whom he found at last in the little child that he bore on his shoulders over the river. Simplicity soon turned the parable into credited fact, and St. Christopher became the object of the most eager veneration, especially as there had been a"
+          "quote": "To this title was attached the beautiful allegory of the giant ever in search of the strongest master, whom he found at last in the little child that he bore on his shoulders over the river."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to the Christopher legend: BTN explicitly says young Jesus was carried across a river; Yonge’s actual Christ-bearer section independently presents the giant and child river crossing as allegory/parable. Christy’s modern shortening is BTN-only context. The player sentence labels the story as legend rather than a measured historical event."
+        "reviewer": "/root/c05_current_offline_challenge (distinct actual-source/materiality peer)",
+        "note": "Full BTN Christy includes Christopher and feminine alternatives; Wiktionary85746860 explicitly gives a male diminutive. Original2020 revision59799833 asserts it with a Mathewson example; that example's sources remain unread. BTN's general catalogue lists Wiktionary/Wikipedia: these are separately credited presentations, not certified independent primary roots or a traced selected import. Full BTN Christopher and Yonge SectionIII/Foot41 retain saint/child/river legend; Yonge says Christ-bearer/Saviour, not literal Jesus. For boys/can avoids assigning a male origin to the F SSA identity. The87-character line keeps saint/Jesus/river/legend and adds the missing Christy connection for29 more characters; extra gender context and denser reading are costs. No naming cause, ancestry, historical miracle or audience measurement. Brief quotes retain BTN linkbacks, Wiktionary CC-BY-SA4.0 attribution/changes/share-alike and PG credit/licence scope."
       },
       "recognitionVerified": true,
       "recognitionReview": {
