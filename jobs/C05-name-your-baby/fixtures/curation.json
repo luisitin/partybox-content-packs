@@ -2241,29 +2241,37 @@
   },
   {
     "id": "ssa:F:Olivia",
-    "fact": "Shakespeare used Olivia for a character in Twelfth Night.",
+    "fact": "In Twelfth Night, Olivia falls for Viola disguised as Cesario.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Olivia+%28name%29&oldid=1377954221",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "Olivia (name), revision 1377954221",
-        "workId": "wikipedia:Olivia (name):1377954221",
-        "quote": "the name was popularized by a character in ''[[Twelfth Night]]''."
+        "url": "https://www.britannica.com/topic/Twelfth-Night",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "David Bevington",
+        "title": "Twelfth Night, human topic paragraphs and printed writer credit",
+        "workId": "britannica:encyclopedia",
+        "quote": "Viola disguises herself as a boy named Cesario"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Olivia (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "William Shakespeare for a character in his comedy Twelfth Night"
+        "url": "https://www.britannica.com/topic/Twelfth-Night",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "David Bevington",
+        "title": "Twelfth Night, human plot paragraph",
+        "workId": "britannica:encyclopedia",
+        "quote": "Orsino sends Viola-Cesario to plead his cause to Olivia, who promptly falls in love with the messenger."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Twelfth_Night&oldid=1378274906",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Twelfth Night, revision1378274906, complete lead and Synopsis",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Viola loves Orsino, Orsino loves Olivia, and Olivia loves Viola disguised as Cesario."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Sara L. Uckelman, Names: A Journal of Onomastics (2019), Names Shakespeare Did Not Invent; nearby 1805 roll citation supports early attestation, not the play story. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_resumed_source_review/gertrude_pair_acceptance",
+      "note": "Independent actual-body acceptance: all3 BRT human paragraphs, printed David Bevington writer/Editors checker/Article/signature, and pinned Wiki complete lead/Characters/Synopsis/Setting/bibliography/citation definitions read. Both works explicitly link Olivia's love to Viola's Cesario disguise. Exact fictional character, no modern-name origin/invention or performer claim. Same Shakespeare fiction retold by2 authored works, not independent historical witnesses. Wiki love clause unfootnoted; later marriage cites Internet Shakespeare Editions, unread/count0. Direct BRT/Bevington labels0 is bounded; deeper lineage unknown. Wiki Olivia/Editors Viola context only, not extra works. BRT song link not played; original play/performances unread/count0. Brief attributed BRT and pinned CC BY-SA Wiki quotes; no dialogue/art/audio/film used. Original proofs/notices preserved. Adds concrete plot learning beyond valid character occurrence; editorial judgment, no player study."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -9353,14 +9361,14 @@
   },
   {
     "id": "ssa:M:Ronnie",
-    "fact": "Ronnie can be short for Ronald, whose Norse roots include ‘ruler’.",
+    "fact": "Ronnie can be short for Ronald, whose Norse roots pair 'advice' and 'ruler'.",
     "factStatus": "reviewed",
     "factReferences": [
       {
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Ronnie (pinned dictionary entry)",
+        "title": "Behind the Name: Ronnie (pinned dictionary)",
         "workId": "behind-the-name:dictionary",
         "quote": "Diminutive of Ronald or Veronica."
       },
@@ -9368,7 +9376,7 @@
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Ronald (pinned dictionary entry)",
+        "title": "Behind the Name: Ronald (pinned dictionary)",
         "workId": "behind-the-name:dictionary",
         "quote": "Scottish form of Ragnvaldr"
       },
@@ -9376,30 +9384,30 @@
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Ragnvaldr (pinned dictionary entry)",
+        "title": "Behind the Name: Ragnvaldr (pinned dictionary)",
         "workId": "behind-the-name:dictionary",
-        "quote": "Old Norse name composed of the elements regin \"advice, counsel\" and valdr \"power, ruler\" (making it a cognate of Reynold)."
+        "quote": "regin \"advice, counsel\" and valdr \"power, ruler\""
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Ronnie_(name)&oldid=1375245474",
-        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/w/index.php?title=Ronnie_%28name%29&oldid=1375245474",
+        "publisher": "Wikipedia; Wikimedia Foundation",
         "author": "Wikipedia contributors",
-        "title": "Ronnie (name), revision 1375245474",
+        "title": "Ronnie (name), revision1375245474",
         "workId": "wikipedia:encyclopedia",
         "quote": "It can be a pet form of the masculine name [[Ronald]] and the feminine name [[Veronica (name)|Veronica]]."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Ronnie_(name)&oldid=1375245474",
-        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/w/index.php?title=Ronnie_%28name%29&oldid=1375245474",
+        "publisher": "Wikipedia; Wikimedia Foundation",
         "author": "Wikipedia contributors",
-        "title": "Ronnie (name), revision 1375245474",
+        "title": "Ronnie (name), revision1375245474",
         "workId": "wikipedia:encyclopedia",
-        "quote": "The masculine ''Ronald'' is derived from the [[Old Norse]] ''[[Rognvald|Rögnvaldr]]'', which is composed of the elements ''regin'' (\"advice\", \"decision\") and ''valdr'' (\"ruler\")."
+        "quote": "the elements ''regin'' (\"advice\", \"decision\") and ''valdr'' (\"ruler\")."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_quality_review",
-      "note": "Read actual BTN Ronnie, Ronald and Ragnvaldr full descriptions and scraper attribution, plus the retained Ronnie(name) introduction and immediate citation context. Both authored presentations permit the Ronald short-form route and give its Old Norse ruler component. API revision1375245474 exactly matches cached text; the separate Ronnie disambiguation page is excluded. Wiki names Hanks/Hardcastle/Hodges2006p234 for Ronald’s etymology; only that citation label was read, not the Oxford book. The exact Ronnie link has no immediate footnote. Full Wiki body has no BTN citation; deeper common lexical lineage remains unaudited. Three BTN heads count one corporate dictionary and two Wiki quotes one authored article. Can be short preserves alternative Veronica use; ruler is one component, not a whole-name translation or every-bearer origin. Brief attributed protected BTN and CC-BY-SA4 Wiki evidence retain rights; no full dataset or MIT relicensing."
+      "reviewer": "/root/c05_reconnected_source_review",
+      "note": "Independent agent read raw BTN Ronnie/Ronald/Ragnvaldr/Veronica full narratives and scraper; Wiki Ronnie(name) full lead/three Hanks definitions. Revision1375245474/API bytes and five quotes match. Both works support optional Ronnie→Ronald and Norse advice/ruler components. Preserve BTN Ragnvaldr advice/counsel,power/ruler and Wiki Rögnvaldr advice/decision,ruler; can preserves Veronica. No universal ancestry, bearer traits or whole-name translation. BTN corporate dictionary counts once, Wiki contributors once. Wiki cites Hanks/Hardcastle/Hodges2006p234; Oxford body unread/count0, short-form bridge uncited. No literal BTN reference in raw Wiki; deeper lexical lineage unaudited. Historical protected BTN and CC-BY-SA4 Wiki rights retained; brief credited quotes/original fact only. Modest editorial gain: adds advice to ruler-only Ronnie; no current advice/ruler pair. Reginald mentions Reynold without paired gloss. Agent review, not measured player gain."
     },
     "recognitionVerified": true,
     "recognitionReview": {
