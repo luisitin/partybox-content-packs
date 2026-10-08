@@ -25879,29 +25879,29 @@
         }
       ],
       "id": "ssa:M:Leonard",
-      "fact": "Leonard includes a Germanic word meaning \"lion\".",
+      "fact": "Leonard pairs 'lion' with a root variously glossed 'brave', 'hardy', 'strong' or 'hard'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
+          "publisher": "Behind the Name; pinned jeremander/baby_names delivery",
           "author": "Behind the Name",
-          "title": "Behind the Name: Leonard (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Leonard (pinned2021 full retained description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Germanic elements lewo \"lion\""
+          "quote": "Germanic elements lewo \"lion\" (of Latin origin) and hard \"brave, hardy\""
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Leonard",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "A. Brown, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Leonard, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Leonard, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Old High German lewo […] 'lion'"
+          "quote": "Old High German lewo 'lion' + Old Saxon hard, Old High German hart 'strong, hard'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "Independent actual-source peer /root/c05_reconnected_assessment",
+        "note": "Read actual full BTN Leonard description/attributes and scraper, secondary mirror README; all 3 DMNES prose paragraphs, citeme/archive/footer and full About/Colophon. Both pair lion with hard; DMNES adds hart. BTN brave/hardy versus DMNES strong/hard: variously preserves gloss variation, not one translation or two votes per individual gloss. Saint-century 5th/6th conflict unselected. DMNES named credits literal; BTN entry writer unknown. Two presented authored dictionaries; mirrors/API add 0 votes; Bahlow/medieval sources unread, deeper lineage unaudited. Pinned raw GitBlobs/API/base64 and brief literal quotes checked; copyright notices retained, no open prose licence claimed. Bernard already teaches lion+hard relation; second-root semantics add modest meaning on Leonard's own card, no pack-unique compound or measured benefit. Exact 88 accepted independently; source-free post33 proof remains body 0."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -40631,29 +40631,29 @@
         }
       ],
       "id": "ssa:M:Shane",
-      "fact": "Shane is also the title of a 1953 western movie.",
+      "fact": "The 1953 western Shane won an Oscar for color cinematography.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Shane (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "It came into general use in America after the release of the western movie Shane (1953)."
+          "url": "https://en.wikipedia.org/w/index.php?title=Shane_(film)&oldid=1364500473",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Shane (film): full lead/awards table, revision1364500473",
+          "workId": "wikipedia:collective-encyclopedia",
+          "quote": "winning for [[Academy Award for Best Cinematography|Best Cinematography – Color]] ([[Loyal Griggs]])"
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Shane_%28film%29&oldid=1364500473",
-          "publisher": "English Wikipedia; Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Shane (film) (revision 1364500473)",
-          "workId": "wikipedia:Shane_(film)",
-          "quote": "'''''Shane''''' is a 1953 American [[Western film]]"
+          "url": "https://www.britannica.com/topic/Shane",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Lee Pfeiffer; fact-checked by Britannica Editors",
+          "title": "Shane: full human article and Academy Award list (* denotes win)",
+          "workId": "britannica:encyclopedia",
+          "quote": "Academy Award nominations (* denotes win) Picture Director Supporting actor (Jack Palance) Supporting actor (Brandon deWilde) Cinematography (colour)* Screenplay"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary names the western film Shane and its 1953 release; the independently authored film article explicitly identifies the same title, genre and year. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+        "reviewer": "Codex Queue after independent actual-source peer review by /root/c05_reconnected_source_review",
+        "note": "Independent peer accepted after actual Wiki1364500473 lead/full awards/citations, API/raw/rendered identity and CC BY-SA4.0 footer reads; actual Lee Pfeiffer BRT complete301-word human article, full production/cast/awards lists, printed+JSONLD credits, biography/history/copyright read. Both identify the 1953 western; Wiki says color-cinematography winner and BRT heading says * denotes win, with Cinematography(colour)*. Quote whitespace normalized, words/star retained. Wiki/Academy one group; denied Academy body unread/count0. Two attributed human reference presentations; deeper award-data lineage unknown. BRT copyrighted, brief19-word quote, broader reuse grant unestablished. Nomination-count disagreement omitted. No first/sole/best-film, name-causation or film/novel viewing claim. Current500 editorial comparison finds modest specific film-craft detail gain over valid title/year/genre line; existing Oscar cards acknowledged, no measured benefit."
       },
       "recognitionVerified": true,
       "recognitionReview": {
