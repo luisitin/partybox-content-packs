@@ -1,3 +1,47 @@
+# Resume C05 — round54 local completion
+
+C05 remains active; do not merge or advance while KEEP GOING is incomplete. Cumulative 163 editorial changes across 51 content rounds plus API36/46/48 = 54 KEEP GOING rounds.0 established consecutive no-player-gain rounds.
+
+Prior exact head 4f09e6be34dbc499741d4037088cd3993ff5f689 / full CI 37845525994 completed/success; root personally inspected CI at 2026-10-08T21:35:55Z (actual complete run/job read25e05c) and reread the job at 2026-10-08T21:35:53.876460+00:00 (actual complete four governing documents0c9523).
+
+Round54 locally completed at 2026-10-08T21:42:52Z; claim refresh, normal feature/main pushes, native draft save and this new head's own full CI are separate root operations. Inspect live status/claims/CI before writing.
+
+Changed:ssa:M:Arthur, ssa:M:Kenneth.
+
+Measured wording comparison for final root-approved exact facts: Kenneth old56chars/10words to55/9 (-1/-1), but the player benefit is explicit acting-versus-writing achievement, not compression; whole old origin lesson lost. Arthur old43/6 to76/11 (+33/+5) retains uncertainty and adds the familiar bear possibility, with longer two-clause/qualifier/repetition cost. These are modest reasoned editorial learning gains only; no audience experiment or numeric gain score.
+
+Root actually observed parent exec 98415 exit0 at 2026-10-08T21:42:52.237796+00:00 before completion. Both generators,8/8 focused tests in 13.847793460s,0 failures/cancellations/skips/todos and17 checksum matches passed. All500 numeric/recognition records and 498 other complete curation/generated rows remain unchanged. Current source index contains 537 URLs.
+
+- fixtures/curation.json: fc115c30a17eaa5bcf1f69a5b176fd2dac3a9b62675801f2fbbe64cc6bc3a7b4
+- data/name-your-baby.json: 2a0ec3fd681be73533f014b4a1132e230dd7873ab26970049bdd60db3d590ec0
+- data/current-reviewed-candidates.json: 3ebb8e81f76ac4fb034cac09149489bf882925ac523381e1df3f44cc4b052f86
+
+Portable source/approval summary:
+
+Two narrowly qualified authored editorial treatments per changed fact after full necessary-context, credit, literal/revision, known-import and rights review. Kenneth’s Britannica biography/history is one work; collective pinned Wikipedia is a second treatment, with uncited win clause, unavailable Academy/current Britannica terms, unaudited deeper reporting explicitly retained. Arthur’s corporate BTN and pinned Wiki retain debate while selected Matasović/Zimmer routes support one possible bear root; primary scholarship unread and known BTN general consultation disclosed. Brief attributed evidence/source-specific copyright and CC BY-SA4 obligations retained; no blanket pack/art/corpus licence or MIT relicensing. Whole old Kenneth origin lesson lost; whole old Arthur uncertainty retained. Final distinct peer and ROOT exact-object source/materiality approvals are complete: Kenneth21:40:57UTC/root252d89, Arthur21:24:58UTC/root8188d6, with precise frozen71/69-payload coverage kept separate from source votes. All actual note/fact/quote bounds are preserved in metadata and curation; new integration/tests remain separate required operations.
+
+Full notices are in SOURCES.md; selected fields/reviews remain in curation. Temporary proofs/helpers are optional, not restored dependencies.
+
+Root personally read all500 current facts after this exact head’s own green run/job and four governing documents: actual9ff791/a8169b with full dcdcaf recovery125–128 and320–429. Immutable five locked21:23:21.850683UTC, Kenneth worst; familiar/source-aware, prior holds/proposed leads disclosed, no blind or source-availability reranking. Complete five curation/production pairs personally read0b63c7/704708/34aaee with actual e28595 Colton-review recovery:75 six-field cells/450values/16refs per copy, reviews and recognition included. Later0c9523/25e05c reconfirmed governing job and same full ownGREEN. Distinct source-naive all500 counter43 chose Colton worst, then Brittany/Rhonda/Arlene/Mason; disagreement preserved rather than converted to a unanimous rank. Independent peer/source reads and mechanical packet coverage are separate declared scopes, not root-inherited500/source/audience certification.
+
+Root priorities:ssa:M:Kenneth: English/two-root connection requires decoding two unexplained older forms; named detail masks useful but abstract contrast.; ssa:F:Velma: Clear franchise/brainy role gives a thin familiar payoff.; ssa:M:Colton: State-pair occurrences are arbitrary thin surprise without causal origin.; ssa:F:Kristine: Name-family membership gives little beyond close spellings.; ssa:M:Arthur: Honest uncertainty is useful but offers no concrete possible origin.
+
+Kenneth remains the locked worst before change: two unexplained older forms impose decoding cost. The55-character actor/screenwriter alternative exposes a concrete cross-role achievement to readers unfamiliar with Branagh. This trades away the entire English-form/two-Gaelic-root/exact Coinneach-and-Cináed lesson; the positive judgment must earn that whole loss, surname/film familiarity and routine award-template cost. The49-character producer alternative omits Actor and relies more on pre-existing performer recognition; its lower length is not a gain. Arthur’s concrete bear possibility supplies one understandable example while retaining origin uncertainty, at a real qualifier/glossary/two-clause cost. Velma/Colton/Kristine remain weak; their earlier source, borrowed-lineage, template and lost-lesson holds remain actual bounded holds, not failed facts or no-gain rounds.
+
+Remaining gates:
+
+C05 remains active. After serialized integration and observed focused-parent completion, commit and refresh main claim/normal feature push before21:45:40UTC, then inspect that new exact head’s own full CI before another editorial gate. Save current complete native start/repository draft only after fresh whole-workspace discovery, actual draft read, clean exact HEAD and normal remote checks; preserve install/network/secrets/runtime exactly and verify readback. Native save is draft only, requires review/save/publish and proves no execution/apply/fresh-task restoration. Prior native97 pin4f/PR own-green checkpoint remain historical after new changes. Velma,Colton,Kristine,Joann and all earlier bounded holds remain unresolved continuation material; no cosmetic-convergence, zero-gain, exhaustion, merge or queue-advance claim.
+
+Valid short lessons can remain. Any new clause requires two qualified authored works after grouping known imports/common lineage, actual original credits/rights and a positive net materiality judgment. Holds/docs/pendingCI/optional403s are not zero-gain rounds.
+
+## Prior continuation — historical, preserved verbatim below
+
+# Resume C05 — round54 integration (checks pending)
+
+At 2026-10-08T21:42:00.836902+00:00, integrated 2 exact root-approved facts: ssa:M:Arthur, ssa:M:Kenneth. Both generators, focused checks, protected-data checks, hashes and root parent-exit observation remain pending. C05 remains active; this is not a completed LOOP round or a claim about new-head CI.
+
+## Prior continuation — historical, preserved verbatim below
+
 # Resume C05 — current green, two bounded proposals under review
 
 Checkpoint actually written at 2026-10-08T21:15:11.899985+00:00. Clean pushed feature ee207b8ed4d1a884dbfe75b0de1801d7751b4bd0 owns GREEN run37842416304/job113534829248, run completed20:57:28Z/job20:57:27Z, npmtest20:50:37–20:57:25Z. Root personally read complete run fields and all11 successful listed job steps after green (60ce07/36a5fd), then all four governing docs115f53 and again a9c71a. Historical 45-test coverage is not inferred anew from step labels. Claim remains C05 2026-10-08T20:50:08Z codex-queue/main59e3acc4a0cf3ff3c8cbdb8d4b17af42647c477e. Previous refresh parent95609 actually exited0/root observed6cfb58; interval24m01s. Refresh this milestone before21:20:08Z and record actual result separately. Historical47m07s/17m07slate reconnection interval remains recorded.

@@ -1599,29 +1599,53 @@
         }
       ],
       "id": "ssa:M:Kenneth",
-      "fact": "Kenneth is an English form of both Coinneach and Cináed.",
+      "fact": "Actor Kenneth Branagh won an Oscar for writing Belfast.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Kenneth&oldid=1368128603",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Kenneth, revision 1368128603",
-          "workId": "wikipedia:Kenneth:1368128603",
-          "quote": "'Kenneth''' is a [[given name]] of [[Gaelic language|Gaelic]] origin. The name is an [[Anglicised]] form of two entirely different Gaelic [[personal names]]: ''Cainnech'' and ''[[Cináed (disambiguation)|Cináed]]''. The modern [[Scottish Gaelic]] form of ''Cainnech''"
+          "url": "https://www.britannica.com/biography/Kenneth-Branagh",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Kenneth Branagh (updated September 19, 2026)",
+          "workId": "britannica:Kenneth-Branagh",
+          "quote": "He ultimately won an Academy Award for his screenplay."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kenneth (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Anglicized form of both Coinneach and Cináed. This name was borne by the Scottish king Kenneth (Cináed) mac Alpin, who united the Scots and Picts in the 9th century. It was popularized outside of"
+          "url": "https://www.britannica.com/biography/Kenneth-Branagh/additional-info#history",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Amy Tikkanen (award update); The Editors of Encyclopaedia Britannica",
+          "title": "Kenneth Branagh: References & Edit History (award update March 28, 2022)",
+          "workId": "britannica:Kenneth-Branagh",
+          "quote": "Noted that he won an Academy Award for his screenplay for <i>Belfast</i>."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Kenneth_Branagh&oldid=1378451392",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors (revision 1378451392; last editor Rodw, not sole author)",
+          "title": "Kenneth Branagh, revision 1378451392",
+          "workId": "wikipedia:Kenneth-Branagh:1378451392",
+          "quote": "This was followed by three nominations in 2022 for ''[[Belfast (film)|Belfast]]'' – his first nominations for Original Screenplay and Best Picture, winning for Original Screenplay."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Kenneth-Branagh",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Kenneth Branagh (updated September 19, 2026)",
+          "workId": "britannica:Kenneth-Branagh",
+          "quote": "British actor, director, and writer"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Kenneth_Branagh&oldid=1378451392",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors (revision 1378451392; last editor Rodw, not sole author)",
+          "title": "Kenneth Branagh, revision 1378451392",
+          "workId": "wikipedia:Kenneth-Branagh:1378451392",
+          "quote": "is a British actor and filmmaker."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Hanks, Hardcastle, Hodges, A Dictionary of First Names, 2006, pp.157–158,343,401. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "codex-queue root; independent peer c05_kenneth_distinct_peer",
+        "note": "Root and prelocked peer read complete Britannica biography/history, full necessary pinned Wiki sections/citations and actual credits/rights. Five strict raw quotes represent two authored treatments, not five votes. Amy Tikkanen is credited for March28,2022 award update; Rodw is Wiki last editor only. Both identify actor/personal screenplay win/Belfast; explicit Wiki win uncited, nearby Variety nominations excluded. Separate narrative/update evidence qualifies narrow editorial corroboration, no primary/no-borrowing certificate; deeper common reporting unread. Actor makes the writing contrast explicit. Entire English/two-form/Coinneach/Cináed lesson lost; clearer cross-role achievement modestly earns loss despite surname/film/template cost.55chars/9words versusold56/10 is not gain reason. BRT copyright read/current terms unavailable; Wiki CC BY-SA4 source/revision/authors/licence/change duties retained. Brief attributed evidence/original fact only, no bulk/art grant."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -11767,29 +11791,45 @@
         }
       ],
       "id": "ssa:M:Arthur",
-      "fact": "Arthur's original meaning is still debated.",
+      "fact": "Arthur's original meaning is debated; one possible Celtic root means 'bear'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/arthur",
           "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Arthur (pinned 2021 dictionary distribution)",
+          "author": "Behind the Name (site creator/copyright holder Mike Campbell; entry byline absent)",
+          "title": "Meaning, origin and history of the name Arthur (entry updated May 26, 2026)",
           "workId": "behind-the-name:dictionary",
           "quote": "The meaning of this name is unknown."
         },
         {
+          "url": "https://www.behindthename.com/name/arthur",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name (site creator/copyright holder Mike Campbell; entry byline absent)",
+          "title": "Meaning, origin and history of the name Arthur (entry updated May 26, 2026)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "It could be derived from the Celtic elements *artos \"bear\""
+        },
+        {
           "url": "https://en.wikipedia.org/w/index.php?title=Arthur&oldid=1371175958",
           "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Arthur",
+          "author": "Wikipedia contributors (revision 1371175958; last editor Bkatcher, not sole author)",
+          "title": "Arthur: Etymology (revision 1371175958)",
           "workId": "wikipedia:Arthur",
           "quote": "The exact origins of the name Arthur remains a matter of debate."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Arthur&oldid=1371175958",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors (revision 1371175958; last editor Bkatcher, not sole author)",
+          "title": "Arthur: Etymology (revision 1371175958)",
+          "workId": "wikipedia:Arthur",
+          "quote": "derived from the patronym *Arto-rīg-ios, meaning \"Son of the Bear/Warrior-King\""
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_literary_gap_facts",
-        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actually read extensive competing etymologies with non-BTN authored citation cluster: John T. Koch2006, Kemp Malone1925, Stefan Zimmer2009, Kenneth Jackson. No unqualified bear-man or Roman Artorius origin selected; underlying academic works were not directly read."
+        "reviewer": "codex-queue root; independent peer c05_arthur_distinct_peer",
+        "note": "Root and prelocked independent peer read full live BTN Arthur entry/all references, complete pinned Wiki Etymology/citations/Sources and actual policies. Both retain uncertainty. Selected bear paths cite BTN Matasovic2009 versus Wiki Zimmer2009 hypothetical bear/warrior-king; Wiki rejects settled Welsh bear-man. General BTN Wikipedia consultation is known; two secondary treatments qualified narrowly, no primary/no-borrowing certificate and scholarship unread. All four quotes bind raw originals/revision1371175958. Whole old uncertainty retained; concrete bear possibility earns modest learning despite +33 characters/+5 words, qualifiers and glossary repetition. Corporate BTN credit distinguishes Mike Campbell ownership from absent entry byline. Copyright/few-definition allowance and broader redistribution limits recorded; brief attributed evidence only. Wiki CC BY-SA4 source/authors/revision/licence/quote status retained, no images or bulk prose release."
       },
       "recognitionVerified": true,
       "recognitionReview": {
