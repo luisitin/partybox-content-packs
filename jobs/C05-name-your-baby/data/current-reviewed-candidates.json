@@ -33943,37 +33943,77 @@
         }
       ],
       "id": "ssa:M:Connor",
-      "fact": "Conchobar mac Nessa is a legendary king of Ulster.",
+      "fact": "Connor can be a form of Conchobar, borne by a legendary Ulster king Conchobar mac Nessa.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name; immutable dictionary delivery",
+          "url": "https://www.behindthename.com/name/connor",
+          "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Connor (pinned dictionary entry)",
+          "title": "Behind the Name: Connor (complete original entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Conor."
+          "quote": "Variant of Conor"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name; immutable dictionary delivery",
+          "url": "https://www.behindthename.com/name/conor",
+          "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Conor (pinned dictionary entry)",
+          "title": "Behind the Name: Conor (complete original entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "the legendary Ulster king Conchobar mac Nessa"
+          "quote": "Anglicized form of Conchobar"
+        },
+        {
+          "url": "https://babynames.com/name/connor",
+          "publisher": "BabyNames.com / Moss Gathering LLC",
+          "author": "BabyNames.com; founded and database developed by Jennifer Moss; entry writer not separately named",
+          "title": "Meaning of Connor - BabyNames.com (complete original entry)",
+          "workId": "babynames.com:dictionary",
+          "quote": "From the Irish/Celtic name Conchobhar."
+        },
+        {
+          "url": "https://www.libraryireland.com/names/men/conchobhar-conor.php",
+          "publisher": "Library Ireland digital presentation of Irish Names and Surnames, 1923",
+          "author": "Rev. Patrick Woulfe",
+          "title": "Irish Names and Surnames: CONCHOBHAR, with complete Explanatory Note",
+          "workId": "woulfe:irish-names-and-surnames:1923",
+          "quote": "CONCHOBHAR, genitive -air, Conor, Connor"
+        },
+        {
+          "url": "https://www.behindthename.com/name/conchobhar",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Conchobhar (complete original entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Modern Irish form of Conchobar."
+        },
+        {
+          "url": "https://www.behindthename.com/name/conchobar",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Conchobar (complete original entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "It was borne by the Ulster king Conchobar mac Nessa, one of the central characters in the Ulster Cycle of Irish mythology"
         },
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Conchobar+mac+Nessa&oldid=1373275116",
           "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
-          "title": "Conchobar mac Nessa (revision 1373275116)",
+          "title": "Conchobar mac Nessa (revision 1373275116): complete article, spelling note and citations",
           "workId": "wikipedia:Conchobar_mac_Nessa",
-          "quote": "mac Nessa''' (son of [[Ness (Irish mythology)|Ness]]) is the king of [[Ulaid|Ulster]] in the [[Ulster Cycle]] of [[Irish mythology]]."
+          "quote": "mac Nessa (son of Ness) is the king of Ulster in the Ulster Cycle of Irish mythology."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Conchobar+mac+Nessa&oldid=1373275116",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Conchobar mac Nessa (revision 1373275116): complete spelling note",
+          "workId": "wikipedia:Conchobar_mac_Nessa",
+          "quote": "Also spelled Conchobor, Conchubar, Conchobhar, Conchubhar, Conchúr, Conchúir, Connor, Conor, Connacher"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary explicitly links Connor to Conor, then identifies Conchobar mac Nessa as a legendary Ulster king. The separate actual mythology article confirms the king of Ulster in the Ulster Cycle and also lists Connor/Conor among spellings. The same dictionary’s linked entries count as one work. Limits: No certain father, etymological meaning, historicity or disputed Deirdre details selected. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+        "reviewer": "Distinct actual-source/materiality peer /root/c05_current_offline_challenge",
+        "note": "Distinct peer read full current BTN chain, Moss Connor/credits/linked50-word policy, Woulfe1923 selected entry/notation and LibraryIreland editing notice, and pinned Wiki full article/aliases/citations/CC4 rights. BTN direct route and Wiki aliases support the qualified form link; Moss and unbracketed Woulfe corroborate Conchobhar, whose Conchobar relation is explicit in BTN/Wiki. Four credited works; all BTN entries count once. BTN catalog names Woulfe/Wikipedia/MacKillop; primary lineage remains unproved. Moss entry writer unnamed; loaded general terms blocked/unread. Woulfe book partial; no blanketPD claim. No meaning, whole-patronymic identity, ancestry, naming cause, father/date/Deirdre claim. Retains full legendary Ulster king story;50→88(+38),2 characters remain. Repetition/density cost, modest editorial bridge gain only. Brief attributed quotes/original links and source notices required; no empirical or whole-pack certification."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -35119,29 +35159,61 @@
         }
       ],
       "id": "ssa:F:Pauline",
-      "fact": "Pauline belongs to the feminine family of Paul.",
+      "fact": "Pauline belongs to Paul's feminine family, with a Latin root meaning 'small'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/pauline",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Pauline (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Pauline, complete original current entry, updated July 2, 2017",
           "workId": "behind-the-name:dictionary",
-          "quote": "French feminine form of Paulinus (see Paulino). […] Spanish and Portuguese form of the Roman family name Paulinus, which was itself derived from Paulus (see Paul). […] From the Roman family name Paulus, which meant \"small\" or \"humble\" in Latin."
+          "quote": "French feminine form of Paulinus (see Paulino)."
+        },
+        {
+          "url": "https://www.behindthename.com/name/paulino",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Paulino, complete original current entry, updated May 26, 2026",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Roman cognomen Paulinus, which was itself a derivative of Paulus"
+        },
+        {
+          "url": "https://dmnes.org/2023/1/name/Paul",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "A. Brown, R. Le Get, S.L. Uckelman",
+          "title": "The Dictionary of Medieval Names from European Sources: Paul, edition 2023.1",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Latin paulus 'small, little'."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/lexica/56061ca127f4a2844980baffc5f2b6d1332897b3/CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng1.xml",
+          "publisher": "Clarendon Press, Oxford; machine-readable delivery by Perseus Digital Library / Trustees of Tufts University",
+          "author": "Charlton T. Lewis and Charles Short",
+          "title": "A Latin Dictionary (1879), paulus1; full selected original entry n34193 in pinned Perseus distribution",
+          "workId": "lewis-short:a-latin-dictionary:1879",
+          "quote": "In gen., little, small"
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co., London; public-domain US digital delivery by Project Gutenberg / GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition 1884, full Section VIII: Paullus and Magnus",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "from the Æmilii, and has spread Paul throughout Europe. The strong presumption that St. Paul preached the Gospel in Spain has rendered Pablo very common there; but, in fact, the name is everywhere more usual than in England, in spite of the tradition that the great Apostle likewise landed here, and the dedication of our great cathedral. Perhaps this may be owing to the fact that twelve other SS. Paul divide the allegiance of the Continent with the Apostle. Paula is not only honoured as his feminine, but as the name of the friend and correspondent of St. Jerome, the mother of Eustochium; and Paola is in consequence found in Italy. Paulinus (the lengthened form) became in Welsh, Pewlin, and also named three saints—among them our first Northumbria, bishop of York; but it has not been followed, except in Italy, by Paolina, and _there_ is, perhaps, a mere diminutive of Paulus. Yet the feminine is far more fashionable; and Paulina, Pauline, Paolina, are the favourite forms everywhere occurring. Perhaps Pauline became the more popular in France"
+          "quote": "Paulinus (the lengthened form)"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public-domain US digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884, full Section VIII: Paullus and Magnus",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Paulina, Pauline, Paolina, are the favourite forms everywhere occurring."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Both actual pinned authored dictionary/book passages individually read for this narrow original claim. Linked dictionary entries remain one work. Yonge disputed roots/chronology excluded; BTN corporate editorial identity read-supported and individual author unestablished. Distinct authored works, with shared deeper authorities unaudited. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_reconnected_source_recovery; distinct actual-source/materiality peer",
+        "note": "Personally read full BTN Pauline/Paulino/Paul and DMNES Paul; full Yonge Paullus/Magnus section, prefaces, imprint and PG notice; complete Lewis–Short paulus1/Paulus2 entries/header and Perseus README/licence. BTN's explicit Pauline→Paulinus→Paulus route and Yonge's feminine family preserve the lesson. DMNES and Lewis–Short give the Latin small/little gloss. BTN Paul explicitly cites Lewis–Short/Kajanto and its catalogue names DMNES; BTN adds no independent gloss group. Family BTN/Yonge; gloss DMNES/Lewis–Short, with shared/deeper derivation unknown, no primary-independence certificate. Hold older humble, ancestor stature, Pauxillus/paurulus/Greek theories, apostle naming, saints and dates. Brief literal attributed quotes; modern copyright retained, PG regional/notice and Perseus CC-BY-SA4.0 conditions preserved. Modest semantic gain at47→77chars(+30), family retained; bounded overlap only, no empirical players. Metrics/recognition unchanged; root owns integration."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -77559,53 +77631,53 @@
         }
       ],
       "id": "ssa:F:Bella",
-      "fact": "Isabella and Elizabeth belong to the same name family.",
+      "fact": "Bella can be short for Isabella, a form of Elizabeth.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/bella",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Bella (entry index 0; pinned dictionary)",
+          "title": "Behind the Name: Bella (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Short form of Isabella and other names ending in bella."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/isabella",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Isabella (entry index 0; pinned dictionary)",
+          "title": "Behind the Name: Isabella (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Latinate form of Isabel."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/isabel",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Isabel (entry index 0; pinned dictionary)",
+          "title": "Behind the Name: Isabel (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Medieval Occitan form of Elizabeth."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Elisabeth of Hainault, on her marriage with Philippe Auguste, seems to have been the first to suffer the transmutation into Isabelle, the French being the nation of all others who delighted to bring everything into conformity with their own pronunciation. The royal name thus introduced became popular among the crown vassals, and Isabelle of Angoulême, betrothed to Hugues de Lusignan, but married to King John, brought Isabel to England, whence her daughter, the wife of Friedrich II., conveyed Isabella to Germany and Sicily. Meantime the lovely"
+          "url": "https://babynames.com/name/bella",
+          "publisher": "BabyNames.com",
+          "author": "Jennifer Moss",
+          "title": "Bella: Name Meaning, Popularity and Info on BabyNames.com (complete original entry)",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "Short form of Isabella, a form of Elizabeth."
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
           "publisher": "Project Gutenberg, mirrored by GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised1884, SectionII Elisheba (complete selected section)",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "During the anti-Spanish alliance between England and France, Edward VI. was sponsor to a child of Henri II., who received the Tudor name of Elisabeth, but could not become the wife of Philip II., without turning into Isabel; indeed, the Italian Elisabetta Farnese—a determined personage—was the only lady who seems to have avoided this transformation."
+          "quote": "No name has so many varieties of contraction, as will be seen by the ensuing list, where, in deference to modern usage, Elizabeth is placed separately from Isabella."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to Isabella/Elizabeth: BTN links Isabella→Isabel→Elizabeth; Yonge’s independently authored Elizabeth section explicitly describes the Elisabeth/Isabelle/Isabel/Isabella family. Bella’s shortening relation is BTN-only context. No uncertain historical first-use claim or exclusion of Bella’s separate Italian beautiful association."
+        "reviewer": "/root/c05_post38_player_review",
+        "note": "Distinct peer read full current Bella record/row and original BTN Bella/Isabella/Isabel, Moss Bella, Nameberry Bella, credits/rights/catalogues and full Yonge Elisheba context. BTN and Jennifer Moss Article-credited definition directly support both Bella→Isabella and Isabella→Elizabeth clauses; linked BTN entries count once. Yonge corroborates the retained family, not modern Bella. Nameberry's explicit BTN/Yonge/Hanks catalogue overlap is corroborative only. Two credited dictionaries support this narrow relation; deeper common scholarship/borrowing remains unknown, not disproved by missing import markers. 'Can' preserves other -bella names and Italian beautiful association; no exclusive genealogy or first-use claim. Brief quotes retain original credits/links: Moss8 words within50-word policy, BTN limited definitions, Yonge US/PG conditions; no bulk/art licence. Current54→53 adds the card connection and keeps its family lesson; modest editorial clarity, no empirical gain."
       },
       "recognitionVerified": true,
       "recognitionReview": {
