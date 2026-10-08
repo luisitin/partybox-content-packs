@@ -532,6 +532,12 @@ Full original Moss Gail identity agrees across requested/effective URL, H1/title
 
 Smith's original XML/title printing says1884, while the stable historical workId remains smith:bible-dictionary:1863; no1863 printing was read. Its Public Domain metadata and CCEL copyright comment are preserved. The complete entry separates Nabal's widow from David's sister. Full individual BTN pages/Abigail [more], whole books/corpora and linked Bible passages remain unread. No dates, marriage order, son names, meaning, gender, popularity or bearer ancestry is selected. Current fact was valid; this modest missing-card connection preserves its lesson without claiming an audience study. Original peer/addendum hashes and actual scope are in VERIFY.
 
+## Post-CI content improvement round40
+
+Madelyn's direct semantic-to-place association is supported by the actual complete Jennifer Moss Madelyn entry (Woman of Magdala) and the complete Behind the Name three-headword presentation. This does not claim a second independent exact variant genealogy; the separately frozen exact-route HOLD remains. The place/tower clause has actual BTN plus Charlotte Mary Yonge's full selected2658-word section/tables/footnotes, with believed and tower-or-castle context. Nonexclusive tied to retains that alternate. Three credited dictionary/book works; aliases, mirrors, repeated headwords and broad unread footnote pointers add none. Possible common Hanks/deeper scholarship remains unknown.
+
+The accepted75-character line clarifies the displayed card's place connection and retains tower learning; the visible Magdalene headword leaves it. Related Madeline separately retains the form lesson. The unused flattened historical table is removed and Yonge quotation narrowed literally. Moss's16-word quote stays within the brief-quote policy with visible attribution: [Jennifer Moss, Madelyn on BabyNames.com](https://babynames.com/name/madelyn). Article/Person JSONLD credit and full human profile, not a printed entry byline. Modern restrictive prose/database rights and PG USA/regional/trademark boundaries remain; no global PD/open prose or bearer ancestry, gender, Mary-identity, recommendations or unique etymology claim. Full actual-source/materiality scope and hashes are in VERIFY and curation.
+
 ## Current fact-source URL index
 
 Each URL identifies the actually read work and selected identities whose fact support or quotations were taken. Linked headwords and mirrors remain one authored work. Rights and limitations remain above.
@@ -542,6 +548,7 @@ Each URL identifies the actually read work and selected identities whose fact su
 - Jennifer Moss, Carolyn: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/carolyn — took fact support for ssa:F:Carolyn.
 - Jennifer Moss, Charlene: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/charlene — took fact support for ssa:F:Charlene.
 - Jennifer Moss, Gail: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/gail — took fact support for ssa:F:Gail.
+- Jennifer Moss, Madelyn: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/madelyn — took fact support for ssa:F:Madelyn.
 - Jennifer Moss, Marissa: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/marissa — took fact support for ssa:F:Marissa.
 - Jennifer Moss, Schuyler: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/schuyler — took fact support for ssa:F:Skylar.
 - Jennifer Moss, Skylar: Name Meaning, Popularity and Info on BabyNames.com: https://babynames.com/name/skylar — took fact support for ssa:F:Skylar.

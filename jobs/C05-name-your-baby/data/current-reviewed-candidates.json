@@ -62775,7 +62775,7 @@
         }
       ],
       "id": "ssa:F:Madelyn",
-      "fact": "Magdalene means 'of Magdala', a place name meaning 'tower'.",
+      "fact": "Madelyn's meaning refers to Magdala, a place name tied to the word 'tower'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -62808,20 +62808,20 @@
           "author": "Charlotte Mary Yonge",
           "title": "History of Christian Names, revised edition 1884",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "The word itself is believed to be a mere adjective of place, meaning that she came from Magdala, which, in its turn, means a tower or castle, and is represented by the little village of Mejdel, on the lake of Tiberias, so that her proper designation would be Mary of Magdala, _i. e._ of the tower, probably to distinguish her from Mary of Bethany with"
+          "quote": "The word itself is believed to be a mere adjective of place, meaning that she came from Magdala, which, in its turn, means a tower or castle"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "┌────────────────┬────────────────┬────────────────┬────────────────┐ │ English. │ German. │ Swiss. │ Danish. │ │Magdalene │Magdalene │Magdalene │Magdelene │ │Maudlin │Madlen │ │Malin │ │Maun │Lene │Leli │Magli │ │Madeline │Lenchen │ │Mali │"
+          "url": "https://babynames.com/name/madelyn",
+          "publisher": "BabyNames.com, Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Madelyn: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "The name Madelyn is primarily a Female name of English origin that means Woman of Magdala."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-        "note": "Madelyn to Madeline is BTN-only review context. Published fact states only the Magdalene/Magdala/tower hook, supported by BTN and Yonge. Yonge's labeled family table supplies Magdalene while its prose gives Magdala and tower/castle; its cautious historical wording and medieval Mary-of-Bethany conflation are noted but no conflation or supernatural claim is retained. Multiple BTN headwords count as one work. Actual retained bodies, pointers, hashes and literal excerpts checked independently; deeper source lineage unaudited."
+        "reviewer": "/root/c05_reconnected_assessment; distinct semantic actual-source/materiality peer",
+        "note": "Separate semantic association; exact Madelyn→Madeline/Magdalene variant HOLD is unchanged. Full Moss Madelyn entry gives Woman of Magdala; H1/title/canonical/Article identity matches and JSONLD credits Jennifer Moss, no printed byline. Complete stored BTN three-headword chain supports semantic place association as one presentation; no Moss variant genealogy inferred. BTN Magdalene and full Yonge Section I (2658 words/tables/footnotes) tie Magdala to tower; Yonge says tower or castle, preserved by nonexclusive tied to. Full credits/rights/profile and PG regional notice were personally read earlier in this pass and byte-bound here; no new auxiliary reread or wholebook claim. Mirrors/imports add no works; possible shared Hanks/deeper lineage unknown. Gender/ancestry, recommendations and Mary beliefs held. Literal brief quotes retain visible Moss original attribution. Names the card’s place association and keeps the tower lesson; modest benefit, no empirical gain."
       },
       "recognitionVerified": true,
       "recognitionReview": {
