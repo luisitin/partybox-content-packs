@@ -3478,3 +3478,16 @@ sha256sum --check SHA256SUMS.txt > /tmp/c05-keep34-sha.log
 ```
 
 Actual generator/focused exec session 4508 returned exit 0 with persisted status 0: 8/8 tests, zero failures, cancellations, skips or todos; 14.916393003 seconds. All 17 refreshed checksums pass. Tests run strict complete/candidate schemas, exact production golden bytes, two-timezone repeatability and 25 protected negative invocations per CLI; root additionally compared all 500 metric records with the unchanged base pack. Candidate modes remain complete:false; the complete pack is complete:true with 500 reviewed facts and recognition records. This catches changed counts, nondeterministic data, forged golden files and source overwrites. Measured gain: 2 changed player-visible facts; no fabricated participant survey or cosmetic convergence. Generator code, numeric SSA source data and dependencies are unchanged, so the earlier full 42-test/34-mutation/12-restored-file result remains separately identified. Evidence `/tmp/c05-keep34-completion-evidence.json`.
+
+## KEEP GOING round35: 1 substantive improvements
+
+Reread C05 in JOBS and listed five weaknesses: Wilma’s implicit international name-family context; Colton’s place pair retained after exact-route hold; Clyde’s river occurrence retained after confirmed one-work construction hold; Briana’s literary occurrence retained after primary-only plot hold; Mariah’s implicit modern family bridge pending independent support. Actual `python /tmp/c05-integrate-quality-round.py 35 /tmp/c05-wilma-walking-three-golds-independent-review-20261008T055819Z/wilma-walking-three-golds-approved-curation.json 30c86349f67c19d17509cc23c64c4358fccafe2de9cb7cca83803792f744753a` replaced 1 reviewed facts, preserving 499 untouched rows and every recognition record. Then from this job folder actually ran:
+
+```sh
+npm run generate:reviewed > /tmp/c05-keep35-generate-reviewed.log 2>&1
+npm run generate:complete > /tmp/c05-keep35-generate-complete.log 2>&1
+node --test dist/test/reviewed.test.js dist/test/complete.test.js > /tmp/c05-keep35-focused-tests.log 2>&1
+sha256sum --check SHA256SUMS.txt > /tmp/c05-keep35-sha.log
+```
+
+Actual generator/focused exec session 83172 returned exit 0 with persisted status 0: 8/8 tests, zero failures, cancellations, skips or todos; 13.719573797999999 seconds. All 17 refreshed checksums pass. Tests run strict complete/candidate schemas, exact production golden bytes, two-timezone repeatability and 25 protected negative invocations per CLI; root additionally compared all 500 metric records with the unchanged base pack. Candidate modes remain complete:false; the complete pack is complete:true with 500 reviewed facts and recognition records. This catches changed counts, nondeterministic data, forged golden files and source overwrites. Measured gain: 1 changed player-visible facts; no fabricated participant survey or cosmetic convergence. Generator code, numeric SSA source data and dependencies are unchanged, so the earlier full 42-test/34-mutation/12-restored-file result remains separately identified. Evidence `/tmp/c05-keep35-completion-evidence.json`.

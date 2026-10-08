@@ -54431,61 +54431,45 @@
         }
       ],
       "id": "ssa:F:Wilma",
-      "fact": "Wilhelmina shares William's name family with Italy's Guglielmo.",
+      "fact": "Wilma Rudolph had childhood walking difficulties and won three Olympic gold medals.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wilma (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Short form of Wilhelmina."
+          "url": "https://en.wikipedia.org/w/index.php?title=Wilma_Rudolph&oldid=1378389046",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Wilma Rudolph: complete Early life and education, revision1378389046",
+          "workId": "wikipedia:collective-encyclopedia",
+          "quote": "learned to walk without a leg brace or orthopedic shoe for support"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wilhelmina (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Dutch and German feminine form of Wilhelm."
+          "url": "https://en.wikipedia.org/w/index.php?title=Wilma_Rudolph&oldid=1378389046",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Wilma Rudolph: complete lead/1960 Summer Olympics, revision1378389046",
+          "workId": "wikipedia:collective-encyclopedia",
+          "quote": "She also won three [[gold medal]]s"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wilhelm (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "German cognate of William."
+          "url": "https://www.britannica.com/biography/Wilma-Rudolph",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors; written and fact-checked by Britannica Editors",
+          "title": "Wilma Rudolph: complete three-paragraph human biography",
+          "workId": "britannica:encyclopedia",
+          "quote": "could not walk without an orthopedic shoe"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Guglielmo (pinned 2021 distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Italian form of William."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ Welsh. │ Breton. │ French. │ │William │Guillim │Guillern │Guillaume │ │Will │ │Guillarn │Guillemot │ │Willie │ │ │ │ │Bill │ │ │ │ │Wilkin │ │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Old French. │ Spanish. │ Portuguese. │ Italian. │ │Willelme │Guillermo │Guilhermo │Guglielmo │"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ FEMININE. │ ├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ Spanish. │ Italian. │ │Wilhelmina │Guillerume │Guillemma │Guglielma │"
+          "url": "https://www.britannica.com/biography/Wilma-Rudolph",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors; written and fact-checked by Britannica Editors",
+          "title": "Wilma Rudolph: complete three-paragraph human biography",
+          "workId": "britannica:encyclopedia",
+          "quote": "win three track-and-field gold medals in a single Olympics."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-        "note": "Wilma to Wilhelmina is BTN-only review context. Published fact starts with Wilhelmina: BTN links Wilhelmina, Wilhelm, William and Italian Guglielmo; Yonge's labeled masculine/feminine table independently groups William, Guglielmo and Wilhelmina. No American introduction date is asserted. Multiple BTN headwords count as one authored work. Actual retained bodies, pointers, hashes and literal excerpts checked independently; deeper source lineage unaudited."
+        "reviewer": "Codex Queue after independent actual-source peer review by /root/c05_reconnected_source_review",
+        "note": "Independent peer accepted after actual Wiki1378389046 full lead/early-life/1960 Olympics/citation appendix, API/raw/rendered identity and CC BY-SA4.0 footer reads; actual BRT complete3 human paragraphs (282 words; JSONLD267 separate), printed+JSONLD Editors credits, full history/profile/copyright read. Each work supports childhood walking difficulty and three Olympic gold medals. Ages11/12, diagnosis, firstness, cure/medical cause omitted. Wiki cites Haney/Meese/LibertiSmith/Plowden and BBC/ESPN; underlying bodies unread0. BRT links shared ESPN/biography pointers; no selected import proved, deeper lineage unknown. Repeated references count once per authored work. BRT brief16-word evidence, broader reuse grant unestablished. Fresh current500 editorial comparison accepts modest named-athlete detail value while losing valid Wilhelmina/Guglielmo relation; Terry Fox overlap acknowledged, no measured benefit. No book/media or all-bearers claim."
       },
       "recognitionVerified": true,
       "recognitionReview": {
