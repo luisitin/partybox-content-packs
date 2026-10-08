@@ -14408,28 +14408,44 @@
     }
   },
   {
-    "fact": "Hayden has been used for girls as well as boys.",
+    "fact": "Hayden Panettiere played FBI agent Kirby Reed in Scream VI.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "In the 1980s, the name reappeared and was used for both boys and girls, with increasing popularity.",
-        "title": "Hayden (given name)",
-        "url": "https://en.wikipedia.org/w/index.php?title=Hayden+%28given+name%29&oldid=1369785778",
-        "workId": "wikipedia:Hayden (given name):1369785778"
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Alison Eldridge; fact-checked by Britannica Editors",
+        "title": "Scream (complete human article; retrieved October 8, 2026)",
+        "workId": "britannica:encyclopedia",
+        "url": "https://www.britannica.com/topic/Scream-film-franchise",
+        "quote": "Kirby Reed (Hayden Panettiere):"
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "From an English surname",
-        "title": "Behind the Name first-name dictionary: Hayden",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Alison Eldridge; fact-checked by Britannica Editors",
+        "title": "Scream (complete human article; retrieved October 8, 2026)",
+        "workId": "britannica:encyclopedia",
+        "url": "https://www.britannica.com/topic/Scream-film-franchise",
+        "quote": "Kirby becomes an FBI agent and investigates subsequent crimes in Scream VI (2023)."
+      },
+      {
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Kirby Reed, revision1375929156",
+        "workId": "wikipedia:encyclopedia",
+        "url": "https://en.wikipedia.org/w/index.php?title=Kirby_Reed&oldid=1375929156",
+        "quote": "portrayed by [[Hayden Panettiere]]"
+      },
+      {
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Kirby Reed, revision1375929156",
+        "workId": "wikipedia:encyclopedia",
+        "url": "https://en.wikipedia.org/w/index.php?title=Kirby_Reed&oldid=1375929156",
+        "quote": "Kirby appears again in ''[[Scream VI]],'' now an FBI special agent"
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. BTN gender metadata MF directly corroborates both-sex use. Wiki surname-transfer root explicitly cites BTN and is excluded; no equal-current-count claim is made.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "codex-c05-hayden-distinct-source-materiality-peer",
+      "note": "Distinct Hayden peer read full Britannica Scream article/credits/history and pinned Kirby Reed1375929156 body/footer; literal quotes match originals. Britannica credits Eldridge/Editors; history also lists Nayak without assigning this sentence. Two authored editorial groups support Panettiere as Kirby and her FBI role in Scream VI. They summarize shared film fiction; film/script, Wiki casting/EW/interview bodies and Britannica deeper lineage unread. Independence is editorial-work scope only. Positive common Variety death/news attachment supplies no required predicate; extra Wiki pages/quotes add no vote. Full CC BY-SA4.0 legal and CC0 repository texts read; Britannica copyright retained, Terms403 body0 unresolved. Narrow factual paraphrase/brief attributed quotes; no assets. Modest editorial gain from concrete bearer/role, losing explicit girls/boys usage and adding cast-role repetition. M counts/recognition unchanged; no origin, popularity causation or audience certificate."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Hayden",
@@ -18648,28 +18664,44 @@
     "recognitionVerified": true
   },
   {
-    "fact": "Homer is the name traditionally linked to the ancient Odyssey.",
+    "fact": "Homer, traditionally linked to the ancient Odyssey, is said to be blind.",
     "factReferences": [
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Homer was the Greek epic poet who wrote the Iliad, about the Trojan War, and the Odyssey",
-        "title": "Behind the Name: Homer and explicitly linked entries",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "author": "Geoffrey S. Kirk; The Editors of Encyclopaedia Britannica",
+        "publisher": "Encyclopaedia Britannica, Inc.",
+        "title": "Homer: opening attribution and Early references (named scholarly narrative; FAQ excluded)",
+        "url": "https://www.britannica.com/biography/Homer-Greek-poet",
+        "workId": "britannica:homer-kirk-editors",
+        "quote": "was the presumed author of the Iliad and the Odyssey."
       },
       {
-        "author": "William Smith",
-        "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
-        "quote": "the palace of Menelaus described by Homer. Odys. iv. 73.",
-        "title": "Smith's Bible Dictionary",
-        "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
-        "workId": "smith-bible-dictionary-1863"
+        "author": "Geoffrey S. Kirk; The Editors of Encyclopaedia Britannica",
+        "publisher": "Encyclopaedia Britannica, Inc.",
+        "title": "Homer: opening attribution and Early references (named scholarly narrative; FAQ excluded)",
+        "url": "https://www.britannica.com/biography/Homer-Greek-poet",
+        "workId": "britannica:homer-kirk-editors",
+        "quote": "a blind man who dwells in rugged Chios"
+      },
+      {
+        "author": "William Ihne (signed W.I.; contributor list resolves name); William Smith, editor",
+        "publisher": "John Murray; Perseus Digital Library/Tufts digital transcription, funding NEH and Tufts; owning PerseusDL/canonical-pdlrefwk",
+        "title": "Home'rus: opening biography and Homeric Hymns, in A Dictionary of Greek and Roman biography and mythology (William Smith, editor; source header 1848, 1873 printing)",
+        "url": "https://raw.githubusercontent.com/PerseusDL/canonical-pdlrefwk/02768b0c37d6102be4899fc0eb57f9d348195243/data/viaf88890045/003/viaf88890045.003.perseus-eng1.xml",
+        "workId": "ihne:homerus:smith-biography-mythology",
+        "quote": "Many other poems were attributed to Homer besides the Iliad and Odyssey"
+      },
+      {
+        "author": "William Ihne (signed W.I.; contributor list resolves name); William Smith, editor",
+        "publisher": "John Murray; Perseus Digital Library/Tufts digital transcription, funding NEH and Tufts; owning PerseusDL/canonical-pdlrefwk",
+        "title": "Home'rus: opening biography and Homeric Hymns, in A Dictionary of Greek and Roman biography and mythology (William Smith, editor; source header 1848, 1873 printing)",
+        "url": "https://raw.githubusercontent.com/PerseusDL/canonical-pdlrefwk/02768b0c37d6102be4899fc0eb57f9d348195243/data/viaf88890045/003/viaf88890045.003.perseus-eng1.xml",
+        "workId": "ihne:homerus:smith-biography-mythology",
+        "quote": "the author, who calls himself the blind poet, who lived in the rocky Chios, was held even by Thucydides to be Homer himself."
       }
     ],
     "factReview": {
-      "note": "Individual comparison of actual William Smith source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Smith's Ivory article actually cites Homer and Odys. iv. 73 for the classical palace description. This is distinct from Smith's unrelated Homer unit-of-measure headword. Traditionally linked preserves the BTN caveat that Homer's identity and dates are debated. Recognition review pending.",
-      "reviewer": "Codex source research subagent /root/c05_bible_gap_facts"
+      "reviewer": "Codex distinct actual-source/materiality peer /root/c05_reconnected_assessment",
+      "note": "Distinct actual-source/materiality review. Exact old62→72 (+10/16.13%;10→12 words) preserves ancient Odyssey/traditional attribution and adds reported blindness, not historical diagnosis or settled identity/authorship. Personally read all23 Britannica human narrative paragraphs/credits/history/Kirk profile and complete Ihne opening/Hymns/signed bibliography/header/preface/author list; Smith is editor. Two authored treatments share Apollo-Hymn/Thucydides tradition. BRT's Smith-labelled Perseus link has an unresolved Encyclopedia ID; selected/deeper borrowing unknown, no primary-independence certificate. Modest portrait-tradition learning judged worth cost despite familiar lore/physical-theme repetition. BRT copyright reserved; current terms403, dated2017 mirror grants no product licence. Perseus/Tufts, NEH+Tufts; accessed2026-10-08; https://github.com/PerseusDL/canonical-pdlrefwk/ ; CC BY-SA4 https://creativecommons.org/licenses/by-sa/4.0/ . Brief literal quotes only."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Homer",
