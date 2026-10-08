@@ -3367,29 +3367,53 @@
         }
       ],
       "id": "ssa:F:Helen",
-      "fact": "Helen is an English form of the Greek name Helene.",
+      "fact": "Helen is an English form of Greek Helene, the name of the mythical Helen of Troy.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Helen+%28given+name%29&oldid=1377605126",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Helen (given name), revision 1377605126",
-          "workId": "wikipedia:Helen (given name):1377605126",
-          "quote": "ty | articles = }} '''Helen''' is a [[Grammatical gender#Personal names|feminine]] [[given name]] derived from the [[Ancient Greek]] name {{lang|grc|Ἑλένη}}, ''Helenē'' (dialectal variants: {{lang|grc|Ἑλένα}}, ''Helena'', {{lang|grc|Ἐλένα}}, ''Elena'', {{lang|grc|Ϝελ"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/helen",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Helen (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Helen (complete direct original entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "English form of the Greek Ἑλένη (Helene), probably from Greek ἑλένη (helene) meaning \"torch\" or \"corposant\", or possibly related to σελήνη (selene) meaning \"moon\". In Greek my"
+          "quote": "English form of the Greek Ἑλένη (Helene)"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Helen_(given_name)&oldid=1377605126",
+          "publisher": "Wikipedia, Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Helen (given name), revision1377605126 (complete selected intro/citations)",
+          "workId": "wikipedia:helen-(given-name)",
+          "quote": "Helen is a feminine given name derived from the Ancient Greek name Ἑλένη, Helenē"
+        },
+        {
+          "url": "https://www.behindthename.com/name/helen",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Helen (complete myth paragraph and Helen of Troy image caption)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Helen of Troy"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Helen-of-Troy",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Gitanjali Roy; The Editors of Encyclopaedia Britannica",
+          "title": "Helen of Troy (full human article, Greek-name/Helene identity fields)",
+          "workId": "britannica:helen-of-troy",
+          "quote": "Also known as: Helene"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Helen-of-Troy",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Gitanjali Roy; The Editors of Encyclopaedia Britannica",
+          "title": "Helen of Troy (full human narrative introduction and alternate traditions)",
+          "workId": "britannica:helen-of-troy",
+          "quote": "Helen of Troy, in Greek legend"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits M. L. West, Indo-European Poetry and Myth, 2007, pp.230–232. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_current_offline_challenge:distinct-actual-source-peer",
+        "note": "Distinct peer read full original BTN/Britannica entries, BRT credits/history, pinned Wiki intro/citations/rights, BTN auxiliaries and CC4 legal. Family: BTN explicit English form plus Wiki Greek derivation/English-name categories (West). Myth: full BTN myth context/caption plus BRT Helene/Greek-legend body, credited Roy/Editors; no selected sentence writer inferred. Wiki myth cites BTN and adds no independent vote. Three authored works; repeated quotes count once; common classical/deeper lineage unknown, cited books unread. Entire family lesson retained; +31 chars adds a modest concrete myth link despite repetition/existing myth themes; no empirical gain. No naming-after, universal root, literal history, agency, causation, beauty/ships or spouse claim. Original linkbacks and CC-BY-SA4.0 notices required; BRT copyright2026, Terms body unread; brief credited quotes only, no bulk permission."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -31223,37 +31247,45 @@
         }
       ],
       "id": "ssa:M:Aiden",
-      "fact": "Aidan was a bishop of Lindisfarne.",
+      "fact": "Aiden is a spelling of Aidan, the name of a bishop of Lindisfarne.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/aiden",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Aiden (pinned dictionary entry)",
+          "title": "Meaning, origin and history of the name Aiden",
           "workId": "behind-the-name:dictionary",
           "quote": "Variant of Aidan."
+        },
+        {
+          "url": "https://babynames.com/name/aiden",
+          "publisher": "BabyNames.com",
+          "author": "Jennifer Moss",
+          "title": "Aiden: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "The most common alternate spelling of the name Aiden is Aidan."
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
           "publisher": "Project Gutenberg, mirrored by GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition1884",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "But the most interesting person so called is known to us as Aidan. He visited Wales and Scotland, became a monk of Iona, and then went forth as a missionary to the North of England. He was the friend of the admirable Oswald, free of hand, king of Deira, who used to interpret his Keltic speech to the Angle population; and his gentle teaching won to the Church multitudes whom the harshness of former missionaries had repelled. He is reckoned as first bishop of Lindisfarn, and has left his name to sundry churches of St. Aidan. Aoidhne, or Eithne, was the Irish"
+          "quote": "He is reckoned as first bishop of Lindisfarn, and has left his name to sundry churches of St. Aidan."
         },
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Aidan&oldid=1375425784",
           "publisher": "Wikipedia, Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Aidan (pinned revision 1375425784)",
+          "title": "Aidan (pinned revision1375425784)",
           "workId": "wikipedia:Aidan",
           "quote": "* Saint [[Aidan of Lindisfarne]] (died 651), Irish missionary and bishop"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly links Aiden to Aidan. The actual independently authored Yonge paragraph and Wikipedia Aidan bearer list both identify the related Aidan as bishop of Lindisfarne. The two historical/bearer works support the core hook, while modern spelling linkage is supported by BTN only. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_reconnected_assessment (distinct actual-source/materiality peer)",
+        "note": "Distinct actual-source/materiality approval. Complete original BTN Aiden and Moss Aiden definitions explicitly support spelling Aidan. Moss Article JSONLD credits Jennifer Moss; printed byline/sentence writer not established. Complete Yonge section distinguishes Aeddan of Ferns and prints bishop Lindisfarn; full pinned Wiki Aidan1375425784 lists the Lindisfarne bishop. Historical lesson retained. BTN catalogue includes Wiki/Oxford/DMNES; Moss positively describes an original database. Selected/deeper common lineage unknown, no primary-independence certificate. Wiki is not a modern bridge vote. No firstness, root meaning, naming cause or most-common ranking promoted. Full original contexts read; prior own exact-byte BTN/PG/CC4 rights scopes reused separately. Moss external terms/pinned article footer unread. Modest explicit card relevance earns32 characters; all history retained, no empirical gain. Quotes3/11/19/11 words, Moss original clickable attribution retained."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -53079,7 +53111,7 @@
         }
       ],
       "id": "ssa:F:Arlene",
-      "fact": "Arline sings 'I Dreamt I Dwelt in Marble Halls' in Balfe's The Bohemian Girl.",
+      "fact": "Arline sings 'I Dreamt I Dwelt in Marble Halls' in Balfe's opera The Bohemian Girl.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -53121,11 +53153,19 @@
           "title": "The Standard Operas: Their Plots, Their Music, and Their Composers, twelfth edition1897, Balfe/The Bohemian Girl",
           "workId": "upton:standard-operas:1897",
           "quote": "Arline wakes and relates her dream to Thaddeus in a joyous song (\"I dreamed I dwelt in Marble Halls\")"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/14968/pg14968.txt",
+          "publisher": "A. C. McClurg and Company1897; Project Gutenberg eBook14968 digital delivery",
+          "author": "George P. Upton",
+          "title": "The Standard Operas, twelfth edition 1897, complete Balfe section, The Bohemian Girl definition",
+          "workId": "upton:standard-operas:1897",
+          "quote": "\"The Bohemian Girl,\" grand opera in three acts"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
-        "note": "Independently read complete pinned Wiki opera/aria bodies/definitions/APIs and Upton's raw Balfe biography/full opera chapter, title/preface/1897 credits, catalogue/full license. Both works support Arline's Marble Halls song in Balfe's opera; Wiki pages count once. Upton 'I dreamed...' versus Wiki 'I Dreamt...' is a retained title variant, same character/opera/song. Shared fictional opera/libretto basis; deeper lineage unproved. Wiki Weaver bodies blocked/unread0; Upton Grove/unnamed sources unread0. Full BTN Arlene/Arline descriptions and pinned provenance read; their link stays single-work context, no new spelling-equivalence/origin claim. BRT composer/song lacks Arline, uncounted. Song adds detail to valid heroine fact; no measured gain. Five literal brief refs; attributed notices retained,1897 book USA-PD only/worldwide unverified. Full opera/libretto/lyrics/audio/score/performance unexamined; no media reused. Accepted."
+        "reviewer": "/root/c05_post38_player_review:bounded-arlene-opera-medium-inquiry",
+        "note": "Personally read complete pinned Wiki opera/aria originals and Upton's entire Balfe section, preface, credits, catalogue and full licence. Wikipedia is one work; Upton the second authored presentation of opera/composer/Arline-song. Shared Balfe/Bunn fiction; deeper lineage unproved. Wiki cites Weaver, Bunn and later Grove; Upton acknowledges earlier Grove for dates/statistics and unnamed books. Underlying authorities unread. Upton 'dreamed' versus Wiki 'Dreamt' retained; unrelated cast/plot/date differences excluded. BTN Arlene-to-Arline stays single-work context, no new spelling/origin claim. Adding 'opera' states the work's medium: 77 to 83 characters, song/composer/work lessons retained, modest explanatory gain at six-character cost; no audience experiment. Six refs; Wiki CC BY-SA 4.0 notices and Upton/PG credits retained; 1897 text USA-PD only, worldwide status unverified. No lyrics, score, audio or art reused. Bounded source/materiality acceptance; root owns promotion."
       },
       "recognitionVerified": true,
       "recognitionReview": {
