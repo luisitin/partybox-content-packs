@@ -1761,29 +1761,45 @@
   },
   {
     "id": "ssa:M:Walter",
-    "fact": "Walter includes a Germanic word meaning \"army\".",
+    "fact": "Walter and Harold put related 'army' and rule/power roots in opposite order.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Walter (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Germanic name […] hari \"army\""
+        "publisher": "Behind the Name",
+        "quote": "composed of the elements wald \"rule\" and hari \"army\"",
+        "title": "Behind the Name: Walter (pinned2021 full retained description)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary"
       },
       {
-        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Walter",
-        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "quote": "derived from the elements here \"army\" and weald \"power, leader, ruler\"",
+        "title": "Behind the Name: Harold (pinned2021 full retained description)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary"
+      },
+      {
         "author": "A. Brown, N. Shiel, J. Uckelman, S.L. Uckelman",
-        "title": "The Dictionary of Medieval Names from European Sources: Walter, edition 2023.1",
-        "workId": "dmnes:dictionary:2023.1",
-        "quote": "Old High German heri […] 'host, army'"
+        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+        "quote": "Walter m. Old High German walt 'power, authority' + Old English here, Old High German heri 'host, army'.",
+        "title": "The Dictionary of Medieval Names from European Sources: Walter, edition2023.1",
+        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Walter",
+        "workId": "dmnes:dictionary:2023.1"
+      },
+      {
+        "author": "J. Uckelman, S.L. Uckelman",
+        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+        "quote": "Harold m. Old English here, Old High German heri 'host, army' + Old English weald, Old Saxon wald, Old High German walt 'power'.",
+        "title": "The Dictionary of Medieval Names from European Sources: Harold, edition2023.1",
+        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Harold",
+        "workId": "dmnes:dictionary:2023.1"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "/root/c05_resumed_source_review/gertrude_pair_acceptance",
+      "note": "Independently read full BTN Walter/Harold/Gerald descriptions, all relevant DMNES human paragraphs, citeme authors/copyright and About/Colophon; source body/header/receipt hashes rechecked. Both exact Walter/Harold entries place related rule-or-power and army elements in reverse order. BTN wald/rule+hari/army contrasts with here/army+weald/power,leader,ruler; DMNES walt/power,authority+here/heri/army contrasts with here/heri/army+weald/wald/walt/power. Related and rule/power retain varying forms/glosses; no identical spelling, fused literal ruler meaning, trait or ancestry. New learning is reversed compound order, beyond existing Harold army/power and Gerald spear/rule-power facts. Headwords/mirrors count only two dictionary works; named DMNES writers are actual citeme credits, BTN individual writer unknown. No selected DMNES→BTN link; deeper lineage unaudited, manuscripts unread/count0. Independent acceptance; no player study or job tests."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -4489,22 +4505,30 @@
   },
   {
     "id": "ssa:F:Lori",
-    "fact": "Lorraine's name traces back to the name Lothar.",
+    "fact": "Lori can be a form of Lorraine, a name traced back to Lothar.",
     "factStatus": "reviewed",
     "factReferences": [
       {
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Lori (pinned dictionary entry)",
+        "title": "Behind the Name: Lori (pinned2021 retained exact-name description)",
         "workId": "behind-the-name:dictionary",
         "quote": "Diminutive of Laura or Lorraine."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Lori_(given_name)&oldid=1363675651",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Lori (given name), revision1363675651",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "'''Lori''' is a female given name, a variant of [[Laura (given name)|Laura]] and [[Lorraine (given name)|Lorraine]]."
       },
       {
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Lorraine (pinned dictionary entry)",
+        "title": "Behind the Name: Lorraine (pinned2021 retained exact-name description)",
         "workId": "behind-the-name:dictionary",
         "quote": "From the name of a region in France, originally meaning \"kingdom of Lothar\"."
       },
@@ -4512,14 +4536,14 @@
         "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
         "publisher": "Project Gutenberg, mirrored by GITenberg",
         "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
+        "title": "History of Christian Names, revised edition1884, SectionVIII Louis",
         "workId": "yonge:history-of-christian-names:1884",
-        "quote": "One of the uncles who killed the poor boys was Hlodhari, or Chlotachari, famous warrior, a terrible savage, but the last survivor of the brothers, and counted in the Frank history as Chlother, or Clotaire. Others of his race likewise were so baptized, and when the name passed to the Karlingen it was as Lothar. So was called the son of Louis le Debonnaire, whose portion, known at first as Lotharingen, came to be in Latin Lotharingia, and still remains Lorraine. Lothar did not pass away"
+        "quote": "So was called the son of Louis le Debonnaire, whose portion, known at first as Lotharingen, came to be in Latin Lotharingia, and still remains Lorraine."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. The modern dictionary permits Lori as a diminutive of Lorraine and describes the French region’s kingdom-of-Lothar name. The historical passage independently connects Lothar’s territorial portion via Lotharingen/Lotharingia to Lorraine. This supports the regional namesake hook; it does not establish every Lori’s origin. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_resumed_source_review/gertrude_pair_acceptance",
+      "note": "Independent review: actual BTN Lori/Lorraine descriptions, full pinned Wiki Lori body and Yonge full Louis section/footnote144 read. Modern Lori→Lorraine form relation has BTN diminutive and Wiki variant; historical Lorraine→Lothar has BTN regional-name prose and Yonge territorial-name sequence. 'Can' preserves Laura alternative, no universal bearer origin or exclusive root. Wiki lead unfootnoted with no references/direct BTN label; differently worded presentation, deeper lineage unknown. 'Form' does not require shortening. Moss Lori Laurel/Lorraine place glosses supply no modern bridge and are held; no inference from similar names. Three authored works; pages/mirrors not extra works. Footnote144 books unread/count0; no royal identity/generation/chronology added. Brief copyrighted BTN and CC BY-SA Wiki quotes; Yonge1884 public domain in USA, worldwide status unverified. Pinned corpus identity/author/title verified; full live pages unclaimed. Accepted; no study/jobtests."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -4705,14 +4729,14 @@
   },
   {
     "id": "ssa:F:Tammy",
-    "fact": "Tamar means 'palm tree' in Hebrew.",
+    "fact": "Tammy can be short for Tamara, a name meaning 'palm tree'.",
     "factStatus": "reviewed",
     "factReferences": [
       {
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Tammy (pinned dictionary entry)",
+        "title": "Behind the Name: Tammy (pinned2021 retained exact-name description)",
         "workId": "behind-the-name:dictionary",
         "quote": "Short form of Tamara and other names beginning with Tam."
       },
@@ -4720,7 +4744,7 @@
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Tamara (pinned dictionary entry)",
+        "title": "Behind the Name: Tamara (pinned2021 retained exact-name description)",
         "workId": "behind-the-name:dictionary",
         "quote": "Russian form of Tamar."
       },
@@ -4728,30 +4752,30 @@
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Tamar (pinned dictionary entry)",
+        "title": "Behind the Name: Tamar (pinned2021 retained exact-name description)",
         "workId": "behind-the-name:dictionary",
         "quote": "Means \"date palm\" in Hebrew."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Tamar, _f._ _Eng._ Heb. palm, 26"
+        "url": "https://babynames.com/name/tammy",
+        "publisher": "BabyNames.com, Moss Gathering LLC",
+        "author": "Jennifer Moss",
+        "title": "Tammy: Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Diminutive form of Tamsin or Tamara"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Tamar, a palm tree, it may here be mentioned, has continued common among eastern Christians, especially since a distinguished Armenian queen was so called. Now and then very great lovers of biblical names in England give it, and likewise Dinah (judgment).[11]"
+        "url": "https://babynames.com/name/tamara",
+        "publisher": "BabyNames.com, Moss Gathering LLC",
+        "author": "Jennifer Moss",
+        "title": "Tamara: Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "The name Tamara is primarily a Female name of Russian origin that means Palm Tree."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Tammy→Tamara→Tamar and glosses Tamar date palm in Hebrew. The actual historical Tamar entry and narrative independently gloss palm tree. Palm tree is the common supported narrower category, without queen-identity or narrative claims. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_resumed_source_review",
+      "note": "Independently read full retained BTN Tammy/Tamara/Tamar/Tamsin and raw human Moss Tammy/Tamara paragraphs, actual Article Jennifer Moss metadata; Tamar context only. Both dictionaries support exact Tammy→Tamara and broad Tamara palm-tree meaning. Can preserves other Tam-names/Tamsin. Hebrew and player Tamar bridge omitted: Moss Tamara does not give that link. Pages/mirrors count once. No direct BTN label in retained Moss; deeper lineage unknown. Full copyright policy/robots read; llms only generated preface/policy link. Exact Moss quotes are 6/15 words, correcting 7/16 without fact/ref changes. Read ≤50-word/page rule requires visible exact titles, BabyNames.com and clickable original URLs; frozen attribution must accompany promotion. Brief attributed copyright-bearing excerpts; no art, blanket commercial database licence or underlying book count. Qualified modern-name link improves the valid root-only line; no ancestry/popularity/player-study claim. Accepted."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -5329,29 +5353,45 @@
   },
   {
     "id": "ssa:M:Stanley",
-    "fact": "Stanley Kowalski appears in A Streetcar Named Desire.",
+    "fact": "Marlon Brando played Stanley Kowalski in A Streetcar Named Desire on stage and film.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Stanley (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "the character Stanley Kowalski in Tennessee Williams' play A Streetcar Named Desire (1947)."
+        "url": "https://www.britannica.com/biography/Marlon-Brando",
+        "title": "Marlon Brando",
+        "author": "The Editors of Encyclopaedia Britannica",
+        "publisher": "Encyclopaedia Britannica",
+        "workId": "britannica:encyclopedia",
+        "quote": "performance as Stanley Kowalski"
+      },
+      {
+        "url": "https://www.britannica.com/topic/A-Streetcar-Named-Desire-film-1951",
+        "title": "A Streetcar Named Desire (1951 film)",
+        "author": "Lee Pfeiffer; fact-checked by Britannica Editors",
+        "publisher": "Encyclopaedia Britannica",
+        "workId": "britannica:encyclopedia",
+        "quote": "Stanley (played by Brando)"
       },
       {
         "url": "https://en.wikipedia.org/w/index.php?title=A+Streetcar+Named+Desire&oldid=1379011972",
-        "publisher": "Wikipedia",
+        "title": "A Streetcar Named Desire (revision1379011972)",
         "author": "Wikipedia contributors",
-        "title": "A Streetcar Named Desire",
-        "workId": "wikipedia:A_Streetcar_Named_Desire",
-        "quote": "| characters = {{unbulleted list|[[Blanche DuBois]]|[[Stella Kowalski]]|[[Stanley Kowalski]]|Harold \"Mitch\" Mitchell}}"
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "[[Marlon Brando]] as [[Stanley Kowalski]]"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=A+Streetcar+Named+Desire&oldid=1379011972",
+        "title": "A Streetcar Named Desire (revision1379011972)",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Malden, Brando, Dennis, and Hunter reprised their Broadway roles."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_literary_gap_facts",
-      "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Character cast and plot prose both actually read. No passage from the still-protected play was retrieved or reproduced; the second source is Wikipedia article prose/cast metadata."
+      "reviewer": "/root/c05_resumed_source_review",
+      "note": "Independent read of all seven human Britannica Brando paragraphs and four film paragraphs, actual Editors/Lee Pfeiffer writing/checking credits and Article identities. Promo excluded. Read full four-person cast block; earlier cropped cast excerpt is not a full-block proof. Read pinned Wiki play1379011972 lead, entire Original Broadway production/Film sections and inline/named definitions; Brando1378606484 full lead also read. Raw spans/API identities and brief quotes matched. Both works support Brando's Stanley in stage and film; encyclopedia topics count once each. IBDB, Atkinson, Cohan and other underlying bodies unread/count0; Brando role lead uncited. No direct Britannica label in retained play text; deeper lineage unknown. Same character's stage-to-film link improves valid occurrence fact. Brief credited copyright-bearing Britannica/Wiki CC-BY-SA4.0 excerpts; no art or player dialogue reuse, full play/film viewing, unique-cast, name-origin or participant claim. Accepted."
     },
     "recognitionVerified": true,
     "recognitionReview": {
