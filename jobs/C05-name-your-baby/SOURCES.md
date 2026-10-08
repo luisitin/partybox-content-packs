@@ -510,6 +510,12 @@ Diego uses two authored presentations of the same selected incident: pinned Wiki
 
 The prior full500-text assessment's original-source-body count remains0; these later source-specific reads do not create an all500-source certification. Hayden's optional surname proposal remains unaccepted because of catalog-lineage uncertainty and nonmatching Moss wording; existing usage fact retained.
 
+## Hayden optional surname proposal: retained usage fact
+
+A separate actual-source inquiry and distinct peer held the optional English surname / hay-valley / hay-hill proposal. Behind the Name’s complete Sources Used page (https://www.behindthename.com/info/references) lists Patrick Hanks’s Dictionary of American Family Names and Wikipedia; its complete copyright page states that main-database entries come from its listed sources or Mike Campbell. The selected pinned Wiki surname English paragraph (https://en.wikipedia.org/w/index.php?title=Hayden_(surname)&oldid=1369872233) cites an Answers partial transcription of the Oxford family-name dictionary. The cited2003/2006 dates do not establish independent authorship of these selected clauses. The exact Oxford and Answers originals were not read. No entry-specific copying claim is made; the substantive possible common source keeps the proposal held.
+
+Actual BTN About requested /info and resolved https://www.behindthename.com/info/; two mistaken URL labels in the immutable peer report were corrected by a separate hash-bound metadata addendum, without changing body scope or decision. BTN’s permissions for a few linked definitions and broader redistribution restrictions do not grant an open corpus licence. Original Wiki footers state CC BY-SA4.0 with additional terms. Moss’s separately read Hay Downs entry supplies neither the selected surname clause nor valley/hill and is not silently equated with them. Existing Hayden both-sex usage remains unchanged. This source hold adds no player line, blocker, participant result or convergence finding; earlier source-free500 assessments retain body-read count0.
+
 ## Current fact-source URL index
 
 Each URL identifies the actually read work and selected identities whose fact support or quotations were taken. Linked headwords and mirrors remain one authored work. Rights and limitations remain above.
