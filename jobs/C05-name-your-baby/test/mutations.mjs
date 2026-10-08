@@ -13,9 +13,9 @@ const currentPath = join(distDirectory, 'src', 'current.js');
 const currentCliPath = join(distDirectory, 'src', 'current-cli.js');
 const coreTests = join(distDirectory, 'test', 'core.test.js');
 const currentTests = join(distDirectory, 'test', 'current.test.js');
-const expectedFullTests = 42;
+const expectedFullTests = 43;
 const expectedCoreTests = 15;
-const expectedCurrentTests = 9;
+const expectedCurrentTests = 10;
 const timeoutMilliseconds = 90_000;
 const baselineTimeoutMilliseconds = 300_000;
 const sha256 = (bytes) => createHash('sha256').update(bytes).digest('hex');
@@ -123,9 +123,9 @@ const mutations = [
   change('M33', 'Claim that the unfinished current candidate pack is complete', 'buildCurrent',
     "mode: 'current-candidates', complete: false, currentMetricsVerified: true,",
     "mode: 'current-candidates', complete: true, currentMetricsVerified: true,", 'current'),
-  change('M34', 'Accept current source-derived counts that fail the pinned canonical fingerprint', 'main',
+  change('M34', 'Accept current source-derived counts that fail the pinned canonical fingerprint', 'buildCurrent',
     "if (createHash('sha256').update(metricsBytes).digest('hex') !== 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2')",
-    'if (false)', 'current-cli'),
+    'if (false)', 'current'),
 ];
 
 function completedCounts(output, paths) {
@@ -215,13 +215,13 @@ function main() {
   try {
     evidence.baseline = runSuite(allTests, baselineTimeoutMilliseconds);
     assert.equal(evidence.baseline.fail, 0, `Unmodified full baseline failed\n${evidence.baseline.output}`);
-    assert.equal(evidence.baseline.tests, expectedFullTests, 'All 42 full baseline tests must execute');
+    assert.equal(evidence.baseline.tests, expectedFullTests, 'All 43 full baseline tests must execute');
     evidence.coreBaseline = runSuite([coreTests]);
     assert.equal(evidence.coreBaseline.fail, 0, `Unmodified core baseline failed\n${evidence.coreBaseline.output}`);
     assert.equal(evidence.coreBaseline.tests, expectedCoreTests, 'All 15 historical core baseline tests must execute');
     evidence.currentBaseline = runSuite([currentTests]);
     assert.equal(evidence.currentBaseline.fail, 0, `Unmodified current baseline failed\n${evidence.currentBaseline.output}`);
-    assert.equal(evidence.currentBaseline.tests, expectedCurrentTests, 'All nine current baseline tests must execute');
+    assert.equal(evidence.currentBaseline.tests, expectedCurrentTests, 'All ten current baseline tests must execute');
     console.log(`Baseline: ${evidence.baseline.pass}/${evidence.baseline.tests} full tests; ${evidence.coreBaseline.pass}/${evidence.coreBaseline.tests} historical core tests; ${evidence.currentBaseline.pass}/${evidence.currentBaseline.tests} current tests passed.`);
     for (const mutation of mutations) {
       const target = targets[mutation.target];

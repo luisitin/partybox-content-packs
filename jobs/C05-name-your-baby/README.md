@@ -17,7 +17,8 @@ applications are incomplete; territorial records are outside this dataset.
 Selection requires 50,000 published occurrences and a peak at least 15%
 above its runner-up. A pinned 500-ID manifest replaces 13 uncertain forms
 with reviewed reserves. Every complete row passes fact and recognition
-gates; candidate builders always keep `complete: false`.
+gates; candidate builders always keep `complete: false`. Every verified
+current builder checks the same canonical source-count fingerprint.
 
 With Node 24 and Python 3.12, from this folder:
 

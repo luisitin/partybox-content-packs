@@ -94,6 +94,28 @@ test('official snapshot produces exactly 500 incomplete candidates with observed
   assert.equal(serialiseCurrent(pack), readFileSync(join(ROOT, 'data/current-candidates.json'), 'utf8'));
 });
 
+test('candidate API verifies annual source bytes independently of key order and editorial curation', () => {
+  const before = JSON.stringify(FIXTURE);
+  for (const balanceTotal of [false, true]) {
+    const changed = clone(FIXTURE);
+    changed.annualCounts[0].count += 1;
+    if (balanceTotal) changed.annualCounts[1].count -= 1;
+    // These fixtures pass all shape, identity, ordering and source-metadata checks.
+    assert.doesNotThrow(() => parseCurrentFixture(changed));
+    const changedBefore = JSON.stringify(changed);
+    assert.throws(() => buildCurrent(changed), /pinned fixture checksum/);
+    assert.equal(JSON.stringify(changed), changedBefore);
+  }
+  function reversedKeys(value: any): any {
+    if (Array.isArray(value)) return value.map(reversedKeys);
+    if (value !== null && typeof value === 'object') return Object.fromEntries(Object.entries(value).reverse().map(([key, item]) => [key, reversedKeys(item)]));
+    return value;
+  }
+  const editorial = withCuration(proposed());
+  assert.deepEqual(buildCurrent(reversedKeys(editorial)), buildCurrent(editorial));
+  assert.equal(JSON.stringify(FIXTURE), before);
+});
+
 test('10,000 current sparse differentials preserve independent observed-year accounting', () => {
   const next = random(0xc052025);
   for (let i = 0; i < 10_000; i += 1) {

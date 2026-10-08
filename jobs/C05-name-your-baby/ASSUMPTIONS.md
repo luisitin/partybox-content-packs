@@ -1,6 +1,6 @@
 # Assumptions
 
-- The historical sample compares thirteen complete decades, 1880–2009, from a mirror covering 1880–2017. The partial 2010s are excluded. Each sample peak is restricted to its declared window, not an all-time or current peak. Current official data now covers 1880–2025 and is being audited for the full pack.
+- The historical sample compares thirteen complete decades, 1880–2009, from a mirror covering 1880–2017. The partial 2010s are excluded. Each sample peak is restricted to its declared window, not an all-time or current peak. The delivered current pack covers the pinned official 1880–2025 snapshot.
 - Counts are published SSA occurrences for exact spelling and one recorded F/M category. Retain categories without inferring an individual's gender identity or merging categories.
 - A missing annual row means unknown or unpublished count, potentially privacy suppression. A decade sum is a published subtotal and never proves zero births. Sparkline cells record published and omitted years.
 - Usage does not prove broad recognition. At least 50,000 published occurrences and a peak at least 115% of its runner-up are engineering candidate filters requiring editorial review.
@@ -55,3 +55,5 @@ Round30 assumes a newborn horoscope, concrete legal challenge and fictional inte
 Round31 assumes a precise same-novel marriage relation adds modest editorial learning over a valid Natasha occurrence fact. No participant preference/recognition measurement or new origin/usage claim. Two authored human encyclopedia presentations are accepted with deeper-lineage limits; quoted current metadata does not create additional sources. Bryce/Cora stronger same-card leads still need actual two-work acceptance; Colton/Kelsey valid facts remain until any material supported replacement.
 
 Round35 editorial assumption: a direct named WilmaRudolph adversity/achievement fact offers modest same-card learning over a valid international name-family comparison when displayed beside Wilma. This is text judgment, not an observed interface or measured audience preference. The exact lost Wilhelmina/Guglielmo relation and nearest TerryFox mobility/athletic motif are recorded. Diagnosis/ages/cure/firstness remain excluded from the actual shared source predicate.
+
+Round36: every exported current-pack builder authenticates verified numeric metrics; source labels and shape alone do not establish them. Builtin SHA-256 is deterministic computation without I/O or runtime dependencies. Independently validated editorial curation is excluded from the numeric fingerprint. Current pack data are unchanged; API integrity is not empirical player improvement or invented cosmetic closure.

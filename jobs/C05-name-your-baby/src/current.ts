@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import { aggregatePrimary, aggregateReference, selectPrimary, type AnnualCount, type NameAggregate, type Sex } from './core.js';
 
 export interface CurrentSource {
@@ -192,8 +193,17 @@ export function parseCurrentFixture(value: unknown): CurrentFixture {
   return { source: { ...CURRENT_SOURCE }, analysis: { ...ANALYSIS }, annualCounts, curation: curation(root.curation, identities) };
 }
 
+function canonical(value: unknown): unknown {
+  if (Array.isArray(value)) return value.map(canonical);
+  if (value !== null && typeof value === 'object') return Object.fromEntries(Object.entries(value).sort(([left], [right]) => left < right ? -1 : left > right ? 1 : 0).map(([key, item]) => [key, canonical(item)]));
+  return value;
+}
+
+/** Only the pinned source-derived annual counts may carry a verified metrics claim. */
 export function buildCurrent(value: unknown): CurrentPack {
   const fixture = parseCurrentFixture(value);
+  const metricsBytes = JSON.stringify(canonical({ source: fixture.source, analysis: fixture.analysis, annualCounts: fixture.annualCounts, curation: [] }), null, 2) + '\n';
+  if (createHash('sha256').update(metricsBytes).digest('hex') !== 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2') throw new Error('current source-derived metrics fail the pinned fixture checksum');
   const selected = selectPrimary(aggregatePrimary(fixture.annualCounts, GRID), 500);
   if (selected.length !== 500) throw new Error('current candidate fixture requires 500 qualifying distinct names');
   const editorial = new Map(fixture.curation.map(row => [row.id, row]));

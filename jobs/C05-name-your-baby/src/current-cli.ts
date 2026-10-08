@@ -1,13 +1,6 @@
 import { mkdtemp, readFile, realpath, rename, rm, stat, writeFile } from 'node:fs/promises';
-import { createHash } from 'node:crypto';
 import { basename, dirname, join, resolve } from 'node:path';
-import { buildCurrent, parseCurrentFixture, serialiseCurrent } from './current.js';
-
-function canonical(value: unknown): unknown {
-  if (Array.isArray(value)) return value.map(canonical);
-  if (value !== null && typeof value === 'object') return Object.fromEntries(Object.entries(value).sort(([left], [right]) => left < right ? -1 : left > right ? 1 : 0).map(([key, item]) => [key, canonical(item)]));
-  return value;
-}
+import { buildCurrent, serialiseCurrent } from './current.js';
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
@@ -27,9 +20,7 @@ async function main(): Promise<void> {
   } catch (error) {
     if (!(error instanceof Error && 'code' in error && error.code === 'ENOENT')) throw error;
   }
-  const fixture = parseCurrentFixture(JSON.parse(await readFile(input, 'utf8')) as unknown);
-  const metricsBytes = JSON.stringify(canonical({ source: fixture.source, analysis: fixture.analysis, annualCounts: fixture.annualCounts, curation: [] }), null, 2) + '\n';
-  if (createHash('sha256').update(metricsBytes).digest('hex') !== 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2') throw new Error('current source-derived metrics fail the pinned fixture checksum');
+  const fixture: unknown = JSON.parse(await readFile(input, 'utf8'));
   const content = serialiseCurrent(buildCurrent(fixture));
   let stage: string | undefined;
   try {

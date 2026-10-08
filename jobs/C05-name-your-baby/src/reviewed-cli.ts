@@ -1,25 +1,12 @@
-import { createHash } from 'node:crypto';
 import { mkdtemp, readFile, realpath, rename, rm, stat, writeFile } from 'node:fs/promises';
 import { basename, dirname, join, resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { buildCurrent, parseCurrentFixture, serialiseCurrent, type CurrentPack } from './current.js';
 
-const BASE_SHA256 = 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2';
-
-function canonical(value: unknown): unknown {
-  if (Array.isArray(value)) return value.map(canonical);
-  if (value !== null && typeof value === 'object') {
-    return Object.fromEntries(Object.entries(value).sort(([left], [right]) => left < right ? -1 : left > right ? 1 : 0).map(([key, item]) => [key, canonical(item)]));
-  }
-  return value;
-}
-
 /** Add explicit editorial evidence without changing the pinned source-derived metrics. */
 export function buildReviewedCandidates(source: unknown, editorial: unknown): CurrentPack {
   const fixture = parseCurrentFixture(source);
   if (fixture.curation.length !== 0) throw new Error('the base source fixture must have empty curation');
-  const metricsBytes = JSON.stringify(canonical({ source: fixture.source, analysis: fixture.analysis, annualCounts: fixture.annualCounts, curation: [] }), null, 2) + '\n';
-  if (createHash('sha256').update(metricsBytes).digest('hex') !== BASE_SHA256) throw new Error('current source-derived metrics fail the pinned fixture checksum');
   if (!Array.isArray(editorial) || editorial.length === 0) throw new Error('curation must be a nonempty standalone array');
   return buildCurrent({ ...fixture, curation: editorial });
 }
