@@ -52919,37 +52919,53 @@
         }
       ],
       "id": "ssa:F:Arlene",
-      "fact": "Arline is the heroine of Balfe’s opera The Bohemian Girl.",
+      "fact": "Arline sings 'I Dreamt I Dwelt in Marble Halls' in Balfe's The Bohemian Girl.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name; immutable dictionary delivery",
+          "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Arlene (pinned dictionary entry)",
+          "title": "Behind the Name: Arlene (pinned2021 retained context-only name link)",
           "workId": "behind-the-name:dictionary",
           "quote": "Variant of Arline."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name; immutable dictionary delivery",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Arline (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "possibly invented by Michael William Balfe for the main character in his opera The Bohemian Girl (1843)."
+          "url": "https://en.wikipedia.org/w/index.php?title=The_Bohemian_Girl&oldid=1360620610",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "The Bohemian Girl, revision1360620610",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The best-known aria from the piece is \"[[I Dreamt I Dwelt in Marble Halls]]\" in which the main character, Arline, describes her vague memories of her childhood."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=The+Bohemian+Girl&oldid=1360620610",
-          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/w/index.php?title=The_Bohemian_Girl&oldid=1360620610",
+          "publisher": "Wikipedia, The Free Encyclopedia",
           "author": "Wikipedia contributors",
-          "title": "The Bohemian Girl (revision 1360620610)",
-          "workId": "wikipedia:The_Bohemian_Girl",
-          "quote": "The best-known aria from the piece is \"[[I Dreamt I Dwelt in Marble Halls]]\" in which the main character, Arline, describes her vague memories of her childhood."
+          "title": "The Bohemian Girl, revision1360620610, composer lead",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''''The Bohemian Girl''''' is an English language Romantic [[opera]] composed by [[Michael William Balfe]] with a libretto by [[Alfred Bunn]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=I_Dreamt_I_Dwelt_in_Marble_Halls&oldid=1322233722",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "I Dreamt I Dwelt in Marble Halls, revision1322233722",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "It is sung in the opera by the character Arline, who is in love with Thaddeus, a Polish nobleman and political exile."
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/14968/pg14968.txt",
+          "publisher": "A. C. McClurg and Company1897; Project Gutenberg eBook14968 digital delivery",
+          "author": "George P. Upton",
+          "title": "The Standard Operas: Their Plots, Their Music, and Their Composers, twelfth edition1897, Balfe/The Bohemian Girl",
+          "workId": "upton:standard-operas:1897",
+          "quote": "Arline wakes and relates her dream to Thaddeus in a joyous song (\"I dreamed I dwelt in Marble Halls\")"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. The dictionary explicitly links Arlene to Arline and describes Arline as the main character of Balfe’s opera. The separate opera article explicitly identifies Arline as its main character and Balfe as composer. The same dictionary’s two entries count as one authored work. Limits: Character spelling is Arline, not Arlene. No certainty that Balfe invented either spelling; link evidence comes from a single dictionary work. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independently read complete pinned Wiki opera/aria bodies/definitions/APIs and Upton's raw Balfe biography/full opera chapter, title/preface/1897 credits, catalogue/full license. Both works support Arline's Marble Halls song in Balfe's opera; Wiki pages count once. Upton 'I dreamed...' versus Wiki 'I Dreamt...' is a retained title variant, same character/opera/song. Shared fictional opera/libretto basis; deeper lineage unproved. Wiki Weaver bodies blocked/unread0; Upton Grove/unnamed sources unread0. Full BTN Arlene/Arline descriptions and pinned provenance read; their link stays single-work context, no new spelling-equivalence/origin claim. BRT composer/song lacks Arline, uncounted. Song adds detail to valid heroine fact; no measured gain. Five literal brief refs; attributed notices retained,1897 book USA-PD only/worldwide unverified. Full opera/libretto/lyrics/audio/score/performance unexamined; no media reused. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -55271,53 +55287,61 @@
         }
       ],
       "id": "ssa:M:Brayden",
-      "fact": "Brayden’s alternate spelling Braden is also a place name in Tennessee.",
+      "fact": "Brayden can trace through an Irish surname to a name glossed as 'salmon'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Brayden (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Brayden (pinned2021 full retained description)",
           "workId": "behind-the-name:dictionary",
           "quote": "Variant of Braden."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Braden_(given_name)&oldid=1372521264",
-          "publisher": "English Wikipedia; Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Braden (given name) (revision 1372521264)",
-          "workId": "wikipedia:braden-(given-name)",
-          "quote": "The name has many alternate spellings, including: Bradan, [[Bradin]], Bradun, Bradyn, Braedan, Braeden, Braedin, Braedon, Braedyn, Breadan, Breaden, Braidan, Braiden, Braidon, Braidun, Braidyn, Braydan, [[Brayden]], Braydin, Braydon, or Braydyn."
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Braden (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From an Irish surname that was derived from Ó Bradáin meaning \"descendant of Bradán\"."
         },
         {
-          "url": "https://download.geonames.org/export/dump/US.zip",
-          "publisher": "GeoNames",
-          "author": "GeoNames",
-          "title": "GeoNames US export, retrieved 2026-10-07, record4608122",
-          "workId": "geonames:geographic-database",
-          "quote": "4608122 Braden Braden Braden,Concordia 35.37953 -89.56813 P PPL US TN 047 274 96 97 America/Chicago 2017-03-09"
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Bradán (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Means \"salmon\" in Irish."
         },
         {
-          "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-          "publisher": "GeoNames",
-          "author": "GeoNames",
-          "title": "GeoNames administrative-code names, US.TN",
-          "workId": "geonames:geographic-database",
-          "quote": "US.TN Tennessee Tennessee 4662168"
+          "url": "https://babynames.com/name/brayden",
+          "publisher": "BabyNames.com, Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Brayden: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "The name Brayden is primarily a Gender-Neutral name of American origin that means Son of Bradan."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Braden%2C+Tennessee&oldid=1378506383",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Braden, Tennessee (revision 1378506383)",
-          "workId": "wikipedia:braden-tennessee",
-          "quote": "'''Braden''' is a town in [[Fayette County, Tennessee]]."
+          "url": "https://babynames.com/name/brayden",
+          "publisher": "BabyNames.com, Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Brayden: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "Irish surname. Or combination of Br and Aidan."
+        },
+        {
+          "url": "https://babynames.com/name/bradan",
+          "publisher": "BabyNames.com, Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Bradan: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "The name Bradan is primarily a Male name of Irish origin that means Salmon."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Each clause is supported in two differently authored works: BTN and the full Braden given-name article explicitly identify the modern Brayden/Braden spelling relationship; GeoNames and the full Braden Tennessee article identify the place. The named article’s BTN footnote concerns the excluded Irish surname/salmon meaning; its separate variant paragraph is unfootnoted, with no identified copying or explicit BTN attribution. No claim of an independently read underlying variant authority. Exact source bodies/quotes, dictionary pointer, both Wiki API revisions, US ZIP/member SHA/CRC/count, 19-field record and TN mapping checked. Five refs count three author groups; GeoNames records/maps count one work and both Wiki articles one author group. No name origin, ancestry, population or date claim; deeper shared authorities remain unaudited."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Read complete BTN Brayden/Braden/Bradán/Aidan and raw Moss Brayden/Bradan definitions, excluded Braden valley context, actual Article Jennifer Moss credits/footer. Both dictionaries give a modern Brayden→Irish surname→salmon-glossed name route; pages/mirrors count once. Can/glossed preserves Moss American/Br+Aidan and Woulfe's spirited/also-salmon alternatives, no sole origin or bearer ancestry. Actual Woulfe full entry/credits read, not complete modern-chain proof or extra selected work. Full retained Wiki Braden/Brayden/API read: direct BTN-backed salmon clause excluded. No direct BTN attribution in selected Moss; deeper pipeline unknown. Actual retained copyright policy/robots read and raw-matched; llms header only. Moss page quotes 24/14 words need visible exact titles/BabyNames.com/clickable original URLs. Brief attributed copyright-bearing excerpts, no art, full corpus or underlying book count. Name-family hook improves valid Tennessee fact. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
