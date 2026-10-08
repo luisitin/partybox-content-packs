@@ -37751,29 +37751,45 @@
         }
       ],
       "id": "ssa:M:Dustin",
-      "fact": "Dustin came from an English surname with Old Norse roots.",
+      "fact": "Dustin traces through a surname to an Old Norse name joining Thor and 'stone'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Dustin+%28name%29&oldid=1363198364",
           "publisher": "Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Dustin (name)",
-          "workId": "wikipedia:Dustin (name)",
-          "quote": "Dustin originates from an English [[surname]]"
+          "title": "Dustin (name), revision1363198364",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "which is in turn derived from the [[Old Norse]] ''Þorsteinn'' ([[Torsten]])."
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Dustin name entry",
+          "title": "Behind the Name: Dustin (pinned2021 full retained description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "From an English surname that was derived from the Old Norse given name"
+          "quote": "From an English surname that was derived from the Old Norse given name Þórsteinn (see Torsten)."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Torsten (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Old Norse name Þórsteinn, which meant \"Thor's stone\" from the name of the Norse god Þórr (see Thor) combined with steinn \"stone\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition1884, full Thor section",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "the Danish Thorstein, the proper form of Thor’s stone"
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Patrick Hanks, Dictionary of American Family Names (2003), vol. 1 p. 504. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. The independently cited full paragraph connects Tustin/Turstin/Torstein to Old Norse Þorsteinn; no unsourced actor-naming story is selected. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Reviewer read raw Wiki1363198364 full lead/etymology with complete Hanks2003/NordicNames definitions and matched API; full BTN Dustin/Torsten/Thor; full Yonge1884 Thor section/footnote110, title/author/edition and contrasting index lines. Modern Dustin→surname→OldNorse name has BTN+Wiki Hanks-scope; compound has BTN+Yonge historical Thorstein/Thurstan family, not Yonge modernDustin. NordicNames actual403/GitHub0/npm0 remains unread, possible BTN import unknown; Wiki meaning is not counted as independent compound proof. Hanks/footnote books unread/count0. Yonge narrative Thorstone versus index Thorjewel both retained, no exclusive gloss or forced harmonization. Four exact quotes/three works, linked BTN heads one. Predating BTN excludes reverse modern import into Yonge; deeper scholarship unproved. No all-bearer ancestry, actor popularity or myth claims. Brief BTN copyright/pinned CC-BY-SA Wiki/Yonge USA-PD only; full Princeton notice stays. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -46391,29 +46407,45 @@
         }
       ],
       "id": "ssa:M:Alvin",
-      "fact": "Alvin's nineteenth-century use drew on older English surnames.",
+      "fact": "Alvin can trace to Old English names meaning 'noble friend' or 'old friend'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Alvin+%28given+name%29&oldid=1378438046",
-          "publisher": "Wikipedia",
+          "publisher": "Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Alvin (given name)",
-          "workId": "wikipedia:Alvin (given name):1378438046",
-          "quote": "Alvin was introduced in the 19th century based on surnames"
+          "title": "Alvin (given name), revision1378438046",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The names mean \"noble friend\" and \"old friend\" respectively."
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Alvin",
+          "title": "Behind the Name: Alvin (pinned2021 full retained description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "It was revived in the 19th century, in part from a surname that was derived from the Old English names."
+          "quote": "From a medieval form of any of the Old English names Ælfwine, Æðelwine or Ealdwine."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Æðelwine (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Derived from the Old English elements æðel \"noble\" and wine \"friend\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Ealdwine (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Old English elements eald \"old\" and wine \"friend\"."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Corrects the earlier reference-inventory error: a self-closing reference use is not malformed, and the Hanks definition is present at the end. Narrow nineteenth-century surname influence agrees with both works."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Reviewer read actual Wiki1378438046 full lead/etymology and complete Hanks/Hardcastle/Hodges2006 citation definition; raw API revision equals retained text. Read full retained BTN Alvin/Ælfwine/Æthelwine/Æðelwine/Ealdwine/Alwin descriptions. Both authored works link exact modern Alvin to the selected Old English noble-friend/old-friend names; unrelated ancient roots alone are not used. Can preserves additional elf-friend/Scandinavian and regional branches, no exclusive all-bearer ancestry. Introduced versus revived19th-century chronology unselected. Hanks book unread; unrelated long bearer list not fully read/count0; selected direct BTN dependence not established, deeper scholarship unproved. Four exact quotes/two works; linked BTN heads one dictionary. Retained source hashes/identity checked, no fresh network or footer fetch. Wiki contributor CC-BY-SA4.0 uses retained rights proof; brief copyrighted BTN quotes, no open corpus/media licence. Keep full Princeton notice. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -79287,37 +79319,29 @@
         }
       ],
       "id": "ssa:M:Brody",
-      "fact": "Brody was a commercial center for trade between Austria and Russia.",
+      "fact": "Adrien Brody won Best Actor Oscars for both The Pianist and The Brutalist.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/Encyclopaedia-Britannica-11th-Edition-Volume-4-Part-3-Brescia--to--Bulgaria-_19699/38ec09a4e6f4db539a008ecea03ac8697b84025c/19699.txt",
-          "publisher": "Encyclopaedia Britannica, 11th edition; public domain delivery by Project Gutenberg / GITenberg",
-          "author": "Various (Project Gutenberg catalog credit; Brody entry unbylined)",
-          "title": "Encyclopaedia Britannica, 11th edition, volume 4: Brody entry",
-          "workId": "encyclopaedia-britannica:11th-edition",
-          "quote": "BRODY, a town of Austria, in Galicia, 62 m. E. of Lemberg by rail."
+          "url": "https://www.britannica.com/biography/Adrien-Brody",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Patricia Bauer",
+          "title": "Adrien Brody | Movies, Succession, The Brutalist, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "who won the Academy Award for best actor for his performances in The Pianist (2002) and The Brutalist (2024)."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/Encyclopaedia-Britannica-11th-Edition-Volume-4-Part-3-Brescia--to--Bulgaria-_19699/38ec09a4e6f4db539a008ecea03ac8697b84025c/19699.txt",
-          "publisher": "Encyclopaedia Britannica, 11th edition; public domain delivery by Project Gutenberg / GITenberg",
-          "author": "Various (Project Gutenberg catalog credit; Brody entry unbylined)",
-          "title": "Encyclopaedia Britannica, 11th edition, volume 4: Brody entry",
-          "workId": "encyclopaedia-britannica:11th-edition",
-          "quote": "It is situated near the Russian frontier, and has been one of the most important commercial centres in Galicia, especially for the trade with Russia."
-        },
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Brody&oldid=1378948030",
-          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "url": "https://en.wikipedia.org/w/index.php?title=Adrien_Brody&oldid=1378210893",
+          "publisher": "Wikipedia, The Free Encyclopedia",
           "author": "Wikipedia contributors",
-          "title": "Brody (revision 1378948030)",
-          "workId": "wikipedia:brody",
-          "quote": "During the first half of the 19th century Brody served as a major centre of trade between Austria and [[Russian Empire|Russia]]."
+          "title": "Adrien Brody, revision 1378210893",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Brody won two [[Academy Award for Best Actor|Academy Awards for Best Actor]] for portraying the Polish pianist [[Władysław Szpilman]] in [[Roman Polanski]]'s war drama ''[[The Pianist (2002 film)|The Pianist]]'' (2002) and the Hungarian [[Brutalist architecture|brutalist architect]] László Tóth in [[Brady Corbet]]'s period epic ''[[The Brutalist]]'' (2024)"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-        "note": "Accepted for the historical Galician town. Britannica calls it a town of Austria and a commercial centre for trade with Russia; header/catalog credit Various, with no Brody article byline established. Wikipedia’s distinct trade paragraph cites Енциклопедія українознавства. Словникова частина (ЕУ-II) (1993), vol. 1, pp.174–181; that book was not read or counted separately. Its English Encyclopedia of Ukraine external link is not identified as the same edition. The EB1911 poster is only under External links, with no attribution in the selected paragraph. Two actual edited authored works count; named individual authors and deeper shared lineage remain unverified. Conflicting town-rights dates 1684/1584, population, trade-decline cause and given-name origin are excluded. Actual bodies, offsets, catalog and API provenance checked."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Reviewer read7 raw human BRT paragraphs, Patricia Bauer writer/Editors checker/signature and Article metadata. Read Wiki1378210893 full lead, complete Pianist/Brutalist career paragraphs, all selected inline/named definitions; raw API matches. Both authored accounts state Best Actor awards for these named films; Oscars/Academy Award wording has human context. Two named wins, no exclusive lifetime total, dates or youngest firstness. Adrien Brody gives explicit surname context, not all-given-name origin. Wiki paired lead is unfootnoted; Jan/Feb2025 adjacent Globes/CriticsChoice reports do not verify MarchOscar. Those and other news/books unread/count0; no film viewing. No selected direct BRT reuse established; deeper award-source lineage unproved, not eyewitness certification. Old town hook valid; clearer actor/category/two-film learning is editorial, no study. Two literal refs/two canonical works. Brief BRT copyright and pinned CC-BY-SA Wiki; keep full Princeton notice. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -81087,29 +81111,45 @@
         }
       ],
       "id": "ssa:F:Eliza",
-      "fact": "Eliza is a shortened form of Elizabeth.",
+      "fact": "In Pygmalion, flower seller Eliza Doolittle is trained to pass as a duchess.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Eliza and explicitly linked entries",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Short form of Elizabeth."
+          "url": "https://www.britannica.com/topic/Pygmalion-play-by-Shaw",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Pygmalion",
+          "workId": "britannica:encyclopedia",
+          "quote": "changing the speech of a Cockney flower seller"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names (1884)",
-          "workId": "yonge-history-of-christian-names-1884",
-          "quote": "Poetry did not improve our Queen Elizabeth by making her into Eliza, a form which, however, became so prevalent in England"
+          "url": "https://www.britannica.com/topic/Pygmalion-play-by-Shaw",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Pygmalion",
+          "workId": "britannica:encyclopedia",
+          "quote": "to pass her off as a duchess. Eliza undergoes grueling training."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Pygmalion+%28play%29&oldid=1376184507",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Pygmalion (play) (revision1376184507)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Identifying herself as Eliza Doolittle, she requests instruction in refined speech"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Pygmalion+%28play%29&oldid=1376184507",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Pygmalion (play) (revision1376184507)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "training Eliza to pass as a duchess"
         }
       ],
       "factReview": {
-        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
-        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. Only the name relationship is selected. Yonge's literary and social judgments about the form are not asserted as modern facts. Recognition review pending."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independently read all three human Britannica Pygmalion paragraphs, printed Editors credit and Article authorship; AI/FAQ excluded. Read pinned Wiki1376184507 full lead and all five Plot acts, including complete Act Two; verified API identity. Both name flower seller Eliza Doolittle and training for the duchess wager. Wiki Plot is uncited; underlying Shaw play, books and performances unread and uncounted. Passive 'is trained' preserves Eliza's initial aim of flower-shop employment and the separate Higgins/Pickering wager. Play-specific fictional action, without noble status, training duration or musical/film transfer. Two authored retellings of the same play; deeper common lineage unaudited. Four literal brief quotes and two canonical works. Britannica copyright-bearing excerpts; Wikipedia attribution/CC-BY-SA4.0 retained. No name-origin/popularity or measured player-gain claim. Independently accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
