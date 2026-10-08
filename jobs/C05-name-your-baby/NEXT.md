@@ -2,53 +2,45 @@
 
 C05 remains active on `job/C05-name-your-baby`, nickname `codex-queue`.
 PR: https://github.com/luisitin/partybox-content-packs/pull/1.
-The pack has 500 reviewed facts and 500 separate editorial recognition notes.
-There are 154 editorial changes across 47 content rounds, plus API repair
-rounds 36, 46 and 48. No consecutive no-player-gain rounds are established.
+500 reviewed facts/500 separate editorial recognition notes;156 editorial
+changes across48 content rounds plus API36/46/48. No consecutive
+no-player-gain rounds are established. No whole-job blocker.
 
-Read main CLAIMS.md, Git status, branch, remotes and current CI before writing.
-Preserve concurrent changes. Refresh the owned main claim on every feature
-push and within 30 minutes; use normal pushes. The user requires continuous
-work without questions. Log assumptions; do not merge the PR unasked.
+Read main CLAIMS, Git status/remotes/currentCI before writing; preserve concurrent
+changes. Refresh the owned claim on each featurepush and within30minutes,
+normalpushes. User requires continuous work without questions; log assumptions.
+Do not merge PR unasked. Current clean pushed head/claim/CI must be read live.
 
-Prior exact green: d6281db55c7404429343056cbec5d4c059f2c583, CI37792994495.
-Root read all verify steps green and reread C05/JOBS/RULES at14:37:24Z.
-Round50 exacte24f296/CI37795564126 is green; root read allsteps14:58:05Z and rereadjob14:58:30Z. This documentation checkpoint needs its own CI.
-Inspect live Git/CLAIMS for delivery status.
+Latest prior exactgreen:fb48da6bd433ad44455d7b0503c5249115711b33/CI37799363347; root allsteps
+read15:24:50Z,jobreread15:25:11Z. Round51 localchecks complete; newclaim/push
+and its ownfullCI remain separate operations. Last priorpush15:16:14Z;
+inspect liveCLAIMS/history for newer delivery rather than using this olddeadline.
 
-Round50 changes only Christy and Ricky, preserving each whole old lesson:
+Round51 changes2 facts:ssa:F:Kristin, ssa:M:Jon.
+Two noncosmetic explicit-card links preserve the whole old lessons: Kristin57→77(+20/35.09%,10→14words) and Jon53→74(+21/39.62%,9→14words). Qualifiedform/shortening routes keep alternatives. Distinctpeers/root judge modest relevance/clarity earns these reading/repetition costs, not empirical audience benefit. All500numeric/recognition and498other wholecurationrows preserved. Cumulative156editorial changes across48contentrounds+API36/46/48;0established consecutive no-player-gain rounds.
 
-- Christy58→87: “For boys, Christy can shorten Christopher; the saint bore
-  Jesus over a river in legend.”
-- Ricky54→76: “Ricky and Dick can be short for Richard; Dick lies behind
-  the surname Dixon.”
+Unified exec9713 actually exited0 beforecompletion:bothgenerators,
+8/8focusedtests in17.377280058s,0fail/cancel/skip/todo,17checksums.
+Timezone bytegoldens,strictschemas/reviewgates/CLInegatives/protecteddata pass.
+All500 numeric/recognition records and498other completecurationrows
+unchanged. Current sourceindex:525URLs. Data pins:
 
-Both exact objects passed distinct actual-source/materiality and root review.
-Curation retains their references and scoped notes. SOURCES/VERIFY/CONFLICTS
-preserve clause support, rights, known catalogue dependencies, unread deeper
-authorities and reading costs. These are editorial gains in card relevance,
-not participant measurements or certified independent primary research.
+- fixtures/curation.json: 4a43edd1101d0fe0e428471e573a776e75c152ab8276e51ba909411909773b4d
+- data/name-your-baby.json: 72e8d34e473ed3f6f0c223ef10fc273206f1f5fe90c82e6bcb8bce37dc1ad633
+- data/current-reviewed-candidates.json: 3b3b8d1cb780c31358d284da3d8d03fc1aa94b793bc16bf52e9d4069469b0126
 
-Session88990 actually exited0 before completion: both generators,8/8 focused
-tests in19.003617464seconds and17checksums. Timezone byte goldens, strict schemas,
-review gates, CLI failures and protected-data guards passed. All500 numeric
-and recognition records and the other498 complete curation rows stayed
-unchanged. The source index has519URLs.
+Accepted fields/briefquotes/credits/rights/clause grouping/lineage limits and
+read scopes are portable in curation/SOURCES/VERIFY/CONFLICTS. Temporary
+proofs/caches/helpers are optional and not promised restored. Recover original
+sources and repeat acceptance if needed, rather than trusting absent proofs.
 
-Current data pins:
+Latest full local code run17677 actually exited0 in656.392828117seconds:
+45/45tests,45/15/12mutationbaselines,36/36caught,12compiledfiles restored
+byte/hash-exact,17checksums. Code unchanged through49–51; rerun full local
+only for relevant changes/failures.10000differentials/1003propertyseeds
+automated;earlier30manual numericcrosschecks historical,not new source reads.
 
-- fixtures/curation.json: 44d2ca4741f2a38e89a68a459770b2c8e7f41e4fd5681d7ba32f80217e8e8dcc
-- data/name-your-baby.json: c79f1d55bdafda7ba3cead465c05124cba4ef4b339b78bfcfa0b4c30f6d9624c
-- data/current-reviewed-candidates.json: 3c7e26f7fe7ca90f0c70e62b88bab1bfecc467cfeec86bad3d096ba48a8421bb
-
-Latest full local pinned-Python run: session17677 exited0,45/45tests,
-45/15/12mutation baselines,36/36mutants caught,12compiled files restored
-exactly and17checksums,656.392828117seconds. Code is unchanged by49/50;
-repeat full local checks only for relevant changes or failures. Automated
-checks include10,000differential cases/1,003property seeds. The30manual
-numeric cross-checks remain historical evidence, not new source reads.
-
-From this job folder:
+From this jobfolder:
 
 ```sh
 PARTYBOX_SOURCE_PYTHON=/workspace/.partybox-source-venv/bin/python \
@@ -56,63 +48,47 @@ PARTYBOX_SOURCE_FILE=/workspace/.partybox-source-cache/c05/c05-babynames.rda \
 npm test
 ```
 
-README has installation/generation/checksum commands. Node>=24/Python3.12.
-Recover missing pinned inputs through the installer or README; /tmp proofs
-and caches are not promised restored. RDA SHA256:
-1d5c601fa3c5177f4d9edb4c8c2f08fddc8d9bf04372b8a40dc6aecf92bfa324.
-Await actual parent exit0 before dependent hashes, completion or Git.
+README has installer/generator/checksum commands. Node>=24/Python3.12;
+pinnedsource dependencies. RDAcacheSHA1d5c601fa3c5177f4d9edb4c8c2f08fddc8d9bf04372b8a40dc6aecf92bfa324.
+Await actual parent exit0 before dependenthashes/completion/Git.
 
-Preserve SSA ZIPcd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724,
+Preserve SSAZIPcd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724,
 selection2d61d267cc4e711d3d3d09d5232ba22995447175bfad7dcd3f82118258b6fab2,
-and64,262annual rows/sourcefd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2.
-Use exact spelling/F-M categories.2020s:6observed2020–2025+4future years;
-no projection/normalization. Missing published counts do not prove zero
-births. Historical30-row1880–2009sample is separate.
+64262annualrows/sourcefd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2.
+Exactspelling/F-M;50000publishedcount/peak>=115%runnerup.2020s6observed
+2020–2025+4future2026–2029;no projection/normalization. Missingpublished
+counts do not prove zero births;pre1937incomplete/territoriesexcluded.
+Historical30-row1880–2009sample separate. Recognition is adultUS editorial
+familiarity,not survey/count-derivedscore.
 
-After current CIgreen reread the job, read the changed pack and list five
-actual weaknesses before another round. Prior round50five: Christy(worst),
-Ricky, Kaylee, Kristin, Colton; the first two have now changed. Root's full
-500-fact reading and two differing fresh49rankings are historical on prior
-facts. Root freshly read all five pairs after checkpointgreen; this was
-a disclosed synthesis, not another blind all500ranking. VERIFY has scopes.
+After newexactheadCIgreen rereadjob,read actualchanged500 and list5weaknesses
+before anotherround. Priorcurrent50 rootsynthesis:Kristin: implicit Christina queen connection (worst); Joann: implicit Joanna wife of Herod's steward connection; Jon: implicit Jonathan/Saul/David connection; Gabriela: implicit Gabriel biblical birth announcement connection; Vicki: implicit Victoria Roman victory goddess connection.
+Prior exact fb48da6bd433ad44455d7b0503c5249115711b33/fullCI37799363347 completed/success; root actually read every verify step15:24:50Z, reread C05/JOBS/RULES15:25:11Z, then fresh5completecuration/productionpairs/all75sixfieldcells15:25:43Z. FirstwrongdecadeSerieskey failed before anyfullpair output; correctedcombinedprint truncated, followed actualfull2/3compactrereads untruncated. No failed/truncatedreadcredit. Root actual500fullfactlinepass14:58:57Z is on byte-identicalcurrent50 inputs44d2ca/c79f1d; originalsource/reference/recognition500recertification0. Rootfive Kristin(worst),Joann,Jon,Gabriela,Vicki reaffirmed for visible implicit Christina/Joanna/Jonathan/Gabriel/Victoria connections, not sourceavailability. Root knows priorholds/currentdrafts/newsourceleads/freshprimarysummary, so this is disclosed source-aware synthesis rather than blind/source-naive/consensus.
 
-Current source and editorial progress (full evidence in VERIFY/SOURCES):
+Fresh current50 primary personallyall500 BEFORElock14:59:52/selectedmetadata/candidates/other50rank/sourcework, then5fullpairs75cells:Kaylee(worst),Colton,Hayden,Ava,Arthur; rootfullreport/scope/lock+14hash-byte/15SHA PASSmanifestb5b2ba6d025aeb7e6dcba59fb3c5811fe68420e84d272a10c651fac135b15a0b. Familiar-history counterall500 BEFORElock15:03:52/selectedmetadata/other50rank/candidates, then5wholepairs75cells+32boundedcomparisonfacts:Kristin(worst),Kaylee,Colton,Jon,Joann; rootfullreport/scope/lock+27hash-byte/28SHA PASSmanifestc59c0074fb7dc5e34cf0e755c29f06c4b2bc54e07af8b34173293dc3b3a9af9e. Owned historicalinputs/scopes/sourcebodies0 unchanged inthese frozeneditorialassessments. Laterseparateoriginal-source inquiries do not retroactivelyexpand/rerankthem. Differenttastes retained; primary's Kaylee relevancecriticism remains evenwhenexactblendheld, validuncertainty/wordplay/shortfamilylessons mayremain.
 
-Root freshall500factread14:58:57Z plus5wholepairs/all75cells15:01:13Z givesnextfive Kristin(worst),Joann,Jon,Gabriela,Vicki. Primary50 independentlylockedKaylee(worst),Colton,Hayden,Ava,Arthur beforemetadata; counter50lockedKristin(worst),Kaylee,Colton,Jon,Joann beforemetadata. Root fullreports/scopes/locks and14/27bindings plus15/28SHApasses; differingtastes/priorfamiliarity are explicit. No sourceapproval orzero fromthese textpasses.
+Kaylee71 compositionproposal is final scoped materialityHOLD, current67 valid ending/nauticallesson retained; producer109/rootpeer155bindings and actual modern/WordNet/Chambers workgroup/rights scopes remain inpriorcheckpoint. No forced75McKeownbearer/lostlee swap, sourceglobalexhaustion or zero. Addison84childgloss final scoped origin-sourceHOLD, current65surname/girlsboysretained; rootproducer93/peer133bindings andactualMossnoorigin/WikiHanks2006/BTNgeneralHanks1990Wikipedia/selectedoriginindependenceunestablished. Neitherdecision finds currentfalsehood. Joann current54wholebiblicalwife/Herodsteward lesson remainsvalid; exactsecond modernedge Joann→Joanne→Joanna unresolved insecondqualifiedwork. MossJoannexplicitJoanne butMossJoanneonlysameglossnotroute; NameberrypositiveBTNYongeHanksWithycombe catalogue notadditionalindependentvote. Meaning/spellingproximityneverbridges. Colton/Hayden/Ava/Arthur/Courtney/Nicole/Stephanie scoped optionalopportunities and differingreaderpriorities remain, no globallybest/cosmeticcertificate. OldKristin118/157holds immutable; source-specificnewaccepted objectdoesnotbackdateoldapproval. Holds/optional403/docs/waits/researchpending/workerlimits/negativeaudits arenotLOOP/zero/playergain/globalclosure. Gabriela87 andVicki75 exactbridgeproposals stayunverified/communicateddistinctretentiononmateriality; Rootfullyread finalpeerreport/decision/scope/clausematrix/rights and80immutablebindingsPASS15:42:18Z; finalscopedhold complete, noapprovedoverlay. Currentvalid53/42stories remain, no sourcefalsehood/zero/forcedrootpromotion. Round51approvedONLYKristin77/Jon74.
 
-Remaining proposals require actual final frozen decisions:
+Final G/V target guard supplement: root read both new guard/scope texts and verified all5decision/report/scope/matrix/rights files byte-equal the previously fullyread v1. Actualrecursive rootcheck passes88uniquehash-byte descriptors (peerdeclares86indexedbindings), manifest3edcbbfcf1ce6fb3b88816ac5f559c28051c7ad901ee9c95db959ac70b35fa3c; no/workspace mutable descriptors. Counts overlap/notvotes. Own frozenhistorical50 inputs44d2ca/c79f1d preserve earlier source/target scopes. Actual15:42:18 guard observes dirtyfb48HEAD with new51wholeopaque4a43edd/72e8d34 and all4G/Vtargetobjects equal ownfullyread15:37baseline. This is target-onlymechanicalequality, notcleancommitted51/ownCI/all500/semanticreread or backdatedapproval. Exact87/75materialityholds/current53/42/nooverlay stayunchanged; noadditionalLOOP/gain/zero.
 
-- Kaylee71 composition+nautical: distinct peer finally holds this wording because an obvious split may imply false nautical origin.
-- Addison84 child-of-Adam: distinct peer finally holds this wording;
-  gloss broadening does not resolve the surname-origin authority overlap.
-- Kristin exact Christina bridge remains a scoped source hold. Optional
-  Courtney/Colton/Hayden/Nicole/Stephanie opportunities remain.
+Each necessary factclause requires2qualified authoredworks after positive
+grouping of known imports/commonlineage,actual selected originals/credits/
+cites/rights/alternatives. Mirrors/headwords/APIs are not extra votes;
+absentimportmarkers are not primary-independence evidence. Deeper unknowns
+stay explicit. Validshort lessons mayremain; longer roots/bearers must earn
+density/lostlesson costs. No audience/wholepackbest certificate.
 
-No approvedoverlay is emitted by either hold; no zero rounds follow. New Kristin/Jon/Gabriela/Vicki bridge drafts remain unapproved; Joann exact second edge unresolved. Newheads require ownCI and fresh dated unchanged-target guards.
-Kaylee/Addison whole targets are unchanged across50; recheck those pairs.
-Whole49hashes do not certify the changed pack. Each necessary clause needs
-two qualified authored works, actual selected originals/credits/citations/
-rights and positive grouping of imports/common lineage. Headwords/mirrors/
-APIs add no votes. Deeper unknowns remain explicit. Valid short lessons may
-remain; longer roots or bearer swaps must earn reading and lost-lesson costs.
+KEEP GOING remains active until3actual consecutive no-player-gainrounds.
+Holds/optional403/researchpending/docs/waits/workerlimits/negativeaudits are
+not zero,cosmeticplateau/globalexhaustion/whole-jobBLOCKED. NoC01claim while
+C05active. When actually advancing,recheckmainclaims/branchages and choose
+lowesteligiblejob. Blockedresearch follows orderedGitHub→registry→knowledge
+unverified; requiredAPIpipeline follows RULES sample/blocking instructions.
 
-Advance only after three actual consecutive no-player-gain rounds.
-Holds, optional403s, research in progress, docs, waits, negative audits and
-worker limits are not zero rounds, cosmetic convergence, global exhaustion
-or whole-job BLOCKED. Do not claimC01 whileC05active. When advancing,
-freshly reread main claims/branch ages and choose the lowest eligible job.
-
-Root owns repository/Git/build/test/CI; peers write NEW immutable /tmp proofs.
-Use ordered GitHub→registry→knowledge-unverified recovery for blocked
-research. Whole-pipeline sample/blocking rules apply only where required.
-
-Saved environment draft requires native publication. It is not certified
-published, applied, executed or restored in a fresh task. Preserve inherited
-proxy/CA/TLS/network/secrets/runtime; never print credentials or signed
-Actions queries. Before each native save rediscover all /workspace checkouts
-and reread the draft; pin the exact clean pushed mount, omit unchanged settings.
-
-NEXT-HISTORY.md preserves the previous continuation verbatim. Its historical
-current/pending labels describe old checkpoints. Full accepted evidence also
-lives in SOURCES/VERIFY/CONFLICTS/ASSUMPTIONS/LOOP. Resume restructuring has
-no player gain or extra LOOP count.
+Rootowns repo/Git/build/test/CI; read-only peers write NEWimmutable/tmp proofs.
+Saved environmentdraft requires nativepublication; not certifiedpublished,
+applied/executed/fresh-task-restored. Preserve inheritedproxy/CA/TLS/network/
+secrets/runtime;never print credentials/signedActionsqueries. Every native
+save needs freshall/workspacediscovery/draftread and exactcleanpushedmount;
+omitunchangedsettings. NEXT-HISTORY preserves priorcontinuation verbatim;
+historicalpending/current labels are old state,no gain/extraLOOP/zero.

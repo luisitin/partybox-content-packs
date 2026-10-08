@@ -43967,37 +43967,45 @@
         }
       ],
       "id": "ssa:F:Kristin",
-      "fact": "Christina was the name of a 17th-century queen of Sweden.",
+      "fact": "Kristin can be a form of Christina, the name of a 17th-century Swedish queen.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/kristin",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Kristin (entry index 0; pinned 2021 distribution)",
+          "title": "Meaning, origin and history of the name Kristin (complete direct entry, read 2026-10-08)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Scandinavian and German form of Christina."
+          "quote": "Scandinavian form of Christina."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://en.wiktionary.org/w/index.php?title=Kristin&oldid=90662919",
+          "publisher": "Wiktionary; Wikimedia Foundation",
+          "author": "Wiktionary contributors",
+          "title": "Kristin (pinned revision 90662919), English etymology and Swedish proper noun",
+          "workId": "wiktionary:entry:Kristin",
+          "quote": "Borrowed in the 20th century from Norwegian Kristin, a variant of Christina."
+        },
+        {
+          "url": "https://www.behindthename.com/name/christina",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Christina (entry index 0; pinned 2021 distribution)",
+          "title": "Meaning, origin and history of the name Christina (retained complete original direct entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "It was also borne by a 17th-century Swedish queen and patron the arts who gave up her crown in order to become a Roman Catholic."
+          "quote": "It was also borne by a 17th-century Swedish queen"
         },
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Christina+%28given+name%29&oldid=1358765513",
-          "publisher": "Wikipedia, Wikimedia Foundation",
+          "publisher": "Wikipedia; Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Christina (given name) (pinned revision 1358765513)",
+          "title": "Christina (given name), pinned revision 1358765513, complete royalty-list context",
           "workId": "wikipedia:christina-(given-name)",
-          "quote": "* [[Christina of Sweden]] (1626–1689), Queen regnant of Sweden from 1632 to 1654"
+          "quote": "Christina of Sweden (1626–1689), Queen regnant of Sweden from 1632 to 1654"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-        "note": "Narrowed to Christina; Kristin→Christina is BTN-only and remains review context. BTN’s Christina headword and the independently authored Wikipedia royalty list support the queen, country and century. The pinned article is one work with a revision-free workId. No abdication motive is asserted; deeper lineage is unaudited."
+        "reviewer": "/root/c05_current_offline_challenge: distinct original-source and materiality peer",
+        "note": "Distinct peer read full BTN entries, Wikt raw/rendered, 69 revision metadata and 31 whole selected bodies, editor profile, Wiki queen context, BTN policies/catalogue and CC4 legal. BTN+Wikt support possible form; Makaokalani authored the English/Swedish bridge in 2007 and added Norwegian Kruken/Stemshaug1995 citation in 2011. BTN lists Stemshaug1982 and both Wiki works: positive common lineage, selected/deeper imports untraced; no primary-independence claim. Each dictionary counts once; BTN+Wiki support Christina/17th century/Sweden/queen. Can preserves alternate routes; no naming cause, ancestry or abdication claim. Adds 20 chars to 77, retains the whole queen lesson and explains card relevance; repetition/density cost real, no study. Literal quotes 4/12/9/12 words. BTN few-definition backlinks/restrictive Terms and Wiki CC4 credit/history/licence/change/SA retained. Foundation Terms CONNECT403/body0; ordered metadata fallback unused."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -45279,45 +45287,61 @@
         }
       ],
       "id": "ssa:M:Jon",
-      "fact": "In the Bible, Saul’s son Jonathan was David’s friend.",
+      "fact": "Jon can be short for Jonathan, Saul’s son and David’s friend in the Bible.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/jon-2",
           "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jon (pinned dictionary entry)",
+          "author": "Behind the Name (Mike Campbell, site creator)",
+          "title": "Jon (2), English editorial entry",
           "workId": "behind-the-name:dictionary",
           "quote": "Short form of Jonathan, or sometimes a variant of John."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://babynames.com/name/jon",
+          "publisher": "Moss Gathering LLC / BabyNames.com",
+          "author": "BabyNames.com; page metadata credits Jennifer Moss",
+          "title": "Jon: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames-com:dictionary",
+          "quote": "Form of John or diminutive form of Jonathan"
+        },
+        {
+          "url": "https://www.behindthename.com/name/jonathan",
           "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jonathan (pinned dictionary entry)",
+          "author": "Behind the Name (Mike Campbell, site creator)",
+          "title": "Jonathan: biblical narrative context",
           "workId": "behind-the-name:dictionary",
-          "quote": "According to the Old Testament, Jonathan was the eldest son of Saul. His relationship with his father was strained due to his close friendship with his father's rival David."
+          "quote": "According to the Old Testament, Jonathan was the eldest son of Saul."
+        },
+        {
+          "url": "https://www.behindthename.com/name/jonathan",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name (Mike Campbell, site creator)",
+          "title": "Jonathan: biblical narrative context",
+          "workId": "behind-the-name:dictionary",
+          "quote": "His relationship with his father was strained due to his close friendship with his father's rival David."
         },
         {
           "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
-          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset",
           "author": "William Smith",
-          "title": "Smith's Bible Dictionary: Jonathan",
-          "workId": "smith:bible-dictionary:1863",
+          "title": "Smith’s Bible Dictionary (printed 1884): complete Jonathan entry, first figure",
+          "workId": "smith:bible-dictionary:1884",
           "quote": "the eldest son of King Saul."
         },
         {
           "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
-          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
+          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset",
           "author": "William Smith",
-          "title": "Smith's Bible Dictionary: Jonathan",
-          "workId": "smith:bible-dictionary:1863",
+          "title": "Smith’s Bible Dictionary (printed 1884): complete Jonathan entry, first figure",
+          "workId": "smith:bible-dictionary:1884",
           "quote": "The chief interest of Jonathan’s career is derived from the friendship with David,"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Accepted as a biblical narrative statement. Actual BTN Jonathan description and Smith’s complete Jonathan entry explicitly identify Saul’s son and his friendship with David. Both Smith excerpts belong to that Jonathan, distinct from the later same-name figures. Jon→Jonathan remains dictionary context; the Jon entry also allows John, so no unique origin or exact modern Jon attestation in Smith is implied. Both source hashes, dictionary pointers/full retained descriptions, literal XML offsets and parsed headword checked; an additional agent independently confirms this row. Two authored dictionary works count; shared biblical tradition/deeper scholarship is not independent historical observation. Dates, death, battle details and literal etymology excluded. Actual XML Smith author/Public Domain declarations read."
+        "reviewer": "Distinct original-source/materiality peer /root/c05_fresh50_player_assessment",
+        "note": "Distinct peer read full original BTN English Jon(2)/Jonathan and Moss Jon, target metadata, complete Smith Jonathan/all12figures and XML author/title/rights. All6 literalquotes match own originals. BTN+Moss support nonexclusive shortening; both permit John. BTN+Smith support whole Bible/Saul/son/David/friend lesson in the same first figure. Actual Smith1884/PublicDomain vs old1863 label remains one work. Full BTN catalogue/credits/rights and Moss About/Expert/short-quote policy read; external Terms body0/CONNECT403 unread. BTN Hanks/Strong/Withycombe/Wiki catalogue and shared biblical tradition/deeper possible borrowing retained; underlying bodies and standalone upstream rights unread. +21 characters/5words (53→74) earn explicit card-name link while preserving whole lesson; small editorial clarity gain, no player study. No universal Jon origin, exact biblical Jon spelling, SSA/recognition or all500 claim. Exact draft d7b38144 approved by distinct peer; root integration pending."
       },
       "recognitionVerified": true,
       "recognitionReview": {
