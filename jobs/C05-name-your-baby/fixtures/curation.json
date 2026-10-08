@@ -8713,29 +8713,53 @@
   },
   {
     "id": "ssa:M:Landon",
-    "fact": "Landon was also the surname of actor Michael Landon (1936–1991).",
+    "fact": "Michael Landon starred in Bonanza and Little House on the Prairie.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name editorial publisher, delivered by the pinned baby_names archive",
-        "quote": "Use of the name may have been inspired in part by the actor Michael Landon (1936-1991).",
-        "title": "Behind the Name: Landon",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "title": "Michael Landon, revision 1372823653; Bonanza section",
+        "url": "https://en.wikipedia.org/w/index.php?oldid=1372823653",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Landon began his first starring TV role as Little Joe Cartwright on ''[[Bonanza]]''"
       },
       {
         "author": "Wikipedia contributors",
-        "publisher": "Wikipedia, Wikimedia Foundation",
-        "quote": "'''Michael Landon Sr.''' (born '''Eugene Maurice Orowitz'''; October 31, 1936 – July 1, 1991) was an American actor and filmmaker.",
-        "title": "Michael Landon, revision1372823653",
+        "publisher": "Wikipedia",
+        "title": "Michael Landon, revision 1372823653; Little House on the Prairie section",
         "url": "https://en.wikipedia.org/w/index.php?oldid=1372823653",
-        "workId": "wikipedia:michael-landon"
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Landon went on to star as Charles Ingalls in what became another successful television series, ''[[Little House on the Prairie (1974 TV series)|Little House on the Prairie]]'', again for NBC."
+      },
+      {
+        "author": "Britannica Editors",
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Michael Landon | Biography, TV Shows, Movies, & Facts",
+        "url": "https://www.britannica.com/biography/Michael-Landon",
+        "workId": "britannica:encyclopedia",
+        "quote": "Landon began appearing as Little Joe Cartwright in the hit television western series Bonanza"
+      },
+      {
+        "author": "Britannica Editors",
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Michael Landon | Biography, TV Shows, Movies, & Facts",
+        "url": "https://www.britannica.com/biography/Michael-Landon",
+        "workId": "britannica:encyclopedia",
+        "quote": "Landon created and starred in the popular series Little House on the Prairie"
+      },
+      {
+        "author": "Britannica Editors",
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Michael Landon | Biography, TV Shows, Movies, & Facts — Bonanza cast caption",
+        "url": "https://www.britannica.com/biography/Michael-Landon",
+        "workId": "britannica:encyclopedia",
+        "quote": "(From left) Pernell Roberts, Michael Landon, Dan Blocker, and Lorne Greene, the stars of the television series Bonanza."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
-      "note": "The retained BTN description and the actual Michael Landon article identify the actor and his 1936–1991 lifespan. The Wikipedia revision and parsed wikitext were checked against the retained API body. This approved bearer fact does not infer naming influence or biological birth surname. Linked upstream works were not read or counted."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read all four actual human Britannica paragraphs, Editors byline/signature and Article metadata, plus its separate Bonanza caption naming Landon among the stars; René Ostberg is reviser. Read Wiki revision1372823653 full lead, complete Bonanza/Little House sections, career maintenance banner and external links. Both works support starring in both television shows. Five contiguous exact excerpts; caption excludes its adjacent title link/more button, with no image copied. Wiki role sentences are unfootnoted; career banner requests citations. Nearby TV Guide, Bear Family and Chicago Tribune citations concern other assertions; underlying bodies unread/uncounted. No visible Britannica/EB1911 in retained Wiki; deeper lineage unresolved. Two canonical authored groups. Dates, birth name, character/production credits, firstness and naming influence excluded. No optional linked-series article counted. Brief attributed quotes retain publisher/Wikimedia rights; no assets or human checks."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -10385,37 +10409,53 @@
   },
   {
     "id": "ssa:F:Gina",
-    "fact": "Italian actress Lollobrigida was known as Gina.",
+    "fact": "Gina Lollobrigida worked as a photographer and sculptor.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Gina (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Italian actress Gina Lollobrigida"
+        "url": "https://en.wikipedia.org/w/index.php?title=Gina+Lollobrigida&oldid=1371617754",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Gina Lollobrigida, revision1371617754",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "photojournalist, and sculptor."
       },
       {
         "url": "https://en.wikipedia.org/w/index.php?title=Gina+Lollobrigida&oldid=1371617754",
         "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Gina Lollobrigida",
-        "workId": "wikipedia:Gina_Lollobrigida",
-        "quote": "'''Luigia''' \"'''Gina'''\" '''Lollobrigida'''"
+        "title": "Gina Lollobrigida, revision1371617754",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "a successful second career as a photographic journalist."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Gina-Lollobrigida",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Gina Lollobrigida | Biography, Movies, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "professional photographer"
+      },
+      {
+        "url": "https://www.britannica.com/biography/Gina-Lollobrigida",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Gina Lollobrigida | Biography, Movies, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "In the 21st century she also worked as a sculptor."
       },
       {
         "url": "https://en.wikipedia.org/w/index.php?title=Gina+Lollobrigida&oldid=1371617754",
         "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Gina Lollobrigida",
-        "workId": "wikipedia:Gina_Lollobrigida",
-        "quote": "was an Italian actress, model, photojournalist, and sculptor."
+        "title": "Gina Lollobrigida — photography/sculpture context, revision1371617754",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "for her achievements in photography and sculpture."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Root accepted after independent source review by /root/c05_post_restart_fact_review. Both the actual modern dictionary and actual public biography identify Italian actress Gina Lollobrigida. This modest bearer fact is independently supported while the unresolved Luigina/Luigia birth-name disagreement remains held. Approved references split marked omissions into separate exact contiguous excerpts from the same authored work; no source words are changed. Limits: Luigina in BTN versus Luigia in actual biography remains unresolved; no birth-name or name-popularity claim. Exact source quotations were matched to retained bodies after whitespace normalization. Article-cited underlying books were not separately read. No human spot-check or empirical recognition claim."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Narrowed after independent review to photography and sculpture. Acting is excluded because Wiki cites the same Britannica biography for youth and film roles, overlapping broader acting evidence. Retained human Editors prose directly identifies professional photographer and work as a sculptor. Wiki lead, complete Photojournalism, Books/awards and all five named Britannica reference contexts were read; selected photo/sculpture clauses have no directly attached Britannica reference. Five exact excerpts, two canonical authored works. Wiki occupation/sculpture sentences are unfootnoted; photo/book contexts label BBC, UTexas, Reuters and VOA, whose bodies remain unread/uncounted. This is proposition-specific support, not whole-article or deep-lineage independence. Luigina/Luigia accounts, dates, awards, firstness and popularity excluded. Cached API/revision and normal requests checked; no old-Wiki numeric TLS result invented. Brief attributed source text; no art/assets or human checks."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -14217,53 +14257,61 @@
   },
   {
     "id": "ssa:F:Ellie",
-    "fact": "Helena was the mother of Emperor Constantine.",
+    "fact": "Jurassic Park's Ellie Sattler is a scientist specializing in fossil plants.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Ellie (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Eleanor, Ellen 1 and other names beginning with El."
+        "url": "https://www.britannica.com/biography/Laura-Dern",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Patricia Bauer",
+        "title": "Laura Dern | Movies, Age, & Awards",
+        "workId": "britannica:encyclopedia",
+        "quote": "she became more widely known for her role as courageous paleobotanist Dr. Ellie Sattler in Steven Spielberg’s blockbuster sci-fi movie Jurassic Park (1993)."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Ellen (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Medieval English form of Helen."
+        "url": "https://en.wikipedia.org/w/index.php?title=Ellie_Sattler&oldid=1373995217",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Ellie Sattler, revision1373995217",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Dr. '''Ellie Sattler''' is a fictional character in the ''[[Jurassic Park (franchise)|Jurassic Park]]'' franchise."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Helena (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Latinate form of Helen."
+        "url": "https://en.wikipedia.org/w/index.php?title=Ellie_Sattler&oldid=1373995217",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Ellie Sattler, revision1373995217",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "She is a [[paleobotanist]] in both the novel and its film adaptation."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Helen (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "The name was also borne by the 4th-century Saint Helena, mother of the Roman emperor Constantine, who supposedly found the True Cross during a trip to Jerusalem.... [more]"
+        "url": "https://raw.githubusercontent.com/adambom/dictionary/0ae109fdbebaf550d406672913b4350ba97bfe15/dictionary.json",
+        "publisher": "Webster's Unabridged Dictionary, mirrored in the pinned adambom/dictionary corpus",
+        "author": "Various",
+        "title": "Webster's Unabridged Dictionary: PALEOBOTANIST",
+        "workId": "webster-unabridged-dictionary-gutenberg-29765",
+        "quote": "One versed in paleobotany."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "At last it was borne by the lady who was the wife of Constantius Chlorus, the mother of Constantine, and the restorer of the shrines at Jerusalem. St. Helena, holding the true cross, was thenceforth revered"
+        "url": "https://raw.githubusercontent.com/adambom/dictionary/0ae109fdbebaf550d406672913b4350ba97bfe15/dictionary.json",
+        "publisher": "Webster's Unabridged Dictionary, mirrored in the pinned adambom/dictionary corpus",
+        "author": "Various",
+        "title": "Webster's Unabridged Dictionary: PALEOBOTANY",
+        "workId": "webster-unabridged-dictionary-gutenberg-29765",
+        "quote": "That branch of paleontology which treats of fossil plants."
+      },
+      {
+        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+        "publisher": "Princeton University WordNet, delivered by wordnet-db 3.1.14",
+        "author": "Princeton University",
+        "title": "WordNet 3.1: paleobotany, synset06083922",
+        "workId": "princeton-wordnet-3-1",
+        "quote": "the study of fossil plants"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review",
-      "note": "Narrowed to Helena: BTN’s Helen entry explicitly identifies Saint Helena as Constantine’s mother; Yonge’s surrounding Helena section independently names the same mother. Ellie→Ellen/Helen/Helena remains dictionary context only. The asserted fact excludes the True Cross story and uncertain birthplace/King Cole narrative."
+      "reviewer": "/root/c05_auth_diagnostics",
+      "note": "Independent peer read of six human Britannica paragraphs/byline, pinned Wiki lead and complete fictional-background section, original Webster entries and actual WordNet3.1 synset06083922. Both character accounts identify Ellie Sattler as a paleobotanist in Jurassic Park; both lexicons support fossil plants as the field. Scientist specializing is a plain-language occupation paraphrase, not a scene-specific task or name origin. Dominion later changes her to soil scientist. The 2018 Wiki result is a redirect only. Cited novels, films/scripts and underlying news/books were not read or counted. No direct Britannica citation appears in the Wiki body; deeper shared-source independence is unproved. Princeton’s full2011 notice and permanent Wiki revision attribution remain required. Canonical lexicon IDs keep mirrors as one work. Recognition retained."
     },
     "recognitionVerified": true,
     "recognitionReview": {
