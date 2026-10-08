@@ -2617,29 +2617,29 @@
   },
   {
     "id": "ssa:F:Julie",
-    "fact": "Julie comes from the older name Julia.",
+    "fact": "Julie Andrews won an Oscar for playing Mary Poppins.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Julie+%28given+name%29&oldid=1378861771",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "Julie (given name), revision 1378861771",
-        "workId": "wikipedia:Julie (given name):1378861771",
-        "quote": "comes from the [[Latin]] ''[[Julia (given name)|Julia]]''"
+        "url": "https://www.britannica.com/biography/Julie-Andrews",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Julie Andrews | Biography, Movies, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "Walt Disney went backstage and offered Andrews the title role of the magical proper English nanny in his Mary Poppins (1964). The picture became one of Disney’s biggest moneymakers, and Andrews won both a Grammy and an Academy Award for her performance."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Julie (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "form of Julia."
+        "url": "https://en.wikipedia.org/w/index.php?title=Julie_Andrews&oldid=1379020750",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Julie Andrews, revision 1379020750",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "She made her film debut playing [[Mary Poppins (character)|Mary Poppins]] in [[Walt Disney]]'s ''[[Mary Poppins (film)|Mary Poppins]]'' (1964) and won the [[Academy Award for Best Actress]]."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Patrick Hanks, Dictionary of American Family Names (2003), p258; disputed further Julius gloss excluded. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review/alicia_pair_review",
+      "note": "Independent actual-source review: all7 human Britannica paragraphs, printed Editors/corporate reviser and Article metadata read; Wiki complete lead, 1963–1967 career subsection, award and selected citation/alias contexts read. Both link her Mary Poppins title-role performance to a winning Academy Award; Oscar is its ordinary alias, also used beside Academy Award in Wiki. Sound of Music is a nomination; no film Best Picture, debut firstness, category/date, Grammy or box-office claim asserted. Wiki cites the anniversary DVD, Andrews’s Home memoir and Academy awards database; underlying works unread/uncounted. No Britannica string is present in the whole loaded/scanned Wiki body; this does not prove deeper lineage independence. Two canonical Editors/contributor-authored works. Brief attributed prose; Wiki CC BY-SA4/permanent revision, reused rights proof, no fresh subject footer/media. HTTP200/TLS0 receipts match bodies; historical command arguments/header hashes unrecorded."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -9689,29 +9689,29 @@
   },
   {
     "id": "ssa:M:Max",
-    "fact": "Max can be a shortened form of Maximilian.",
+    "fact": "Max Planck won a Nobel Prize in Physics.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Max (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Short form of Maximilian (or sometimes of Maxwell in English)."
+        "url": "https://www.britannica.com/biography/Max-Planck",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Roger H. Stuewer",
+        "title": "Max Planck | Biography, Discoveries, & Quantum Theory",
+        "workId": "britannica:encyclopedia",
+        "quote": "won him the Nobel Prize for Physics in 1918"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Fabius Maximus and Scipio Æmilianus. “The Last of the Knights,” with his wild effrontery and spirited chamois-hunting might be despised by the Italians, as _Massimiliano Pochi Danari_; but he was beloved by the Austrians as “Our Max.” His great grandson, Maximilian II., contributed to the popularity of his unwieldy name, and Max continues to be one of the favourite German appellations, from the archduke to the peasant, to the present day; and has even thrown out the feminine Maximiliane. The Poles and Illyrians use _ks_ instead of _x_ in spelling it."
+        "url": "https://en.wikipedia.org/w/index.php?title=Max_Planck&oldid=1379100294",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Max Planck, revision 1379100294",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "he was awarded the Nobel Prize in Physics for 1918; he received the award in 1919."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Max also has a separate Maxwell or Russian-transcription use. The imperial blend anecdote is not asserted; Yonge wrongly numbers the father Frederick VII whereas BTN gives Frederick III."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read all 10 first-page human Britannica paragraphs, Roger H. Stuewer printed/Article credit; Wiki1379100294 full lead and selected Nobel career paragraph. Both identify Physics Nobel receipt. Excluded originator clause: Wiki lead closely tracks human paragraph2’s contribution/originator/atomic wording, amid known same-work Britannica citations. Award evidence uses differently worded Wiki career prose with Kragh/Nobel Foundation citations; underlying bodies unread/uncounted. Four Britannica-containing paragraphs (graduation, music, philosophy, external links) read; no whole-article/deep lineage independence claim. No quantum-origin, sole-founder, photons, causal award rationale or year assertion. Two short literal quotes/two canonical authored groups. Scientist award improves basic nickname hook; editorial judgment. Copyrighted human proof/attributed CC-BY-SA4.0 revision, prior rights reused; no whole multipage read, fresh footer, media or human checks."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -12193,45 +12193,45 @@
   },
   {
     "id": "ssa:F:Charlene",
-    "fact": "Charlemagne means 'Charles the Great'.",
+    "fact": "Charlene is a feminine form of Charles; Charlemagne means 'Charles the Great'.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Charlene (pinned 2021 distribution)",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name first-name dictionary: Charlene",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "workId": "behind-the-name:dictionary",
         "quote": "Feminine diminutive of Charles."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
+        "author": "Jennifer Moss",
+        "publisher": "BabyNames.com",
+        "title": "Charlene: Name Meaning, Popularity and Info on BabyNames.com",
+        "url": "https://babynames.com/name/charlene",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Form of Caroline or the feminine version of Charles"
+      },
+      {
         "author": "Behind the Name",
-        "title": "Behind the Name: Charlemagne (pinned 2021 distribution)",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name first-name dictionary: Charlemagne",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "workId": "behind-the-name:dictionary",
         "quote": "From Old French Charles le Magne meaning \"Charles the Great\"."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
         "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
+        "publisher": "Macmillan and Co., London; Project Gutenberg/GITenberg digital delivery",
+        "title": "History of Christian Names, new revised edition1884: Charlemagne glossary and Magnus context",
+        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
         "workId": "yonge:history-of-christian-names:1884",
         "quote": "Charlemagne, _m._ _Fr._ Teu. Lat. Charles the Great, 386"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Magnus was an agnomen added as a personal distinction, as in the case of Pompey. It was never a name till long after the Roman empire was over, when Karl der Grösse, as his Franks called him, had been Latinized into Carolus Magnus, and honoured by the French as Charlemagne. St. Olaf of"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-      "note": "Charlene to Charles is BTN-only review context. Published fact states only the Charlemagne translation, independently given in the BTN headword and Yonge's index. No disputed Charles meaning or claim about Charlene's invention is retained. Multiple BTN headwords are one work. Actual retained bodies, pointers, hashes and literal excerpts checked independently; deeper source lineage unaudited."
+      "reviewer": "/root/c05_quality_review/alicia_pair_review",
+      "note": "Independent actual-source review: complete retained BTN Charlene/Charlemagne descriptions, Moss’s exact Charlene section/Article credit, and Yonge’s glossary/full Magnus context read. Feminine Charles form agrees in BTN and Moss; Charles the Great translation agrees in BTN and Yonge. Three canonical authored works, two per clause; headwords/mirror delivery count once. Moss’s Article metadata supplies her credit, not a visible byline; dictionary ID corrected. No Charlene named-after-Charlemagne lineage or historical modern-spelling proof. Moss’s Free/Free Man versus BTN man/alternative army glosses held; no universal origin, dates or Yonge legends. No direct selected dependency identified; deeper lineage unaudited. Actual50-word policy:9-word quote requires visible entry/BabyNames.com attribution and clickable original URL. Book author/1884/USA-PD and licence limits reused from actual reads; brief attributed prose, no art/corpus."
     },
     "recognitionVerified": true,
     "recognitionReview": {
