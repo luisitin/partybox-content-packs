@@ -5761,45 +5761,53 @@
   },
   {
     "id": "ssa:F:Dawn",
-    "fact": "Dawn can mean the start of an era as well as the first light of day.",
+    "fact": "At astronomical dawn, the Sun is 18 degrees below the horizon.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/d/da.json",
-        "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
-        "author": "Wiktionary contributors",
-        "title": "English Wiktionary lexical entry: dawn",
-        "workId": "wiktionary:dictionary",
-        "quote": "(uncountable) The earliest phase of something."
+        "url": "https://raw.githubusercontent.com/mourner/suncalc/21449f34820c3c80a27a78cdc940747ff19ca1e3/README.md",
+        "publisher": "SunCalc",
+        "author": "Volodymyr Agafonkin (current copyright/package metadata; commit author Vladimir Agafonkin)",
+        "title": "SunCalc2.1.1 complete README: Sunlight times",
+        "workId": "suncalc:astronomy-library",
+        "quote": "night ends (morning astronomical twilight starts)"
       },
       {
-        "url": "https://raw.githubusercontent.com/mhollingshead/open-dictionary/8c59b17fd91d744aeecc8c3b59b57a3d5353dbe6/api/d/da.json",
-        "publisher": "English Wiktionary, delivered by the pinned Open Dictionary scraper archive",
-        "author": "Wiktionary contributors",
-        "title": "English Wiktionary lexical entry: dawn",
-        "workId": "wiktionary:dictionary",
-        "quote": "(uncountable) The morning twilight period immediately before sunrise."
+        "url": "https://raw.githubusercontent.com/mourner/suncalc/21449f34820c3c80a27a78cdc940747ff19ca1e3/index.js",
+        "publisher": "SunCalc",
+        "author": "Volodymyr Agafonkin",
+        "title": "SunCalc2.1.1 explicit Sun-time angle/morning-name configuration",
+        "workId": "suncalc:astronomy-library",
+        "quote": "[-18, 'nightEnd', 'night']"
       },
       {
-        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
-        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
-        "author": "Princeton University WordNet editorial contributors",
-        "title": "WordNet 3.1 noun database (2011)",
-        "workId": "princeton-wordnet-3-1",
-        "quote": "an opening time period; \"it was the dawn of the Roman Empire\""
+        "url": "https://raw.githubusercontent.com/sffjunkie/astral/ac23ab5c0c69837d8fa1a5bb184c2d6d125b26b3/src/docs/index.rst",
+        "publisher": "Astral",
+        "author": "Simon Kennedy",
+        "title": "Astral3.2 complete original guide: Dawn definition",
+        "workId": "astral:astronomy-library",
+        "quote": "The time in the morning when the sun is a specific number of degrees below the horizon."
       },
       {
-        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
-        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
-        "author": "Princeton University WordNet editorial contributors",
-        "title": "WordNet 3.1 noun database (2011)",
-        "workId": "princeton-wordnet-3-1",
-        "quote": "the first light of day"
+        "url": "https://files.pythonhosted.org/packages/04/d1/1adbf06a38dc339e41a1666f6c7135924594c20fd46e060fb263248c564d/astral-3.2.tar.gz",
+        "publisher": "Astral; delivery via PyPI",
+        "author": "Simon Kennedy",
+        "title": "Astral3.2: full src/astral/__init__.py, Depression dawn/dusk declaration",
+        "workId": "astral:astronomy-library",
+        "quote": "ASTRONOMICAL = 18"
+      },
+      {
+        "url": "https://files.pythonhosted.org/packages/04/d1/1adbf06a38dc339e41a1666f6c7135924594c20fd46e060fb263248c564d/astral-3.2.tar.gz",
+        "publisher": "Astral; delivery via PyPI",
+        "author": "Simon Kennedy",
+        "title": "Astral3.2: complete dawn() context, src/astral/sun.py",
+        "workId": "astral:astronomy-library",
+        "quote": "Number of degrees below the horizon to use to calculate dawn."
       }
     ],
     "factReview": {
-      "reviewer": "Codex Queue after independent authored-source review",
-      "note": "Accepted after independent agent source review. Both bodies support the early-phase metaphor and daybreak meaning. WordNet directly supplies first light of day; Wiktionary independently supplies morning twilight and rising-sun senses. The fact avoids a precise sunrise boundary. The original paired-sense quotations use ellipses; each fragment matches individually. Separate verbatim references preserve both senses with whitespace-only exact comparison. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim. WordNet excerpts retain the full Princeton notice."
+      "reviewer": "Codex distinct original-source/materiality peer /root/c05_fresh50_player_assessment",
+      "note": "Dawn peer read full SunCalc README/types, solar section, full Astral guide/credits, enum module and dawn/transit controls. Published -18 morning mapping plus Depression.ASTRONOMICAL=18 support the conventional morning threshold; not inferred from computed outputs. Two authored libraries, one work each; mirrors add no works. SunCalc cites Meeus/USNO/timeanddate/Wiki; Astral credits NOAA solar adaptation and refraction scholars. Common standard/deeper lineage unknown; underlying works unread, no primary-independence claim. Astral night() prose conflicts with civil6 calls and is excluded. Refraction/elevation/rising controls read; no universal daily or identical-output guarantee. Five literal quotes checked, whitespace only; complete BSD2/Apache2 and credits retained. Current68/16words loses valid era/ordinary-light senses; exact62/11words earns modest concrete-angle gain despite technical terminology. Own full pair/15 cells unchanged; no recognition or global-best claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -6745,29 +6753,37 @@
   },
   {
     "id": "ssa:F:Courtney",
-    "fact": "Courtney moved from a surname into use as a first name.",
+    "fact": "Courtney Love earned a Golden Globe nomination for The People vs. Larry Flynt.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Courtney+%28given+name%29&oldid=1378470962",
-        "publisher": "Wikimedia Foundation",
+        "url": "https://en.wikipedia.org/w/index.php?title=Courtney_Love&oldid=1379153144",
         "author": "Wikipedia contributors",
-        "title": "Courtney (given name)",
-        "workId": "wikipedia:Courtney (given name)",
-        "quote": "transferred use of the [[Norman French]] [[Courtney (surname)|surname]]"
+        "publisher": "Wikimedia Foundation",
+        "title": "Courtney Love, pinned revision1379153144: complete1996–2002 acting context",
+        "workId": "wikipedia:Courtney Love",
+        "quote": "her performance received acclaim, earning a Golden Globe nomination for Best Actress"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Courtney name entry",
-        "workId": "behind-the-name:dictionary",
-        "quote": "From an aristocratic English surname"
+        "url": "https://en.wikipedia.org/w/index.php?title=Courtney_Love&oldid=1379153144",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikimedia Foundation",
+        "title": "Courtney Love, pinned revision1379153144: film identity in complete acting context",
+        "workId": "wikipedia:Courtney Love",
+        "quote": "critically acclaimed 1996 film The People vs. Larry Flynt"
+      },
+      {
+        "url": "https://www.britannica.com/biography/Courtney-Love",
+        "author": "The Editors of Encyclopaedia Britannica",
+        "publisher": "Encyclopædia Britannica, Inc.",
+        "title": "Courtney Love | Biography, Albums, Family, & Facts",
+        "workId": "britannica:Courtney Love",
+        "quote": "Love had earned critical acclaim and a Golden Globe nomination for her role in the film The People vs. Larry Flynt (1996)."
       }
     ],
     "factReview": {
-      "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-      "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Patrick Hanks, Kate Hardcastle and Flavia Hodges, Oxford Dictionary of First Names (2006), p. 65. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. Curtius/Curtenus and alternative short-nose origin differ; only surname-to-given-name use is selected. Recognition is separately reviewed below."
+      "reviewer": "Distinct original-source/materiality peer /root/c05_current_offline_challenge",
+      "note": "Distinct peer personally read full human Britannica biography/editor/history (AI excluded) and complete pinned Wiki lead/1996–2002/bibliography/rendered context. Both support exact Courtney Love film nomination, not winner. Wiki cites Brite (1998), p. 227; book unread. Positive editorial credits establish two authored presentations; NPR/AllMusic general overlap and Britannica’s unknown selected deeper lineage preclude primary-independence claims. Three brief literal quotes verified. Wiki CC BY-SA 4.0/full official legal source read; portable attribution/history/change/ShareAlike notice supplied. Britannica©2026; actual Terms CONNECT 403/body 0 after ordered GitHub→npm, no blanket licence;22-word factual citation only. Modest concrete achievement gain judged worth +23 characters/+2 words and losing valid surname lesson (55); no audience study. No birthname/Cox/nominationyear/origin/SSA/recognition claim; exact 78 only, not 87/88 alternatives."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -12233,37 +12249,29 @@
   },
   {
     "id": "ssa:F:Kaylee",
-    "fact": "Kaylee ends in 'lee'; a ship's lee side is sheltered from the wind.",
+    "fact": "Kaylee McKeown won 100m and 200m backstroke gold at consecutive Olympics.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
-        "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
-        "author": "Princeton University WordNet editorial contributors",
-        "title": "WordNet 3.1 noun database (2011), synset 08609908",
-        "workId": "princeton-wordnet-3-1",
-        "quote": "the side of something that is sheltered from the wind"
+        "url": "https://raw.githubusercontent.com/LucianoBatista/olympic-scrape/9fa42f10de271cd3910066d9adc273977fc17064/data/text_extraction/leon-marchand-quarto-ouro-paris-2024-recorde-olimpico.txt",
+        "publisher": "International Olympic Committee / Olympics.com; pinned raw HTML mirror delivery",
+        "author": "Leandro Stein",
+        "title": "Léon Marchand ganha seu quarto ouro na natação em Paris 2024, com o quarto recorde Olímpico (August2,2024); full article and original credits read",
+        "workId": "ioc-olympics-editorial",
+        "quote": "Após ganhar o ouro nos 100m costas com recorde Olímpico, McKeown repetiu o feito com novo ouro e recorde Olímpico nos 200m costas feminino. A australiana já tinha sido campeã nas duas provas em Tóquio 2020 e mostra seu domínio com o duplo bicampeonato em Paris 2024."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/Chambers-s-Twentieth-Century-Dictionary--part-2-of-4--E-M-_38538/907ed19339d40c51187eb1b935d79652a726bd3d/38538.txt",
-        "publisher": "W. & R. Chambers, Limited, London and Edinburgh; public domain delivery by Project Gutenberg / GITenberg",
-        "author": "Various; Thomas Davidson (editor)",
-        "title": "Chambers's Twentieth Century Dictionary, 1908, E–M",
-        "workId": "chambers-twentieth-century-dictionary-1908",
-        "quote": "LEE'-SIDE, the sheltered side of a ship."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/Chambers-s-Twentieth-Century-Dictionary--part-2-of-4--E-M-_38538/907ed19339d40c51187eb1b935d79652a726bd3d/38538.txt",
-        "publisher": "W. & R. Chambers, Limited, London and Edinburgh; public domain delivery by Project Gutenberg / GITenberg",
-        "author": "Various; Thomas Davidson (editor)",
-        "title": "Chambers's Twentieth Century Dictionary, 1908, E–M",
-        "workId": "chambers-twentieth-century-dictionary-1908",
-        "quote": "UNDER THE LEE, on the side sheltered from the wind, under shelter from the wind."
+        "url": "https://raw.githubusercontent.com/1992513/ntdtv/3fecf131ab5c196547a87956b700614037088495/gb/2024/08/03/a103902674.md",
+        "publisher": "NTD Television / 新唐人, explicitly republishing a report credited to The Epoch Times / 大纪元; pinned news mirror",
+        "author": "The Epoch Times (source credited by NTD reprint); original writer unidentified; Ye Ping / 叶萍 (responsible editor)",
+        "title": "澳洲男女泳将破奥运记录 斩获2枚金牌 (August3,2024); full article and syndication/editor credits read",
+        "workId": "epoch-ntd-syndicated-news",
+        "quote": "在连续几届奥运会上夺得100米、200米仰泳双料冠军"
       }
     ],
     "factReview": {
-      "reviewer": "Independent actual-source/materiality peer /root/c05_reconnected_otis_shirley",
-      "note": "Independent peer read actual WordNet3.1/2011 header, full synset08609908/neighbors, README/stale3.0 licence/3.1 notice and selected registry/receipts; archive integrity checked. Read Chambers1908 frontmatter/explanations, full LEE/homonym/boundaries, metadata and complete PG terms. WordNet lee/lee_side defines a general side of something sheltered from wind; Chambers specifies ship and wind shelter. Three quotes are two authored lexicons; WordNet does not itself say ship. Kaylee's printed ending is literal wordplay, not name meaning, origin or suffix derivation. Explicit cue adds small card-relevance/clarity gain over the unchanged sailing fact; no player study. Chambers invokes Webster elsewhere; selected entries have no reciprocal citation, deeper lineage unknown. Full Princeton3.1 notice remains in SOURCES; MIT wrapper/stale3.0 not substitutes. Chambers US-PD/regional/PG-mark limits retained. No whole lexicon or all500 source claim."
+      "reviewer": "Independent actual-source/materiality peer /root/c05_reconnected_assessment",
+      "note": "Distinct peer read both whole original mirror articles, IOC Stein byline/NewsArticle/serialized rights, NTD reprint/editor credits, both complete READMEs and IOC provenance scripts. IOC says both backstroke golds repeated from Tokyo2020 at Paris2024; NTD explicitly both distances at consecutive Games. IOC and credited Epoch→NTD report are two qualified authored groups, not two primary collections; mirrors count once. Original Epoch writer unlocated, Ye Ping editor; McEvoy quotes News Corp/Jeffery/Decent, selected McKeown/deeper shared Olympic-result lineage unknown. Two continuous quotes47 Portuguese words/26 Chinese chars verified. IOC all-rights-reserved; no open mirror/media grant or full blocked publisher-terms body claimed. Valid67 wind/ship lesson lost;73 adds6chars, surname/distances and Olympic repetition cost. Distinct repeated double earns modest editorial value despite unmeasured familiarity; no audience/wholepack claim. Old75/FINAL71 unchanged."
     },
     "recognitionVerified": true,
     "recognitionReview": {
