@@ -16655,29 +16655,45 @@
         }
       ],
       "id": "ssa:F:Gloria",
-      "fact": "The name Gloria carries the meaning \"glory\".",
+      "fact": "Gloria Steinem co-founded Ms., which began as a special edition of New York.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Gloria+%28given+name%29&oldid=1372872648",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Gloria (given name), revision 1372872648",
-          "workId": "wikipedia:Gloria (given name):1372872648",
-          "quote": "rseus:text:1999.04.0059:entry=gloria |access-date=2024-05-27 |website=www.perseus.tufts.edu}}</ref> glory, fame, renown, praise, honor.<ref>{{Cite web |title=Latin Word Study Tool |url=https://www.perseus.tufts.edu/hopper/morph?l=gl%C5%8Dr%C4%ADa&la"
+          "url": "https://www.britannica.com/topic/Ms",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Ms.",
+          "workId": "britannica:editorial-encyclopedia",
+          "quote": "launched in 1972 by American feminists Gloria Steinem, Patricia Carbine, and others,"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Gloria (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Means \"glory\", from the Portuguese and Spanish titles of the Virgin Mary Maria da Glória and María de Gloria. Maria da Glória (1819-1853) was the daughter of the B"
+          "url": "https://www.britannica.com/biography/Gloria-Steinem",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Gloria Steinem",
+          "workId": "britannica:editorial-encyclopedia",
+          "quote": "The result was Ms. magazine, which first appeared as an insert in the December 1971 issue of New York."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Gloria+Steinem&oldid=1378717636",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Gloria Steinem (revision 1378717636)",
+          "workId": "wikipedia:Gloria_Steinem:1378717636",
+          "quote": "Steinem was a columnist for ''[[New York (magazine)|New York]]'' magazine and co-founder of ''[[Ms. (magazine)|Ms.]]'' magazine."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Gloria+Steinem&oldid=1378717636",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Gloria Steinem (revision 1378717636)",
+          "workId": "wikipedia:Gloria_Steinem:1378717636",
+          "quote": "it began as a special edition of ''New York'', and [[Clay Felker]] funded the first issue."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Charlton T. Lewis and Charles Short, A Latin Dictionary, gloria entry. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independent review read raw Britannica: all five biography and both Ms. human paragraphs, printed Editors credit and Article author metadata; AI/FAQ excluded. Two Britannica URLs count one editorial work. Wiki1378717636 API/body identity matched; full lead and Journalism read with complete Encyclopedia of World Biography, Dennis McLellan/LA Times and Ms. history definitions. Underlying cited bodies unread/count0. Co-founding is shared; Wiki special edition and Britannica initial New York insert support the narrow beginning. Four exact brief quotes match two authored groups. December1971 insert versus1972 stand-alone stages preserved; fact omits dates, firstness, sole founder, politics, private life, current status and etymology. No selected direct dependency identified, deeper lineage unproved. Copyrighted Britannica brief evidence; Wiki revision attribution/CC-BY-SA4.0 from retained rights audit, no new footer read or media. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -39735,29 +39751,77 @@
         }
       ],
       "id": "ssa:M:Randall",
-      "fact": "Randall came from a surname linked to medieval Randel.",
+      "fact": "Randall can trace through Randolf to roots meaning 'rim' and 'wolf'.",
       "factStatus": "reviewed",
       "factReferences": [
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Randall (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From an English surname that was derived from the medieval given name Randel."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Randel (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Medieval diminutive of Randolf and other names beginning with the Germanic element rand meaning \"rim (of a shield)\"."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Randolf (pinned dictionary entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Germanic elements rand meaning \"rim (of a shield)\" and wulf meaning \"wolf\"."
+        },
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Randall+%28given+name%29&oldid=1375087394",
           "publisher": "Wikimedia Foundation",
           "author": "Wikipedia contributors",
           "title": "Randall (given name)",
           "workId": "wikipedia:Randall (given name)",
-          "quote": "surname is derived from the [[Middle English]] personal name ''Randel''"
+          "quote": "is derived from the transferred use of the surname ''Randall''."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Randall name entry",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From an English surname that was derived from the medieval given name Randel."
+          "url": "https://en.wikipedia.org/w/index.php?title=Randall+%28given+name%29&oldid=1375087394",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Randall (given name)",
+          "workId": "wikipedia:Randall (given name)",
+          "quote": "the surname is derived from the [[Middle English]] personal name ''Randel''."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Randall+%28given+name%29&oldid=1375087394",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Randall (given name)",
+          "workId": "wikipedia:Randall (given name)",
+          "quote": "the specific names associated with ''Randel'' are ''Randulf'' and ''Randolf''"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Randall+%28given+name%29&oldid=1375087394",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Randall (given name)",
+          "workId": "wikipedia:Randall (given name)",
+          "quote": "The Norman [[personal name]]s ''Randulf'' and ''Randolf'' are ultimately derived from the [[Old Norse]] ''Rannúlfr''"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Randall+%28given+name%29&oldid=1375087394",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Randall (given name)",
+          "workId": "wikipedia:Randall (given name)",
+          "quote": "the first element is ''rand'', meaning \"[[shield]]\" or \"rim\"; the second element is ''úlfr'', meaning \"[[wolf]]\"."
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Oxford University Press, Dictionary of American Family Names (ISBN 0-19-508137-4), via Ancestry with explicit attribution; Patrick Hanks et al., A Dictionary of First Names (2006), pp. 226,355,407. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. Unlike uncredited Ancestry citations, this cluster explicitly names the source dictionary and its publisher. Alternative Randolf apocope is not excluded universally. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independent reviewer read complete raw BTN Randall/Randel/Randolf descriptions and pinned Wiki lead, full etymology and variant sections with actual Hanks, Reaney/Wilson, Oxford DAFN/Ancestry, Black and Harrison definitions. API1375087394 main text matched retained body; eight literal quotes match two authored works. Modal can preserves alternative surname routes, BTN other rand names and unrelated Gaelic anglicisation. Shared Randolf route and rim/wolf components only; no exclusive language, ultimate origin, all-bearer ancestry or direct two-word translation. Underlying books/news unread/count0; selected BTN dependency not identified, deeper shared scholarship unproved. Raw Yonge1884 house-wolf and Bardsley1875 Ralph/Randle paragraphs plus front matter read; excluded alternatives require CONFLICTS entry. Brief attributed BTN evidence, no open-prose licence; Wiki pinned CC-BY-SA4.0 under retained rights audit. No media or participant study. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -48799,29 +48863,37 @@
         }
       ],
       "id": "ssa:M:Cole",
-      "fact": "Cole can trace back to the name Cola.",
+      "fact": "Cole Porter wrote both music and lyrics for 'Night and Day'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Cole and explicitly linked name entries",
-          "workId": "behind-the-name:dictionary",
-          "quote": "derived from the Old English byname Cola."
+          "url": "https://www.britannica.com/biography/Cole-Porter",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Cole Porter",
+          "workId": "britannica:editorial-encyclopedia",
+          "quote": "Over the years, Porter wrote such glittering songs and lyrics as “Night and Day,”"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-          "publisher": "John Murray, London; digital text retained by GITenberg",
-          "author": "Ernest Weekley",
-          "title": "The Romance of Names, third revised edition (1922)",
-          "workId": "weekley-romance-of-names-1922",
-          "quote": "Cola gives Cole"
+          "url": "https://en.wikipedia.org/w/index.php?title=Cole+Porter&oldid=1377058554",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Cole Porter (revision 1377058554)",
+          "workId": "wikipedia:Cole_Porter:1377058554",
+          "quote": "Porter wrote both the music and lyrics of his songs."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Cole+Porter&oldid=1377058554",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Cole Porter (revision 1377058554)",
+          "workId": "wikipedia:Cole_Porter:1377058554",
+          "quote": "It featured a hit that became Porter's best-known song, \"[[Night and Day (song)|Night and Day]]\"."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
-        "note": "Individual comparison of actual cached Ernest Weekley book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. Weekley says Nicholas is another, often more common surname route. Can preserves alternative origins; Old English versus the surrounding Scandinavian classifications is not asserted. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independently read raw human Britannica: all six topic paragraphs and Editors writing/fact-checking credit; AI FAQ excluded. Lead identifies composer/lyricist; song-and-lyrics list names Night and Day. Wiki1377058554 API identity matched raw body. Read full lead, 1930s, Musical style and Sources sections plus Shaftel definition. Music/lyrics clause cites Furia/Patterson2022p312; Night and Day context has Shaftel1999 discussion. Underlying books, article, guide and song page unread/uncounted. Three brief literal quotes match two authored works; no identified selected direct dependency, deeper lineage unproved. Copyrighted Britannica excerpt; Wiki revision attribution/CC-BY-SA4.0 under retained job rights evidence, no new footer read. Selected song authorship only: no exclusive orchestration, sole assistance-free writing, all-song claim, inspiration, dates, private life, etymology or media. Independent source review accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
