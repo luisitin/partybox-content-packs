@@ -28087,29 +28087,53 @@
         }
       ],
       "id": "ssa:F:Amelia",
-      "fact": "Amelia includes the Germanic name element amal.",
+      "fact": "Amelia Earhart worked as a nurse's aide in Toronto during World War I.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Amelia (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Amalia […] Germanic name Amala […] element amal"
+          "url": "https://www.britannica.com/biography/Amelia-Earhart",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Amelia Earhart | Disappearance, Famous For, Childhood, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "However, during a visit to her sister in Canada, Amelia developed an interest in caring for soldiers wounded in World War I."
         },
         {
-          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Amelia",
-          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-          "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Amelia, edition 2023.1",
-          "workId": "dmnes:dictionary:2023.1",
-          "quote": "Proto-Germanic *amal"
+          "url": "https://www.britannica.com/biography/Amelia-Earhart",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Amelia Earhart | Disappearance, Famous For, Childhood, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "In 1918 she left junior college to become a nurse’s aide in Toronto."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Amelia_Earhart&oldid=1378207770",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Amelia Earhart, revision1378207770",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "During Christmas vacation in 1917, Earhart visited her sister in [[Toronto]], Canada, where she saw wounded soldiers returning from [[World War I]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Amelia_Earhart&oldid=1378207770",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Amelia Earhart, revision1378207770",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "After receiving training as a [[Certified Nursing Assistant|nurse's aide]] from the [[Red Cross]], Earhart began working with the [[Voluntary Aid Detachment]] at [[1 Spadina Crescent|Spadina Military Hospital]], where her duties included food preparation for patients with special diets and handing out prescribed medication in the hospital's dispensary."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Amelia_Earhart&oldid=1378207770",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Amelia Earhart, revision1378207770",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In 1918, when the [[Spanish flu|1918 Flu Pandemic]] reached Toronto, Earhart was engaged in nursing duties that included night shifts at Spadina Military Hospital."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Independent AI review of actual source bodies. Ten human Britannica paragraphs, visible Editors authorship/Amy Tikkanen revision credit, and pinned Wiki complete lead/nursing section support nurse's-aide work in Toronto during World War I. Five separate contiguous quotes; added Wiki 1918 nursing sentence strengthens timing context. Two canonical authored works, counting repeated quotes once. No AI FAQs. Wiki nursing refs name Toronto Star and a Harvard/Schlesinger portrait; their bodies and cited books are unread/uncounted. Wiki cites Nora Gonzalez's Britannica disappearance story in both Disappearance and 1928-flight Aftermath; this is a different URL from the selected biography and outside nursing scope. Deeper source lineage is unestablished. Worked includes volunteer service; no certification, exact service dates, flying influence or name etymology asserted. Brief Wiki quotes retain CC BY-SA 4.0/revision attribution; no individual HTML/footer fetch or human playtest claimed."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -38927,29 +38951,37 @@
         }
       ],
       "id": "ssa:F:June",
-      "fact": "June is a first name borrowed from the calendar month.",
+      "fact": "June Carter Cash is credited as a co-writer of Ring of Fire.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=June+%28given+name%29&oldid=1377135405",
-          "publisher": "Wikimedia Foundation",
+          "url": "https://en.wikipedia.org/w/index.php?title=June+Carter+Cash&oldid=1379033974",
+          "publisher": "Wikipedia, Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "June (given name)",
-          "workId": "wikipedia:June (given name)",
-          "quote": "Women were also named after the month."
+          "title": "June Carter Cash",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In the early 1960s, Carter wrote the \"[[Ring of Fire (song)|Ring of Fire]]\", which later became a hit for her future husband, Johnny Cash. She co-wrote the song with [[Merle Kilgore]]."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "June name entry",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the name of the month"
+          "url": "https://en.wikipedia.org/w/index.php?title=June+Carter+Cash&oldid=1379033974",
+          "publisher": "Wikipedia, Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "June Carter Cash",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In her autobiography, ''I Walked the Line'', Cash's first wife, [[Vivian Cash]], disputes Carter's co‑writing credit."
+        },
+        {
+          "url": "https://www.britannica.com/biography/June-Carter-Cash",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "June Carter Cash | Songs, Johnny Cash, Children, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Two years later she cowrote what was perhaps her best-known song, “Ring of Fire,” to describe her complicated feelings about Cash, whose rendition of it became a hit."
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Cleveland Kent Evans, June seeing revival rise in popularity as a baby name, Omaha World-Herald (1 June 2025). That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. Evans citation follows the historical paragraph; SSA citation in that cluster supplies counts, not the name origin. 18th/19th-century earliest-use disagreement and MFNames Juno claim are excluded. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Independent AI review of actual retained sources. Five human Britannica paragraphs/Editors credit and pinned Wiki lead/full Career highlights support the co-writing attribution. Fact says credited: actual Wiki immediately reports Vivian Cash disputing authorship and describes an assigned credit. Memoir citation (Vivian Cash with Ann Sharpsteen,2007,p338) was read as a label only; its body remains unread/uncounted and the dispute unresolved. Root must preserve this conflict in CONFLICTS before integration. Three contiguous exact quotes, two canonical authored groups; AI FAQs excluded. René Ostberg is Britannica reviser, not invented sole author. Wiki attribution sentences are unfootnoted; no literal Britannica token appears in the loaded body, which proves no deeper independence. No physical/sole/official authorship, registration, dates, lyrics, emotions, first recording or name-origin claim. Brief Wiki evidence retains CC BY-SA 4.0/revision attribution; no media or human playtest."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -40700,10 +40732,10 @@
       "factReferences": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Lily+%28name%29&oldid=1375379358",
-          "publisher": "Wikimedia Foundation",
+          "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
           "title": "Lily (name)",
-          "workId": "wikipedia:Lily (name)",
+          "workId": "wikipedia:encyclopedia",
           "quote": "Lily''' is a feminine [[given name]] usually derived from [[lily]], the flower"
         },
         {
@@ -40713,6 +40745,14 @@
           "title": "Lily name entry",
           "workId": "behind-the-name:dictionary",
           "quote": "From the name of the flower, a symbol of purity."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Lily+%28name%29&oldid=1375379358",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Lily (name), revision1375379358; opening symbolic-property paragraph",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The [[lily]] also has associations with and has been symbolic of [[innocence]] and [[Chastity|purity]] in [[Christianity|Christian]] art."
         }
       ],
       "factReview": {
@@ -52903,29 +52943,45 @@
         }
       ],
       "id": "ssa:F:Mabel",
-      "fact": "Mabel traces to the Latin name Amabilis.",
+      "fact": "Mabel traces to Latin Amabilis, meaning 'lovable'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
+          "publisher": "Behind the Name; pinned baby_names archive is delivery",
           "author": "Behind the Name",
-          "title": "Behind the Name: Mabel (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Mabel",
           "workId": "behind-the-name:dictionary",
           "quote": "Medieval feminine form of Amabilis."
         },
         {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; pinned baby_names archive is delivery",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Amabilis",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Late Latin name meaning \"lovable\"."
+        },
+        {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Macmillan and Co., London; Project Gutenberg/GITenberg digital delivery",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition1884; SectionI—FromAmo",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Amabilis was a male saint of Riom, known to France as St. Amable; nevertheless, his name passed to Aimable, the Norman heiress of Gloucester, who so strongly protested against accepting even a king’s son without a surname. Her name became on English lips Amabel, which has been handed down unchanged in a few old English families, though country lips have altered it into Mabel, in which form it is still used among the northern peasantry. Ignorant etymologists have tried to make it come"
+          "quote": "Amabilis (loveable)"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; Project Gutenberg/GITenberg digital delivery",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition1884; SectionI—FromAmo",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Amabilis was a male saint of Riom, known to France as St. Amable; nevertheless, his name passed to Aimable, the Norman heiress of Gloucester, who so strongly protested against accepting even a king’s son without a surname. Her name became on English lips Amabel, which has been handed down unchanged in a few old English families, though country lips have altered it into Mabel"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read complete BTN Mabel, Amabel and Amabilis editorial descriptions/fields and Yonge Chapter VI introduction plus complete From Amo section, title/front matter and catalog. Both authored works support Mabel from Amabilis and lovable; modern spelling in fact, historical loveable unchanged in quote. Four contiguous excerpts, book wraps normalized only as whitespace. BTN is one corporate dictionary; linked entries/archive add no work. Yonge is one1884revised book, USA public-domain catalog; original all-rights-reserved notice distinguished. BTN separate revival clause names Yonge’s novel, not this names book; selected link/meaning has no direct names-book citation, but silent reuse/deeper scholarship unresolved. Underlying novel/section authorities unread/uncounted. Saints, heiress narrative, dates, firstness, gender/exclusive ancestry and revival influence excluded. Original fact and brief attributed excerpts; archive MIT does not relicense dictionary prose. No assets or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -80039,29 +80095,53 @@
         }
       ],
       "id": "ssa:F:Meredith",
-      "fact": "Meredith has been used as both a first name and a surname.",
+      "fact": "Burgess Meredith played a boxing trainer in Rocky and the Penguin in TV's Batman.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Meredith and explicitly linked entries",
-          "workId": "behind-the-name:dictionary",
-          "quote": "it has been used more often for girls than for boys in English-speaking countries […] A famous bearer of this name as surname was the English novelist and poet George Meredith"
+          "url": "https://www.britannica.com/biography/Burgess-Meredith",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Burgess Meredith | Biography, Movies, Plays, TV Shows, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "He garnered a second Oscar nod for his portrayal of a cantankerous boxing trainer in Rocky (1976)."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names (1884)",
-          "workId": "yonge-history-of-christian-names-1884",
-          "quote": "the Welsh Meredith, both as a Christian and a surname."
+          "url": "https://www.britannica.com/biography/Burgess-Meredith",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Burgess Meredith | Biography, Movies, Plays, TV Shows, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Meredith was perhaps most widely known for his role as the villainous Penguin in the 1960s TV series Batman."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Burgess_Meredith&oldid=1378616495",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Burgess Meredith, revision1378616495",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Meredith was known later in his career for his appearances on ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]'' and for portraying [[The Penguin]] in the 1960s TV series ''[[Batman (TV series)|Batman]]'' and [[boxing]] trainer [[Mickey Goldmill]] in the [[Rocky (film series)|''Rocky'' film series]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Burgess_Meredith&oldid=1378616495",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Burgess Meredith, revision1378616495",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Meredith then played [[Rocky Balboa]]'s trainer [[Mickey Goldmill]] in the first three ''[[Rocky]]'' films (1976, 1979, and 1982)."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Burgess_Meredith&oldid=1378616495",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Burgess Meredith, revision1378616495",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Meredith was also well known for his portrayal of [[the Penguin]] in the television series ''[[Batman (TV series)|Batman]]'' from 1966 to 1968 and in the [[Batman (1966 film)|1966 film]] based on the TV series."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
-        "note": "Individual comparison of actual Charlotte Mary Yonge source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The uncertain sea-protector versus great/sea-lord literal meanings are held. The stable given-name/surname usage is selected. The BTN user-submitted surname description is not used as a corporate-authored authority. Recognition review pending."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all six actual human Britannica paragraphs, Editors byline/signature and Article metadata, plus Wiki revision1378616495 complete lead and Film/Television sections. Both support a boxing trainer in Rocky and the Penguin in television Batman; wording avoids inferring Rocky character possessive from Britannica alone. Five contiguous exact quotes, two canonical authored groups. Wiki lead paragraph ends with TCM citation; trainer sentence cites Canby NYT reviews, Penguin sentence Gunderman Daily News. Underlying bodies unread/uncounted; no Britannica/EB1911 strings in retained Wiki, deeper shared lineage unresolved. Citation-needed writers anecdote excluded. No primary films/scripts, AI FAQ, character names, dates, awards, most-famous or naming-influence claim. Earlier conflicting Welsh literal origins remain held; this surname bearer does not define every given-name use. Brief attributed publisher/Wikimedia excerpts, no assets or human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
