@@ -66239,7 +66239,7 @@
         }
       ],
       "id": "ssa:M:Cecil",
-      "fact": "Cecil comes from the Roman family name Caecilius.",
+      "fact": "Cecil is linked to the Roman family name Caecilius, possibly from Latin for 'blind'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -66256,12 +66256,20 @@
           "author": "S.L. Uckelman",
           "title": "The Dictionary of Medieval Names from European Sources: Cecil, edition 2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Latin Caecilius […] Roman gensname"
+          "quote": "Latin Caecilius, a Roman gensname which may derive from Latin caecus 'blind'."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The most obvious origin of the nomen of the great Cæcilian gens would be _cæcus_ (blind);"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_post38_player_review; distinct actual-source/materiality peer",
+        "note": "Distinct peer read full actual DMNES Cecil2023.1/credit/guide/all3citation records and full Yonge Cæcilius section, both prefaces/imprint/licence. DMNES says Caecilius may derive from caecus, blind; Yonge proposes that origin with alternatives. Two separately authored semantic contexts; deeper authorities unread, common lineage unknown, no specific shared blind pointer established. BTN supplies Roman link only; its actual catalog lists DMNES, so not a second semantic authority. Full Wiki1373041924 Welsh/Seisyllt and BTN/Yonge surname routes remain held alternatives. Linked/possibly avoids exclusive origin; no ancestry, gender or saint dates. Three exact quotes33words; brief modern excerpts with original links/credits/rights retained. Yonge US-public-domain/PG notices preserved; no modern corpus licence. Adds a qualified blind proposal without losing Roman lesson;49→84 chars adds reading cost. Modest editorial benefit, no participants. Recognition/metrics untouched."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -67735,45 +67743,61 @@
         }
       ],
       "id": "ssa:F:Marsha",
-      "fact": "Marcia comes from Marcius, a Roman family name related to Marcus.",
+      "fact": "Marsha can be a form of Marcia, from Marcius, a Roman family name related to Marcus.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/marsha",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Marsha (entry index 0; pinned dictionary)",
+          "title": "Behind the Name: Marsha (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Variant of Marcia."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/marcia",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Marcia (entry index 0; pinned dictionary)",
+          "title": "Behind the Name: Marcia (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Feminine form of Marcius."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/marcius",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Marcius (entry index 0; pinned dictionary)",
+          "title": "Behind the Name: Marcius (complete original entry)",
           "workId": "behind-the-name:dictionary",
           "quote": "Roman family name that was a derivative of the praenomen Marcus."
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
           "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "author": "Charlotte M. Yonge",
+          "title": "History of Christian Names (revised 1884), Marcus section",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "From Marcus sprang the nomen Martius, or, as it was later written, Marcius, belonging to a very noble gens of Sabine origin, which gave a king to Rome, and afterwards was famous in the high-spirited and gentle-hearted Cnæus Marcius Coriolanus. The daughters of this gens were called Marcia, and this as Marzia, Marcie, Marcia, has since been used as the feminine of Mark. From"
+          "quote": "From Marcus sprang the nomen Martius, or, as it was later written, Marcius"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte M. Yonge",
+          "title": "History of Christian Names (revised 1884), Marcus section",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The daughters of this gens were called Marcia"
+        },
+        {
+          "url": "https://nameberry.com/name/marsha",
+          "publisher": "Nameberry",
+          "author": "Grace Royal",
+          "title": "Marsha — Name Meaning, Origin & Popularity (main Origin field)",
+          "workId": "nameberry:name-dictionary",
+          "quote": "Variation of Marcia, diminutive of Marcella"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to Marcia/Marcius/Marcus: BTN gives Marcia as feminine Marcius and Marcius as a Marcus-derived Roman family name. Yonge independently describes Marcus→Marcius and the family’s daughters named Marcia. Marsha is dictionary context only; ultimate Mars/man/horse explanations and legendary king identity are excluded."
+        "reviewer": "codex-c05-marsha-independent-actual-source-materiality-peer",
+        "note": "Actual originals read. BTN Marsha and Nameberry's main Origin explicitly give Marcia; Nameberry also gives Marcella, so 'can' keeps the route nonexclusive. BTN Marcia/Marcius and Yonge Marcus/Nomina sections preserve the Roman family/Marcus lesson. Marcia's separate feminine-Marcus route, mixed-sex usage and broader root uncertainty remain context, not unique ancestry claims. Nameberry prints Grace Royal and editor Sophie Kihm; BTN corporate authorship retained. Three authored works, two per clause; Nameberry's explicit BTN/Yonge/Hanks catalogue creates selected/deeper-lineage uncertainty, not a primary-independence certificate or absent-import proof. Mirrors/aliases count once; Yonge is historical and does not prove modern Marsha. Cited primary works and Grace's profile unread. Brief literal attributed quotes; dictionary copyright and PG regional/trademark limits retained. Adds an explicit card link at +19 characters without losing the valid Roman lesson; recognition unchanged."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -79687,37 +79711,29 @@
         }
       ],
       "id": "ssa:M:Jaden",
-      "fact": "The biblical name Jadon has been linked to judging.",
+      "fact": "Jaden Smith played his father Will's screen son in The Pursuit of Happyness.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jaden (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "It is sometimes considered a variant of Jadon."
+          "url": "https://www.britannica.com/biography/Chris-Gardner",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Meg Matthias; fact-checked by Britannica Editors",
+          "title": "Chris Gardner (complete human biography, citation date February 5, 2026)",
+          "workId": "britannica:chris-gardner:biography",
+          "quote": "with Will Smith portraying Gardner and Smith’s son, Jaden, playing young Christopher."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jadon (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Possibly means either \"thankful\" or \"he will judge\" in Hebrew."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
-          "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
-          "author": "William Smith",
-          "title": "Smith's Bible Dictionary: Jadon",
-          "workId": "smith:bible-dictionary:1863",
-          "quote": "(judge), the Meronothite, who assisted to repair the wall of Jerusalem."
+          "url": "https://en.wikipedia.org/w/index.php?title=The_Pursuit_of_Happyness&oldid=1378580098",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "The Pursuit of Happyness (revision 1378580098, lead, plot, and cast)",
+          "workId": "wikipedia:the-pursuit-of-happyness:1378580098",
+          "quote": "Smith's son Jaden Smith co-stars, making his film debut as Gardner's son, Christopher Jr."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to the biblical Jadon association: BTN expressly offers thankful or he will judge, while Smith’s actual Jadon definition gives judge. The cautious linked-to-judging wording preserves the alternative meaning. The full Jaden entry’s sometimes considered a variant of Jadon sentence replaces the insufficient supplied invented-name fragment; modern Jaden linkage remains dictionary context only."
+        "reviewer": "codex-c05-jaden-independent-actual-source-materiality-peer",
+        "note": "Direct bearer film detail. Britannica's complete Gardner biography says Will Smith portrayed Gardner and Smith's son Jaden played young Christopher; paragraph 4 identifies Christopher as Gardner's son. The pinned film article's lead, plot and cast support both relationships. Two separately authored presentations; deeper shared cast-report lineage is untraced, not certified independent by absent import markers. Britannica credits Meg Matthias and its editors; history also names David Schepp, without assigning the cast sentence. The repeated film-topic excerpt and unused artist/Will pages add no vote. No film, memoir, screenplay or cited book read or watched; no debut, firstness or naming-cause claim. Brief literal attributed quotes; Britannica copyright retained, Terms body unavailable; Wiki CC BY-SA 4.0 legal text previously personally read and byte-bound, film footer read. Replaces the valid Jadon judging lesson with a concrete real-father/screen-son pairing; recognition unchanged."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -80335,7 +80351,7 @@
         }
       ],
       "id": "ssa:F:Valeria",
-      "fact": "Valeria is a feminine form of Valerius.",
+      "fact": "Valeria is a feminine form of Valerius, a Roman family name.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -80347,17 +80363,33 @@
           "quote": "Feminine form of Valerius."
         },
         {
+          "url": "https://www.behindthename.com/name/valerius",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Valerius (complete original entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Roman patrician family name"
+        },
+        {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition 1884, Section X Valerius",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "SECTION X.—_Valerius._ […] This word of well-being named the old Sabine Valerian gens, one of the most noble and oldest in Rome, who had a little throne to themselves in the Circus, and were allowed to bury their dead within the walls of the city. The simple masculine form of the name had but two saints, and they were too obscure to be much followed, though Valère and Valerot as surnames have risen from it in France. The feminine of it was in honour at Rome for the sake of Valeria, the public-spirited lady who took the lead in persuading the mother of Coriolanus to intercede with her son to"
+          "quote": "This word of well-being named the old Sabine Valerian gens, one of the most noble and oldest in Rome"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition 1884, Section X Valerius",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The feminine of it was in honour at Rome for the sake of Valeria"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Both actual pinned authored dictionary/book passages individually read for this narrow original claim. Linked dictionary entries remain one work. Yonge disputed roots/chronology excluded; BTN corporate editorial identity read-supported and individual author unestablished. Distinct authored works, with shared deeper authorities unaudited. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_reconnected_otis_shirley",
+        "note": "Independent actual-body/card review: full BTN Valeria/Valerius meanings, relations and citations; complete Yonge Valerius and Nomina/Attius sections, footnote 62 and boundaries; titles, prefaces, credits and full rights notices read. Both works support the feminine relation and Roman family-name context; Yonge's inherited gentile-name explanation supplies the class bridge. BTN pages/corpus are one work; Yonge sections are one work. BTN's named Lewis/Short and Yonge's cited authorities remain unread; deeper lineage is unknown, not primary independence. Strong/well-being glosses, ancestry, patrician status, chronology and plot excluded. The +21 characters identify what Valerius is while preserving the current feminine lesson; five other Roman-family cards limit novelty, but the class helps this card. Recognition unchanged. Brief attributed quotes; BTN restrictions and PG US/regional/trademark limits retained in proof."
       },
       "recognitionVerified": true,
       "recognitionReview": {

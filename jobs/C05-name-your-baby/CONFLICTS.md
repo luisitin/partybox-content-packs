@@ -273,3 +273,13 @@ Jaden: BTN alone explicitly proposes a conditional biblical Jadon association. M
 ## Round42 Kristen semantic cue
 
 The modern semantic cue is selected without joining different gender/origin routes. Moss female/German and Nameberry canonical unisex Christine/Danish-Norwegian descriptions stay separate; exact feminine variant genealogy remains held. Known Nameberry source-catalogue overlaps and its AI-assistance/human-review policy do not establish a specific entry writer or primary independence. The Christian historical both-sex lesson remains intact. No new strength/health/chronology, naming-cause or religious-identity claim is added.
+
+## Round43 bounded alternatives and tradeoffs
+
+Marsha: can preserves Nameberry's Marcia/Marcella presentation and BTN Marcia's separate feminine-Marcus route. The modern bridge uses BTN plus Grace Royal's Nameberry entry, edited by Sophie Kihm; its known consultation of BTN/Yonge/Hanks leaves selected/deeper lineage unresolved, without a primary-independence certificate. The historical Roman chain uses BTN plus Yonge, not Nameberry as another historical vote. Mars/man/horse/soft derivations, kings, dates, gender exclusivity and ancestry are excluded. The entire valid Roman lesson remains;19 extra characters and four proper names add reading cost.
+
+Jaden: the accepted film relation is a different direct bearer hook. It loses the whole valid biblical Jadon judging lesson, and does not settle the earlier one-work modern-name or unavailable-provider proposals. No debut, firstness, popularity cause, films watched or underlying memoir/report read is claimed. Untraced deeper cast-report lineage remains explicit.
+
+Cecil: linked/possibly preserves Welsh/Seisyllt and surname alternatives while selecting the qualified Caecilius/blind proposal from actual DMNES and Yonge contexts. BTN's known DMNES catalogue use is corroboration only. Yonge's heat and legendary alternatives remain unselected; original cited authorities are unread. The Roman lesson is retained, with35 added characters and Cecilia overlap.
+
+Valeria: select the feminine connection plus Roman family class from complete BTN entries and contextual Yonge gens/Nomina explanations. Strong/well-being/sound/worth glosses, chronology, legal patrician status and ancestry remain excluded. The full old feminine lesson remains with21 extra characters; repeated Roman-family cards limit novelty. These are scoped editorial judgments, not audience measurements or repairs of false baseline facts.
