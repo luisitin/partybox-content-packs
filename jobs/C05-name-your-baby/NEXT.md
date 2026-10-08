@@ -13,7 +13,7 @@ work without questions. Log assumptions; do not merge the PR unasked.
 
 Prior exact green: d6281db55c7404429343056cbec5d4c059f2c583, CI37792994495.
 Root read all verify steps green and reread C05/JOBS/RULES at14:37:24Z.
-Round50 local checks are complete; its newly pushed head needs its own full CI.
+Round50 exacte24f296/CI37795564126 is green; root read allsteps14:58:05Z and rereadjob14:58:30Z. This documentation checkpoint needs its own CI.
 Inspect live Git/CLAIMS for delivery status.
 
 Round50 changes only Christy and Ricky, preserving each whole old lesson:
@@ -76,16 +76,19 @@ Ricky, Kaylee, Kristin, Colton; the first two have now changed. Root's full
 facts. Root freshly read all five pairs after checkpointgreen; this was
 a disclosed synthesis, not another blind all500ranking. VERIFY has scopes.
 
+Current source and editorial progress (full evidence in VERIFY/SOURCES):
+
+Root freshall500factread14:58:57Z plus5wholepairs/all75cells15:01:13Z givesnextfive Kristin(worst),Joann,Jon,Gabriela,Vicki. Primary50 independentlylockedKaylee(worst),Colton,Hayden,Ava,Arthur beforemetadata; counter50lockedKristin(worst),Kaylee,Colton,Jon,Joann beforemetadata. Root fullreports/scopes/locks and14/27bindings plus15/28SHApasses; differingtastes/priorfamiliarity are explicit. No sourceapproval orzero fromthese textpasses.
+
 Remaining proposals require actual final frozen decisions:
 
-- Kaylee71 composition+nautical: distinct peer provisionally favors
-  retention because an obvious split may imply false nautical origin.
-- Addison84 child-of-Adam: distinct peer provisionally favors retention;
+- Kaylee71 composition+nautical: distinct peer finally holds this wording because an obvious split may imply false nautical origin.
+- Addison84 child-of-Adam: distinct peer finally holds this wording;
   gloss broadening does not resolve the surname-origin authority overlap.
 - Kristin exact Christina bridge remains a scoped source hold. Optional
   Courtney/Colton/Hayden/Nicole/Stephanie opportunities remain.
 
-Do not treat provisional decisions as final acceptance or zero rounds.
+No approvedoverlay is emitted by either hold; no zero rounds follow. New Kristin/Jon/Gabriela/Vicki bridge drafts remain unapproved; Joann exact second edge unresolved. Newheads require ownCI and fresh dated unchanged-target guards.
 Kaylee/Addison whole targets are unchanged across50; recheck those pairs.
 Whole49hashes do not certify the changed pack. Each necessary clause needs
 two qualified authored works, actual selected originals/credits/citations/
