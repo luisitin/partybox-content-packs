@@ -347,3 +347,11 @@ Jasmine's whole old fact actually has56 Unicode characters/9 whitespace words. R
 Native100 is a saved draft, requiring Review/Save and Publish to activate; no script execution or fresh-task restoration follows from save/readback. Later exacthead CI and PR readbacks are separate observed operations. Static helper/peer integrity is preparation only. Current acceptance remains55/164 with0 established consecutive no-player-gain rounds; optional research gaps/doc checkpoints/pendingCI add none.
 
 The producer froze22:50:09Z with exact JSONnull/source HOLD. Root read the full report but has not yet personally recertified its originals/rights/matrices or exact recursive integrity. This distinction is preserved; the distinct peer has not reviewed new originals or issued a semantic verdict. Existing current fact remains unchanged.
+
+## Restart and source-review continuity —2026-10-08T23:18Z
+
+Managed startup retained clean2dc/files/caches but not live agents. Historical worker locks/partial draftobjects do not approve recovered sources or candidates. New workers require own pre-source oldwholelesson/loss/density/materiality conditions and new exclusive owned packets. Moving600 draftFINAL_OBJECT remains unapproved until fullfreeze/rootverifiedneutralhandoff.
+
+TrueJasminum/householdolive relation and AvaGardner exactcareer detail are research directions, not approved replacement facts. Full oldJasmine nameorigin/fragrance/climbing and Ava Germanicbranch/uncertain-root lessons require explicit positive tradeoffs if removed. Root current ranking is source-aware; independent Ava-worst disagreement remains. Shortness/cosmetics/sourceavailability/optional403s/docs/restarts are not playergain or no-gain evidence.
+
+Native101 persistence confirmed, canonical readbackfieldshape differs from inputshape; draftsave does not apply/publish/run/restart or certify restoration. Root new source observations postdate that saved instruction snapshot.
