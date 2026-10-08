@@ -1,6 +1,6 @@
 # Resume C05
 
-Stage: 500 reviewed facts and 500 separate editorial recognition notes are delivered. All initial full checks passed; PR #1 is open. KEEP GOING is ACTIVE, with 128 substantive fact improvements across thirty-five content rounds plus round36 API hardening, and zero established consecutive no-player-gain rounds. Nickname codex-queue. No current primary-source blocker.
+Stage: 500 reviewed facts and 500 separate editorial recognition notes are delivered. All initial full checks passed; PR #1 is open. KEEP GOING is ACTIVE, with 130 editorial player-visible changes across thirty-six content rounds plus round36 API hardening, and zero established consecutive no-player-gain rounds. Nickname codex-queue. No current primary-source blocker.
 
 1. Read main CLAIMS and branch status before changing anything. Refresh the owned claim on main with every push and within 30 minutes. Preserve concurrent changes and use Git history for actual delivery.
 2. Preserve the immutable official SSA ZIP, 500-ID manifest, 64,262 annual rows and source SHA fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2. All 500 metrics and recognition records remained unchanged during all thirty-five fact rounds. The 2020s are six observed years (2020–2025); future 2026–2029 cells are separate. Do not project counts.
@@ -257,3 +257,11 @@ Round35 actual sequential wrapper session83172 returned0:8/8focusedtests in13.71
 ## Current round36
 
 Exported buildCurrent now authenticates the canonical annual fixture before verified metrics. Candidate/reviewed/complete paths share the guard; parser and sparse aggregates remain flexible. Initial full exec39412 exited1 (41/43, two missing-pyreadr checks); documented pinned-Python rerun exec30191 exited0 (43/43, exact43/15/10baselines,34caught mutants,12byte/hashrestores,17unchangedchecksums). All17manifest inputs/outputs match prior deliveredHEAD.128positive fact changes remain; code repair adds0fact lines and does not establish player convergence. Refresh main claim/push and read new exact-head CI before another KEEP GOING round. Static patch review has separate scope; no new source-body or participant claim.
+
+Round36 delivery: main claim7feaa9f40af0c7a45dba791becad9cd628e44c68 and feature24fea3497231a6546f7611782b120e654122adb3 pushed2026-10-08T06:27:38Z. Exact-head full CI run37737728785 completed/success, actually read2026-10-08T06:32:01Z. No reviews/comments were present when read06:31:21Z. Fresh actual500-fact text challenge, source bodies0, ranks Kaylee relevance, repeated family predicates, Hayden generic usage, Diego thin namesakes and Colton place occurrence. Root read the complete five-findings/audit and matched curation/pack hashes; no candidate or source approval is assumed. Separate actual-source inquiries are pending for Kaylee/Hayden/Diego.
+
+## Current round37
+
+Integrated2 independently approved playerfact replacements: ssa:F:Kaylee, ssa:M:Diego. Round37 local sequential checks actually passed: 8 focused tests, 17 hashes, both generators/timezone checks and all500 metrics/recognitions preserved. Delivery/current-head CI still require an actual read. Preserve500 numeric andrecognition records. Overlay /tmp/c05-round37-two-root-approved.json. Read subsequent completion notes/Git for later status.
+
+Round37 completion evidence: /tmp/c05-keep37-completion-evidence.json. Source approvals, exact quotes/rights and tradeoffs are portable in curation/SOURCES. Current-head push/claim/CI status must be read separately; prior green is not proof for this data change.

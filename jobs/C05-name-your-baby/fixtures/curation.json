@@ -12001,7 +12001,7 @@
   },
   {
     "id": "ssa:F:Kaylee",
-    "fact": "A ship’s lee side is sheltered from the wind.",
+    "fact": "Kaylee ends in 'lee'; a ship's lee side is sheltered from the wind.",
     "factStatus": "reviewed",
     "factReferences": [
       {
@@ -12030,8 +12030,8 @@
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_quality_review",
-      "note": "Read actual WordNet3.1 synset08609908, complete 2011 Princeton header, registry integrity, archive member identity, README and stale3.0 LICENSE; Chambers peer read actual frontmatter, full LEE entry, metadata and retained requests. WordNet explicitly includes lee_side; Chambers separately states LEE-SIDE of a ship and UNDER THE LEE wind shelter. Added a separate exact wind-clause quote. Three contiguous quotations represent two authored lexicons. Their selected wording differs; deeper common dictionary lineage is unresolved, and Chambers invokes Webster elsewhere. The visible lee ending in Kaylee supplies wordplay only, with no name meaning, origin or suffix derivation claim. A modest lexical gain over the remote Kay/Katherine hook is editorial judgment, not measured player feedback. Full Princeton3.1 notice remains in SOURCES; npm MIT/stale3.0 notice does not replace it. Chambers metadata says public domain in USA. Mirrors/volumes add no works."
+      "reviewer": "Independent actual-source/materiality peer /root/c05_reconnected_otis_shirley",
+      "note": "Independent peer read actual WordNet3.1/2011 header, full synset08609908/neighbors, README/stale3.0 licence/3.1 notice and selected registry/receipts; archive integrity checked. Read Chambers1908 frontmatter/explanations, full LEE/homonym/boundaries, metadata and complete PG terms. WordNet lee/lee_side defines a general side of something sheltered from wind; Chambers specifies ship and wind shelter. Three quotes are two authored lexicons; WordNet does not itself say ship. Kaylee's printed ending is literal wordplay, not name meaning, origin or suffix derivation. Explicit cue adds small card-relevance/clarity gain over the unchanged sailing fact; no player study. Chambers invokes Webster elsewhere; selected entries have no reciprocal citation, deeper lineage unknown. Full Princeton3.1 notice remains in SOURCES; MIT wrapper/stale3.0 not substitutes. Chambers US-PD/regional/PG-mark limits retained. No whole lexicon or all500 source claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -13097,37 +13097,37 @@
   },
   {
     "id": "ssa:M:Diego",
-    "fact": "Diego's namesakes include artist Rivera and footballer Maradona.",
+    "fact": "Diego Maradona scored his 1986 World Cup 'Hand of God' goal with his hand.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Diego (pinned 2021 distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Other famous bearers of this name include Mexican muralist Diego Rivera (1886-1957) and Argentine soccer player Diego Maradona (1960-)."
+        "url": "https://www.britannica.com/biography/Diego-Maradona",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Diego Maradona",
+        "workId": "britannica:diego-maradona",
+        "quote": "The first was infamously scored with his hand (the referee mistakenly thought that the ball had struck his head), a goal now remembered as the “ hand of God ” goal."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=List+of+people+with+given+name+Diego&oldid=1378633105",
+        "url": "https://en.wikipedia.org/w/index.php?title=Diego_Maradona&oldid=1378181061",
         "publisher": "Wikipedia, Wikimedia Foundation",
         "author": "Wikipedia contributors",
-        "title": "List of people with given name Diego (pinned revision 1378633105)",
-        "workId": "wikipedia:list-of-people-with-given-name-diego",
-        "quote": "* [[Diego Maradona]], Argentine football player"
+        "title": "Diego Maradona (pinned revision 1378181061)",
+        "workId": "wikipedia:diego-maradona",
+        "quote": "He scored the first goal by striking the ball with his hand."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=List+of+people+with+given+name+Diego&oldid=1378633105",
+        "url": "https://en.wikipedia.org/w/index.php?title=Diego_Maradona&oldid=1378181061",
         "publisher": "Wikipedia, Wikimedia Foundation",
         "author": "Wikipedia contributors",
-        "title": "List of people with given name Diego (pinned revision 1378633105)",
-        "workId": "wikipedia:list-of-people-with-given-name-diego",
-        "quote": "* [[Diego Rivera]], Mexican painter"
+        "title": "Diego Maradona (pinned revision 1378181061)",
+        "workId": "wikipedia:diego-maradona",
+        "quote": "The goal, which had been allowed to stand by the referee, became known as the \"Hand of God\"."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-      "note": "Both retained works directly identify Diego Rivera as an artist and Diego Maradona as a footballer. Artist is a shared broad description of BTN's muralist and Wikipedia's painter. The cached Wikipedia API response directly confirms canonical article title, revision and byte-identical wikitext. Wikipedia work identity excludes revision; revision remains in its URL/title and evidence. Its bearer list does not cite BTN; broader lineage remains unaudited. No lifespan or disputed name etymology is asserted. Actual cached bodies, hashes and literal excerpts checked independently."
+      "reviewer": "/root/c05_reconnected_otis_shirley/shirley_fiction_recovery/static_identity_review",
+      "note": "Personally read pinned Wiki lead/full 1986 section, adjacent intro, citation definitions and rights; Britannica's complete 7 narrative paragraphs, credits and copyright. Independent peer read both actual contexts and accepted this exact 74-character line. Both describe the hand-scored 1986 'Hand of God' goal. Wiki's selected paragraph cites ESPN (Brewin/Williamson); underlying reports remain unread. Its Britannica 686139 citation covers a separate 1978 squad passage. Deeper shared reporting/copying remains unproved; these are two authored retellings, not independent witnesses. Wiki CC BY-SA 4.0 text read; Britannica ©2026, no open prose licence asserted. Full corporate/Wikimedia terms unavailable. Brief attributed excerpts and new factual wording only. Concrete same-bearer incident adds modest editorial context; Rivera and explicit occupation comparison are lost. No origin, all-bearer, recognition or participant claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
