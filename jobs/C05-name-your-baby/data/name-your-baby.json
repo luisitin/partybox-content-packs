@@ -39599,7 +39599,7 @@
         }
       ],
       "id": "ssa:F:Gail",
-      "fact": "In the Bible, Abigail married David after Nabal died.",
+      "fact": "Gail can be short for Abigail; in the Bible, Abigail married David after Nabal died.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -39619,17 +39619,25 @@
           "quote": "In the Old Testament this is the name of Nabal's wife. After Nabal's death she became the third wife of King David."
         },
         {
+          "url": "https://babynames.com/name/gail",
+          "publisher": "BabyNames.com / Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Gail: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "Short form of Abigail"
+        },
+        {
           "url": "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/smith_bibledict.xml",
           "publisher": "Christian Classics Ethereal Library; retained by NEUU GitHub dataset via CCEL corpus",
           "author": "William Smith",
-          "title": "Smith's Bible Dictionary: Abigail",
+          "title": "Smith's Bible Dictionary: Abigail (1884 retained XML printing)",
           "workId": "smith:bible-dictionary:1863",
           "quote": "Nabal died, and David sent for Abigail and made her his wife."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Accepted as a biblical narrative statement. Actual BTN Abigail description and Smith’s complete Abigail entry explicitly put Nabal’s death before Abigail’s marriage to David; the selected Smith quote belongs to Nabal’s widow, distinct from the later Abigail entry about David’s sister. Gail→Abigail remains dictionary context only. Both source hashes, dictionary pointers/full retained descriptions, exact XML offsets and parsed headword checked. Two independently authored dictionary works count; shared biblical tradition/deeper scholarship is not independent historical observation. Marriage order, date, son-name discrepancy and bearer ancestry excluded. XML directly credits William Smith and Public Domain; source attribution retained without relicensing BTN prose."
+        "reviewer": "/root/c05_reconnected_assessment; distinct actual-source/materiality peer",
+        "note": "Full original Moss Gail entry and complete stored BTN Gail field explicitly give short form of Abigail. Moss title/H1/canonical/Article identity matches Gail; JSONLD credits Jennifer Moss, no printed byline. Full author profile, credit/rights/source-catalog contexts were read. BTN Abigail’s stored field ([more] unread) and Smith’s complete original Abigail entry give Nabal’s death before David’s marriage. Smith separates widow and David’s sister; XML/title printing is 1884, stable workId remains 1863. Two credited works support each clause; shared biblical tradition and possible Hanks/deeper lineage remain unknown. Aliases/mirrors/scraper add no works. Full BTN pages, linked Bible passages and cited books unread. Meaning, marriage order/dates/son names, gender and bearer ancestry held. Literal brief quotes and visible Moss original link retained; no prose relicensing. The modest Gail-to-Abigail link preserves the concrete story; no empirical gain."
       },
       "recognitionVerified": true,
       "recognitionReview": {
