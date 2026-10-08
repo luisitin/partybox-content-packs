@@ -2457,29 +2457,37 @@
   },
   {
     "id": "ssa:F:Grace",
-    "fact": "Grace ultimately traces to the Latin word gratia.",
+    "fact": "Computer pioneer Grace Hopper was also a U.S. Navy rear admiral.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Grace (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "ultimately derives from Latin gratia"
+        "url": "https://www.britannica.com/biography/Grace-Hopper",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Grace Hopper | Biography, Accomplishments, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "was an American mathematician and rear admiral in the U.S. Navy who was a pioneer in developing computer technology"
       },
       {
-        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Grace",
-        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-        "author": "A. Brown, S.L. Uckelman",
-        "title": "The Dictionary of Medieval Names from European Sources: Grace, edition 2023.1",
-        "workId": "dmnes:dictionary:2023.1",
-        "quote": "Latin gratia"
+        "url": "https://en.wikipedia.org/w/index.php?title=Grace_Hopper&oldid=1376194579",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Grace Hopper",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "'''Grace Brewster Hopper''' ({{née|'''Murray'''}}; December 9, 1906 – January 1, 1992) was an American [[computer scientist]], [[mathematician]], and [[United States Navy]] [[Rear admiral (United States)|rear admiral]]."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Grace_Hopper&oldid=1376194579",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Grace Hopper",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "She was a pioneer of computer programming."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "/root/c05_quality_review/alicia_pair_review",
+      "note": "Independent AI review of actual sources. Four human Britannica paragraphs/Editors credit and pinned Wiki complete lead, Retirement and Dates of rank support computer pioneering and U.S. Navy rear admiral. Three contiguous exact quotes, two canonical authored groups; AI FAQs excluded. Wiki specifies rear admiral (lower half), O-7; both leads use rear admiral inclusively, without upper-half/two-star assertion. Wiki opening identity/rank cites Cantrell's Military Officer article; pioneer sentence is separately unfootnoted. Navy/Congress/UPI/GovTrack citation labels were read; underlying bodies remain unread/uncounted. No literal Britannica token appears in loaded Wiki; deeper lineage is unestablished. No sole firstness, compiler invention, bug anecdote, promotion dates, birth name or primary-record verification claimed. Brief Wiki evidence retains CC BY-SA 4.0/revision attribution; no individual footer fetch or human playtest."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -3641,29 +3649,29 @@
   },
   {
     "id": "ssa:F:Judy",
-    "fact": "Judy is a familiar form of Judith.",
+    "fact": "Judy Garland's name Judy was inspired by a Hoagy Carmichael song.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Judy (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Judith."
+        "url": "https://www.britannica.com/biography/Judy-Garland",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Scott Schechter",
+        "title": "Judy Garland | Biography, Movies, Songs, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "(She chose the first name Judy shortly thereafter, from the popular 1934 Hoagy Carmichael song of that name.)"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Ganthe, war; at any rate Juditha, Jutha, or Jutta was in high favour at the court of the Karling Kaisers, and came to England with the step-mother, who gave the first impulse to our great Alfred’s love of learning. Her subsequent marriage took it to Flanders, and we had it back again with the niece of William the Conqueror, the wicked wife of Waltheof, and afterwards of Simon de St. Lis. Her uncle cites her as a witness to a charter by the familiar abbreviation of Jugge, which was long used as the regular contraction, though Judy has since become more usual, and is exceedingly common in Ireland. Even French families gave their daughters the name of Judith, which"
+        "url": "https://en.wikipedia.org/w/index.php?title=Judy_Garland&oldid=1378137959",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Judy Garland",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Soon afterward, Frances changed her name to \"Judy,\" inspired by a popular [[Hoagy Carmichael]] song."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review/alicia_pair_review",
+      "note": "Independent AI review: all eleven human Britannica paragraphs/byline and Wiki lead/Early life/full Gumm-Garland section were read. Scott Schechter wrote Britannica; Editors fact-check. Both support Judy-name inspiration from a Carmichael song. Agency-neutral fact preserves Jessel's quoted full-name naming claim; no exclusive chooser settled. Selected Wiki sentence cites Edwards1975p27. All four Schechter book contexts concern original naming/baptism, autobiography and late earnings/pay, not this song predicate. Underlying books/TV materials unread/uncounted; two canonical works, deeper lineage unproved. Root must document full-name agency caveat. Two quotes exact/unchanged; AI FAQs excluded. No surname origin, naming date, composer/lyricist split or all-Judys origin. Wiki quote retains CC BY-SA4.0/revision attribution; no media or human playtest."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -4761,29 +4769,29 @@
   },
   {
     "id": "ssa:M:Johnny",
-    "fact": "Johnny is a familiar form of John.",
+    "fact": "Johnny Cash recorded a live album at Folsom Prison.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Johnny (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of John."
+        "url": "https://www.britannica.com/biography/Johnny-Cash",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Johnny Cash | Biography, Songs, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "The signal event in Cash’s turnaround was the album Johnny Cash at Folsom Prison (1968), which was recorded live in front of an audience of some 2,000 inmates at California’s Folsom Prison."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "│ English. │ Scotch. │ Welsh. │ Breton. │ Gaelic. │ │John │John │Jan │Jan │Ian │ │Johnny │Johnnie │Jenkin │Jannik │ │ │Jack │Jock │ │ │ │"
+        "url": "https://en.wikipedia.org/w/index.php?title=Johnny_Cash&oldid=1378735875",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Johnny Cash, revision 1378735875",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "These performances were recorded live, and released on highly successful albums: ''[[At Folsom Prison|Johnny Cash at Folsom Prison]]'' (1968) and ''[[At San Quentin|Johnny Cash at San Quentin]]'' (1969)."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read all four human Britannica paragraphs, printed Editors credit and Article metadata, plus Wiki revision1378735875 complete lead and Folsom prison-concert section. Both support one live album recorded at Folsom Prison; original Johnny/John fact was accurate but obvious. Two exact quotes, two canonical authored groups. Wiki live-albums sentence has no directly attached footnote; later paragraph cites Leigh H. Edwards, Grove/Oxford Music Online, preceding San Quentin date History.com. Their bodies unread/uncounted; whole cached Wiki has no Britannica strings, deeper common lineage unresolved. No inmate count, date, incarceration, hit rank, second venue or name-origin predicate. Brief copyrighted Britannica excerpt and attributed CC-BY-SA4.0 pinned Wiki only; prior actual rights audit reused, no fresh article footer or media/recording read. Independent source review, no human checks."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -4865,29 +4873,45 @@
   },
   {
     "id": "ssa:M:Bobby",
-    "fact": "Bobby can be a familiar form of Bob.",
+    "fact": "Singer Bobby Darin's film career included an Oscar nomination.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Bobby+%28given+name%29&oldid=1375910622",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "Bobby (given name), revision 1375910622",
-        "workId": "wikipedia:Bobby (given name):1375910622",
-        "quote": "for the male name [[Roberto]]. The female version is also sometimes spelled \"[[Bobbi]]\" or \"Bobi\". \"Bobby\" is a [[diminutive]] of \"Bob\", itself a diminutive which most likely originated from the hypocorism Rob, short for Robert. Rhyming names were popular in the [["
+        "url": "https://www.britannica.com/biography/Bobby-Darin",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Bobby Darin | Biography, Songs, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "was an American singer and songwriter"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Bobby (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Bob. Hockey greats Bobby Hull (1939-) and Bobby Orr (1948-) have borne this name."
+        "url": "https://www.britannica.com/biography/Bobby-Darin",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Bobby Darin | Biography, Songs, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "In the 1960s, while pursuing a film career (which included an Oscar nomination in 1964), Darin explored a variety of styles before embracing the folk rock movement."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Bobby_Darin&oldid=1376244856",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Bobby Darin, revision 1376244856",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "known by the stage name '''Bobby Darin''', was an American singer, songwriter, and actor"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Bobby_Darin&oldid=1376244856",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Bobby Darin, revision 1376244856",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "In 1963, Darin was nominated for an [[Academy Award for Best Supporting Actor]] for his role as a [[post-traumatic stress disorder|shell-shocked]] soldier in ''[[Captain Newman, M.D.]]''"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_wiki_names",
-      "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Daven Hiskey, How Dick Came to be Short for Richard, Today I Found Out, 28 April 2012. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read all three human Britannica paragraphs/Editors credit and Article metadata; Wiki revision1376244856 complete lead, Acting career, Awards and named :0 definition. Both support singer and film-career Oscar nomination. Quoted years differ (Britannica1964/Wiki1963); year, nominated film and category deliberately omitted, no chronology reconciliation claimed. Wiki nomination has no directly attached footnote; following actors sentence uses unread John Griffin2001 Biography documentary; singer lead unread AllMusic. Bodies uncounted; whole Wiki has no Britannica strings, deeper shared lineage unresolved. Academy request CONNECT403/no body excluded. No exact career Grammy total, music/film viewing or general name-origin assertion. Four exact brief quotes/two canonical groups, original bounded wording, prior CC-BY-SA4.0 rights audit and copyrighted publisher limits retained. No human checks."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -12608,28 +12632,28 @@
     }
   },
   {
-    "fact": "Glen has roots in a Celtic landscape word.",
+    "fact": "A glen is a narrow, secluded valley.",
     "factReferences": [
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Variant of Glenn. […] Scottish surname that was derived from Gaelic gleann \"valley\".",
-        "title": "Behind the Name: Glen and explicitly linked name entries",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://raw.githubusercontent.com/GITenberg/Webster-s-Unabridged-Dictionary_29765/296ecf5d49b6b6f141a8efc015cb3a32d31feff3/29765-8.txt",
+        "publisher": "Webster's Unabridged Dictionary; Project Gutenberg/GITenberg digital delivery",
+        "author": "Various",
+        "title": "Webster's Unabridged Dictionary: GLEN",
+        "workId": "webster-unabridged-dictionary-gutenberg-29765",
+        "quote": "A secluded and narrow valley;"
       },
       {
-        "author": "Ernest Weekley",
-        "publisher": "John Murray, London; digital text retained by GITenberg",
-        "quote": "We have a fair number of Celtic words connected with natural scenery […] Glen or Glynn",
-        "title": "The Romance of Names, third revised edition (1922)",
-        "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-        "workId": "weekley-romance-of-names-1922"
+        "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
+        "publisher": "Princeton University WordNet, delivered by wordnet-db3.1.14",
+        "author": "Princeton University",
+        "title": "WordNet3.1: glen, synset09312502",
+        "workId": "princeton-wordnet-3-1",
+        "quote": "a narrow secluded valley (in the mountains)"
       }
     ],
     "factReview": {
-      "note": "Individual comparison of actual cached Ernest Weekley book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. The claim selects only the shared Celtic landscape connection. A literal meaning, a particular original family, and the unrelated Lynn gloss are not inferred. Recognition is separately reviewed below.",
-      "reviewer": "Codex source research subagent /root/c05_bible_gap_facts"
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read actual complete primary Webster GLEN entry and pinned JSON counterpart, WordNet3.1 raw synset09312502 and full29-line Princeton2011 notice, dictionary delivery README/catalog and package registry metadata. Both authored lexical works define a narrow secluded valley; WordNet parenthetical mountains retained in quote. Lowercase English glen word, not every bearer’s ancestry or exclusive name origin. Primary PG quote exactly matches mirror prefix; mirror’s joined trailing words are not promoted. Two canonical groups; no identified direct copied entry, deeper lexicographic lineage unresolved. Tarball SHA1/SHA512 and actual noun member bytes verified. Various credited by PG catalog, USA public-domain scope only. Full Princeton notice remains in SOURCES, wrapper MIT/stale license does not govern database. No Gaelic root, specific geography, genealogy or naming-popularity claim. Two exact brief excerpts and original player wording; no assets or human checks."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Glen",
@@ -15136,28 +15160,52 @@
     }
   },
   {
-    "fact": "Hope's word history reaches back to Old English hopian.",
+    "fact": "The Hope Diamond is a blue gemstone weighing more than 45 carats.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "the [[Old English language|Old English]] word ''hopian''",
-        "title": "Hope (given name)",
-        "url": "https://en.wikipedia.org/w/index.php?title=Hope+%28given+name%29&oldid=1373212860",
-        "workId": "wikipedia:Hope (given name):1373212860"
+        "url": "https://www.britannica.com/topic/Hope-Diamond",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Hope diamond | Blue Diamond, 45.52 Carats, Smithsonian Institution",
+        "workId": "britannica:encyclopedia",
+        "quote": "sapphire-blue gemstone"
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "From the English word hope, ultimately from Old English hopian.",
-        "title": "Behind the Name first-name dictionary: Hope",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://www.britannica.com/topic/Hope-Diamond",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Hope diamond | Blue Diamond, 45.52 Carats, Smithsonian Institution",
+        "workId": "britannica:encyclopedia",
+        "quote": "The 45.5-carat Hope diamond"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Hope_Diamond&oldid=1373897818",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Hope Diamond, revision1373897818",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The '''Hope Diamond''' is a {{convert|45.52|carat|g oz|adj=on}} [[blue diamond]] that has been famed for its great size and blue-violet color since the 17th century."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Hope_Diamond&oldid=1373897818",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Hope Diamond, revision1373897818 — Physical properties",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "determined the diamond to weigh {{convert|45.52|carat|g oz}}."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Hope_Diamond&oldid=1373897818",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Hope Diamond, revision1373897818 — Physical properties",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "It has been described as being a \"fancy dark greyish-blue\""
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Chosen word-history clause is cited separately to Merriam-Webster; following Puritan naming clause cites BTN and is excluded.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read entire actual human Britannica paragraph, Editors byline/Article metadata and Wiki revision1373897818 complete lead, Classification/Physical properties plus selected named reference definitions and Golden Fleece citation paragraph. Both support blue gemstone and over45carats; human body45.5 versus Wiki45.52, finer precision omitted. Five contiguous quotes; two canonical authored groups. Wiki weight/color entries cite Smithsonian; color also NYT1911/AFP2008. Underlying bodies unread/uncounted, direct museum CONNECT403 yielded no body. Lead size/color sentence has no attached footnote; following citations concern India/history. Known Wiki Britannica citation is a DIFFERENT Golden Fleece article for historical pendant use, not selected properties; no broad/deeper lineage proof. Owner identity, dates, curse, boron/red glow, cut, naming influence and all-bearer origin excluded. Original property fact and brief attributed publisher/Wikimedia excerpts; no assets or human checks."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Hope",
@@ -15425,29 +15473,29 @@
   },
   {
     "id": "ssa:M:Andy",
-    "fact": "Andy can be a short form of Andrew.",
+    "fact": "Andy Warhol's art included wooden replicas of Brillo soap-pad boxes.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Andy (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Andrew or sometimes Andrea 2."
+        "url": "https://www.britannica.com/biography/Andy-Warhol",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Britannica Editors",
+        "title": "Andy Warhol | Biography, Pop Art, Campbell Soup, Artwork, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "wooden replicas of Brillo soap pad boxes"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "popular, and its variations are as follows:— ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ Scotch. │ Dutch. │ Danish. │ │Andrew │Andrew │Andreas │Anders │ │Andy │Dandie │Andries │ │ │ │ │Andries │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ French. │ German. │ Italian. │ Spanish. │"
+        "url": "https://en.wikipedia.org/w/index.php?title=Andy_Warhol&oldid=1378861366",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Andy Warhol, revision 1378861366",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Warhol's most well-known sculptures are his ''[[Brillo Boxes]]''—silkscreen ink on wood replicas of the large branded cardboard boxes used to hold 24 packages of Brillo soap pads."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Andrea is an additional modern sense. The actual book introduces variations of Andrew before the English Andrew/Andy table."
+      "reviewer": "/root/c05_quality_review/alicia_pair_review",
+      "note": "Read all six human Britannica paragraphs, printed Editors credit and Article metadata, plus pinned Wiki lead, full Factory/exhibition context, Sculptures and cited-book definitions. Both describe wooden Brillo soap-pad-box replicas as Warhol art. Agency-neutral wording avoids personal fabrication: Britannica says exhibited; Wiki says custom ordered wooden boxes, with assistants in nearby context. Wiki describes outer cartons for soap-pad packages; generic boxes adds no retail-size claim. Differing exhibition dates are omitted. Selected Wiki cites unread Levy/Scott-Clark; Bourdon and De Salvo/Beck bodies also remain unread and uncounted. Two authored treatments count once each; zero Britannica strings does not prove deeper lineage independence. Brief exact quotes, revision attribution and retained CC BY-SA rights evidence. Specific bearer/art hook, not Andy etymology or a measured player reaction. Agent source review; no human playtest."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -16017,29 +16065,37 @@
   },
   {
     "id": "ssa:F:Becky",
-    "fact": "Becky is a familiar form of Rebecca.",
+    "fact": "Becky Sharp throws a dictionary from a coach window in Vanity Fair.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Becky (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Diminutive of Rebecca."
+        "url": "https://raw.githubusercontent.com/GITenberg/Vanity-Fair_599/bcc3c8e2c447def9eb19cd74bf877617719b7ec4/599.txt",
+        "publisher": "Project Gutenberg, mirrored by GITenberg",
+        "author": "William Makepeace Thackeray",
+        "title": "Vanity Fair, Chapter I (Project Gutenberg599)",
+        "workId": "thackeray-vanity-fair-gutenberg-599",
+        "quote": "and Becky, Becky Sharp, here's a book for you that my sister--that is, I--Johnson's Dixonary, you know;"
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "the marriage bond. The Septuagint and Latin gave Rebecca; the authorized version Rebekah; and both spellings are adopted by those bearing the name, who are generally called Becky."
+        "url": "https://raw.githubusercontent.com/GITenberg/Vanity-Fair_599/bcc3c8e2c447def9eb19cd74bf877617719b7ec4/599.txt",
+        "publisher": "Project Gutenberg, mirrored by GITenberg",
+        "author": "William Makepeace Thackeray",
+        "title": "Vanity Fair, Chapter I (Project Gutenberg599)",
+        "workId": "thackeray-vanity-fair-gutenberg-599",
+        "quote": "But, lo! and just as the coach drove off, Miss Sharp put her pale face out of the window and actually flung the book back into the garden."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Becky_Sharp&oldid=1376483163",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Becky Sharp, revision1376483163",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Her opening scene has her leaving the academy in a coach and throwing her copy of ''[[Johnson's Dictionary]]''{{Sfn|Neil|2004|p=189}}—given her by Miss Pinkerton{{Sfn|Siebenschuh|1987|p=133}}—out of the window as she goes.{{Sfn|Neil|2004|p=189}}"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "/root/c05_quality_review",
+      "note": "Read complete primary Vanity Fair ChapterI, ChapterII opening, title/author and USA public-domain catalog/end note; Wiki revision1376483163 complete lead and Career/Love life plus Neil/Siebenschuh citation definitions. Both support Becky Sharp throwing a dictionary from the departing coach window in the novel. Two differently authored presentations: Thackeray primary fiction and Wiki own retelling, not two independent primary events. Selected Wiki sentence is not verbatim novel text; underlying critical books unread/uncounted, common narrative basis explicit. Copied-Wiki Git catalog description excluded. Two primary quotes join whitespace only; one raw contiguous Wiki quote. No gift-giver identity, motive, heroine judgment, date or all-Becky name-origin claim. Brief USA-PD primary evidence and CC-BY-SA4.0 contributor-attributed revision, prior actual generic rights audit reused; no fresh Becky footer, novel-wide read or assets/human checks."
     },
     "recognitionVerified": true,
     "recognitionReview": {

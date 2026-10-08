@@ -3117,3 +3117,18 @@ Exec session58368 actually returned1, not0: all42 ordinary tests passed in39.103
 Actual `python /tmp/c05-round11-fix-checksum.py` verified the persisted exit1/log, fresh mutation report/baselines/restoration and exact old/current hashes, corrected only that checksum entry, then ran `sha256sum --check SHA256SUMS.txt`: exit0 and17/17 matches. It catches the stale generated-file hash. Evidence: /tmp/c05-round11-full-reproduction-completion-evidence.json. The earlier8/8 focused tests and this42/34/restoration evidence remain actual separate results; no overall full npm exit0 is invented for the failing reproduction. The corrected pushed head still needs actual green CI.
 
 Future ordering is explicit: wait for generator/focused exec completion and its actual exit0 first, then compare data and refresh/check hashes. Never run dependent checksum or completion-record commands while that exec is still active.
+
+## KEEP GOING round12: 8 substantive improvements
+
+Reread C05 in JOBS and listed five weaknesses: Johnny’s obvious John variant; Bobby’s obvious Bob variant; Andy’s obvious Andrew variant; Judy’s obvious Judith variant; Becky’s obvious Rebecca variant. Actual `python /tmp/c05-integrate-quality-round.py 12 /tmp/c05-quality-round-twelve-combined-eight-approved-fact-overlays.json 3585bf851187ed3074eb7567734cccd9a388866e729794cb9ed348278972edfe` replaced 8 reviewed facts, preserving 492 untouched rows and every recognition record. Then from this job folder actually ran:
+
+```sh
+npm run generate:reviewed > /tmp/c05-keep12-generate-reviewed.log 2>&1
+npm run generate:complete > /tmp/c05-keep12-generate-complete.log 2>&1
+node --test dist/test/reviewed.test.js dist/test/complete.test.js > /tmp/c05-keep12-focused-tests.log 2>&1
+sha256sum --check SHA256SUMS.txt > /tmp/c05-keep12-sha.log
+```
+
+Actual generator/focused exec session 17369 returned exit 0 with persisted status 0: 8/8 tests, zero failures, cancellations, skips or todos; 15.084147707 seconds. All 17 refreshed checksums pass. Tests run strict complete/candidate schemas, exact production golden bytes, two-timezone repeatability and 25 protected negative invocations per CLI; root additionally compared all 500 metric records with the unchanged base pack. Candidate modes remain complete:false; the complete pack is complete:true with 500 reviewed facts and recognition records. This catches changed counts, nondeterministic data, forged golden files and source overwrites. Measured gain: 8 changed player-visible facts; no fabricated participant survey or cosmetic convergence. Generator code, numeric SSA source data and dependencies are unchanged, so the earlier full 42-test/34-mutation/12-restored-file result remains separately identified. Evidence `/tmp/c05-keep12-completion-evidence.json`.
+
+Round12 actually ran `python /tmp/c05-round12-update.py` (required Judy agency/conflict documentation before integration), then `bash /tmp/c05-quality-run-focused.sh 12`. This same shell waits for both generators and actual focused-test exit before running `python /tmp/c05-check-completed-quality-data.py 12` and the checksum command. That guard additionally verifies all500 fact fields against curation, all500 metrics against the unchanged base, all500 recognitions and492 otherwise unchanged rows, plus unchanged official annual-source/selection SHA256. Exec17369 returned0 after all steps, with15.084147707seconds of focused tests and17 current checksums. It prevents the round11 ordering error. Before integration, actual `gh api repos/luisitin/partybox-content-packs/actions/runs/37708265252 --jq '{id,status,conclusion,head_sha}'` returned completed/success for exactbd08f420e09b61a45bd8b812a312ee9addfe3975. New head CI remains separate.
