@@ -268,6 +268,45 @@ test('public builders reject missing reference slots before accepting reviewed e
   assert.equal(buildComplete(FIXTURE, dense).complete, true);
 });
 
+test('public builders reject schema-incompatible HTTPS spellings without rewriting valid references', () => {
+  const editorial = JSON.parse(readFileSync(join(ROOT, 'fixtures/curation.json'), 'utf8')) as CurrentCuration[];
+  const builders = {
+    parseCurrentFixture: (items: CurrentCuration[]) => parseCurrentFixture({ ...FIXTURE, curation: items }),
+    buildCurrent: (items: CurrentCuration[]) => buildCurrent({ ...FIXTURE, curation: items }),
+    buildReviewedCandidates: (items: CurrentCuration[]) => buildReviewedCandidates(FIXTURE, items),
+    buildComplete: (items: CurrentCuration[]) => buildComplete(FIXTURE, items),
+  };
+  const ajv = new Ajv({ strict: true, allErrors: true });
+  const curationValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/curation.schema.json'), 'utf8')));
+  const fixtureValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/current-source.schema.json'), 'utf8')));
+  const candidateValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/current-pack.schema.json'), 'utf8')));
+  const completeValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/complete-pack.schema.json'), 'utf8')));
+  for (const url of ['https:example.com/reference', 'https:/example.com/reference', 'HTTPS://example.com/reference', 'https:\\example.com\\reference', 'https://@example.com/reference']) {
+    const changed = clone(editorial); changed[0]!.factReferences[0]!.url = url;
+    const before = clone(changed);
+    assert.equal(curationValid(changed), false, 'regression input must violate the actual strict schema');
+    for (const [label, build] of Object.entries(builders)) {
+      assert.throws(() => build(changed), /reference URL/, `${label} accepted schema-incompatible reference ${url}`);
+      assert.deepEqual(changed, before, `${label} changed its rejected input`);
+    }
+  }
+  for (const url of ['https://example.com', 'https://example.com/a@b', 'https://example.com/?a=b#c', 'https://[::1]/reference', 'https://éxample.com/reference', 'https://example.com/a\\b']) {
+    const changed = clone(editorial); changed[0]!.factReferences[0]!.url = url;
+    const before = clone(changed);
+    assert.equal(curationValid(changed), true, ajv.errorsText(curationValid.errors));
+    assert.equal(parseCurrentFixture({ ...FIXTURE, curation: changed }).curation[0]!.factReferences[0]!.url, url);
+    assert.deepEqual(changed, before);
+  }
+  const canonical = clone(editorial); canonical[0]!.factReferences[0]!.url = 'https://example.com/reference';
+  const before = clone(canonical);
+  for (const [label, build] of Object.entries(builders)) {
+    const result = build(canonical);
+    const valid = label === 'parseCurrentFixture' ? fixtureValid : label === 'buildComplete' ? completeValid : candidateValid;
+    assert.equal(valid(result), true, `${label}: ${ajv.errorsText(valid.errors)}`);
+    assert.deepEqual(canonical, before, `${label} changed its accepted input`);
+  }
+});
+
 test('strict current schemas validate source and pack and reject inconsistent coverage and review gates', () => {
   const ajv = new Ajv({ strict: true, allErrors: true });
   const sourceValid = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schemas/current-source.schema.json'), 'utf8')));

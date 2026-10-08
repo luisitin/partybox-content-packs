@@ -138,7 +138,7 @@ function reference(value: unknown): FactReference {
   const url = text(row.url, 2000, 'reference URL');
   let parsed: URL;
   try { parsed = new URL(url); } catch { throw new Error('reference URL must be absolute HTTPS'); }
-  if (parsed.protocol !== 'https:' || parsed.username !== '' || parsed.password !== '' || parsed.hostname === '' || /\s/.test(url)) throw new Error('reference URL must be absolute HTTPS without credentials or whitespace');
+  if (!/^https:\/\/[^\s/@]+(?:\/[^\s]*)?$/.test(url) || parsed.protocol !== 'https:' || parsed.username !== '' || parsed.password !== '' || parsed.hostname === '' || /\s/.test(url)) throw new Error('reference URL must be absolute HTTPS without credentials or whitespace');
   return { url, publisher: text(row.publisher, 200, 'reference publisher'), author: text(row.author, 200, 'reference author'), title: text(row.title, 200, 'reference title'), workId: text(row.workId, 200, 'reference workId'), quote: text(row.quote, 2000, 'reference quote') };
 }
 function normalized(value: string): string { return value.normalize('NFKC').toLowerCase().replace(/\s+/g, ' '); }
