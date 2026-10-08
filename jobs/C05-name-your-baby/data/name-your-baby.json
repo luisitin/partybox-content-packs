@@ -48583,29 +48583,29 @@
         }
       ],
       "id": "ssa:F:Cora",
-      "fact": "Cooper used Cora for a character in The Last of the Mohicans.",
+      "fact": "Cora and Alice are sisters in Cooper's The Last of the Mohicans.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Cora (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "it was employed by James Fenimore Cooper for a character in his novel The Last of the Mohicans (1826)."
+          "url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_the_Mohicans&oldid=1375619196",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "The Last of the Mohicans: complete Characters context, revision1375619196",
+          "workId": "wikipedia:collective-encyclopedia",
+          "quote": "Alice Munro: Cora's blonde half-sister"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/The-Last-of-the-Mohicans--A-narrative-of-1757_940/c6c9bcee671cc7ace8e429a7e0e023b12f316fb2/940-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "James Fenimore Cooper",
-          "title": "The Last of the Mohicans",
-          "workId": "primary:gitenberg/the-last-of-the-mohicans--a-narrative-of-1757_940",
-          "quote": "both Cora and I shall have need to draw largely on that stock of hereditary courage which we boast,"
+          "url": "https://raw.githubusercontent.com/GITenberg/The-World-s-Greatest-Books---Volume-02---Fiction_10643/755d59a9e0053db596ef5821929a34e34179053c/10643.txt",
+          "publisher": "The World's Greatest Books, delivered by Project Gutenberg/GITenberg",
+          "author": "Various contributors; joint editors Arthur Mee and J. A. Hammerton; individual synopsis writer unverified",
+          "title": "The World's Greatest Books Vol.II Fiction (1910 frontmatter), FenimoreCooper / The Last of the Mohicans, complete synopsis",
+          "workId": "worlds-greatest-books:fiction-volume-ii-1910",
+          "quote": "In vain Cora begged him to release her sister."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_literary_gap_facts",
-        "note": "Actual retained Behind the Name description and independently authored primary literary text were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Primary author/title header and surrounding Cora/Alice interaction actually read. No invented-first-use claim or etymology asserted."
+        "reviewer": "Independent peer /root/c05_reconnected_source_review/ronnie_materiality",
+        "note": "Accepted sisters after actual full WGB Cooper intro/I–V synopsis/frontmatter/metadata/PG terms and Wiki1375619196 lead, plot/characters, citations/footer reads. Wiki says half-sister unfootnoted; WGB names Alice immediately before Cora requests her sister’s release. No half/mother/racial/death subtype selected. Literal quotes5/9words; API/raw and pinned rendered revision match. Mee/Hammerton joint editors; synopsis writer unknown; Wiki contributors collective. Two presented authored works; mirrors count once. Original novel, Urdang/Roberts/Walker and other underlying works unread/count0; deeper common-Cooper lineage unresolved. Actual Grey reference Aldwin2022 adaptation, not Henry/import. USA-PD/full PG1.D regional/electronic/trademark terms retained; Wiki BY-SA4 attribution, no blanket MIT/media grant. Relationship adds detail beyond occurrence fact; no naming/popularity/bearer claim. Fact64chars; Cora/500 metrics/recognition preserved; own hashbound review retained."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -59607,29 +59607,37 @@
         }
       ],
       "id": "ssa:M:Bryce",
-      "fact": "Bryce Canyon National Park has colorful rock formations shaped by erosion.",
+      "fact": "Freezing and thawing water helps shape Bryce Canyon's rock formations.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://registry.npmjs.org/wordnet-db/-/wordnet-db-3.1.14.tgz",
-          "publisher": "Princeton University; WordNet 3.1 delivered through npm wordnet-db 3.1.14",
-          "author": "Princeton University WordNet editorial contributors",
-          "title": "WordNet 3.1 noun database (2011), synset 08620714",
-          "workId": "princeton-wordnet-3-1",
-          "quote": "a national park in Utah having multicolored rock erosions"
+          "url": "https://www.britannica.com/place/Bryce-Canyon-National-Park",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Bryce Canyon National Park: human geological-history paragraph, read 8 October 2026",
+          "workId": "britannica:encyclopedia",
+          "quote": "erosion, caused largely by the freezing and thawing of water in the cracks of the rocks, carved a series of horseshoe-shaped amphitheatres."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Bryce_Canyon_National_Park&oldid=1365052934",
-          "publisher": "English Wikipedia; Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Bryce Canyon National Park (revision 1365052934)",
-          "workId": "wikipedia:bryce-canyon-national-park",
-          "quote": "This erosion resulted in colorful pinnacles called hoodoos that are up to {{convert|200|ft|m|-1}} high."
+          "url": "https://en.wikipedia.org/w/index.php?title=Geology_of_the_Bryce_Canyon_area&oldid=1365421431",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors; selected paragraph credits adapted National Park Service text",
+          "title": "Geology of the Bryce Canyon area, revision 1365421431: Hoodoo formation (NPS adaptation)",
+          "workId": "wikimedia-nps:bryce-geology-adaptation",
+          "quote": "In the winter, melting snow seeps into cracks and joints and freezes at night. The force of the expanding ice helps to erode the rock of the Claron Formation."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Geology_of_the_Bryce_Canyon_area&oldid=1365421431",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors; selected paragraph credits adapted National Park Service text",
+          "title": "Geology of the Bryce Canyon area, revision 1365421431: freeze/thaw wording (NPS adaptation)",
+          "workId": "wikimedia-nps:bryce-geology-adaptation",
+          "quote": "these freeze/thaw cycles occur each year in Bryce Canyon."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "The actual WordNet Bryce Canyon National Park synset and the retained Wikipedia Geography paragraph independently identify colorful rock forms made by erosion. Hashes, synset byte offset/lemma/gloss, exact quote offset and cached API canonical title/revision/body equality checked. Wikipedia’s selected paragraph cites Harris, Tuttle and Tuttle, Geology of National Parks (1997), p.46; that book was not directly read or counted. This is a park-name homograph hook, without given-name etymology, exact rock height/age or pioneer namesake claims. Princeton’s full 3.1/2011 notice must accompany copied synset text; wiki prose attribution/CC-BY-SA4.0 retained."
+        "reviewer": "/root/c05_reconnected_source_review",
+        "note": "Independently read all 3 human Britannica paragraphs (365 words), Editors credit/Article JSONLD, full history/profile; actual Wiki lead, drainage, complete hoodoo section, refs and rendered rights. API/raw/pinned HTML agree. Britannica's freeze/thaw erosion carves amphitheatres amid rock forms; Wiki describes Claron rock erosion. Broad 'helps shape' is supported; no sole cause, subtype, count, age or name origin claim. Wiki explicitly adapts NPS: one group, original body/rights blocked and unread, not a third vote. Britannica has NPS external links; history proves neither clause copying nor independent ultimate lineage. Separate Editors and credited NPS/Wiki presentations accepted with that limit. Generic frost context and McKee add no work. Brief 22-word Britannica quote; copyright/blocked terms grant no reuse; Wiki CC-BY-SA4.0/NPS credit retained. Peer read all 500 facts: modest mechanism gain over valid erosion fact, not measured."
       },
       "recognitionVerified": true,
       "recognitionReview": {
