@@ -14703,29 +14703,29 @@
         }
       ],
       "id": "ssa:M:Gerald",
-      "fact": "Gerald includes a Germanic word for \"spear\".",
+      "fact": "Gerald pairs 'spear' with a Germanic root glossed as 'rule' or 'power'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Gerald (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Gerald (pinned2021 retained first-name description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Germanic name […] ger meaning \"spear\""
+          "quote": "From a Germanic name meaning \"rule of the spear\", from the elements ger meaning \"spear\" and wald meaning \"rule\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Gerald",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "A. Brown, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Gerald, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Gerald, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Old High German […] 'spear'"
+          "quote": "Gerald m. Old High German, Old Saxon gēr 'spear' + Old High German walt 'power'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independently read full BTN Gerald description and actual DMNES2023.1 etymology, usage, Gerard/Garet/Gerbald ambiguity, exact three citeme authors and copyright footer. Pinned tree and full scraper verify corporate BTN dictionary provenance; no individual byline invented. Both exact Gerald entries give a spear-plus-second-root compound. BTN wald/rule and DMNES walt/power remain alternative glosses/forms, without identical spelling, fused 'spear ruler' or modern-name equivalence. No direct BTN/Wiki label in DMNES; deeper shared scholarship unaudited. Underlying medieval sources and linked headword bodies unread/count0. Two authored dictionaries, with mirrors/headwords counted once. Pinned editions, not live-currentness claims. Brief attributed copyright-bearing excerpts; no open-prose/media licence. Second component materially adds to the valid spear-only fact; root glosses are not bearer traits, ancestry or popularity causes. Editorial acceptance, not player testing or convergence."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -15351,29 +15351,45 @@
         }
       ],
       "id": "ssa:M:Keith",
-      "fact": "Keith came from a Scottish surname based on a place name.",
+      "fact": "Keith came via a place-name surname whose root may be cet, meaning 'wood'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Keith+%28given+name%29&oldid=1378696496",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Keith (given name), revision 1378696496",
-          "workId": "wikipedia:Keith (given name):1378696496",
-          "quote": "The surname derives from a toponym, [[Keith Marischal]]"
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Keith (pinned2021 full retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From a Scottish surname that was originally derived from a place name"
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Keith (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Keith (pinned2021 full retained description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "From a Scottish surname that was originally derived from a place name"
+          "quote": "probably derived from the Brythonic element cet meaning \"wood\""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Keith+%28given+name%29&oldid=1378696496",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "Keith (given name), revision 1378696496",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The surname derives from a toponym, [[Keith Marischal]]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Keith+%28given+name%29&oldid=1378696496",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "Keith (given name), revision 1378696496",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "possibly containing the [[Brittonic languages|Brittonic]] element ''*cet'' \"woods, forest.\""
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Hanks/Hardcastle/Hodges, A Dictionary of First Names (2006); possible woodland root left explicitly unresolved. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independently read full retained BTN Keith description and pinned Wiki1378696496 infobox/lead with Hanks/Hardcastle/Hodges2006 citation; API slot/revision and source hashes verified. Both connect modern Keith through surname/place and qualify cet woodland root; may preserves probably/possibly. Hanks book unread, not counted; no selected direct BTN citation observed, deeper shared scholarship unknown. BTN corporate identity only; individual writer unestablished. Wiki Gaelic/battleground alternatives retained as excluded disagreement, not declared false; precise locality Wiki-only. Adds a qualified lexical hook to valid prior place-name fact; editorial gain, no player study. Brief attributed quotes only: secondary mirror restrictions do not license BTN prose; Wiki pinned attribution/CC-BY-SA4.0 identity retained, per-article footer not refetched. No exclusive meaning, bearer ancestry, nobles, usage year or popularity claim. Canonical Wiki work ID only normalized; old proofs preserved."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -20343,29 +20359,45 @@
         }
       ],
       "id": "ssa:M:Howard",
-      "fact": "Howard can come from the Old Norse name Hávarðr.",
+      "fact": "Howard can trace through a surname to Norse roots meaning 'high' and 'guardian'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Howard&oldid=1375917056",
-          "publisher": "Wikipedia, The Free Encyclopedia",
+          "publisher": "Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Howard, revision 1375917056",
-          "workId": "wikipedia:Howard:1375917056",
-          "quote": "The surname has a number of possible origins; in the case of the [[Howard family|noble house]], the likely source is the Norse given name Hávarðr, composed of the elements ''há'' (\"high\") and ''varðr'' (\"guardian\").<ref>{{cite book|last1=Hanks|first1=Patrick|last2=Hardcastle"
+          "title": "Howard, revision1375917056 (full selected lead)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''Howard''' is a masculine [[given name]] derived from the English surname [[Howard (surname)|Howard]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Howard&oldid=1375917056",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Howard, revision1375917056 (full selected lead)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "composed of the elements ''há'' (\"high\") and ''varðr'' (\"guardian\")."
         },
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Howard (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Howard (pinned2021 complete retained description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Germanic name Hughard; the Anglo-Scandinavian given name Haward, from the Old Norse name Hávarðr; or the Middle English term ewehirde meaning \"ewe herder\". This is the surname of a British noble family, members of which have held the title Duke o"
+          "quote": "the Anglo-Scandinavian given name Haward, from the Old Norse name Hávarðr"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Hávarðr (pinned2021 complete retained description)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From the Old Norse elements há \"high\" and varðr \"guardian, defender\"."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Hanks, Hardcastle and Hodges, A Dictionary of First Names, 2006, Howard entry. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence. Both sources identify multiple possible surname origins; can preserves that limitation."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independently read Wiki1375917056 full selected lead/three Withycombe1945, Hanks-Hardcastle-Hodges2006 and ThinkBabyNames definitions; API identity/content and source hashes verified. Read full BTN Howard/Hávarðr/Hughard/Håvard descriptions. Both modern-name contexts support surname route to high+guardian roots; can retains Wiki's likely noble-house interpretation and BTN Huard/Hughard/ewe-herder alternatives. No all-bearer nobility/ancestry, exclusive origin, naming cause or popularity claim. Underlying books/ThinkBabyNames unread/count0; no selected direct BTN citation observed, deeper scholarship unknown. BTN corporate identity only, individual writer unestablished; brief attributed copyrighted support and retained Wiki CC-BY-SA4.0 identity, no fresh per-page footer or open BTN licence claimed. Linked headwords one dictionary. Adds compound meaning to valid Hávarðr-route fact; editorial gain, no player study. Four literal short quotes; prior proofs/notices preserved."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -20839,29 +20871,29 @@
         }
       ],
       "id": "ssa:M:Philip",
-      "fact": "Philip includes the Greek word for \"horse\".",
+      "fact": "Philip's Greek roots link love and horses.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Philip (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Philip (pinned2021 retained first-name description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "ἵππος (hippos) meaning \"horse\""
+          "quote": "composed of the elements φίλος (philos) meaning \"friend, lover\" and ἵππος (hippos) meaning \"horse\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Philip",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "A. Brown, G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Philip, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Philip, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
           "quote": "Philip m. Greek φίλος 'dear, loved, loving' + Greek ἵππος 'horse'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary + /root/c05_fact_pair_review",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independently read retained BTN Philip and DMNES2023.1 complete etymology/usage/citeme/archival header/head/footer from verified raw spans. Actual DMNES five named authors preserved; corporate BTN identity from full scraper previously read and pinned tree. BTN friend/lover versus DMNES dear/loved/loving supports broad love connection, not identical glosses or fused 'lover of horses' translation. Both exact-name works add horse. BTN ends[more]; live continuation unread. Bulk attestations not reviewed; linked primary works unread/count0. No selected BTN/Wiki dependency label observed; deeper scholarship unknown. Brief attributed copyrighted quotes, no open prose/art licence; DMNES Editors ©2015–2023 and prior notices preserved. Old horse-only line valid; second component is bounded editorial gain, no player study, ancestry, traits or popularity cause. Two canonical works, two literal references; no extra mirror count."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -44103,29 +44135,29 @@
         }
       ],
       "id": "ssa:F:Gertrude",
-      "fact": "Gertrude includes a Germanic word for \"spear\".",
+      "fact": "One etymology of Gertrude combines roots meaning 'spear' and 'strength'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Gertrude (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Gertrude (pinned2021 retained first-name description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Germanic elements ger \"spear\""
+          "quote": "Means \"spear of strength\", derived from the Germanic elements ger \"spear\" and thrud \"strength\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Gertrude",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "R. Le Get, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Gertrude, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Gertrude, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Old High German […] 'spear'"
+          "quote": "Gertrude f. Old High German, Old Saxon gēr 'spear' + Proto-Germanic *þrūþ 'strength' or Proto-Germanic *trut 'maiden'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review/gertrude_pair_acceptance",
+        "note": "Independently read complete retained BTN Gertrude description and pinned DMNES headword, etymology, usage, citeme, archival header and copyright footer. Both exact headwords pair spear/strength; DMNES also offers *trut 'maiden'. 'One etymology' keeps that alternate and avoids an exclusive fused translation. Full pinned scraper/tree establish BTN corporate provenance; individual byline and open mirror licence unestablished. DMNES credits R. Le Get, J. Uckelman and S.L. Uckelman, 2023.1. Two canonical authored dictionaries; mirrors/excerpts add no works. No direct BTN/Wiki dependency label appears in DMNES; deeper shared scholarship unproved. Attestation entries read as page context; underlying medieval works unread/count0. Brief attributed copyrighted excerpts and original notices retained. Saints, monarchs, Hamlet/Stein, introduction dates, ancestry and bearer traits unselected. The second component is a bounded editorial gain, not a player study or job-test result."
       },
       "recognitionVerified": true,
       "recognitionReview": {
