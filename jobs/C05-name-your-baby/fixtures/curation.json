@@ -14297,53 +14297,37 @@
   },
   {
     "id": "ssa:F:Carole",
-    "fact": "Carolus, Charles and Karl belong to the same name family.",
+    "fact": "Carole King's song 'You've Got a Friend' became a hit for James Taylor.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Carole (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "French feminine form of Carolus."
+        "author": "Ellen Ferry",
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Carole King",
+        "url": "https://www.britannica.com/biography/Carole-King",
+        "workId": "britannica:encyclopedia",
+        "quote": "Taylor’s version of King’s song “You’ve Got a Friend” eventually became a hit in the United States."
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Carolus (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Latin form of Charles."
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "You've Got a Friend (revision1378896949)",
+        "url": "https://en.wikipedia.org/w/index.php?title=You%27ve+Got+a+Friend&oldid=1378896949",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "wrote \"You've Got a Friend\" during the January 1971 recording sessions"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Karl (entry index 0; pinned dictionary)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "German and Scandinavian form of Charles."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ Keltic. │ French. │Span. and Port.│ │Charles │ GAEL. │Charles │Carlos │ │Charlie │Tearlach │Charlot │ German. │ │ │ ERSE. │ │Karl │ │ │Searlus │ │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Italian. │ Swedish. │ Danish. │ Dutch. │ │Carlo │Karl │Karl │Carolus │ │Carolo │Kalle │Karel │Carel │"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "Magnus was an agnomen added as a personal distinction, as in the case of Pompey. It was never a name till long after the Roman empire was over, when Karl der Grösse, as his Franks called him, had been Latinized into Carolus Magnus, and honoured by the French as Charlemagne. St. Olaf of"
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "You've Got a Friend (revision1378896949)",
+        "url": "https://en.wikipedia.org/w/index.php?title=You%27ve+Got+a+Friend&oldid=1378896949",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Taylor's version was released as a single and reached number 1"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review",
-      "note": "Narrowed to Carolus/Charles/Karl: BTN gives Carolus and Karl as forms of Charles; Yonge’s Charles-family table and Carolus Magnus paragraph independently group those exact roots. Carole’s French feminine linkage is dictionary context only. No definite literal Charles meaning or exclusive national use of Carolus is claimed."
+      "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+      "note": "Independently read all eight human Britannica biography paragraphs, printed Ellen Ferry writer/Editors checker and Article authorship; AI/FAQ and duplicate song index excluded. Read pinned Wiki song1378896949 full lead/History/Reception and King1378082042 full lead/1970s, all inline and named definitions; API identities verified. Both directly support King's song and Taylor's successful version. Underlying books/interviews/charts and recordings unread/count0. One Britannica and one Wikipedia work; linked topics count once. No direct Britannica/Ferry label in selected Wiki bodies; deeper shared lineage unproved. Song/performer relation only, without rank/year/purpose/lyrics, Tapestry-recording inference or birth-name claim. Brief copyright-bearing BRT and attributed Wiki CC-BY-SA excerpts retained. Exact Carole/song/different-hit-singer hook adds material context beyond valid implicit Carolus-family wording; editorial judgment, not player testing. Independently accepted."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -14504,28 +14488,36 @@
     }
   },
   {
-    "fact": "Penelope has been used as an English name since the sixteenth century.",
+    "fact": "In the Odyssey, Penelope undid her weaving at night to delay choosing a suitor.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "The name was revived in the [[Anglosphere]] by the mid-[[16th century]]",
-        "title": "Penelope (given name)",
-        "url": "https://en.wikipedia.org/w/index.php?title=Penelope+%28given+name%29&oldid=1367467119",
-        "workId": "wikipedia:Penelope (given name):1367467119"
+        "url": "https://www.britannica.com/topic/Penelope-Greek-mythology",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Gitanjali Roy",
+        "title": "Penelope | Odysseus, The Odyssey, Book, Movie, Christopher Nolan, Actress, Mythology, & Facts",
+        "workId": "britannica:encyclopedia",
+        "quote": "Every night for three years, until one of her maids revealed the secret, she unraveled the piece that she had woven by day so that she would not have to give up hope for the return of her beloved husband and remarry."
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "It has occasionally been used as an English given name since the 16th century.",
-        "title": "Behind the Name first-name dictionary: Penelope",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://en.wikipedia.org/w/index.php?title=Penelope&oldid=1378107261",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Penelope, revision 1378107261",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "She has devised cunning tricks to delay the suitors, one of which is to pretend to be weaving a burial shroud for Odysseus's elderly father [[Laertes (father of Odysseus)|Laertes]] and claiming that she will choose a suitor when she has finished."
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Penelope&oldid=1378107261",
+        "publisher": "Wikipedia, The Free Encyclopedia",
+        "author": "Wikipedia contributors",
+        "title": "Penelope, revision 1378107261",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "Every night for three years, she undoes part of the shroud"
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Uncertain duck/weft etymology is in a mixed BTN-containing cluster and is excluded. Chosen chronology has a separate Redmonds citation.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+      "note": "Independently read eight human Britannica paragraphs, printed Gitanjali Roy writer/Editors checker, Article authorship and final signature; three embedded Read promotions excluded. Read pinned Wiki1378107261 full lead and complete Role in the Odyssey section with all inline and :12/Mackail definitions; API identity verified. Both support nightly undoing to delay choosing a suitor. Selected Wiki paragraph cites St. Clair2018 pp11–12, unread; primary Odyssey and other cited bodies unread/count0. Two authored retellings of one Homeric story, not historical witnesses; deeper lineage unproved. Explicit Odyssey framing, without whole-shroud quantity, duration, maid, bow, fidelity judgment, etymology or modern-name ancestry. Three literal quotes/two canonical works; brief copyright-bearing Britannica and attributed Wiki CC BY-SA excerpts retained. Concrete tactic and purpose add material context beyond valid name-use chronology; editorial judgment, not player testing. Independently accepted."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Penelope",
