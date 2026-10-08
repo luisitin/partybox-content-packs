@@ -536,3 +536,9 @@ Lindsay rootHOLD finalized18:14:32: positive shared dictionary/Wikipedia authori
 ## Current53 exact-addon materiality HOLD and frozen-source limits
 
 Exact57-addon eponym is held. Two credited modern works directly supportdoctor/naming, with shared1855/deepermedicalroutes disclosed; this does not establish netplayergain. Distinctpeer retains entirevalid surname→given-name/girlsboyslesson; rootinitialmodestpositive19:04:32 was reconsideredafter independentHOLD19:09:13, finalrootHOLD19:11:58. Sourcefactsnotdeclaredfalse; nozero/globalclosure. ColtonHertacandidate-null remains unqualifiedfor2019age/record; unrelated2022works and duplicatecopies do notfixthatpredicate. New dualAddon/Joannfabric/Joannafinancing inquiries stayseparateunverifiedscopes. Sealed v2guardrepair istechnicalpreparation, not a new contentround.
+
+## New dual-eponym and Joann naming boundaries
+
+Root retains current Addison65/13 after the separate frozen dual-eponym inquiry. Actual alias learning is acknowledged; source support is not the reason for HOLD. Medical terminology, conflation and loss of the whole valid surname/gender-use lesson outweigh a clear player benefit for this row. The earlier exact57 distinct-peer HOLD remains separate. No falsehood, measured zero or convergence finding.
+
+Joann fabric naming has one qualified importing Wiki presentation and unread necessary Cho/Encyclopedia originals; it does not meet the two-work requirement. Preserve the entire valid54-character biblical marriage lesson. The separate financial-support lead remains unqualified pending selected commentary writer/edition/licence; no exact object exists. Neither packaging integrity nor child metadata supplies semantic approval.
