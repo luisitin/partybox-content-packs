@@ -56415,29 +56415,61 @@
         }
       ],
       "id": "ssa:F:Marcia",
-      "fact": "Marcia comes from a Roman family name.",
+      "fact": "Marcia may trace through its Roman name family to the god Mars.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
+          "publisher": "Behind the Name; pinned dictionary distribution",
           "author": "Behind the Name",
-          "title": "Behind the Name: Marcia (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Marcia (pinned2021 retained entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Feminine form of Marcius. […] Roman family name"
+          "quote": "Feminine form of Marcius."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; pinned dictionary distribution",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Marcius (pinned2021 retained entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Roman family name that was a derivative of the praenomen Marcus."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; pinned dictionary distribution",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Marcus (pinned2021 retained entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "Roman praenomen, or given name, that was probably derived from the name of the Roman god Mars."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; pinned dictionary distribution",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Mars (pinned2021 retained entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "In Roman mythology Mars was the god of war, often equated with the Greek god Ares."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Marcia",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Marcia, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Marcia, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Roman gens"
+          "quote": "Latin Marcia, a derivative of Latin Mars, and the name of a Roman gens."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Mark",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "A. Brown, R. Le Get, S.L. Uckelman",
+          "title": "The Dictionary of Medieval Names from European Sources: Mark, edition2023.1",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Latin Marcus, a praenomen derived either from Latin Mars, the name of a god, or Etruscan Marce, of unknown meaning."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independent reviewer read complete retained BTN Marcia/Marcius/Marcus/Mars descriptions and all DMNES exact Marcia/linked Mark narrative paragraphs, citeme author credits and copyright footers. Raw source bytes, historic receipts and controlling v2 contexts rehashed; no fresh fetch. BTN exact modern chain reaches probable Mars; DMNES exact Marcia gives Roman gens/Mars and linked Mark identifies a god with alternative Etruscan Marce. May preserves this qualified path, not certain exclusive origin or all-bearer descent. God of war remains unselected: only BTN supports it here. Six exact contiguous quotes with formatting removed/whitespace normalized, no v1 punctuation artifacts. Two credited dictionary works; linked heads/mirrors count once each. No selected direct BTN reuse established; deeper scholarship unproved. Brief copyright-bearing excerpts, original short fact, no corpus/media licence or participant study. Keep alternative root scope and full Princeton notice. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -58023,29 +58055,37 @@
         }
       ],
       "id": "ssa:F:Claudia",
-      "fact": "Claudia comes from a Roman family name.",
+      "fact": "Claudia comes from a Roman family name possibly derived from Latin for 'lame'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
+          "publisher": "Behind the Name; pinned dictionary distribution",
           "author": "Behind the Name",
-          "title": "Behind the Name: Claudia (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Claudia (pinned2021 retained entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Feminine form of Claudius. […] From a Roman family name"
+          "quote": "Feminine form of Claudius."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "publisher": "Behind the Name; pinned dictionary distribution",
+          "author": "Behind the Name",
+          "title": "Behind the Name: Claudius (pinned2021 retained entry)",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From a Roman family name that was possibly derived from Latin claudus meaning \"lame, crippled\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Claudia",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Claudia, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Claudia, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Roman gentes"
+          "quote": "Latin Claudia from claudus 'lame', the name of two Roman gentes, one patrician, one plebeian."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Peer read full retained BTN Claudia/Claudius descriptions and DMNES Claudia narrative, citeme author/footer. BTN explicitly links Claudia to Claudius and possibly claudus; DMNES exact Claudia gives Latin claudus 'lame' and Roman gentes. Possibly preserves BTN uncertainty despite DMNES's firmer wording; no certain root or bearer trait. Linked BTN heads count one corporate dictionary work; DMNES one distinct credited work, no selected direct BTN dependency found; deeper classical scholarship unaudited. Read full Yonge Claudius section/header: rival clueo/famed remains excluded and uncounted; BTN Attius Clausus legend also excluded. Three quotes rematched with tags removed and no inserted punctuation spaces. Historical HTTP/TLS receipts and immutable hashes checked; no fresh fetch claimed. Brief attributed copyright-bearing quotations/original paraphrase; preserve source terms, no open corpus/media licence, participant study or convergence."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -60807,14 +60847,14 @@
         }
       ],
       "id": "ssa:F:Tonya",
-      "fact": "Antonia comes from Antonius, the Roman family name of Mark Antony.",
+      "fact": "Tonya can be short for Antonia, from Antonius, Mark Antony's Roman family name.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Tonya (pinned 2021 distribution)",
+          "title": "Behind the Name: Tonya (pinned2021 dictionary description)",
           "workId": "behind-the-name:dictionary",
           "quote": "English diminutive of Antonia or a Russian diminutive of Antonina."
         },
@@ -60822,7 +60862,7 @@
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Antonia (pinned 2021 distribution)",
+          "title": "Behind the Name: Antonia (pinned2021 dictionary description)",
           "workId": "behind-the-name:dictionary",
           "quote": "Feminine form of Antonius (see Anthony)."
         },
@@ -60830,30 +60870,46 @@
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Anthony (pinned 2021 distribution)",
+          "title": "Behind the Name: Anthony (pinned2021 dictionary description)",
           "workId": "behind-the-name:dictionary",
-          "quote": "The most notable member of the Roman family was the general Marcus Antonius (called Mark Antony in English), who for a period in the 1st century BC ruled the Roman Empire jointly with Augustus."
+          "quote": "The most notable member of the Roman family was the general Marcus Antonius (called Mark Antony in English)"
+        },
+        {
+          "url": "https://babynames.com/name/tonya",
+          "publisher": "BabyNames.com, Moss Gathering LLC",
+          "author": "Jennifer Moss",
+          "title": "Tonya: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "Short form of Antonia, or a form of Tanya"
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
           "publisher": "Project Gutenberg, mirrored by GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition1884",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "Two gentes were called Antonius, a word that is not easy to trace. Some explain it as inestimable, but the Triumvir himself chose to deduce it from Antius, a son of Hercules. One of these clans was patrician, with the cognomen Merenda; the other plebeian, without any third name, and it was to the latter that the avenger of Cæsar and lover of Cleopatra belonged—Mark Anthony, Marc Antoine, or Marcantonio, as modern tongues have clipped his Marcus Antonius. The clipping had, however, been"
+          "quote": "Two gentes were called Antonius, a word that is not easy to trace."
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
           "publisher": "Project Gutenberg, mirrored by GITenberg",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names, revised edition1884",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "The feminine form, Antonia, is very common in Italy and Spain. The Germans have it as Antonie, and this was the original name of Maria Antonia, whom we have learnt to regard with pitying reverence as Marie"
+          "quote": "Mark Anthony, Marc Antoine, or Marcantonio, as modern tongues have clipped his Marcus Antonius."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names, revised edition1884",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The feminine form, Antonia, is very common in Italy and Spain."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review/last10_check",
-        "note": "Tonya to Antonia is BTN-only review context; the same entry permits an Antonina route and discusses Tanya influence. Published fact states only the Antonia/Antonius/Mark Antony hook, independently supported by BTN and Yonge. No uncertain Etruscan meaning, exclusivity, or legend about Hercules is asserted. Multiple BTN headwords count as one work. Actual retained bodies, pointers, hashes and literal excerpts checked independently; deeper source lineage unaudited."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independent reviewer read full retained BTN Tonya/Antonia/Anthony and alternative Antonina/Tanya descriptions; Anthony ends[more], no live continuation claim. Read actual full Moss Tonya/Antonia human pages and Tonya Article credit Jennifer Moss, not a printed byline. Read Yonge1884 full Antonius section and title/author/edition. Modern Tonya→Antonia has BTN+Moss; ancient Antonia→Antonius/Mark Antony has BTN+Yonge, not a Yonge Tonya claim. Can preserves alternate RussianAntonina/Tanya-form routes; no exclusive ancestry, unknown gloss or Hercules legend. Seven exact quotes/three works; Yonge whitespace-only normalization. Different authored presentations; deeper source lineage unproved. Read copyright terms/robots; llms index header only, linked posts unread. Moss9-word quote requires visible title/BabyNames.com/clickable Tonya URL. No broad commercial-data/art licence; Yonge USA-PD only. Preserve full Princeton notice. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -64311,29 +64367,29 @@
         }
       ],
       "id": "ssa:F:Cecilia",
-      "fact": "Cecilia comes from a Roman family name.",
+      "fact": "Cecilia comes from a Roman family name that may derive from Latin for 'blind'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
+          "publisher": "Behind the Name; pinned dictionary distribution",
           "author": "Behind the Name",
-          "title": "Behind the Name: Cecilia (pinned 2021 dictionary distribution)",
+          "title": "Behind the Name: Cecilia (pinned2021 retained entry)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Roman family name Caecilius"
+          "quote": "Latinate feminine form of the Roman family name Caecilius, which was derived from Latin caecus meaning \"blind\"."
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Cecilia",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "A. Brown, R. Le Get, N. Shiel, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Cecilia, edition 2023.1",
+          "title": "The Dictionary of Medieval Names from European Sources: Cecilia, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Roman gens name"
+          "quote": "Latin Caecilia, the feminine form of a Roman gens name which may derive from Latin caecus 'blind'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Peer read full retained BTN Cecilia description and all DMNES Cecilia narrative, citeme authors/footer. Both link exact Cecilia to Roman family/gens Caecilius/Caecilia and caecus 'blind'. DMNES may derive controls the qualified root; no certain etymology or bearer trait. BTN's complete selected clause is present though the retained field ends [more]; no full live-entry claim. Linked BTN heads count one corporate work; DMNES one credited work, no selected direct BTN dependency found; deeper classical scholarship unaudited. Also read full Yonge Caecilius section/header: Cæcas/Cæculus/caleo legends remain excluded alternatives, not another counted source. Quotes rematched to actual text with tags removed and no inserted punctuation spaces. Historical HTTP/TLS receipts and immutable hashes checked; no fresh fetch claimed. Brief attributed copyright-bearing quotations and original paraphrase; preserve source terms, no open corpus/media licence, participant study or convergence."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -78423,37 +78479,29 @@
         }
       ],
       "id": "ssa:F:Breanna",
-      "fact": "Briana is a character in Edmund Spenser's The Faerie Queene.",
+      "fact": "Breanna Stewart won the WNBA MVP and Finals MVP awards in 2018.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Breanna (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Briana."
+          "url": "https://www.britannica.com/topic/Seattle-Storm",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Seattle Storm",
+          "workId": "britannica:encyclopedia",
+          "quote": "Stewart won both the finals and the regular-season MVP awards."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Briana (entry index 0; pinned dictionary)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "This name was used by Edmund Spenser in The Faerie Queene (1590)."
-        },
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Brianna&oldid=1378589479",
+          "url": "https://en.wikipedia.org/w/index.php?title=Breanna_Stewart&oldid=1378819309",
           "publisher": "Wikipedia, Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Brianna (pinned revision 1378589479)",
-          "workId": "wikipedia:brianna",
-          "quote": "Briana is the name of a character in [[Edmund Spenser]]'s ''[[The Faerie Queene]]''."
+          "title": "Breanna Stewart (pinned revision 1378819309)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Stewart won Finals MVP, becoming the sixth player in league history to win both league MVP and Finals MVP in the same year."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review",
-        "note": "Narrowed to Briana’s literary character: BTN names Spenser’s use in The Faerie Queene; the actual independently authored Brianna article explicitly names Briana as a character in that poem and cites eNotes rather than BTN for the clause. Breanna’s variant relation is BTN-only context. The poem and underlying eNotes work were not directly read; no publication-year claim is selected."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Peer read five human Storm paragraphs, printed Editors credit, Article author and full contributor/history page: Editors primary; Adam Augustyn added article in 2023. Read pinned Stewart full lead/infobox, college and Seattle sections plus all 13 named definitions. Both complete 2018 contexts explicitly support regular-season WNBA MVP and Finals MVP. Two brief quotes rematched; selected ESPN/WNBA definitions read, underlying bodies and games unread and uncounted. Exclude sixth-player firstness, NCAA wins, current team, health and private life. Two authored summaries, no independent observations or deep-lineage certification. Canonical work IDs normalized. Wiki CC-BY-SA 4.0 rightsinfo read; brief copyrighted BRT quotation/attribution retained, no open-prose/media licence. Optional terms 403 and fallbacks recovered no terms; minimal HTTP receipts do not record a TLS numeric code. Exact Breanna bearer improves prior Briana-only hook; no participant test or convergence."
       },
       "recognitionVerified": true,
       "recognitionReview": {
