@@ -20511,29 +20511,45 @@
         }
       ],
       "id": "ssa:F:Kayla",
-      "fact": "Kayla Brady is a character on the soap opera Days of Our Lives.",
+      "fact": "Kayla Barron served on a submarine before flying to the International Space Station.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kayla (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "the character Kayla Brady began appearing on the American soap opera Days of Our Lives."
+          "url": "https://www.britannica.com/biography/Kayla-Barron",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Erik Gregersen",
+          "title": "Kayla Barron",
+          "workId": "britannica:editorial-encyclopedia",
+          "quote": "Barron was then assigned to the submarine USS Maine"
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Kayla_Brady&oldid=1359270380",
-          "publisher": "English Wikipedia; Wikimedia Foundation",
+          "url": "https://www.britannica.com/biography/Kayla-Barron",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Erik Gregersen",
+          "title": "Kayla Barron",
+          "workId": "britannica:editorial-encyclopedia",
+          "quote": "Barron’s first spaceflight was on the SpaceX Crew-3 Dragon, which launched from Cape Canaveral , Florida, on November 10, 2021, to the ISS."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Kayla+Barron&oldid=1378501264",
+          "publisher": "Wikipedia; Wikimedia Foundation",
           "author": "Wikipedia contributors",
-          "title": "Kayla Brady (revision 1359270380)",
-          "workId": "wikipedia:kayla-brady",
-          "quote": "'''Kayla Brady Johnson ''' is a fictional character from ''[[Days of Our Lives]]'', a [[soap opera]] on the [[NBC]] network."
+          "title": "Kayla Barron (revision 1378501264)",
+          "workId": "wikipedia:Kayla_Barron:1378501264",
+          "quote": "While serving on the USS ''Maine'', she completed three patrols as a division officer. Following her submarine assignment, she was Flag Aide to the Superintendent at the Naval Academy until her selection as an astronaut."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Kayla+Barron&oldid=1378501264",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Kayla Barron (revision 1378501264)",
+          "workId": "wikipedia:Kayla_Barron:1378501264",
+          "quote": "She took part in her first spaceflight, [[SpaceX Crew-3]], as part of the crew of [[Expedition 66]]/[[Expedition 67|67]], which launched to the [[International Space Station]] on November 10, 2021."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/later41_first20_review",
-        "note": "Retained only the exact fictional character/show identity, directly supported by BTN’s Kayla entry and Wikipedia’s Kayla Brady opening/infobox. The BTN excerpt is shortened to omit its causal popularity assertion. No dates, actress tenure, name-origin chain or popularity effect is asserted. The article’s opening/casting context was directly reviewed here, superseding the old source-record citationScopeReviewed:false flag; its Soap Opera Digest/NBC citations were read as citation context, not as separate source bodies. No BTN dependency identified for the identity claim. Corporate BTN attribution and deeper lineage limits remain."
+        "reviewer": "/root/c05_quality_research/lee_provenance, independent source peer",
+        "note": "Independent peer read all five human Britannica paragraphs, actual Erik Gregersen writer/Editors fact-check credits and Article metadata, plus full10,727-character Wiki revision1378501264/API identity. Britannica’s Maine assignment precedes astronaut selection and first flight to ISS; Wiki explicitly places submarine service before selection and Crew-3 flight. Four checked excerpts count two authored presentations. Britannica quote spacing is HTML text-node joining/whitespace only; Wiki excerpts literal. Wiki selected military text credits Mark Garcia/NASA with PD-notice; flight cites NASA release. Imported material is not represented as wholly original Wiki prose. NASA, SpaceFacts and Grush bodies unread/uncounted. No identified direct Britannica dependency; common NASA ancestry unaudited. Original narrow chronology; no dates, firstness, family, future mission or name origin. Brief copyrighted Britannica attribution and Wiki CC BY-SA4/revision retained; no assets."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -31487,29 +31503,29 @@
         }
       ],
       "id": "ssa:M:Jayden",
-      "fact": "Jayden is a spelling variant of Jaden.",
+      "fact": "Jayden Daniels led Washington to the NFC championship game.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Jayden&oldid=1378377910",
-          "publisher": "Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Jayden",
-          "workId": "wikipedia:Jayden",
-          "quote": "Jaden Smith]] (a variant of Jayden"
+          "url": "https://www.britannica.com/topic/Washington-Commanders",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Adam Augustyn",
+          "title": "Washington Commanders | History, Notable Players, Name, Quarterback, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Washington’s surprising run continued in the playoffs, as the precociously poised Daniels led the team to victories over higher-seeded opponents in the first two rounds. However, the Commanders lost to the more-seasoned Philadelphia Eagles in the conference championship game."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Jayden name entry",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Jaden."
+          "url": "https://en.wikipedia.org/w/index.php?title=Jayden_Daniels&oldid=1377748172",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Jayden Daniels, revision 1377748172",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "He set several rookie records while leading the Commanders to their most wins in a season and first [[NFC Championship Game]] appearance since 1991,"
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Jennifer 8. Lee, For Baby Names Jayden Rises to the Top, The New York Times (2 December 2009). That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. The NYT-cited parenthetical identifies Jaden as a variant; no speculative blend origin or conflicting rank year is asserted. Recognition is separately reviewed below."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all 11 human Britannica paragraphs, Adam Augustyn printed/Article credit; Wiki1377748172 full lead/infobox and first full 2024 career paragraph. Human text identifies Washington as NFC team, Daniels leading playoff wins then conference-game loss; Wiki explicitly credits leading Commanders to NFC Championship Game appearance. Reaching game only, no championship victory/first-since/rookie/year/records/current-team assertion. Lead clause unfootnoted; draft paragraph cites NFL/ESPN/CBS/Post/NorthJersey for other clauses, underlying bodies unread/uncounted. Whole Wiki no Britannica/Augustyn strings; deeper shared reporting unproved. Two literal quotes/two canonical authored groups. Specific sport hook improves accurate basic spelling relation; editorial gain only. Copyrighted human proof/attributed CC-BY-SA4.0 revision, prior actual rights reused; no fresh footer, footage or human checks. Recorded HTTP200/TLS0/body hashes checked; missing historical argv/header hashes not invented."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -34415,37 +34431,61 @@
         }
       ],
       "id": "ssa:M:Jeffery",
-      "fact": "Jeffrey is another form of Geoffrey.",
+      "fact": "Jeffery Deaver won the Mystery Writers of America's Grand Master Award.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jeffery (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Jeffrey."
+          "url": "https://www.britannica.com/topic/Edgar-Award",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Edgar Award | Mysteries, Winners, Books, List, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Edgar Award, any of several annual awards presented by the Mystery Writers of America (MWA)"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jeffrey (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Medieval variant of Geoffrey."
+          "url": "https://www.britannica.com/topic/Edgar-Award",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Edgar Award | Mysteries, Winners, Books, List, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "The Grand Master Award, considered the highest honor in mystery writing, recognizes lifetime achievement or important contributions to the genre."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ Breton. │ French. │ Italian. │ │Godfrey │Jaffrez │Godefroi │Goffredo │ │Geoffrey │ │Godafrey │Godofredo │ │Jeffrey │ │Geoffroi │Giotto │ │Jeff │ │Jeoffroi │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤"
+          "url": "https://www.britannica.com/topic/Edgar-Award",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Edgar Award | Mysteries, Winners, Books, List, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "2021 Jeffery Deaver, Charlaine Harris"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Edgar_Awards&oldid=1364349720",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Edgar Awards, revision 1364349720",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The '''Edgar Awards''', are presented every year by the [[Mystery Writers of America]]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Edgar_Awards&oldid=1364349720",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Edgar Awards, revision 1364349720",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The Grand Master Award winners follow:"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Edgar_Awards&oldid=1364349720",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Edgar Awards, revision 1364349720",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "*'''2021''': [[Jeffery Deaver]]"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly links Jeffery→Jeffrey→Geoffrey. The historical English-family table independently groups Geoffrey and Jeffrey, with the surrounding Geoffrey discussion read. No Godfrey/Geoffrey literal-meaning or ultimate etymological equivalence is asserted. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_quality_research/lee_provenance, independent source peer",
+        "note": "Independent peer read all six human Britannica paragraphs, Editors byline/Article metadata and complete Grand Master caption/header/winner table; its actual2021 row lists Jeffery Deaver. Pinned Wiki Edgar Awards1364349720 lead, full Grand Master section and immediate reference definitions separately list him as a winner. Table excerpt is literal decoded text with whitespace normalization only. Six excerpts count two authored encyclopedia works. Wiki list cites Stop, You're Killing Me; award definition cites Shelf Awareness; those bodies/books are unread and uncounted. No direct Britannica dependency in the selected Wiki scope; deeper shared lineage unaudited. Separate MWA Wiki cites Britannica and is excluded. Original narrow award-receipt fact; no date, firstness, specific-novel prize or sole rationale asserted. Both receipts200/TLS0 and API revision match. Brief copyrighted attribution and Wiki CC BY-SA4/permanent revision retained; no art or permissive Britannica licence inferred."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -59063,29 +59103,37 @@
         }
       ],
       "id": "ssa:F:Gwendolyn",
-      "fact": "Gwendolyn is a spelling variant of Gwendolen.",
+      "fact": "Gwendolyn Brooks was the first African American poet to win a Pulitzer Prize.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Gwendolyn&oldid=1372452288",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Gwendolyn",
-          "workId": "wikipedia:Gwendolyn:1372452288",
-          "quote": "a variant spelling of ''[[Gwendolen]]''"
+          "url": "https://www.britannica.com/biography/Gwendolyn-Brooks",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Gwendolyn Brooks",
+          "workId": "britannica:encyclopedia",
+          "quote": "the first African American poet to win the Pulitzer Prize"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Gwendolyn",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Gwendolen."
+          "url": "https://en.wikipedia.org/w/index.php?title=Gwendolyn_Brooks&oldid=1378736361",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Gwendolyn Brooks, revision 1378736361",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "was an American poet, author, and teacher."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Gwendolyn_Brooks&oldid=1378736361",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Gwendolyn Brooks, revision 1378736361",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "making her the first [[African American]] to receive a [[Pulitzer Prize]]."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Possible white-ring etymology and first-use chronology are excluded."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Independent actual-source review: 18 human Britannica paragraphs and printed Editors/reviser credits read; Wiki complete lead, Writing, Honors and selected citation definitions read. Narrowed Black to the sources’ African American terminology: Britannica explicitly states first African American poet; Wiki separately identifies a poet and explicitly states first African American recipient. This is not inferred solely from the Poetry category. Same Britannica biography is cited for Bronzeville subjects, Maud Martha and later books, outside selected firstness; whole-article/deeper-lineage independence unproved. Banks, Watkins NYT, Pulitzer.org and NPR bodies unread/uncounted. Two canonical contributor/Editors-authored works; no primary winner census, year, broader firstness, etymology or poem text asserted. Brief attributed prose only; Wiki CC BY-SA4/pinned revision, no fresh subject footer or media. HTTP200/TLS0 receipts match bodies; no recorded historical header hashes."
       },
       "recognitionVerified": true,
       "recognitionReview": {
