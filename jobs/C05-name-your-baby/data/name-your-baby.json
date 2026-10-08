@@ -1431,29 +1431,37 @@
         }
       ],
       "id": "ssa:M:Mark",
-      "fact": "Mark is a form of the Latin name Marcus.",
+      "fact": "Mark Twain's pen name is a river call for water two fathoms deep.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Mark (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Form of Latin Marcus used in several languages."
+          "url": "https://www.britannica.com/biography/Mark-Twain/additional-info#Researchers-Note",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Thomas V. Quirk",
+          "title": "Mark Twain: Researcher’s Note — Origins of the name Mark Twain",
+          "workId": "britannica:encyclopedia",
+          "quote": "Mark twain is a riverman’s phrase for water found to be two fathoms (12 feet, or 3.7 metres) deep."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "and no country has ceased to make use of it. Some, such as Niebuhr for his Roman-born son, and a few classically inclined English, have revived the ancient Marcus; but, in general, the word follows the national pronunciation. ┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ French. │ Italian. │ Spanish and │ │ │ │ │ Portuguese. │ │Mark │Marc │Marco │Marcos │ │Marcus │ │ │ │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Mark_Twain&oldid=1378720585",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Mark Twain",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "the [[Chains (nautical)|leadsman's cry]] for a measured river depth of two fathoms (12 feet)"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Mark_Twain&oldid=1378720585",
+          "publisher": "Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Mark Twain",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The riverboatman's cry was \"mark twain\" or, more fully, \"by the mark twain\", meaning \"according to the mark [on the line], [the depth is] two [fathoms]\""
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_resumed_source_review",
+        "note": "Independent review read all eight raw human Researcher's Note paragraphs, including quoted passages, and actual Quirk primary-contributor markup. Also read pinned Wiki1378720585 full lead, Pen names, Early life river-pilot paragraph/inline Seatalk and BoatSafe definitions; API/main text matched. Human ordinary note explicitly gives river phrase and two-fathom meaning; three brief quotes rematch. Two canonical works normalized to established Britannica group and pinned Wiki revision. Known same Britannica external attachment is outside selected predicate; no selected direct dependence identified, deeper lineage unproved. Underlying books/sites unread/count0. Meaning only: exact pseudonym origin remains obscure; Sellers/bar-tab dispute and BRT safe-or-hazardous context require CONFLICTS entry. No causal naming history, universal safety, dates or comet assertion. Copyrighted brief evidence and Wiki attributed CC-BY-SA4.0 per retained rights audit; no new footer/media. Accepted."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -14063,53 +14071,37 @@
         }
       ],
       "id": "ssa:F:Kathryn",
-      "fact": "Kate and Kitty are pet forms of Katherine.",
+      "fact": "Kathryn Bigelow was the first woman to win a Best Director Oscar, for The Hurt Locker.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kathryn (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Contracted form of Katherine."
+          "url": "https://www.britannica.com/biography/Kathryn-Bigelow",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Amy Tikkanen",
+          "title": "Kathryn Bigelow",
+          "workId": "britannica:encyclopedia",
+          "quote": "She was the first woman to win an Academy Award for best director, for The Hurt Locker (2008),"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kate (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Katherine, often used independently."
+          "url": "https://www.britannica.com/biography/Kathryn-Bigelow",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Amy Tikkanen",
+          "title": "Kathryn Bigelow",
+          "workId": "britannica:encyclopedia",
+          "quote": "Bigelow’s Oscar win for director"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kitty (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Katherine."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "her coins Ekaterina. On the whole, Katherine would seem properly to be a namesake of the Alexandrian princess, Catherine, the Votaress of Sienna. No name is more universal in all countries and in all ranks, partly from its own beauty of sound, partly from association, and none has more varied contractions. Our truest old English ones are Kate and Kitty—the latter was almost universal in the last century, though now supplanted by the Scottish Katie and the graceful Irish Kathleen."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Project Gutenberg, mirrored by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ Scotch. │ Irish. │ Welsh. │ │Katharine │Catharine │Kathleen │Cathwg │ │Catherine │Katie │Katty │ │ │Catharina │ —————————— │ │ —————————— │ │Kate │ Dutch. │ │ Bret. │ │Kitty │Kaat │ │Katel │ │Katrine │Kaatje │ │Katelik │"
+          "url": "https://en.wikipedia.org/w/index.php?title=Kathryn+Bigelow&oldid=1373275587",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Kathryn Bigelow (revision1373275587)",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "She became the first woman to receive an [[Academy Award]] for Best Director for ''The Hurt Locker.''"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly gives Kathryn as a Katherine contraction and Kate/Kitty as Katherine diminutives. The actual historical Katherine section explicitly calls Kate and Kitty contractions. Only the named root’s family hook has independent historical corroboration. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independent peer read all seven human Britannica topic paragraphs, printed Amy Tikkanen writing/Editors fact-checking and matching Article authorship; AI FAQ excluded. Read pinned Wiki full lead and complete2008–2016 career section, exact Guardian/Weaver and NBC citation definitions plus the adjacent Guild/BAFTA and reused Keough definitions. Both read presentations explicitly identify Bigelow as first woman Best Director winner for The Hurt Locker; Britannica body also equates the award with Oscar. Guild/BAFTA citations do not corroborate this Oscar. Underlying news/book bodies unread and uncounted. Three brief quotes rematched exactly; two canonical authored works, no selected direct Britannica dependency observed; deeper common lineage unaudited. Film/award year differences are outside selected fact. No debut, sole authorship, private life, exhaustive winner census or participant-test claim. Original brief paraphrase; source quotation rights and attribution remain in SOURCES."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -20039,29 +20031,29 @@
         }
       ],
       "id": "ssa:M:Wayne",
-      "fact": "Wayne Gretzky is often called hockey's greatest player.",
+      "fact": "The NHL retired Wayne Gretzky's jersey number 99.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Wayne (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "generally considered the greatest player in the history of the sport."
+          "url": "https://www.britannica.com/biography/Wayne-Gretzky",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "Wayne Gretzky",
+          "workId": "britannica:encyclopedia",
+          "quote": "The NHL retired his jersey number (99) after his final game."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Wayne+Gretzky&oldid=1378862813",
-          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/w/index.php?title=Wayne_Gretzky&oldid=1378862813",
+          "publisher": "Wikipedia, The Free Encyclopedia",
           "author": "Wikipedia contributors",
-          "title": "Wayne Gretzky",
-          "workId": "wikipedia:Wayne_Gretzky",
-          "quote": "Gretzky is often considered the greatest hockey player of all time."
+          "title": "Wayne Gretzky, revision 1378862813",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "The NHL [[List of NHL retired numbers|retired]] his [[jersey number]] 99 league-wide."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_literary_gap_facts",
-        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Actual biography gives qualified reputation and cites NHL records/player page plus sportswriter surveys, not an objective greatest-player calculation. No fabricated survey or current ranking claim. Other exact factual records need second authored source before being added."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Peer read all five human Britannica topic paragraphs, printed written/fact-checked Editors credit, Article authorship and Will Gosner reviser credit; Gosner is not substituted as writer. Read pinned Wiki full lead/infobox, full retirement/awards paragraphs and citation definitions; API/text identity matches. Both explicitly support NHL retirement of Gretzky's number 99. Known same-Britannica greatness citation is outside this selected predicate and excluded; no whole-article or deep-lineage independence claim. Retirement context cites AP 2000; that and other underlying bodies are unread and uncounted. Two literal brief quotes, two authored works. Player fact adds no date, every-team expansion, firstness, scoring record, greatness judgment or occupation etymology. Wiki CC-BY-SA 4.0 rightsinfo read; brief attributed copyrighted Britannica quote, no open-prose/media licence. Editorial gain replaces vague reputation with concrete honor; no participant test or convergence claim."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -27559,37 +27551,45 @@
         }
       ],
       "id": "ssa:M:Danny",
-      "fact": "Daniel means 'God is my judge' in Hebrew.",
+      "fact": "Danny DeVito played the Penguin in Batman Returns and produced Pulp Fiction.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Danny (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Daniel."
+          "url": "https://www.britannica.com/biography/Danny-DeVito",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Fred Frommer",
+          "title": "Danny DeVito | Biography, Movies, Taxi, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "In 1992 he portrayed the supervillain Oswald Cobblepot, who transforms into the Penguin, in the action film Batman Returns."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Daniel (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the Hebrew name דָּנִיֵּאל (Daniyyel) meaning \"God is my judge\", from the roots דִּין (din) meaning \"to judge\" and אֵל ('el) meaning \"God\"."
+          "url": "https://www.britannica.com/biography/Danny-DeVito",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Fred Frommer",
+          "title": "Danny DeVito | Biography, Movies, Taxi, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "who has produced several popular films and television series, such as the crime film Pulp Fiction (1994)"
         },
         {
-          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Daniel",
-          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-          "author": "R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Daniel, edition 2023.1",
-          "workId": "dmnes:dictionary:2023.1",
-          "quote": "Daniel m. Hebrew דניּאל 'God is my judge'."
+          "url": "https://en.wikipedia.org/w/index.php?title=Danny_DeVito&oldid=1378847789",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "Danny DeVito, revision 1378847789",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "In 1992, he portrayed the villain [[Oswald Cobblepot (Batman Returns)|Oswald Cobblepot / The Penguin]] in director [[Tim Burton]]'s ''[[Batman Returns]]''"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Danny_DeVito&oldid=1378847789",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "Danny DeVito, revision 1378847789",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "DeVito founded Jersey Films in 1991, [[:Category:Films produced by Danny DeVito|producing films]] like ''[[Hoffa (film)|Hoffa]]'' (1992)'','' ''[[Pulp Fiction]]'' (1994),"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The modern dictionary explicitly supplies Danny→Daniel and Hebrew God is my judge. The actual independently authored DMNES Daniel entry independently gives that Hebrew meaning. Its read citation names R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman, and identifies edition 2023.1; these entry authors are preserved. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+        "note": "Independent peer read all six human Britannica topic paragraphs, printed Fred Frommer writer/Editors checker credit and Article authorship; AI FAQ excluded. Read pinned Wiki full lead, full selected acting paragraph, entire Producing section and EW/The Ringer plus reused Guardian citation definitions. Both works explicitly support the Penguin role in Batman Returns and generic Pulp Fiction production. Underlying EW/Ringer/other news bodies unread and uncounted. Four brief quotes rematched exactly; two canonical authored works, no selected direct Britannica reference or copied phrasing identified; deeper common lineage unaudited. Jersey Films founding-year disagreement remains outside selected fact: Britannica 1992, Wiki 1991, no reconciliation inferred. No founding date, sole/executive producer status, awards, other continuity, private life, open-prose/media licence or participant-test claim. Original concise public professional fact with brief attributed copyrighted quotations."
       },
       "recognitionVerified": true,
       "recognitionReview": {
