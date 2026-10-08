@@ -156,7 +156,10 @@ function curation(value: unknown, identities: ReadonlySet<string>): CurrentCurat
     if (row.factStatus !== 'unverified' && row.factStatus !== 'reviewed') throw new Error('factStatus must be unverified or reviewed');
     const factStatus = row.factStatus;
     if (!Array.isArray(row.factReferences) || row.factReferences.length > 8) throw new Error('factReferences must contain at most eight references');
-    const factReferences = row.factReferences.map(reference);
+    const factReferences: FactReference[] = [];
+    for (let index = 0; index < row.factReferences.length; index += 1) {
+      factReferences.push(reference(row.factReferences[index]));
+    }
     const factReview = review(row.factReview, 'fact review');
     if (fact === null && (factStatus !== 'unverified' || factReferences.length !== 0)) throw new Error('a null fact must be unverified and have no references');
     if (factStatus === 'reviewed') {

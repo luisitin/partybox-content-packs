@@ -13,9 +13,9 @@ const currentPath = join(distDirectory, 'src', 'current.js');
 const currentCliPath = join(distDirectory, 'src', 'current-cli.js');
 const coreTests = join(distDirectory, 'test', 'core.test.js');
 const currentTests = join(distDirectory, 'test', 'current.test.js');
-const expectedFullTests = 43;
+const expectedFullTests = 44;
 const expectedCoreTests = 15;
-const expectedCurrentTests = 10;
+const expectedCurrentTests = 11;
 const timeoutMilliseconds = 90_000;
 const baselineTimeoutMilliseconds = 300_000;
 const sha256 = (bytes) => createHash('sha256').update(bytes).digest('hex');
@@ -126,6 +126,9 @@ const mutations = [
   change('M34', 'Accept current source-derived counts that fail the pinned canonical fingerprint', 'buildCurrent',
     "if (createHash('sha256').update(metricsBytes).digest('hex') !== 'fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2')",
     'if (false)', 'current'),
+  change('M35', 'Credit a missing reference slot as a second author and work', 'curation',
+    'const factReferences = [];\n        for (let index = 0; index < row.factReferences.length; index += 1) {\n            factReferences.push(reference(row.factReferences[index]));\n        }',
+    'const factReferences = row.factReferences.map(reference);', 'current'),
 ];
 
 function completedCounts(output, paths) {
@@ -192,8 +195,8 @@ function reportDestination() {
 
 function main() {
   const reportPath = reportDestination();
-  assert.equal(mutations.length, 34, 'Exactly 25 historical and nine current semantic mutants are required');
-  assert.equal(new Set(mutations.map((mutation) => mutation.id)).size, 34, 'Mutation identifiers must be distinct');
+  assert.equal(mutations.length, 35, 'Exactly 25 historical and ten current semantic mutants are required');
+  assert.equal(new Set(mutations.map((mutation) => mutation.id)).size, 35, 'Mutation identifiers must be distinct');
   const targets = {
     core: { path: corePath, tests: coreTests, suite: 'core', expectedTests: expectedCoreTests },
     cli: { path: cliPath, tests: coreTests, suite: 'core', expectedTests: expectedCoreTests },
@@ -202,8 +205,8 @@ function main() {
   };
   assert.equal(mutations.filter(mutation => targets[mutation.target]?.suite === 'core').length, 25,
     'All 25 historical mutants must retain their historical test suite');
-  assert.equal(mutations.filter(mutation => targets[mutation.target]?.suite === 'current').length, 9,
-    'All nine current mutants must use their current test suite');
+  assert.equal(mutations.filter(mutation => targets[mutation.target]?.suite === 'current').length, 10,
+    'All ten current mutants must use their current test suite');
   const snapshot = new Map(allFiles(distDirectory).map((path) => [path, readFileSync(path)]));
   assert([corePath, cliPath, currentPath, currentCliPath, coreTests, currentTests].every(path => snapshot.has(path)),
     'Run npm run build before the mutation runner');
@@ -215,13 +218,13 @@ function main() {
   try {
     evidence.baseline = runSuite(allTests, baselineTimeoutMilliseconds);
     assert.equal(evidence.baseline.fail, 0, `Unmodified full baseline failed\n${evidence.baseline.output}`);
-    assert.equal(evidence.baseline.tests, expectedFullTests, 'All 43 full baseline tests must execute');
+    assert.equal(evidence.baseline.tests, expectedFullTests, 'All 44 full baseline tests must execute');
     evidence.coreBaseline = runSuite([coreTests]);
     assert.equal(evidence.coreBaseline.fail, 0, `Unmodified core baseline failed\n${evidence.coreBaseline.output}`);
     assert.equal(evidence.coreBaseline.tests, expectedCoreTests, 'All 15 historical core baseline tests must execute');
     evidence.currentBaseline = runSuite([currentTests]);
     assert.equal(evidence.currentBaseline.fail, 0, `Unmodified current baseline failed\n${evidence.currentBaseline.output}`);
-    assert.equal(evidence.currentBaseline.tests, expectedCurrentTests, 'All ten current baseline tests must execute');
+    assert.equal(evidence.currentBaseline.tests, expectedCurrentTests, 'All eleven current baseline tests must execute');
     console.log(`Baseline: ${evidence.baseline.pass}/${evidence.baseline.tests} full tests; ${evidence.coreBaseline.pass}/${evidence.coreBaseline.tests} historical core tests; ${evidence.currentBaseline.pass}/${evidence.currentBaseline.tests} current tests passed.`);
     for (const mutation of mutations) {
       const target = targets[mutation.target];
@@ -256,7 +259,7 @@ function main() {
     }
     assert(evidence.mutations.every((record) => record.status !== 'invalid'), 'An invalid or incomplete run cannot count toward the mutation target');
     assert(evidence.historicalCaught >= 24, `Only ${evidence.historicalCaught}/25 historical semantic mutants were caught; at least 24 are required`);
-    assert.equal(evidence.currentCaught, 9, `Only ${evidence.currentCaught}/9 critical current semantic mutants were caught; all nine are required`);
+    assert.equal(evidence.currentCaught, 10, `Only ${evidence.currentCaught}/10 critical current semantic mutants were caught; all ten are required`);
   } catch (error) {
     failure = error;
     evidence.error = error.stack ?? String(error);
@@ -275,7 +278,7 @@ function main() {
     if (reportPath) writeFileSync(reportPath, `${JSON.stringify(evidence, null, 2)}\n`);
   }
   if (failure) throw failure;
-  console.log(`Mutation result: ${evidence.caught}/34 caught (${evidence.historicalCaught}/25 historical; ${evidence.currentCaught}/9 current); compiled bytes and SHA256 hashes restored.`);
+  console.log(`Mutation result: ${evidence.caught}/35 caught (${evidence.historicalCaught}/25 historical; ${evidence.currentCaught}/10 current); compiled bytes and SHA256 hashes restored.`);
 }
 
 try {

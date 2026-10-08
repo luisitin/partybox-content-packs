@@ -8,6 +8,8 @@ import test from 'node:test';
 import { Ajv } from 'ajv';
 import { aggregateObservedPrimary, aggregateObservedReference, buildCurrent, parseCurrentFixture, serialiseCurrent, type CurrentCuration, type FactReference } from '../src/current.js';
 import type { AnnualCount } from '../src/core.js';
+import { buildReviewedCandidates } from '../src/reviewed-cli.js';
+import { buildComplete } from '../src/complete-cli.js';
 
 const ROOT = process.cwd();
 const SOURCE_PATH = join(ROOT, 'fixtures/current-source.json');
@@ -235,6 +237,35 @@ test('explicit editorial evidence is carried without inferring verification or f
   assert.equal(parseCurrentFixture(withCuration(unicode)).curation[0]!.fact, unicode.fact);
   const duplicate = { ...FIXTURE, curation: [proposed(), proposed()] };
   assert.throws(() => parseCurrentFixture(duplicate), /duplicate curation/);
+});
+
+test('public builders reject missing reference slots before accepting reviewed evidence', () => {
+  const editorial = JSON.parse(readFileSync(join(ROOT, 'fixtures/curation.json'), 'utf8')) as CurrentCuration[];
+  const builders = {
+    parseCurrentFixture: (items: CurrentCuration[]) => parseCurrentFixture({ ...FIXTURE, curation: items }),
+    buildCurrent: (items: CurrentCuration[]) => buildCurrent({ ...FIXTURE, curation: items }),
+    buildReviewedCandidates: (items: CurrentCuration[]) => buildReviewedCandidates(FIXTURE, items),
+    buildComplete: (items: CurrentCuration[]) => buildComplete(FIXTURE, items),
+  };
+  const first = refs()[0]!;
+  const missingLast = new Array<FactReference>(2); missingLast[0] = first;
+  const missingFirst = new Array<FactReference>(2); missingFirst[1] = first;
+  const missingMiddle = new Array<FactReference>(3); missingMiddle[0] = first; missingMiddle[2] = refs()[1]!;
+  const padded = refs(); padded.length = 8;
+  for (const references of [missingLast, missingFirst, missingMiddle, padded, new Array<FactReference>(2)]) {
+    const changed = clone(editorial);
+    changed[0]!.factReferences = references;
+    const before = clone(changed);
+    for (const [label, build] of Object.entries(builders)) {
+      assert.throws(() => build(changed), `${label} accepted a missing reference slot`);
+      assert.deepEqual(changed, before, `${label} changed its rejected input`);
+    }
+  }
+  const dense = clone(editorial); dense[0]!.factReferences = refs();
+  const before = clone(dense);
+  for (const build of Object.values(builders)) assert.doesNotThrow(() => build(dense));
+  assert.deepEqual(dense, before);
+  assert.equal(buildComplete(FIXTURE, dense).complete, true);
 });
 
 test('strict current schemas validate source and pack and reject inconsistent coverage and review gates', () => {
