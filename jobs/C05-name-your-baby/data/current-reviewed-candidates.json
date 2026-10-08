@@ -26359,29 +26359,37 @@
         }
       ],
       "id": "ssa:M:Cody",
-      "fact": "Cody was Buffalo Bill's surname.",
+      "fact": "Cody got the name \"Buffalo Bill\" while supplying bison meat to railroad crews.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Cody (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "A famous bearer of the surname was the American frontiersman and showman Buffalo Bill Cody (1846-1917)."
+          "url": "https://en.wikipedia.org/w/index.php?title=Buffalo_Bill&oldid=1376840231",
+          "publisher": "Wikipedia; Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Buffalo Bill, revision1376840231: Nickname",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "Cody received the nickname \"Buffalo Bill\" after the American Civil War, when he had a contract to supply [[Kansas Pacific Railroad]] workers with [[American bison|buffalo]] (American bison) meat."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Buffalo+Bill&oldid=1376840231",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Buffalo Bill",
-          "workId": "wikipedia:Buffalo_Bill",
-          "quote": "'''William Frederick Cody''' (February 26, 1846{{snd}}January 10, 1917), better known as '''Buffalo Bill'''"
+          "url": "https://raw.githubusercontent.com/GITenberg/Buffalo-Bill-from-Prairie-to-Palace-An-Authentic-History-Of-The-Wild-West_49204/a5232b23e4ea6d20174ea85d39421599999d65b5/49204-0.txt",
+          "publisher": "Rand, McNally & Company; Project Gutenberg, mirrored by GITenberg",
+          "author": "John M. Burke (compiler)",
+          "title": "Buffalo Bill from Prairie to Palace: An Authentic History of the Wild West (1893), ch.XVII",
+          "workId": "burke:buffalo-bill-prairie-to-palace:1893",
+          "quote": "contract to supply all the meat required. […] the men connected with the Kansas Pacific road gave him the appellation by which he is still known throughout the world, “Buffalo Bill.”"
+        },
+        {
+          "url": "https://www.britannica.com/animal/bison",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Bison | Size, Population, Diet, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "The American bison (B. bison), commonly known as the buffalo or the plains buffalo […] William F. Cody (“Buffalo Bill”) […] while supplying buffalo meat for railroad construction crews."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_literary_gap_facts",
-        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Only namesake surname relation, not name popularity or a disputed heroic characterization, is asserted."
+        "reviewer": "/root/c05_reconnected_source_review",
+        "note": "Independently read Wiki lead/Nickname/cites/rights; Burke1893 full ch.XVII/title/authority/preface/metadata/PG terms; 8 human BRT biography paragraphs, summary and 8 bison paragraphs/credits/history. Wiki+Burke put receipt of Buffalo Bill during the meat contract; Wiki+BRT identify American bison and rail crews. Later Comstock contest retained; no sole cause, original coining, exclusive title or date. Company/count/duration/scores disagree and are unselected. Wiki contract cites Crossen1968, underlying unread; count/contest refs unread/count0. Burke authorized by Cody, credits Dodge/Historical Publishing; deeper common lineage unproved. EB1911 external poster is no selected import proof. Three groups, two per clause; BRT pages one. Burke/BRT use explicit ellipses:30/27 quoted words. USA-PD/full PG regional/trademark terms; BRT copyright/blocked terms no grant; Wiki BY-SA4.0 credit retained. Peer read all 500: nickname/work gain over valid identity hook, not measured."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -50103,37 +50111,37 @@
         }
       ],
       "id": "ssa:F:Kelsey",
-      "fact": "Kelsey appears in village names in Lincolnshire, England.",
+      "fact": "Kelsey may come from an English surname based on Lincolnshire place names.",
       "factStatus": "reviewed",
       "factReferences": [
         {
           "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kelsey (pinned dictionary entry)",
+          "publisher": "Behind the Name, delivered by GitHub archive",
+          "author": "Behind the Name; individual entry writer unverified",
+          "title": "Behind the Name: Kelsey, complete retained description /names/first/Kelsey/0/descr",
           "workId": "behind-the-name:dictionary",
           "quote": "From an English surname that is derived from town names in Lincolnshire."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=South+Kelsey&oldid=1190605769",
+          "url": "https://en.wikipedia.org/w/index.php?title=Kelsey_(surname)&oldid=1358062858",
           "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
-          "title": "South Kelsey (revision 1190605769)",
-          "workId": "wikipedia:South_Kelsey",
-          "quote": "'''South Kelsey''' is a village and [[civil parish]] in the [[West Lindsey]] district of [[Lincolnshire]], England."
+          "title": "Kelsey (surname), complete lead and references, revision 1358062858",
+          "workId": "wikipedia:collective-encyclopedia",
+          "quote": "In modern times Kelsey has also become a given name for boys and girls in English-speaking countries."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=North+Kelsey&oldid=1259834111",
+          "url": "https://en.wikipedia.org/w/index.php?title=Kelsey_(surname)&oldid=1358062858",
           "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
-          "title": "North Kelsey (revision 1259834111)",
-          "workId": "wikipedia:North_Kelsey",
-          "quote": "'''North Kelsey''' is a village and [[Civil parishes in England|civil parish]] in the [[West Lindsey]] district of [[Lincolnshire]], England."
+          "title": "Kelsey (surname), full alternative-origin lead, revision 1358062858",
+          "workId": "wikipedia:collective-encyclopedia",
+          "quote": "It may come from an Old English place name in [[Lincolnshire]]"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
-        "note": "Independent agent review of the complete retained BTN Kelsey description and full North/South Kelsey articles. BTN explicitly identifies town names in Lincolnshire; Wikipedia independently identifies North Kelsey and South Kelsey as villages in Lincolnshire, England. Hashes, dictionary pointer, exact quotes, API revisions/timestamps and parsed article bodies match. Both Wikipedia articles count as one author group; the dictionary is the second work. The player sentence states only name occurrence and geography, with no etymology, exclusive origin, family naming direction or universal bearer ancestry. Cited census/books were not read or counted."
+        "reviewer": "/root/c05_reconnected_source_review/ronnie_materiality",
+        "note": "Independently read complete BTN Kelsey description, pinned scraper/tree provenance, full Wiki surname1358062858, actual API/raw/pinned HTML/rights, plus excluded full given1371420885 and Wikt92736661 contexts. BTN gives surname to Lincolnshire towns; Wiki's English surname 'has also become a given name', then 'may come' from a Lincolnshire place name, supports this qualified route in context. May preserves Irish/Scots/Norwegian alternatives. Wiki lead unfootnoted; infobox Mills/Wells books unread/count0. No direct BTN label in surname; deeper cross-page/upstream lineage unknown. Given-page BTN island clause excluded; Wikt bridge-only/no geography, count0. Two presented authored works accepted narrowly; no gloss, sole origin, all-bearer ancestry or first-use claim. All500 current facts read: modest route gain, no other Lincolnshire fact. Wiki CC BY-SA4.0 footer/API read; BTN prose license unestablished, brief attributed quote and original paraphrase only."
       },
       "recognitionVerified": true,
       "recognitionReview": {
