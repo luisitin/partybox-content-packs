@@ -15705,29 +15705,37 @@
   },
   {
     "id": "ssa:F:Natasha",
-    "fact": "Tolstoy used Natasha for a character in War and Peace.",
+    "fact": "In War and Peace, Natasha marries Pierre Bezukhov.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Natasha (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "This is the name of a character in Leo Tolstoy's novel War and Peace (1865)."
+        "url": "https://en.wikipedia.org/w/index.php?title=Natasha_Rostova&oldid=1365867946",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Natasha Rostova, revision 1365867946: Biography, final paragraph",
+        "workId": "wikipedia:Natasha Rostova:1365867946",
+        "quote": "Natasha and Pierre fall in love. Eventually, they marry and have four children."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/War-and-Peace_2600/fa22ab90f00f627e83d14acabe32d91602d2365d/2600-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Leo Tolstoy; English translation by Louise and Aylmer Maude",
-        "title": "War and Peace",
-        "workId": "primary:gitenberg/war-and-peace_2600",
-        "quote": "“Do you see?... My doll... Mimi... You see...” was all Natásha managed to utter"
+        "url": "https://www.britannica.com/topic/War-and-Peace",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Kate Lohnes; edited and fact-checked by The Editors of Encyclopaedia Britannica",
+        "title": "War and Peace: human Summary, final paragraph (updated 16 September 2026)",
+        "workId": "britannica:encyclopedia",
+        "quote": "After recovering, he marries Natasha, and they have four children together."
+      },
+      {
+        "url": "https://www.britannica.com/topic/War-and-Peace",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Kate Lohnes; edited and fact-checked by The Editors of Encyclopaedia Britannica",
+        "title": "War and Peace: human Summary, first paragraph (updated 16 September 2026)",
+        "workId": "britannica:encyclopedia",
+        "quote": "Most of the characters are introduced at a party, including Pierre Bezukhov, Andrey Bolkonsky, and the Kuragin and Rostov families."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_literary_gap_facts",
-      "note": "Actual retained Behind the Name description and independently authored primary literary text were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Primary source spells Natasha with an acute stress mark (Natásha). Fact omits the conflicting/ambiguous 1865 book-date detail and makes no publication-year claim. Quotation preserves original curly punctuation and acute stress mark; only whitespace is collapsed."
+      "reviewer": "/root/c05_reconnected_source_review",
+      "note": "Independent agent read complete Natasha raw/rendered article, biography/references/rights;12 Britannica topic paragraphs including pointers/quizzes, Kate Lohnes/Editors credits, Article JSONLD, profile/history/copyright. Three quotes match actual contexts; Wiki revision1365867946/API/HTML identity verified. Both works support fictional marriage; Britannica he is Pierre, full Bezukhov name in opening Summary. Shared Natasha selected; Rostov/Rostova variants retained. Marriage clauses unfootnoted; two attributed retellings, deeper lineage unproved. Original novel, performances and linked bodies unread/count0; Wiki pages count once. AI FAQ excluded. Brief credited copyrighted Britannica quotes total31words; corporate terms403/no body, guessed legal404 grant no permission. Wiki BY-SA4.0 rights retained. No children/date/name-origin/usage-cause/all-bearer claim. Modest editorial gain adds relationship to identity-only fact; no player study."
     },
     "recognitionVerified": true,
     "recognitionReview": {
