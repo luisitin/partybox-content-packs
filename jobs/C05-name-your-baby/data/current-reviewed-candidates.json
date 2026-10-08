@@ -26975,29 +26975,69 @@
         }
       ],
       "id": "ssa:M:Jimmy",
-      "fact": "Actor James Stewart was also known as Jimmy.",
+      "fact": "Actor Jimmy Stewart flew bomber missions in World War II.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Jimmy (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "This was the usual name of American actor James Stewart (1908-1997)."
+          "url": "https://www.britannica.com/biography/James-Stewart",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "James Stewart | Biography, Movies, Plays, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "was a major American motion-picture star"
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=James+Stewart&oldid=1378188306",
+          "url": "https://www.britannica.com/biography/James-Stewart",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "James Stewart | Biography, Movies, Plays, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "An avid pilot in civilian life, he was assigned to the Air Corps and logged more than 1,800 hours of flight time in some 20 bomber missions."
+        },
+        {
+          "url": "https://www.britannica.com/biography/James-Stewart",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "James Stewart | Biography, Movies, Plays, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Before he returned to civilian life in 1945, he had risen to the rank of colonel"
+        },
+        {
+          "url": "https://www.britannica.com/biography/James-Stewart",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Britannica Editors",
+          "title": "James Stewart | Biography, Movies, Plays, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "Jimmy Stewart"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=James_Stewart&oldid=1378188306",
           "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
-          "title": "James Stewart",
-          "workId": "wikipedia:James_Stewart",
-          "quote": "| name = Jimmy Stewart"
+          "title": "James Stewart, revision 1378188306",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "| name               = Jimmy Stewart"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=James_Stewart&oldid=1378188306",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "James Stewart, revision 1378188306",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "was an American actor and military aviator."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=James_Stewart&oldid=1378188306",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "James Stewart, revision 1378188306",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "as a bomber pilot flying the [[B-24 Liberator]]. After seeing action in Europe during World War II, he attained the rank of colonel and received several awards for his service."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_literary_gap_facts",
-        "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Same actual article infobox gives birth_name James Maitland Stewart and main prose identifies actor. This is a nickname relation; awards/military claims not added."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all nine human topic slots (eight prose plus Hitchcock cross-link), actual Byname: Jimmy Stewart and Editors metadata; Wiki1378188306 complete lead, both military-service sections and Starr Smith bibliography. Both support actor Jimmy/James and bomber-mission flying in WWII. Flew missions avoids stronger explicit bomber-pilot-role inference from human paragraph alone; its war-in-Europe1941–45 context supplies period, Wiki explicitly WWII. Human byname is ordinary QuickFacts, not TV-title or AI inference. Wiki separate pilot paragraph unfootnoted; full service section cites unread Smith2005/USAF museum. No bodies counted; no Britannica strings, deeper lineage unresolved. Dates/firstness/mission totals/aircraft/ranks/medals/major-general story omitted. Seven exact brief quotes, two canonical groups, prior actual CC-BY-SA4.0 rights audit and copyrighted human limits; no films/military documents/assets/human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -42103,29 +42143,37 @@
         }
       ],
       "id": "ssa:M:Charlie",
-      "fact": "Charlie is a familiar form of Charles.",
+      "fact": "Charlie Chaplin composed music for City Lights.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Charlie (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive or feminine form of Charles."
+          "url": "https://www.britannica.com/biography/Charlie-Chaplin/The-sound-era-City-Lights-to-Limelight",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Michael Barson",
+          "title": "Charlie Chaplin | Biography, Movies, The Kid, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "he released his 1931 feature City Lights as a silent"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "│ English. │ Keltic. │ French. │Span. and Port.│ │Charles │ GAEL. │Charles │Carlos │ │Charlie │Tearlach │Charlot │ German. │ │ │ ERSE. │ │Karl │"
+          "url": "https://www.britannica.com/biography/Charlie-Chaplin/The-sound-era-City-Lights-to-Limelight",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Michael Barson",
+          "title": "Charlie Chaplin | Biography, Movies, The Kid, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "was composed by Chaplin"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Charlie_Chaplin&oldid=1378466805",
+          "publisher": "Wikipedia, The Free Encyclopedia",
+          "author": "Wikipedia contributors",
+          "title": "Charlie Chaplin, revision 1378466805",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "With the advent of sound technology, Chaplin began using a synchronised orchestral soundtrack{{snd}}composed by himself{{snd}}for ''City Lights'' (1931)."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_quality_review/alicia_pair_review",
+        "note": "Read Michael Barson’s human Britannica main/continuation paragraphs, printed byline and metadata, plus pinned Wiki lead, full City Lights/Composing sections and citation definitions. Both credit Chaplin with music for City Lights. Wiki explains professional collaboration and recording directors; composed music asserts a contribution, not sole notation, orchestration, performance or conducting. Selected Wiki music cites Chaplin’s autobiography/CharlieChaplin.com and Vance’s introduction to Eric James’s book; their bodies were unread and uncounted. Different Lee Pfeiffer Britannica film entries are cited for awards elsewhere; no broad article or deeper lineage independence claim. Two authored treatments count once each. Brief contiguous quotes and retained CC BY-SA revision attribution, no media. This specific film-music hook adds editorial value over familiar Charlie/Charles; no audience survey or human playtest."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -51335,29 +51383,61 @@
         }
       ],
       "id": "ssa:M:Chris",
-      "fact": "Chris can be a short form of Christopher.",
+      "fact": "Astronaut Chris Hadfield performed Bowie's 'Space Oddity' on the space station.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Chris (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Short form of Christopher, Christian, Christine and other names that begin with Chris."
+          "url": "https://www.britannica.com/biography/Chris-Hadfield",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Joan Hibler",
+          "title": "Chris Hadfield | Biography, Spaceflights, Social Media, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "is a Canadian astronaut"
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
-          "workId": "yonge:history-of-christian-names:1884",
-          "quote": "earthquake, fire, or flood, for the rest of the day, and it was therefore carved out and painted in huge proportions outside churches and houses, especially in Italy, Spain, and Germany. The cumbrous length is cut down in England into Kit, Kester, and Chris. The modern Greeks shorten Christophoros into Christachi. The two feminine are the German Christophine and English Christophera."
+          "url": "https://www.britannica.com/biography/Chris-Hadfield",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Joan Hibler",
+          "title": "Chris Hadfield | Biography, Spaceflights, Social Media, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "In 2012–13 Hadfield returned to the ISS on the Russian Soyuz TMA-07M for a five-month-long stay."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Chris-Hadfield",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Joan Hibler",
+          "title": "Chris Hadfield | Biography, Spaceflights, Social Media, & Facts",
+          "workId": "britannica:encyclopedia",
+          "quote": "he recorded himself singing and playing guitar to David Bowie’s song “Space Oddity.”"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Chris_Hadfield&oldid=1378497382",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Chris Hadfield, revision 1378497382",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "'''Chris Austin Hadfield''' (born August 29, 1959) is a retired [[Royal Canadian Air Force]] [[Colonel (Canada)|colonel]], [[test pilot]], and [[CSA astronaut]]."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Chris_Hadfield&oldid=1378497382",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Chris Hadfield, revision 1378497382",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "He received significant media exposure during his time on the ISS, and ended his time on the station by paying tribute to [[David Bowie]] with a rendition of \"[[Space Oddity]]\"."
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Chris_Hadfield&oldid=1378497382",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Chris Hadfield, revision 1378497382",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "On May 12, 2013, after handing over command of the ISS, but before returning home, Hadfield released a music video recorded on the ISS of a modified rendition of \"[[Space Oddity]]\" by [[David Bowie]]."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Other Chris parent names are explicitly retained as possible alternatives; no exclusive derivation claimed."
+        "reviewer": "/root/c05_quality_review",
+        "note": "Read all eight human Britannica paragraphs, Joan Hibler byline/Article metadata (Editors fact-check), Wiki1378497382 complete lead, ISS/Music sections and book citation definitions. Both support a Space Oddity performance aboard the ISS; performed matches Wiki rendition/performance, without inferring explicit singing solely from an unread Forbes headline. Corrected one quote: actual joined HTML text is David Bowie’s, not inserted Bowie ’s. Station context cites Alex Knapp/Forbes; Music cites Hadfield video/autobiography. Bodies/media unread/uncounted; whole Wiki no Britannica strings, deeper lineage unresolved. No firstness/date/views, every backing-track origin, original lyrics, solo composition or rights-permission assertion. Six brief exact quotes, two canonical authored groups; copyrighted human evidence and prior actual CC-BY-SA4.0 revision/rights audit, no fresh footer/media/human checks."
       },
       "recognitionVerified": true,
       "recognitionReview": {
