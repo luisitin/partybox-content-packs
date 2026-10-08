@@ -1681,29 +1681,45 @@
   },
   {
     "id": "ssa:F:Virginia",
-    "fact": "Virginia was also the name of a woman in an ancient Roman legend.",
+    "fact": "In Roman legend, Virginia's fate helped bring down Rome's ruling board of ten.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Virginia (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "According to a legend, it was the name of a Roman woman"
+        "author": "Charlotte Mary Yonge",
+        "publisher": "Estes & Lauriat, Boston; digital text retained by Project Gutenberg/GITenberg",
+        "title": "Young Folks' History of Rome (1880), Chapter X: The Decemvirs",
+        "url": "https://raw.githubusercontent.com/GITenberg/Young-Folks-History-of-Rome_16667/d147729335eb304ad707e7f52440a8ed4494b7be/16667.txt",
+        "workId": "yonge:young-folks-history-of-rome:1880",
+        "quote": "but ten governors"
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Verginia&oldid=1368376827",
-        "publisher": "Wikipedia",
+        "author": "Charlotte Mary Yonge",
+        "publisher": "Estes & Lauriat, Boston; digital text retained by Project Gutenberg/GITenberg",
+        "title": "Young Folks' History of Rome (1880), Chapter X: The Decemvirs",
+        "url": "https://raw.githubusercontent.com/GITenberg/Young-Folks-History-of-Rome_16667/d147729335eb304ad707e7f52440a8ed4494b7be/16667.txt",
+        "workId": "yonge:young-folks-history-of-rome:1880",
+        "quote": "the nine comparatively innocent Decemvirs were allowed to depose themselves"
+      },
+      {
         "author": "Wikipedia contributors",
-        "title": "Verginia",
-        "workId": "wikipedia:Verginia",
-        "quote": "'''Verginia''', or '''Virginia''' […] was the subject of an [[ancient Rome|ancient Roman]] story recounted"
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "Verginia (revision1368376827)",
+        "url": "https://en.wikipedia.org/w/index.php?title=Verginia&oldid=1368376827",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "This controversy led to the overthrow of the [[decemviri]]"
+      },
+      {
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "Decemviri (revision1342153226)",
+        "url": "https://en.wikipedia.org/w/index.php?title=Decemviri&oldid=1342153226",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "refer to official ten-man commissions"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_literary_gap_facts",
-      "note": "Actual retained Behind the Name description and independently authored pinned article on the bearer or fictional work were read and their narrow support compared. No claim about name popularity, etymological certainty, birth totals or measured recognition. Agent editorial review only; accepted into this candidate subset from the recorded source-pair evidence. Article independently identifies the ancient Roman story recounted by Livy, with live citation context to Livy3.44–58 and Smith classical biography. Those underlying works were not directly read here. Fact omits violent events, exact dates and the disputed truth of the legend; it never asserts historical existence."
+      "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+      "note": "Independently read Yonge's full Chapter X, title/preface/1880 credits, USA metadata and pinned identity. Read entire Wiki Verginia1368376827 with Livy/Smith/McClure definitions and full Decemviri1342153226 lead; API identities verified. Virginia spelling is explicit in both accounts. They link her fate/controversy to ending ten governors' rule; legend preserves uncertain historicity, helped preserves earlier abuses and multiple triggers. Two authored retellings, not event witnesses. Wiki attaches an illustration from the same Yonge book outside selected textual citations; direct prose dependence and deeper common lineage unproved. Livy/Smith/McClure bodies and book remainder unread/count0. Four literal brief refs/two works; attributed Yonge USA-PD and Wiki CC-BY-SA notices retained, worldwide book status unverified. Political consequence adds material context to valid legend occurrence. No violent detail, dates, etymology, bearer traits, player-testing or convergence claim. Accepted."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -1777,29 +1793,77 @@
   },
   {
     "id": "ssa:M:Dennis",
-    "fact": "Dennis traces to the Greek name Dionysios.",
+    "fact": "Dennis can trace to Dionysus, the god of wine in Greek mythology.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
         "author": "Behind the Name",
-        "title": "Behind the Name: Dennis (pinned 2021 dictionary distribution)",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name: Dennis (pinned dictionary)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
         "workId": "behind-the-name:dictionary",
-        "quote": "form of Denis. […] forms of Dionysius. […] Latin form of Dionysios. […] Greek personal name"
+        "quote": "form of Denis."
       },
       {
-        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Dennis",
-        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
-        "author": "A. Brown, G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman",
-        "title": "The Dictionary of Medieval Names from European Sources: Dennis, edition 2023.1",
-        "workId": "dmnes:dictionary:2023.1",
-        "quote": "from Greek Διόνυσιος"
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name: Denis (pinned dictionary)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary",
+        "quote": "From Denys or Denis, the medieval French forms of Dionysius."
+      },
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name: Dionysius (pinned dictionary)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Latin form of Dionysios."
+      },
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name: Dionysios (pinned dictionary)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Greek personal name derived from the name of the Greek god Dionysos."
+      },
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name: Dionysos (pinned dictionary)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary",
+        "quote": "In Greek mythology Dionysos was the god of wine"
+      },
+      {
+        "author": "Behind the Name",
+        "publisher": "Behind the Name",
+        "title": "Behind the Name: Dionysus (pinned dictionary)",
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Latin form of Dionysos."
+      },
+      {
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "Dennis (revision1378723016)",
+        "url": "https://en.wikipedia.org/w/index.php?title=Dennis&oldid=1378723016",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The name came from [[Dionysus]]"
+      },
+      {
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia; Wikimedia Foundation",
+        "title": "Dennis (revision1378723016)",
+        "url": "https://en.wikipedia.org/w/index.php?title=Dennis&oldid=1378723016",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "the [[Thracian]] god of wine"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "/root/c05_resumed_source_review",
+      "note": "Independent read of full retained BTN Dennis/Denis/Dionysius/Dionysios/Dionysos/Dionysus descriptions and scraper; Denis ends [more], continuation unread. Read pinned Wiki1378723016 complete infobox/lead and matched raw text to API identity. Both authored works link Dennis to the Dionysus wine figure; selected Wiki paragraphs have no refs, so no underlying authority counted. Eight literal excerpts make the BTN chain portable; all headwords/mirrors count once. Can preserves the separate Irish Donnchadh→Denis route. Greek mythology and Wiki's Thracian label do not establish exclusive birthplace or bearer ancestry. No direct BTN label found in retained Wiki; deeper lineage unknown. Corporate BTN author, no individual byline inferred. Brief attributed BTN excerpts; actual separate Wiki rightsinfo says CC-BY-SA4.0, absent from the Dennis batch. Added concrete wine referent is an editorial gain over valid Dionysios-only fact, not a player study. No popularity, saint or deep Dios/Nysa claim."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -13401,37 +13465,45 @@
   },
   {
     "id": "ssa:F:Marissa",
-    "fact": "Marissa is also a place name in Illinois.",
+    "fact": "Marissa is a form of Marisa, a name that can combine Maria and Luisa.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://download.geonames.org/export/dump/cities500.zip",
-        "publisher": "GeoNames",
-        "author": "GeoNames",
-        "title": "GeoNames cities500 export, retrieved 2026-10-07, record4243918",
-        "workId": "geonames:geographical-database",
-        "quote": "4243918 Marissa Marissa Marissa,Марисса 38.25005 -89.7501 P PPL US IL 163 46968 1856 138 140 America/Chicago 2026-09-17"
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Marissa (pinned2021 retained exact-name description)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Variant of Marisa."
       },
       {
-        "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-        "publisher": "GeoNames",
-        "author": "GeoNames",
-        "title": "GeoNames administrative-code names, US.IL",
-        "workId": "geonames:geographical-database",
-        "quote": "US.IL Illinois Illinois 4896861"
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Marisa (pinned2021 retained exact-name description)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Italian, Spanish and Portuguese combination of Maria and Luisa."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Marissa,_Illinois&oldid=1374538526",
-        "publisher": "Wikipedia",
+        "url": "https://babynames.com/name/marissa",
+        "publisher": "BabyNames.com, Moss Gathering LLC",
+        "author": "Jennifer Moss",
+        "title": "Marissa: Name Meaning, Popularity and Info on BabyNames.com",
+        "workId": "babynames.com:name-dictionary",
+        "quote": "Form of Marisa"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Marisa_(given_name)&oldid=1377605029",
+        "publisher": "Wikipedia, The Free Encyclopedia",
         "author": "Wikipedia contributors",
-        "title": "Marissa, Illinois, revision 1374538526",
-        "workId": "wikipedia:Marissa,_Illinois",
-        "quote": "'''Marissa''' is a village in [[St. Clair County, Illinois|St. Clair County]], [[Illinois]], United States."
+        "title": "Marisa (given name), revision1377605029",
+        "workId": "wikipedia:encyclopedia",
+        "quote": "The name is also a Spanish, Portuguese or Italian contracted familiar nickname for Maria Isabel (Mary Elizabeth) or Maria Luisa (Mary Louise, 'Mary-Lou')."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_quality_review",
-      "note": "Independent agent reread of exact GeoNames record4243918 and US.IL administrative mapping, with actual ZIP/full-member SHA256, complete CRC check and all236003 nineteen-field rows verified; full pinned Marissa Illinois article/revision identity also read. GeoNames identifies the exact spelling in Illinois and Wikipedia independently calls it an Illinois village. Record/map count one authored work. Reference tabs are collapsed to spaces only; raw field-delimited records remain in peer evidence. The fact states place-name existence, without population, dates, village classification inferred from PPL, naming origin or ancestry. Wiki lead is unfootnoted for the existence clause, with separate GNIS/Census context; no GeoNames dependency identified, deeper government lineage unaudited. GeoNames CC-BY4.0 and Wiki CC-BY-SA4.0 retained; original fact and brief evidence only. Agent review only."
+      "reviewer": "/root/c05_resumed_source_review/gertrude_pair_acceptance",
+      "note": "Actual BTN Marissa/Marisa entries, Moss human definitions/Article metadata and Wiki Marisa lead/citation read; API revision1377605029 verified. Marissa→Marisa has BTN+Moss; possible Maria/Luisa compound has BTN+Wiki. Moss Marisa gives Maria/sea-bitter, not compound support. Wiki also offers Maria Isabel; compound is unfootnoted. Adjacent sea wording cites archived/usurped20knames; its body is unread/count0. No direct selected BTN/Moss dependency found; deeper lineage unproved. 'Can' preserves alternate routes; no certain Mary gloss, Latin maris equivalence or ancestry. Jennifer Moss is credited by Article metadata; no printed byline invented. Three canonical works; pages/mirrors add none. Three-word Moss quote requires visible exact title, BabyNames.com and clickable original URL under the read50-word policy; attribution retained. Copyright/robots read; no commercial database/art licence. Brief attributed copyrighted/CC BY-SA excerpts; bounded editorial gain, not study/jobtests."
     },
     "recognitionVerified": true,
     "recognitionReview": {
@@ -16368,36 +16440,44 @@
     }
   },
   {
-    "fact": "Giovanni traces through the Greek name Ioannes.",
+    "fact": "Giovanni is the Italian counterpart of John.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "given name]] (from [[Latin|Greek]] ''Ioannes'')",
-        "title": "Giovanni (name)",
-        "url": "https://en.wikipedia.org/w/index.php?title=Giovanni+%28name%29&oldid=1379042424",
-        "workId": "wikipedia:Giovanni (name):1379042424"
+        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: Giovanni (pinned2021 retained dictionary description)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Italian form of Iohannes (see John)."
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Italian form of Iohannes (see John).",
-        "title": "Behind the Name first-name dictionary: Giovanni",
         "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "publisher": "Behind the Name",
+        "author": "Behind the Name",
+        "title": "Behind the Name: John (pinned2021 retained dictionary description)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "English form of Iohannes, the Latin form of the Greek name Ἰωάννης (Ioannes)"
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "English form of Iohannes, the Latin form of the Greek name Ἰωάννης (Ioannes)",
-        "title": "Behind the Name first-name dictionary: John",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+        "publisher": "Macmillan and Co., London; public-domain digital delivery by Project Gutenberg / GITenberg",
+        "author": "Charlotte Mary Yonge",
+        "title": "History of Christian Names, revised edition1884, SectionV and full language table",
+        "workId": "yonge:history-of-christian-names:1884",
+        "quote": "Thus the festivals were so numerous that children had an extra chance of the name, which the Italians called Giovanni, or for short, Vanni; and the French, Jehan."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
+        "publisher": "Macmillan and Co., London; public-domain digital delivery by Project Gutenberg / GITenberg",
+        "author": "Charlotte Mary Yonge",
+        "title": "History of Christian Names, revised edition1884, SectionV and full language table",
+        "workId": "yonge:history-of-christian-names:1884",
+        "quote": "the English begin to Anglicize it in general by contracting the word and writing it John."
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Treccani citation scopes the first sentence tracing Giovanni to Greek Ioannes. Unfootnoted English John equivalence is not selected; BTN John target entry supplies the Iohannes-to-Ioannes chain.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "/root/c05_resumed_source_review/kathryn_pair_review",
+      "note": "Independently read full retained BTN Giovanni, Iohannes and John descriptions and Yonge's entire 1884 Section V (21,543 characters), including the English/Italian table. Both works connect Italian Giovanni and English John within one name family. Pinned scraper/tree verify corporate BTN provenance; Yonge credits and USA copyright scope read. Four literal brief quotes; Yonge normalization changes whitespace only. John [more] continuation, Camden/other underlying books and Yonge remainder unread/count0. Linked BTN heads/mirrors count one work; Yonge one dated author. Deeper shared scholarship unproved. No Hebrew gloss, chronology, frequency, all-bearer route or direct borrowing from English John. Brief credited copyrighted BTN excerpts; Yonge USA-PD, worldwide status unverified; notices retained. Familiar Italian/English equivalence adds concrete learning beyond valid Ioannes ancestry; editorial judgment, not player testing or convergence. Accepted."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Giovanni",
