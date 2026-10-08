@@ -1185,3 +1185,71 @@ Each URL identifies the actually read work and selected identities whose fact su
 - Patricia Bauer, Bobby | Definition, History, Duties, & Facts: https://www.britannica.com/topic/bobby — took fact support for ssa:F:Bobbie.
 - George P. Upton, The Standard Operas, twelfth edition 1897, complete Balfe section, The Bohemian Girl definition; The Standard Operas: Their Plots, Their Music, and Their Composers, twelfth edition1897, Balfe/The Bohemian Girl: https://www.gutenberg.org/cache/epub/14968/pg14968.txt — took fact support for ssa:F:Arlene.
 - Rev. Patrick Woulfe, Irish Names and Surnames: CONCHOBHAR, with complete Explanatory Note: https://www.libraryireland.com/names/men/conchobhar-conor.php — took fact support for ssa:M:Connor.
+
+## Post49 source-review checkpoint 2026-10-08T14:30:02Z
+
+Exact49a07fd0fe/fullCI37788951236 allstepsgreen(rootread14:08:24Z),jobread14:08:29Z. Current500data unchanged. Freshprimary49 Kaylee/Colton/Hayden/Addison/Courtney(full500+10pairs/150cells,originals0); freshcounter Christy/Ricky/Kristin/Courtney/Colton(full500+8pairs/120cells,originals0). Root fullyread primaryreport/scope/lock and28descriptors(22unique,explicitrepo-relative resolution after initial local-path miss);counterfull4acceptancetexts and31bindings. Root personallyread all500 fullfacts14:12:30Z andfivecompleteprojections/all75cells14:19:07Z; ownfiveChristy(worst),Ricky,Kaylee,Kristin,Colton,notblind/consensus/sourceavailabilityranking. Root's actualsource-reading scope separatelybounded.
+
+Ricky exact76 peer+rootaccepted(+22,entireRichard/Dick/Dixonlessonpreserved),not integrated yet. Producer111/overlappingaddendum113/peer154descriptors passed. Positive3workgroups:modernBTN+Moss explicitRicky;oldDick/Dixon BTN+Bardsley. Full bounded originals/actualcredits/rights/knowncatalogue/acknowledgment/deeperunknown reviewed; root complete3modernpages+Bardsley2469wordadjacentwindow+6pinnedhumanrecords,peerentireChapterI/prefaces/foot25–27/fullPGfooter/LICENSE/metadata,ownrecent8rights exact-byte reuse(freshaux0). No wholebooks/currentblockedDixonbody/externalMosspolicy/primaryindependence/audience claim. Actual5briefquotecounts3/4/4/5/14;producerfourBTNprose corrected byNEWaddendum,actual3BTN. Unchanged approvedobjectSHA6eb9e68d77ee799f26d1b0f03540dc19a5a43cab832d8eb225d631af597a9484/note996. Literalquotes/sourceobject/currentfullRickypair/controls pass. This sourcecheckpoint adds no LOOP/playergain/zero.
+
+Christy exact87 producer draft(+29) retainsSaint/Jesus/river/legend,qualifiedForboys/can. NewactualWiktionary18revisionhistory explicitlyauthored2020ChristopherdiminutivewithMathewsonexample; generalWPpointer2025. BTN generalcatalogue positively listsBOTH Wiki/Wiktionary; selected/deeperoriginsuntraced,notimportabsencecertificate. Rootfullproducerdecision/report/scope/audit/materiality/object/guard and174bindingspass; distinctactualsource/materiality peer stillpending. NoChristypromotion/wholejobblock/no-gaininference. Kaylee/Addisonsourceinquiriesongoing;genericorunrelatedbearerswapsnotforced.
+
+Current49boundedtechnicalaudit:72ordinaryJSONAPIcases,40accepted/32rejected,noaccepted schema/metric/input-preservation failure; no new defect. Actualpeer16fullfiles/4113structuredlines+83compiledlines,originals0; probe5822exit0 after AJVsetup-only duplicate-id repair, initial0APIcalls. Rootfullreport/scope/sessionreceipts,35bytebindings/36SHAchecks passed; giantprojection/rawproof hashbound,notrootwhole-read. No pipeline/CI/source/recognition/audience/globalconvergencecertificate or zero round.
+
+Latestfull local45tests/36mutants/12restores/17hashes remains historicalcode48;49local8/17 passed;no rerun/code/data change. A newcheckpointhead needs its ownfullCI before subsequentround delivery;use liveGit/CLAIMS/CI. Claim refreshedwiththispush;noqueueadvance. Accepted/source-readyrecord is portable below, but absenttmp recoveroriginals/rights/currentexacttarget andregate ratherthanpromise restoration.
+
+Portable exact peer-reviewed candidate (unintegrated):
+
+```json
+{
+  "id": "ssa:M:Ricky",
+  "fact": "Ricky and Dick can be short for Richard; Dick lies behind the surname Dixon.",
+  "factStatus": "reviewed",
+  "factReferences": [
+    {
+      "url": "https://www.behindthename.com/name/ricky",
+      "publisher": "Behind the Name",
+      "author": "Behind the Name",
+      "title": "Ricky — Meaning & History, complete original entry",
+      "workId": "behind-the-name:dictionary",
+      "quote": "Diminutive of Richard."
+    },
+    {
+      "url": "https://babynames.com/name/ricky",
+      "publisher": "BabyNames.com / Moss Gathering LLC",
+      "author": "Jennifer Moss",
+      "title": "Ricky: Name Meaning, Popularity and Info",
+      "workId": "babynames.com:name-dictionary",
+      "quote": "Diminutive form of Richard."
+    },
+    {
+      "url": "https://www.behindthename.com/name/dick-1",
+      "publisher": "Behind the Name",
+      "author": "Behind the Name",
+      "title": "Dick 1 — Meaning & History, complete original entry",
+      "workId": "behind-the-name:dictionary",
+      "quote": "Medieval diminutive of Richard."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+      "publisher": "Behind the Name",
+      "author": "Behind the Name",
+      "title": "Behind the Name: Dixon (pinned dictionary entry)",
+      "workId": "behind-the-name:dictionary",
+      "quote": "Means \"son of Dick 1\"."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/English-Surnames-Their-Sources-and-Significations_59959/04db3bc201c1f096c5fba0c6e26990fd551971ea/59959-0.txt",
+      "publisher": "Chatto and Windus, London; Project Gutenberg text retained by GITenberg",
+      "author": "Charles Wareing Endell Bardsley",
+      "title": "English Surnames: Their Sources and Significations, second revised edition (1875)",
+      "workId": "bardsley:english-surnames:1875",
+      "quote": "From the curter ‘Dick’ or ‘Diccon,’[26] we derive ‘Dicks’ or ‘Dix,’ ‘Dickson’ or ‘Dixon,’"
+    }
+  ],
+  "factReview": {
+    "reviewer": "Codex distinct actual-original-source/materiality peer /root/c05_reconnected_otis_shirley",
+    "note": "Independent original BTN Ricky/Dick1, pinned editorial Dixon, Moss Ricky and full Bardsley ChapterI/Foot25–27/prefaces reads support this sentence. Ricky→Richard has explicit BTN+Moss definitions; Dick→Richard and Dixon use BTN+Bardsley's direct Richard paragraph. Named Campbell/Moss compilation and Bardsley1875 are three work groups; selected/deeper genealogy remains untraced. BTN Dick cites Hanks/Hodges1990p84 for unselected phonology; its generalWiki/DMNES catalogue retained. Weekley's acknowledged Bardsley Dictionary help is lineage only; no Rick→Ricky step inferred. Dutch Dick→Diederik, MossAmerican/gender-neutral/BraveRuler and BTNEnglish/masculine labels excluded. Eight recent personally read auxiliary rights bodies reused exact bytes; external Moss policy unread. Full PG terms/LICENSE template conflict and regional limits retained. +22 chars makes Ricky link explicit and preserves Dick/Dixon lesson; nickname repetition costs remain. No ancestry/naming cause/empirical claim."
+  }
+}
+```
