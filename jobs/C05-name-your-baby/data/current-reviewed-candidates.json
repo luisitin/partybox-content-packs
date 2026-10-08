@@ -30991,29 +30991,53 @@
         }
       ],
       "id": "ssa:F:Jasmine",
-      "fact": "Jasmine takes its name from the fragrant climbing plant.",
+      "fact": "True jasmine shares a plant family with olive trees.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Jasmine+%28given+name%29&oldid=1377970744",
-          "publisher": "Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Jasmine (given name)",
-          "workId": "wikipedia:Jasmine (given name)",
-          "quote": "From the vocabulary word denoting the climbing plant with its delicate, fragnant flowers"
+          "url": "https://www.britannica.com/plant/jasmine-plant",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Jasmine",
+          "workId": "britannica:encyclopedia",
+          "quote": "shrubs and vines of the olive family (Oleaceae)"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Jasmine name entry",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From the English word for the climbing plant with fragrant flowers"
+          "url": "https://www.britannica.com/plant/olive-plant",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Olive",
+          "workId": "britannica:encyclopedia",
+          "quote": "subtropical broad-leaved evergreen tree (family Oleaceae) and its edible fruit."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/moos/wordnet-db/9e5cbc56523450c50d6655c8ba47bcb9fabf7935/dict/data.noun",
+          "publisher": "Princeton University",
+          "author": "Princeton University Cognitive Science Laboratory",
+          "title": "WordNet 3.1: Oleaceae / olive_family noun record 12320505",
+          "workId": "princeton-wordnet:lexical-database",
+          "quote": "olive; ash; jasmine; privet; lilac"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/moos/wordnet-db/9e5cbc56523450c50d6655c8ba47bcb9fabf7935/dict/data.noun",
+          "publisher": "Princeton University",
+          "author": "Princeton University Cognitive Science Laboratory",
+          "title": "WordNet 3.1: common_jasmine / true_jasmine noun record 12327757",
+          "workId": "princeton-wordnet:lexical-database",
+          "quote": "a climbing deciduous shrub with fragrant white or yellow or red flowers used in perfume and to flavor tea"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/moos/wordnet-db/9e5cbc56523450c50d6655c8ba47bcb9fabf7935/dict/data.noun",
+          "publisher": "Princeton University",
+          "author": "Princeton University Cognitive Science Laboratory",
+          "title": "WordNet 3.1: European_olive_tree / Olea_europaea noun record 12321697",
+          "workId": "princeton-wordnet:lexical-database",
+          "quote": "evergreen tree cultivated in the Mediterranean region since antiquity and now elsewhere; has edible shiny black fruits"
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Patrick Hanks, Kate Hardcastle and Flavia Hodges, A Dictionary of First Names (2006), p. 138. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. French/Arabic transmission routes are not asserted. Recognition is separately reviewed below."
+        "reviewer": "codex-queue-root-independent-round56-review",
+        "note": "Root read full necessary Britannica botanical articles/histories/editor credits and Princeton WordNet3.1 selected complete index/synset paths/original notices; independent prelocked peer reviewed exact wording/quotes/whole-old loss. Five references are two authored works: all Britannica one, all WordNet mirrors/headwords one; NLTK format guide adds no vote. True Jasminum/common true-jasmine and edible olive-tree endpoints share Oleaceae; deeper shared botanical authorities unaudited. All old given-name-origin/fragrance/climbing lessons are lost. Root accepts the concrete familiar-plant relation at52chars/9words versus56/9, without shortening gain or audience measurement. Continuous visible BRT quotes and exact raw WordNet quotes bound; full2011 Princeton notice retained, stale2006 notice separate. Britannica fullTerms/open-prose grant unestablished; brief attributed evidence/original fact only, no bulk/media reuse. No order, ancestry distance, name etymology or food-safety claim."
       },
       "recognitionVerified": true,
       "recognitionReview": {

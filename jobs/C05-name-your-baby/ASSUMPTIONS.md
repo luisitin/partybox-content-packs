@@ -355,3 +355,13 @@ Managed startup retained clean2dc/files/caches but not live agents. Historical w
 TrueJasminum/householdolive relation and AvaGardner exactcareer detail are research directions, not approved replacement facts. Full oldJasmine nameorigin/fragrance/climbing and Ava Germanicbranch/uncertain-root lessons require explicit positive tradeoffs if removed. Root current ranking is source-aware; independent Ava-worst disagreement remains. Shortness/cosmetics/sourceavailability/optional403s/docs/restarts are not playergain or no-gain evidence.
 
 Native101 persistence confirmed, canonical readbackfieldshape differs from inputshape; draftsave does not apply/publish/run/restart or certify restoration. Root new source observations postdate that saved instruction snapshot.
+
+## Round56 scope and prioritization
+
+Root d8c ownGREEN/fulljob, complete governing docs/all500facts and allfivewholepairs75cells450values. Familiar/source-aware renewed lock with exactproducer sentence already exposed; earlier2f pre-source lock separate. Root complete necessary BRT originals/credits/rights and selected WordNet fullrecords/index/pointerformat/notices, exact producer/peer fulldecisions/scopes/physicaltrees. No audience, newall500source or numeric recertification; fresh counter separate.
+
+Jasmine remains worst for predictable name/plant lesson. Replace only after explicit total-oldlesson loss and positively qualified source/rights/peer/root gates. Other four priorities retain separate bounded research holds; no sourceavailability reorder.
+
+One concrete familiar jasmine/olive-tree family relationship,52chars/9words versus56/9; all name-origin/fragrance/climbing lessons lost and priced, -4chars notgain. Required actual validation must preserve all500 protected numeric/recognition and499 complete otherrows. Accepted counters become165editorial/53content+3API=56rounds/0establishednogain only AFTERactual checks/completion.
+
+Await actual integrator/focused parentexit0/full8summary/17checksums/whole500-protected499others/sourceprefix+fulltail/history/NEXT preservation and finisher. Then normal claim+featurepush before23:49:39Z/currentownCI/native/PR/KEEPGOING. Colton/Haley ongoing freshprelocks and Ava nullhold, no newapproval/zero-globalclosure. Never replaycompleted54/55 or completed56.
