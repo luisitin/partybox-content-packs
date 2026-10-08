@@ -7623,29 +7623,29 @@
         }
       ],
       "id": "ssa:F:Shirley",
-      "fact": "Charlotte Brontë used Shirley as a character name in her 1849 novel.",
+      "fact": "In Charlotte Brontë's novel, Shirley's parents gave her a family name meant for a son.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Shirley+%28name%29&oldid=1360921110",
-          "publisher": "Wikipedia, The Free Encyclopedia",
-          "author": "Wikipedia contributors",
-          "title": "Shirley (name), revision 1360921110",
-          "workId": "wikipedia:Shirley (name):1360921110",
-          "quote": "inister justice and discuss community issues) was held. The surname Shirley became established as a female given name in 1849 due to its use in [[Charlotte Brontë]]'s novel ''[[Shirley (novel)|Shirley]]'', in which the character explains that her parents had intended the family surname for a s"
+          "url": "https://raw.githubusercontent.com/GITenberg/Shirley_30486/b30382b06ae23fc5928316fd1154f257cdb3c311/30486-0.txt",
+          "publisher": "T. Nelson & Sons; Project Gutenberg digital transcription distributed by GITenberg",
+          "author": "Charlotte Brontë",
+          "title": "Shirley, Chapter XI: Fieldhead",
+          "workId": "charlotte-bronte:shirley",
+          "quote": "her parents, who had wished to have a son, finding that, after eight years of marriage, Providence had granted them only a daughter, bestowed on her the same masculine family cognomen they would have bestowed on a boy, if with a boy they had been blessed"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Shirley (pinned 2021 dictionary distribution)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "ived from a place name meaning \"bright clearing\" in Old English. This is the name of a main character in Charlotte Brontë's semi-autobiographical novel Shirley (1849). The child actress Shirley Temple (1928-2014) helped to popularize this name."
+          "url": "https://en.wikipedia.org/w/index.php?title=Shirley_%28name%29&oldid=1360921110",
+          "publisher": "Wikipedia, Wikimedia Foundation",
+          "author": "Wikipedia contributors",
+          "title": "Shirley (name), revision 1360921110, full lead with adjacent Usage and citation context",
+          "workId": "wikipedia:encyclopedia",
+          "quote": "in which the character explains that her parents had intended the family surname for a son."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_wiki_names",
-        "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Nancy Leek, How Louise Clappe Became Shirley, 2019; Hanks, Hardcastle, Hodges, Oxford Dictionary of First Names, 2006, pp.246–247. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence."
+        "reviewer": "/root/c05_reconnected_otis_shirley (independent of source recovery child)",
+        "note": "Independent review accepted for the fictional naming decision. Read full ch.XI, primary title/author/credits and rights1A–D; pinned Wiki(name)1360921110 full lead/Usage, inline definitions, rendered refs1–4 and rights footer. Both say parents intended the family name for a son. Primary narrator explains it; Wiki says the character explains, so no explainer is asserted. Wiki name-entry has separate paraphrase, not novel-entry’s direct ch.XI quotation (excluded duplicate). End-of-lead citations credit Leek2019 and Hanks/Hardcastle/Hodges2006 pp246–247; those bodies unread. BTN is later Usage, not selected proof. Two authored works, common underlying fiction; no independent historic naming-invention/popularity or observed-performance claim. No whole-novel reading. Tompkins’s five human paragraphs omit naming and are excluded. Primary header supports USA public domain, not worldwide rights; Wiki CC BY-SA4.0 attribution. All105 frozenproof hashes match."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -73559,29 +73559,29 @@
         }
       ],
       "id": "ssa:M:Guy",
-      "fact": "Walter Scott used Guy in his novel Guy Mannering (1815).",
+      "fact": "In Scott's novel, Guy Mannering casts a newborn's horoscope.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Guy+%28given+name%29&oldid=1369372447",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Guy (given name)",
-          "workId": "wikipedia:Guy (given name):1369372447",
-          "quote": "Its use for characters by [[Sir Walter Scott]] in the 1815 novel ''[[Guy Mannering]]''"
+          "url": "https://raw.githubusercontent.com/GITenberg/The-World-s-Greatest-Books---Volume-07---Fiction_11527/ef5aadd3f29876faa50bd4dfb402199d14a98bf1/11527.txt",
+          "publisher": "The World's Greatest Books (1910), text hosted by GITenberg",
+          "author": "Various contributors; Arthur Mee and J. A. Hammerton, joint editors",
+          "title": "The World's Greatest Books, Volume VII, Fiction: Guy Mannering, I.—The Astrologer (1910)",
+          "workId": "mee-hammerton:worlds-greatest-books",
+          "quote": "Our hero, Guy Mannering, entering into the simple humour of Mr. Bertram, his host, agreed to calculate the infant's horoscope by the stars"
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Guy",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Guy Mannering (1815) by Sir Walter Scott"
+          "url": "https://en.wikipedia.org/w/index.php?title=Guy_Mannering&oldid=1359605509",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Guy Mannering, revision 1359605509: Chapter summary, Volume One, Ch. 3",
+          "workId": "wikipedia:Guy Mannering:1359605509",
+          "quote": "The gipsy Meg Merrilees arrives for the birth of Ellangowan's heir, and Guy contemplates the stars prior to drawing up a scheme of nativity for the infant (Harry Bertram), though without himself believing in astrology."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Yonge novel date differs (1853 vs 1854); that separate example is excluded. Germanic ultimate meaning and later paragraph citing BTN are excluded."
+        "reviewer": "Independent peer /root/c05_reconnected_source_review/ronnie_materiality",
+        "note": "Accepted after my full read of pinned World’s Guy synopsis/credits and Wiki1359605509 raw article, rendered plot/Ch3-5, citations/API/rights. Both give fictional Guy’s newborn horoscope; later scheme results/delivery confirm action. Various contributors are unnamed; Mee/Hammerton are editors. Wiki contributors collectively credited. World quotes23 words, Wiki35; PD-USA/regional and BY-SA4 notices retained. Wiki plot/Ch3 have no direct footnote; Grey’s Waverley Key and Nuttall imports are visible. Those works, Scott’s original and performance are unread/count0. Two presented authored retellings; mirrors/chapters count once. Distinct wording/no literal Mee label does not certify deeper independence; shared Scott story/deeper lineage unaudited. Concrete action adds player gain; no occupation, belief, prediction truth or popularity claim. Fact60chars; no existing horoscope/astrology/infant fact. Current Guy metrics/recognition unchanged; frozen evidence retained in peer manifest."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -81823,29 +81823,29 @@
         }
       ],
       "id": "ssa:M:Otis",
-      "fact": "Otis was the surname of the revolutionary James Otis (1725–1783).",
+      "fact": "James Otis challenged broad British search warrants in a Boston court in 1761.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Otis and explicitly linked entries",
-          "workId": "behind-the-name:dictionary",
-          "quote": "the revolutionary James Otis (1725-1783)."
+          "url": "https://www.britannica.com/biography/James-Otis",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "James Otis | American Politician, Revolutionary War Activist",
+          "workId": "britannica:encyclopedia",
+          "quote": "his famous challenge in 1761 to the British-imposed writs of assistance—general search warrants"
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?oldid=1377740774",
-          "publisher": "Wikipedia; Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "James Otis Jr. (revision 1377740774)",
-          "workId": "wikipedia-article-24637333",
-          "quote": "'''James Otis Jr.''' (February 5, 1725 – May 23, 1783) was an American lawyer, politician, and activist who was an early supporter of patriotic causes […] at the beginning of the [[American Revolution]]."
+          "url": "https://raw.githubusercontent.com/GITenberg/James-Otis-the-Pre-Revolutionist_722/8535b08f68564597a30e698564fc0d7b6e60e191/722.txt",
+          "publisher": "Project Gutenberg, mirrored by GITenberg",
+          "author": "John Clark Ridpath",
+          "title": "James Otis, the Pre-Revolutionist: Ridpath main biography",
+          "workId": "ridpath:james-otis-pre-revolutionist",
+          "quote": "This issue was, in February of 1761, taken into court in the old Town House, afterwards the old State House, of Boston. […] the merchants immediately sought his services as counsel to uphold their protest against the Writs."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
-        "note": "Individual comparison of actual Wikipedia contributors source passages and BTN editorial entry bodies. Distinct authored works; linked BTN bodies and delivery copies count as one source. Shared older scholarly source lineage has not been audited. The actual pinned biography's introduction and dates were read and agree with BTN. The naming-in-his-honour claim occurs in only BTN, so it is omitted. Quotations attributed to Otis and the cause of his death are not asserted. Recognition review pending."
+        "reviewer": "/root/c05_reconnected_source_review",
+        "note": "Independent agent read raw Britannica five human paragraphs/Editors credit/metadata; Ridpath signed title, full narrative874–1550, footnote1(2181–2191), header/metadata/README/full licence. Both support Otis challenging broad British search warrants in Boston court in1761. Quotes match actual text;49packet hashes and four GitBlobs match. Two authored accounts, not independent eyewitnesses; Britannica selected clause unfootnoted, deeper historical lineage unaudited. Ridpath reports Adams/Minot/Tudor; bodies unread/count0, including AdamsVolXp284 footnote. No authenticated speech, victory, firstness, resignation cause, name-origin or popularity claim. Other essays/Wiki unused. Brief credited copyrighted Britannica excerpt; official terms CONNECT403/body0 unread, no open licence. Ridpath metadata/header support USA public domain; worldwide status unclaimed. Material editorial gain replaces surname/dates with legal action; no player study."
       },
       "recognitionVerified": true,
       "recognitionReview": {
