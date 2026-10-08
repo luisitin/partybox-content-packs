@@ -36447,48 +36447,16 @@
         }
       ],
       "id": "ssa:F:Kristen",
-      "fact": "Christian was used as a name for both boys and girls.",
+      "fact": "Kristen can mean 'Christian', a name historically used for both boys and girls.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/christian",
           "publisher": "Behind the Name",
           "author": "Behind the Name",
-          "title": "Behind the Name: Kristen (pinned dictionary entry)",
+          "title": "Behind the Name: Christian (complete original entry, updated May 26, 2026)",
           "workId": "behind-the-name:dictionary",
-          "quote": "Danish and Norwegian form of Christian."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kristen (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Variant of Kristin."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kristin (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Scandinavian and German form of Christina."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Christina (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From Christiana, the Latin feminine form of Christian."
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Christian (pinned dictionary entry)",
-          "workId": "behind-the-name:dictionary",
-          "quote": "In England it has been in use since the Middle Ages, during which time it was used by both males and females, but it did not become common until the 17th century."
+          "quote": "In England it has been in use since the Middle Ages, during which time it was used by both males and females [1]"
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
@@ -36496,7 +36464,7 @@
           "author": "Charlotte Mary Yonge",
           "title": "History of Christian Names, revised edition 1884",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "┌───────────────┬───────────────┬───────────────┬───────────────┐ │ English. │ German. │ French. │ Swedish. │ │Christian │Christian │Chrestien │Kristian │ │ │ │Chrétien │ │"
+          "quote": "│ English. │ German. │ French. │ Swedish. │ │Christian │Christian │Chrestien │Kristian │ │ │ │Chrétien │ │"
         },
         {
           "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
@@ -36505,11 +36473,27 @@
           "title": "History of Christian Names, revised edition 1884",
           "workId": "yonge:history-of-christian-names:1884",
           "quote": "├───────────────┴───────────────┴───────────────┴───────────────┤ │ FEMININE. │ ├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │"
+        },
+        {
+          "url": "https://babynames.com/name/kristen",
+          "publisher": "BabyNames.com",
+          "author": "Jennifer Moss",
+          "title": "Kristen: Name Meaning, Popularity and Info on BabyNames.com",
+          "workId": "babynames.com:name-dictionary",
+          "quote": "The name Kristen is primarily a Female name of German origin that means Christian."
+        },
+        {
+          "url": "https://nameberry.com/name/kristen",
+          "publisher": "Nameberry",
+          "author": "Nameberry",
+          "title": "Kristen Name Meaning, Origin & Popularity",
+          "workId": "nameberry:name-dictionary",
+          "quote": "a Christian"
         }
       ],
       "factReview": {
-        "reviewer": "Codex Queue after independent authored-source review",
-        "note": "Accepted after independent agent source review. The actual dictionary contains both masculine Danish/Norwegian Kristen→Christian and feminine English Kristen→Kristin→Christina→Christian routes; it also explicitly states historical male/female Christian use. The actual historical table lists exact English Christian in both the masculine and feminine families. Player text names only the root/bearer independently supported by both works; the modern spelling link remains dictionary-only context. Quote excerpts were checked against retained bodies; same-publisher mirrors count as one work. Cited underlying books were not separately read. Source rights remain in SOURCES. No human spot-check or empirical recognition claim."
+        "reviewer": "/root/c05_reconnected_assessment",
+        "note": "Moss's complete female Kristen entry says meaning 'Christian'; Nameberry's canonical unisex entry says 'a Christian'. This semantic cue does not assert exact variant genealogy, religious identity or one origin for every bearer. Moss German and Nameberry Christine/Danish-Norwegian scopes stay separate. Full BTN Christian states historical male/female use; complete Yonge903-word Christos section lists English Christian in both sex families. This retains the valid lesson and adds an explicit card cue in one clause. Two authored presentations per clause, four groups; copies count once. Nameberry's catalogue names Yonge, Withycombe, Hanks and consulted BTN; selected/deeper dependence remains unknown. AI assistance requires human/source review under its policy; no specific entry editor or primary independence is certified. Credits and links, brief quotes and rights limits retained; cited books unread. Meaning overlaps Christina, but both-gender history is retained; recognition untouched."
       },
       "recognitionVerified": true,
       "recognitionReview": {
