@@ -1689,16 +1689,24 @@
   },
   {
     "id": "ssa:F:Angela",
-    "fact": "Angela and Angel share the same Latin name root.",
+    "fact": "Angela and Angel share a Latin root linked to Greek for \"messenger\".",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+        "url": "https://www.behindthename.com/name/angela",
         "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Angela (pinned 2021 dictionary distribution)",
+        "author": "Mike Campbell / Behind the Name",
+        "title": "Behind the Name: Angela (main entry)",
         "workId": "behind-the-name:dictionary",
-        "quote": "Feminine form of Angelus […] Latin masculine name Angelus"
+        "quote": "Feminine form of Angelus (see Angel )."
+      },
+      {
+        "url": "https://www.behindthename.com/name/angel",
+        "publisher": "Behind the Name",
+        "author": "Mike Campbell / Behind the Name",
+        "title": "Behind the Name: Angel (main entry)",
+        "workId": "behind-the-name:dictionary",
+        "quote": "From the medieval Latin masculine name Angelus , which was derived from the name of the heavenly creature [1] (itself derived from the Greek word ἄγγελος ( angelos ) meaning \"messenger\" [2] )."
       },
       {
         "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Angela",
@@ -1706,12 +1714,20 @@
         "author": "S.L. Uckelman",
         "title": "The Dictionary of Medieval Names from European Sources: Angela, edition 2023.1",
         "workId": "dmnes:dictionary:2023.1",
-        "quote": "Latin angelus"
+        "quote": "Angela f. Latin angelus 'angel, messenger'."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Angel",
+        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+        "author": "G. Grim, M. Slíz, J. Uckelman, S.L. Uckelman",
+        "title": "The Dictionary of Medieval Names from European Sources: Angel, edition 2023.1",
+        "workId": "dmnes:dictionary:2023.1",
+        "quote": "Angel m. Ancient Greek ἄγγελος , Latin angelus 'angel; messenger'."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "ROOT",
+      "note": "ROOT wholeactual BTN Angela/Angel/Angelus mainentries and DMNES2023.1 Angela251lines/Angel410lines, creators/guide/colophon/masthead, BTN copyright/Oct8Terms/generalreferences read. Campbell modern lexicalchain vs DMNES canonicalhistorical name/attestation composition: fourrefs/twofamilies per necessarypredicate. BTN explicitDMNES/Wiki consultation and Angel LewisShort/LSJ imports/sharedscholarship disclosed; underlying lexicons/records unread, no firstprimarydiscovery/no-borrowing certificate. Entire validold48/9 sharedLatinname-root retained. New68/12 explicitGreek messengerlink judged worth +20chars/+3words/Greeklanguagechain/density/template cost, individual not audienceconsensus. Minimumlinkedattributedevidence, copyrightrestrictions retained/no corpus/MITdatagrant. RawHTML/liveDMNES machineonly."
     },
     "recognitionVerified": true,
     "recognitionReview": {
