@@ -9375,29 +9375,45 @@
         }
       ],
       "id": "ssa:F:Frances",
-      "fact": "Frances and Francis share the same Latin name root.",
+      "fact": "Frances and Francis share a Latin root referring to French people.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/frances",
           "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Frances (pinned 2021 dictionary distribution)",
+          "author": "Mike Campbell",
+          "title": "Meaning, origin and history of the name Frances",
           "workId": "behind-the-name:dictionary",
-          "quote": "Feminine form of Francis. […] Late Latin name Franciscus"
+          "quote": "Feminine form of Francis ."
+        },
+        {
+          "url": "https://www.behindthename.com/name/francis",
+          "publisher": "Behind the Name",
+          "author": "Mike Campbell",
+          "title": "Meaning, origin and history of the name Francis",
+          "workId": "behind-the-name:dictionary",
+          "quote": "English form of the Late Latin name Franciscus meaning \"Frenchman\""
         },
         {
           "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Frances",
           "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
           "author": "A. Brown, J. Uckelman, S.L. Uckelman",
-          "title": "The Dictionary of Medieval Names from European Sources: Frances, edition 2023.1",
+          "title": "Dictionary of Medieval Names from European Sources: Frances, edition2023.1",
           "workId": "dmnes:dictionary:2023.1",
-          "quote": "Latin Francisca"
+          "quote": "Latin Francisca 'Frankish, Frenchwoman'. The name of a 15th C Italian saint. Fem. of Francis"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Francis",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "A. Brown, G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman",
+          "title": "Dictionary of Medieval Names from European Sources: Francis, edition2023.1",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Latin Franciscus 'Frankish, Frenchman'."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "ROOT",
+        "note": "Actual whole BTN Frances/Francis meaning/history/relations/citations and DMNES pinned Frances full visible entry/Francis etymology and credits read; pinned About/Guide/Colophon read. Two composed dictionary families per predicate, not four URL votes. Known BTN general DMNES/Wiki consultation, Oxford imports and common scholarship disclosed; no primary-discovery/no-borrowing guarantee. Old51/9 shared Latin-family lesson wholly retained. New66/11 adds French-people meaning (+15 chars/+2 words); ROOT separately priced historical gloss, nationality ambiguity and repeated-etymology costs, judged modest specific gain. DMNES Frankish/Frenchwoman/man alternatives retained; no exclusive gloss, identical whole Latin word, modern bearer nationality or SSA causation. Brief attributed evidence only, no open DMNES/BTN corpus grant or MIT relicensing."
       },
       "recognitionVerified": true,
       "recognitionReview": {
