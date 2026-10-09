@@ -675,3 +675,7 @@ Current root a827 Kristine-worst after ownGREEN/full500 is source-aware and reta
 ## Current4866 provenance distinctions
 
 2026-10-09T02:25:15.972280+00:00 — ROOTwhole2011Wiki independentlyshows IMDbcat versusAVClubseparatefilm clause; no actualIMDboriginalreading orsecondfamily inherited. FinishedSutherland producer/distinct reports await ROOTwhole-reading/physics, earlierpendingwording isROOTstage. BTNMax explicitlymultiplebranches, EtymonlineMaxine200onlyshell, EtymonlineMaximilianblend account mustnotbe silentlyequated withallMaxineorigins. BTNcopyrightfewdefinitionexception andTermspermissionrequirement preserved; nobulkprose grant. Pythonbs4missing recoveredwithstdlib; earlycatbeforeasynccompletion suppliesno fullscope. Preservedexistingfacts/no57/noGain; separateoldcounterdisagreement remainsattributed.
+
+## Current d205 scope distinctions
+
+2026-10-09T02:54:21.757653+00:00 — ROOT corrected early five-note only after consuming all500 lines. Selected2008 cat clause cites IMDb, not AVClub film-role interview. Completed Sutherland report/scope/physical checks update earlier pending stage without transferring original prose reading. Annie memoir printed age/birthdate differs from currentWiki; proposal excludes age, birthday, firstness and height. Same-volume attributed narratives and certificates do not become independent votes by URL/format; ROOT and distinct judgments pending. Early ROOT book read preceded terminal, complete remainder followed exit0. No accepted change/round results from these records.
