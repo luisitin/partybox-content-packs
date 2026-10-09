@@ -58023,29 +58023,29 @@
         }
       ],
       "id": "ssa:M:Elmer",
-      "fact": "Elmer has been used to honor the brothers Jonathan and Ebenezer Elmer.",
+      "fact": "In amateur radio, an 'Elmer' is a mentor.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Elmer&oldid=1373655972",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Elmer",
-          "workId": "wikipedia:Elmer:1373655972",
-          "quote": "\"in honor of the popularity of the brothers [[Ebenezer Elmer|Ebenezer]] and [[Jonathan Elmer]], leading supporters of the [[American Revolution]]\""
+          "url": "https://raw.githubusercontent.com/duanemcguire/wa7pge-flask/156b8481f93a6906bd49b105276137613bd32548/pages/Thoughts/Elmers.md",
+          "publisher": "WA7PGE — Duane’s ham radio fun",
+          "author": "Duane McGuire",
+          "title": "Elmers",
+          "workId": "duane-mcguire:elmers:2025",
+          "quote": "In ham radio lingo, an \"Elmer\" is an experienced ham who helps a novice on his way to learn the hobby."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name first-name dictionary: Elmer",
-          "workId": "behind-the-name:dictionary",
-          "quote": "it is sometimes given in honour of brothers Jonathan (1745-1817) and Ebenezer Elmer (1752-1843), who were active in early American politics."
+          "url": "https://raw.githubusercontent.com/kevinboone/kevinboone.github.io/0cbc5a4da741dc374c8403270a877ba73be52a4c/amateurradio.html",
+          "publisher": "Kevin Boone’s personal website",
+          "author": "Kevin Boone",
+          "title": "Does it matter if amateur radio dies out?",
+          "workId": "kevin-boone:amateurradio:2021",
+          "quote": "many of whom expected to be the respected 'elmers' (mentors) of the next generation of operators."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350",
-        "note": "Individual agent comparison with pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN reference scope checked; underlying cited works not directly read. Uncited woodworker and weapon-making passage is excluded."
+        "reviewer": "ROOT",
+        "note": "ROOT read McGuire's complete memoir, pinned creator/copyright template and path history; Boone's whole essay, home, authorship/About and necessary history. Two positively composed works support amateur-radio Elmer-as-mentor. McGuire's quoted OnAllBands/QST origin is excluded; versions/imports/editors add no votes. Possible common terminology/history disclosed, not independent discovery or exhaustive ancestry. No origin date/inventor/unique-use/all-mentors obligation claim. Exact41/8 loses the full valid70/12 nonexclusive honoring of brothers Jonathan/Ebenezer Elmer; -29chars/-4words alone earn0. Hobby/term/parse/template costs separately paid for the personal-name-to-mentor relation, not the role word alone; no audience/consensus. SSA/recognition exact/separate. Duane ©2025; no open article licence established for either. Own brief fact and actual attributed excerpts only. Direct sites403; own GitHub bodies read."
       },
       "recognitionVerified": true,
       "recognitionReview": {
