@@ -19759,29 +19759,45 @@
         }
       ],
       "id": "ssa:F:Annie",
-      "fact": "Annie belongs to the same name family as Ann and Anne.",
+      "fact": "Annie Edson Taylor survived a barrel ride over Niagara Falls.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Annie and explicitly linked name entries",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Anne 1. […] English and Manx form of Anne 1."
+          "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+          "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+          "author": "Annie Edson Taylor",
+          "title": "Over the Falls (1902): her barrel entry",
+          "workId": "taylor:over-the-falls:own-narrative:1902",
+          "quote": "Her Trip Over the Falls October 24, 1901, I left the shore from Buffalo Avenue in a boat, and was rowed by two men to Grass Island. I then took off my hat, street skirt and coat, and entered the barrel, the barrel being placed in the water. I then adjusted a woven strap around my waist, and a strap from the back went through an eye in the foot of the barrel, fastened to a buckle in front to my belt. This was to keep my head from violent contact with the barrel. I placed two cushions on my person extending down to the knees--one in the bottom of the barrel. When all was in readiness, the head of the barrel was screwed down perfectly tight. A tube inserted in the chines I held in my hand, and an air-pump was used to fill the barrel with fresh air. I then put a cork in the end of the tube I held in my hand. All was now ready, and the boatmen towed the barrel out to the current, which they thought would carry me over the _center_ of the Horseshoe. I did not say, like Dante, on entering the barrel, “Who enters here leaves all hope behind,” but as I faced the inevitable, life or a horrible death in 50 minutes, my courage rose."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names (1884)",
-          "workId": "yonge-history-of-christian-names-1884",
-          "quote": "fashion of christening Annie, probably from some confusion as to the spelling of Ann or Anne."
+          "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+          "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+          "author": "Annie Edson Taylor",
+          "title": "Over the Falls (1902): rescue and signature",
+          "workId": "taylor:over-the-falls:own-narrative:1902",
+          "quote": "A man’s voice exclaimed: “The Woman is Alive!” I answered, “Yes, she is, though much hurt and confused.” I was carried to my boarding house, and after suffering great pain was restored to my normal condition. The greater part of my life that remains to me will be devoted to doing good to others, for a woman, be she a true woman, can bless and glorify the lowest grade of humanity. ANNIE EDSON TAYLOR."
+        },
+        {
+          "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+          "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+          "author": "Charles E. Perigo and N. F. Maddever",
+          "title": "Newspaper Men Were Witnesses (published 1902)",
+          "workId": "perigo-maddever:niagara-witness-certificate:published1902",
+          "quote": "Newspaper Men Were Witnesses TO WHOM IT MAY CONCERN: This is to certify that Mrs. Annie Edson Taylor passed over the Canadian, otherwise known as the Horseshoe Falls, on October 24, 1901, and further that we were eyewitnesses of the fact having been present when she entered the barrel as well as when she was taken from it after having successfully made the trip. CHARLES E. PERIGO, City Editor, Cataract-Journal. N. F. MADDEVER, City Editor, Gazette."
+        },
+        {
+          "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+          "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+          "author": "R. R. Carter and William Thomas",
+          "title": "Saw Her Come Over the Horseshoe (June 3, 1902)",
+          "workId": "carter-thomas:niagara-witness-certificate:1902-06-03",
+          "quote": "Saw Her Come Over the Horseshoe STEAMER “MAID OF THE MIST,” NIAGARA FALLS, N. Y., June 3, 1902. TO WHOM IT MAY CONCERN: We, the undersigned, master and mate of the Steamer “Maid of the Mist,” plying on the Niagara River immediately below the Falls of Niagara, do hereby certify that on the 24th day of October, 1901, about 4 o’clock p. m., we being on board our boat directly under the Horseshoe Falls, saw a barrel come over the brink and drift down the heavy current close to the Canadian shore, fetching up in Bass rock eddy, it being about a quarter of a mile below the Horseshoe Falls. We saw the barrel taken from the water and the person of a woman taken from the barrel, and who (contrary to our expectations) was alive, and we confidently believe her to be the only human being that ever went over the Falls of Niagara and lived, and we can certify that the woman known to us since as Mrs. A. E. Taylor was the person taken out of the barrel. R. R. CARTER, Master S. S. “Maid of the Mist.” WILLIAM THOMAS, Mate, “Maid of the Mist.”"
         }
       ],
       "factReview": {
-        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
-        "note": "Individual comparison of actual cached Charlotte Mary Yonge book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. Yonge hedges her proposed historical mechanism, so the fact asserts only the stable modern relationship and does not turn the confusion hypothesis into historical certainty. Recognition is separately reviewed below."
+        "reviewer": "codex-queue; c05_colton_historic_crossing_peer",
+        "note": "ROOT and distinct reviewer read the complete 1902 Over the Falls memoir, necessary creator/rights context and separately attributed firsthand texts. Taylor narrative plus Perigo/Maddever joint eyewitness certificate qualify full identity; Taylor plus Carter/Thomas joint eyewitness certificate qualify barrel crossing and extraction alive. Three credited authored works share ONE promotional publication; versions and joint signers are not extra votes. Printed firsthand attribution supports this narrow event, without autograph/scans authentication or global no-borrowing proof. Full Ann/Anne family relationship and both old anchors are lost; concrete barrel/waterfall/survival episode earns that loss and full bearer/place/vehicle/outcome costs. Age, firstness, height and injury-free survival excluded; birth-year conflict retained in CONFLICTS. Editorial judgment, not an audience measurement."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -77455,29 +77471,77 @@
         }
       ],
       "id": "ssa:F:Kristine",
-      "fact": "Kristine belongs to the same name family as Christina.",
+      "fact": "Kristine, a form of Christina, shares a remote Greek root with the word 'cream'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
+          "url": "https://www.behindthename.com/name/kristine",
           "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Kristine (pinned 2021 dictionary distribution)",
+          "author": "Mike Campbell",
+          "title": "Behind the Name: Kristine",
           "workId": "behind-the-name:dictionary",
           "quote": "Scandinavian and Georgian form of Christina, as well as an English and German variant of Christine."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
+          "url": "https://www.behindthename.com/name/christos-1",
+          "publisher": "Behind the Name",
+          "author": "Mike Campbell",
+          "title": "Behind the Name: Christos",
+          "workId": "behind-the-name:dictionary",
+          "quote": "From Greek Χριστός (Christos) meaning \"anointed\", derived from χρίω (chrio) meaning \"to anoint\"."
+        },
+        {
+          "url": "https://www.gutenberg.org/files/70419/70419-0.txt",
+          "publisher": "Macmillan and Co.; Project Gutenberg digital delivery",
           "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names, revised edition 1884",
+          "title": "History of Christian Names (1884): Greek root",
           "workId": "yonge:history-of-christian-names:1884",
-          "quote": "├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │ │Chrissie │ │Tine │Krikszte │ │Xina │ │Kristel │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Portuguese. │ Spanish. │ Italian. │ Danish. │ │Christinha │Cristine │Cristina │Karstin │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Slavonic. │ Lusatian. │ Lett. │ Esthonian. │ │Kristina │Krystla │Kristine │Kirstin │ │Kina │Kita │Kersti │Kirste │ │ │Kitka │Skersten │ │ └───────────────┴───────────────┴───────────────┴───────────────┘"
+          "quote": "The Greek verb χρίω (chrio), to touch, rub, or anoint, formed the term Χριστός, which translated the old Hebrew prophetic Messiah (the Anointed), and thence became the title of the Saviour, the very touch-stone of faith."
+        },
+        {
+          "url": "https://www.gutenberg.org/files/70419/70419-0.txt",
+          "publisher": "Macmillan and Co.; Project Gutenberg digital delivery",
+          "author": "Charlotte Mary Yonge",
+          "title": "History of Christian Names (1884): Feminine variants",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "│ FEMININE. │ ├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │ │Chrissie │ │Tine │Krikszte │ │Xina │ │Kristel │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Portuguese. │ Spanish. │ Italian. │ Danish. │ │Christinha │Cristine │Cristina │Karstin │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Slavonic. │ Lusatian. │ Lett. │ Esthonian. │ │Kristina │Krystla │Kristine │Kirstin │ │Kina │Kita │Kersti │Kirste │ │ │Kitka │Skersten │ │ └───────────────┴───────────────┴───────────────┴───────────────┘"
+        },
+        {
+          "url": "https://www.etymonline.com/word/cream",
+          "publisher": "Online Etymology Dictionary",
+          "author": "Douglas Harper",
+          "title": "Etymology of cream",
+          "workId": "harper:online-etymology-dictionary",
+          "quote": "early 14c., creyme, \"the rich and buttery part of milk,\" from Old French cresme, craime, creme \"chrism, holy oil\" (13c., Modern French crème). This word is a blend of Late Latin chrisma \"ointment\" (from Greek khrisma \"unguent;\" from PIE root *ghrei- \"to rub\") and Late Latin cramum \"cream,\" which is of uncertain origin, perhaps from Gaulish. The French word replaced Old English ream; it was re-borrowed 19c. as creme."
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/37683/pg37683.txt",
+          "publisher": "W. & R. Chambers; Project Gutenberg digital delivery",
+          "author": "Thomas Davidson, editor",
+          "title": "Chambers's Twentieth Century Dictionary (1908): Cream",
+          "workId": "davidson:chambers-twentieth-century-dictionary:1908",
+          "quote": "CREAM, kr[=e]m, _n._ the oily substance which forms on milk, yielding butter when churned: the best part of anything: any cream-like preparation, as _cold cream_ for the skin, &c., or any dish largely made of cream, or like cream, as _chocolate-cream_, _ice-cream_, _whipped-cream_, &c.--_v.t._ to take off the cream.--_v.i._ to gather or form cream.--_ns._ CREAM'-CAKE, a kind of cake filled with custard made of cream, &c.; CREAM'-CHEESE, cheese made of cream.--_adj._ CREAM'-COL'OURED, of the colour of cream, light yellow.--_n._ CREAM'ERY, an establishment where butter and cheese are made from the milk supplied by a number of producers: a shop for milk, butter, &c.--_adj._ CREAM'-FACED, pale-faced.--_ns._ CREAM'-FRUIT, the fruit of a creeping West African plant of the dogbane family, yielding a cream-like juice; CREAM'INESS.--_adj._ CREAM'-LAID, of a cream-colour and laid, or bearing linear water-lines as if laid.--_ns._ CREAM'-NUT, the Brazil nut; CREAM'-SLICE, a wooden blade for skimming cream from milk.--_adjs._ CREAM'-WOVE, woven of a cream-colour; CREAM'Y, full of or like cream: gathering like cream.--CREAM OF TARTAR, a white crystalline compound made by purifying argol, bitartrate of potash. [O. Fr. _cresme_, _creme_--L. _chrisma_.]"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/37683/pg37683.txt",
+          "publisher": "W. & R. Chambers; Project Gutenberg digital delivery",
+          "author": "Thomas Davidson, editor",
+          "title": "Chambers's Twentieth Century Dictionary (1908): Chrism",
+          "workId": "davidson:chambers-twentieth-century-dictionary:1908",
+          "quote": "CHRISM, krizm, _n._ consecrated or holy oil: unction: confirmation: chrisom. (q.v.).--_adj._ CHRIS'MAL, pertaining to chrism.--_n._ a case for containing chrism: a pyx: a veil used in christening.--_ns._ CHRIS'MATORY, a vessel for containing chrism; CHRIS'OM, a white cloth laid by the priest on a child newly anointed with chrism after its baptism: the child itself.--CHRISOM CHILD (_Shak._), a child still wearing the chrisom cloth: an innocent child. [O. Fr. _chresme_ (Fr. _chrême_)--Gr. _chrisma_, from _chriein_, _chrisein_, to anoint.]"
+        },
+        {
+          "url": "https://www.etymonline.com/word/chrism",
+          "publisher": "Online Etymology Dictionary",
+          "author": "Douglas Harper",
+          "title": "Etymology of chrism",
+          "workId": "harper:online-etymology-dictionary",
+          "quote": "\"oil mingled with balm, a sacred ointment consecrated and used in Church rites,\" late Old English chrisma, from Church Latin chrisma, from Greek khrisma \"an unguent, anointing, unction,\" from khriein \"to anoint\" (from PIE root *ghrei- \"to rub\"). Chrisom \"baptismal robe,\" is a c. 1200 variant of this. Related: Chrismal; chrismatory."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts",
-        "note": "Actual pinned dictionary descriptions and book body/table individually read. Linked dictionary entries count as one authored work. Corporate Behind the Name publisher identity is established; individual authorship is unestablished. Distinct authored works, common deeper authorities unaudited. Agent review only. Book gives Lettish Kristine within the feminine Christian/Christina variants table; selected claim is only the name relationship, not the same language classification."
+        "reviewer": "codex-queue; c05_arthur_uncertainty_inquiry",
+        "note": "ROOT and distinct reviewer read actual linked name entries, Yonge Christos section/table, Harper cream/chrism and Davidson Cream/Chrism/Christ plus necessary creator/source/rights contexts. Linked entries and mirrors stay one work. Name chain: Campbell and Yonge. Cream bridge: Harper and Davidson, separately credited secondary syntheses with disclosed shared historical lexicons. Harper describes a chrisma+cramum blend; cramum origin is uncertain. Remote shared Greek root component only; no direct name-to-food descent or wholly Greek ancestry claim. Explicit form-of-Christina clause preserves both named anchors and their family relationship; generic family wording gives way to a concrete familiar-word connection. Editorial judgment, not a measured audience gain."
       },
       "recognitionVerified": true,
       "recognitionReview": {

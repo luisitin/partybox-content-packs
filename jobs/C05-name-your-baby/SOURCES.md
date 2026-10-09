@@ -1457,6 +1457,150 @@ Complete old-loss/materiality proposal:
 }
 ```
 
+
+## Round57 current fact-source additions and replacements
+
+Round57 completed at 2026-10-09T04:17:52.703986+00:00 after actual integration, repeatability, preservation and focused-test success. Two reviewed replacements improve the current worst Kristine and supplementary Annie. Accepted57 meaningful rounds/167 editorial changes/54 content rounds plus API36/46/48;0 established consecutive no-player-gain rounds. Never replay56,57 or stale V2 helpers. ROOT sole mutation writer.
+
+Fresh baseline8d6105a773ac5fe92bb22be39e98e6523dfae0c8 fullCI37881168013/all11steps success, actualwatch89620 terminal97e9bbexit0; metadata cbec95 and fullsuccessfuljob5a9c9c. JobREADME ebb7f3 afterGREEN; actualall500 humanreads7ee07e/e0ed26 BEFORE after-consumption five/gatefa4c83 at04:00:20: Kristine,Maxine,Annie,Stephanie,Velma; Kristine worst. All17data+7whole docs exact; selected triples same fully read unchanged originals from0f0d, no new all15human-reread claim. Qualified but undelivered proposals did not alter ranking.
+
+Kristine old54characters/9words -> new80/14: Kristine, a form of Christina, shares a remote Greek root with the word 'cream'. Explicit form-of-Christina retains both anchors and full family relationship. Added26characters/5words pay for a remoteGreek/commonfood-word connection. ROOT own source/whole-old-lesson/context judgment positive; distinct independently sealed source03:44:44 and exact80/14 verdict04:02:14 positive, completeROOT humanreadd3b991. Four authored secondary works: Campbell+Yonge fornamechain; Harper+Davidson forcream/root. Shared historical authorities disclosed, not four primary discoveries. Harper cream blends chrisma+cramum; uncertainorigin applies tocramum; older Chambers omits mixture. Narrow remote sharedroot component only. ROOT supplemental Harperchrism acquiredafterfirst71/12draft, whollyvisible5735characters readf538b1 before amended80/14; prior draft/missingGreekverb excerpt gap preserved honestly. All8continuous quotations match own original words, whitespace collapse and four HTMLpunctuation spaces normalized. Producer Velma stricter selected-lineage null remains a disagreement in CONFLICTS, not consensus/noGain. ROOT own finalscope878edf, sourceff0fe9/amendedf5d8f1/lengtherratumf2df33; finaloverlay preparation64fb20/e40420. Prose79/78 typos corrected to actual80; no old artifact rewriting.
+
+Annie old54characters/11words -> new61/10: Annie Edson Taylor survived a barrel ride over Niagara Falls. Entire Ann/Annefamily lesson and both old anchors lost and priced. Concrete barrel/waterfall/survival episode repays those costs in ROOT and distinct Colton editorial judgment. Three separately credited firsthand authored texts share ONE1902 promotional publication: Taylor narrative; joint Carter/Thomas eyewitness certificate; joint Perigo/Maddever eyewitness certificate. Fullidentity pairTaylor+PerigoMaddever; crossing/survival pairTaylor+CarterThomas. Commonpublication/digitization/event disclosed; no autograph/scans authentication, global no-borrowing proof, age/firstness/height/injuryfree claim. Birthday disagreement retained. Original source fullyread; four final continuous excerpts literal. These qualitative player gains are editorial judgments, not an audience survey.
+
+Actual integration used fresh guarded /tmp/c05-round57-root-delivery-fresh-kristine-annie/integrate.py; stale/clean/17+7/normalrefs/ownedclaim/exactoverlay guards. npm run build succeeded; node dist/src/reviewed-cli.js fixtures/current-source.json fixtures/curation.json data/current-reviewed-candidates.json --reviewed-candidates and node dist/src/complete-cli.js fixtures/current-source.json fixtures/curation.json data/name-your-baby.json --complete each ran TWICE with byte-identical outputs. Only these two reviewed fact/ref/review objects changed; all500 recognition/numeric/other fields, both wrappermetadata sets, allother498rows and14protecteddata files exact. sha256sum --check SHA256SUMS.txt passed all17.
+
+Focused exact command: node --test dist/test/reviewed.test.js dist/test/complete.test.js. Actual completed terminal exit0:8tests passed,0failures. Catches reviewed fact/recognition gates, schema/reference limits, checkedsource fingerprints, pinned500selection, canonicalcounts and completegolden agreement; unchanged scoring/mutation suite remains covered by baselineGREEN and will run in postpush fullCI. Test completion log hash 4a45d7456a0fdc645a1901349680106e1dc7bd22fba23d7215a8829febef6dba. Actual terminal/read receipt: Own parent45845 actual final output8769c9 exit0, all8 complete cases and specsummary personally read. Parent initial6371ec yielded, never treated as completion.. Datahashes afterintegration: {"data/current-candidates.json": "4a6e0a012142945a59160809194975fbfd3b944f340142f52db06d06be6465f4", "data/current-reviewed-candidates.json": "9084e8a0cee89e3bd1fcc7a296ae2df54b66130884c7a447a2629079d31ff605", "data/name-your-baby.json": "9c6262dc7a9fe2f7f79a00cfc4a5b820e8d189d0e12b29cda1e375cdaaf8c0ec", "data/sample.json": "f9006943b48f01aa1e252a049fdc6f43e5a81961678916cd0a1a42049344fc7a", "fixtures/curation.json": "d1efea46ce24403416d45e85b3ef70126637c1e01cbc60afaa328c91fa442b53", "fixtures/current-source.json": "fd96fecb43209ce8639bc47185c686fcc2157cdae052cbae3c10e582ce88b0e2", "fixtures/selection.json": "2d61d267cc4e711d3d3d09d5232ba22995447175bfad7dcd3f82118258b6fab2", "fixtures/source.json": "c6bbc9a8e924cae38b51d8cd1c46644d5631370b1bf75cee327bb7ce33b1a664", "fixtures/ssa-names-2026-10-07.zip": "cd78e975ed7bb358e018dd62fbe14ced89295e9581c49172ca4eedcb011b3724", "schemas/complete-pack.schema.json": "98aa78ff61008079d13929d91b7864c004489393d1f0a5edb7a5b37a140e251b", "schemas/curation.schema.json": "36d88541afaa1ece1be20ac8bc43210fb4ed0493a2c56f5316728ddf01ee9bbe", "schemas/current-pack.schema.json": "8a34b52e21bb38c65c6bfa36735f2ffa0071cf6510fab8fbf7f173a31bdfac89", "schemas/current-source.schema.json": "2748d986e8c9b38ce2960298c48ac86162464c83bffb86bd901ea8f94600d7b1", "schemas/fixture.schema.json": "c0e98e50b56596344147b532f48c427b8ba684b1c16320ff601436e246028f6c", "schemas/pack.schema.json": "b5a3bff76bb6f792413c81b56270fc777030fb2d3ec1decfb466d5f10b1ec775", "schemas/selection.schema.json": "5b100f40950e5dc575333d62ee27757d4fecbcb792d29678d72dabac9e1c6b44", "test/seeds.json": "bec819ef93d58bd9d783ca281ad60ccb1ec6076e8a42602cd2a05232fb04d2a3"}.
+
+Net display cost: two lines108->141characters (+33),20->24words (+4),2of500facts changed. Those numbers are cost measurements; gained information is the name/food-root connection and improbable barrel survival scene. NEXT/currentcheckpoint will require postpush fullCI before calling the job done; no57headCI/native/PR refresh claimed yet. Draft110 and latest verified PRbody still at historicalb4a. No Publish/apply/restart/fresh-task restoration. Source holds for Maxine/Stephanie and earlier inquiry nulls remain research, not rounds/job blocks/noGain. Continue KEEP GOING after actual postpushGREEN; no termination rule reached.
+
+Current exact objects and attributed evidence:
+
+```json
+[
+  {
+    "id": "ssa:F:Kristine",
+    "fact": "Kristine, a form of Christina, shares a remote Greek root with the word 'cream'.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://www.behindthename.com/name/kristine",
+        "publisher": "Behind the Name",
+        "author": "Mike Campbell",
+        "title": "Behind the Name: Kristine",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Scandinavian and Georgian form of Christina, as well as an English and German variant of Christine."
+      },
+      {
+        "url": "https://www.behindthename.com/name/christos-1",
+        "publisher": "Behind the Name",
+        "author": "Mike Campbell",
+        "title": "Behind the Name: Christos",
+        "workId": "behind-the-name:dictionary",
+        "quote": "From Greek Χριστός (Christos) meaning \"anointed\", derived from χρίω (chrio) meaning \"to anoint\"."
+      },
+      {
+        "url": "https://www.gutenberg.org/files/70419/70419-0.txt",
+        "publisher": "Macmillan and Co.; Project Gutenberg digital delivery",
+        "author": "Charlotte Mary Yonge",
+        "title": "History of Christian Names (1884): Greek root",
+        "workId": "yonge:history-of-christian-names:1884",
+        "quote": "The Greek verb χρίω (chrio), to touch, rub, or anoint, formed the term Χριστός, which translated the old Hebrew prophetic Messiah (the Anointed), and thence became the title of the Saviour, the very touch-stone of faith."
+      },
+      {
+        "url": "https://www.gutenberg.org/files/70419/70419-0.txt",
+        "publisher": "Macmillan and Co.; Project Gutenberg digital delivery",
+        "author": "Charlotte Mary Yonge",
+        "title": "History of Christian Names (1884): Feminine variants",
+        "workId": "yonge:history-of-christian-names:1884",
+        "quote": "│ FEMININE. │ ├───────────────┬───────────────┬───────────────┬───────────────┤ │ English. │ French. │ German. │ Bulgarian. │ │Christiana │Christine │Christiane │Khrustina │ │Christian │ │Christine │ —————— │ │Christina │ │Stine │ Lithuanian. │ │Chrissie │ │Tine │Krikszte │ │Xina │ │Kristel │ │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Portuguese. │ Spanish. │ Italian. │ Danish. │ │Christinha │Cristine │Cristina │Karstin │ ├───────────────┼───────────────┼───────────────┼───────────────┤ │ Slavonic. │ Lusatian. │ Lett. │ Esthonian. │ │Kristina │Krystla │Kristine │Kirstin │ │Kina │Kita │Kersti │Kirste │ │ │Kitka │Skersten │ │ └───────────────┴───────────────┴───────────────┴───────────────┘"
+      },
+      {
+        "url": "https://www.etymonline.com/word/cream",
+        "publisher": "Online Etymology Dictionary",
+        "author": "Douglas Harper",
+        "title": "Etymology of cream",
+        "workId": "harper:online-etymology-dictionary",
+        "quote": "early 14c., creyme, \"the rich and buttery part of milk,\" from Old French cresme, craime, creme \"chrism, holy oil\" (13c., Modern French crème). This word is a blend of Late Latin chrisma \"ointment\" (from Greek khrisma \"unguent;\" from PIE root *ghrei- \"to rub\") and Late Latin cramum \"cream,\" which is of uncertain origin, perhaps from Gaulish. The French word replaced Old English ream; it was re-borrowed 19c. as creme."
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/37683/pg37683.txt",
+        "publisher": "W. & R. Chambers; Project Gutenberg digital delivery",
+        "author": "Thomas Davidson, editor",
+        "title": "Chambers's Twentieth Century Dictionary (1908): Cream",
+        "workId": "davidson:chambers-twentieth-century-dictionary:1908",
+        "quote": "CREAM, kr[=e]m, _n._ the oily substance which forms on milk, yielding butter when churned: the best part of anything: any cream-like preparation, as _cold cream_ for the skin, &c., or any dish largely made of cream, or like cream, as _chocolate-cream_, _ice-cream_, _whipped-cream_, &c.--_v.t._ to take off the cream.--_v.i._ to gather or form cream.--_ns._ CREAM'-CAKE, a kind of cake filled with custard made of cream, &c.; CREAM'-CHEESE, cheese made of cream.--_adj._ CREAM'-COL'OURED, of the colour of cream, light yellow.--_n._ CREAM'ERY, an establishment where butter and cheese are made from the milk supplied by a number of producers: a shop for milk, butter, &c.--_adj._ CREAM'-FACED, pale-faced.--_ns._ CREAM'-FRUIT, the fruit of a creeping West African plant of the dogbane family, yielding a cream-like juice; CREAM'INESS.--_adj._ CREAM'-LAID, of a cream-colour and laid, or bearing linear water-lines as if laid.--_ns._ CREAM'-NUT, the Brazil nut; CREAM'-SLICE, a wooden blade for skimming cream from milk.--_adjs._ CREAM'-WOVE, woven of a cream-colour; CREAM'Y, full of or like cream: gathering like cream.--CREAM OF TARTAR, a white crystalline compound made by purifying argol, bitartrate of potash. [O. Fr. _cresme_, _creme_--L. _chrisma_.]"
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/37683/pg37683.txt",
+        "publisher": "W. & R. Chambers; Project Gutenberg digital delivery",
+        "author": "Thomas Davidson, editor",
+        "title": "Chambers's Twentieth Century Dictionary (1908): Chrism",
+        "workId": "davidson:chambers-twentieth-century-dictionary:1908",
+        "quote": "CHRISM, krizm, _n._ consecrated or holy oil: unction: confirmation: chrisom. (q.v.).--_adj._ CHRIS'MAL, pertaining to chrism.--_n._ a case for containing chrism: a pyx: a veil used in christening.--_ns._ CHRIS'MATORY, a vessel for containing chrism; CHRIS'OM, a white cloth laid by the priest on a child newly anointed with chrism after its baptism: the child itself.--CHRISOM CHILD (_Shak._), a child still wearing the chrisom cloth: an innocent child. [O. Fr. _chresme_ (Fr. _chrême_)--Gr. _chrisma_, from _chriein_, _chrisein_, to anoint.]"
+      },
+      {
+        "url": "https://www.etymonline.com/word/chrism",
+        "publisher": "Online Etymology Dictionary",
+        "author": "Douglas Harper",
+        "title": "Etymology of chrism",
+        "workId": "harper:online-etymology-dictionary",
+        "quote": "\"oil mingled with balm, a sacred ointment consecrated and used in Church rites,\" late Old English chrisma, from Church Latin chrisma, from Greek khrisma \"an unguent, anointing, unction,\" from khriein \"to anoint\" (from PIE root *ghrei- \"to rub\"). Chrisom \"baptismal robe,\" is a c. 1200 variant of this. Related: Chrismal; chrismatory."
+      }
+    ],
+    "factReview": {
+      "reviewer": "codex-queue; c05_arthur_uncertainty_inquiry",
+      "note": "ROOT and distinct reviewer read actual linked name entries, Yonge Christos section/table, Harper cream/chrism and Davidson Cream/Chrism/Christ plus necessary creator/source/rights contexts. Linked entries and mirrors stay one work. Name chain: Campbell and Yonge. Cream bridge: Harper and Davidson, separately credited secondary syntheses with disclosed shared historical lexicons. Harper describes a chrisma+cramum blend; cramum origin is uncertain. Remote shared Greek root component only; no direct name-to-food descent or wholly Greek ancestry claim. Explicit form-of-Christina clause preserves both named anchors and their family relationship; generic family wording gives way to a concrete familiar-word connection. Editorial judgment, not a measured audience gain."
+    }
+  },
+  {
+    "id": "ssa:F:Annie",
+    "fact": "Annie Edson Taylor survived a barrel ride over Niagara Falls.",
+    "factStatus": "reviewed",
+    "factReferences": [
+      {
+        "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+        "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+        "author": "Annie Edson Taylor",
+        "title": "Over the Falls (1902): her barrel entry",
+        "workId": "taylor:over-the-falls:own-narrative:1902",
+        "quote": "Her Trip Over the Falls October 24, 1901, I left the shore from Buffalo Avenue in a boat, and was rowed by two men to Grass Island. I then took off my hat, street skirt and coat, and entered the barrel, the barrel being placed in the water. I then adjusted a woven strap around my waist, and a strap from the back went through an eye in the foot of the barrel, fastened to a buckle in front to my belt. This was to keep my head from violent contact with the barrel. I placed two cushions on my person extending down to the knees--one in the bottom of the barrel. When all was in readiness, the head of the barrel was screwed down perfectly tight. A tube inserted in the chines I held in my hand, and an air-pump was used to fill the barrel with fresh air. I then put a cork in the end of the tube I held in my hand. All was now ready, and the boatmen towed the barrel out to the current, which they thought would carry me over the _center_ of the Horseshoe. I did not say, like Dante, on entering the barrel, “Who enters here leaves all hope behind,” but as I faced the inevitable, life or a horrible death in 50 minutes, my courage rose."
+      },
+      {
+        "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+        "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+        "author": "Annie Edson Taylor",
+        "title": "Over the Falls (1902): rescue and signature",
+        "workId": "taylor:over-the-falls:own-narrative:1902",
+        "quote": "A man’s voice exclaimed: “The Woman is Alive!” I answered, “Yes, she is, though much hurt and confused.” I was carried to my boarding house, and after suffering great pain was restored to my normal condition. The greater part of my life that remains to me will be devoted to doing good to others, for a woman, be she a true woman, can bless and glorify the lowest grade of humanity. ANNIE EDSON TAYLOR."
+      },
+      {
+        "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+        "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+        "author": "Charles E. Perigo and N. F. Maddever",
+        "title": "Newspaper Men Were Witnesses (published 1902)",
+        "workId": "perigo-maddever:niagara-witness-certificate:published1902",
+        "quote": "Newspaper Men Were Witnesses TO WHOM IT MAY CONCERN: This is to certify that Mrs. Annie Edson Taylor passed over the Canadian, otherwise known as the Horseshoe Falls, on October 24, 1901, and further that we were eyewitnesses of the fact having been present when she entered the barrel as well as when she was taken from it after having successfully made the trip. CHARLES E. PERIGO, City Editor, Cataract-Journal. N. F. MADDEVER, City Editor, Gazette."
+      },
+      {
+        "url": "https://www.gutenberg.org/files/78938/78938-0.txt",
+        "publisher": "Mrs. Annie Edson Taylor; Project Gutenberg digital transcription",
+        "author": "R. R. Carter and William Thomas",
+        "title": "Saw Her Come Over the Horseshoe (June 3, 1902)",
+        "workId": "carter-thomas:niagara-witness-certificate:1902-06-03",
+        "quote": "Saw Her Come Over the Horseshoe STEAMER “MAID OF THE MIST,” NIAGARA FALLS, N. Y., June 3, 1902. TO WHOM IT MAY CONCERN: We, the undersigned, master and mate of the Steamer “Maid of the Mist,” plying on the Niagara River immediately below the Falls of Niagara, do hereby certify that on the 24th day of October, 1901, about 4 o’clock p. m., we being on board our boat directly under the Horseshoe Falls, saw a barrel come over the brink and drift down the heavy current close to the Canadian shore, fetching up in Bass rock eddy, it being about a quarter of a mile below the Horseshoe Falls. We saw the barrel taken from the water and the person of a woman taken from the barrel, and who (contrary to our expectations) was alive, and we confidently believe her to be the only human being that ever went over the Falls of Niagara and lived, and we can certify that the woman known to us since as Mrs. A. E. Taylor was the person taken out of the barrel. R. R. CARTER, Master S. S. “Maid of the Mist.” WILLIAM THOMAS, Mate, “Maid of the Mist.”"
+      }
+    ],
+    "factReview": {
+      "reviewer": "codex-queue; c05_colton_historic_crossing_peer",
+      "note": "ROOT and distinct reviewer read the complete 1902 Over the Falls memoir, necessary creator/rights context and separately attributed firsthand texts. Taylor narrative plus Perigo/Maddever joint eyewitness certificate qualify full identity; Taylor plus Carter/Thomas joint eyewitness certificate qualify barrel crossing and extraction alive. Three credited authored works share ONE promotional publication; versions and joint signers are not extra votes. Printed firsthand attribution supports this narrow event, without autograph/scans authentication or global no-borrowing proof. Full Ann/Anne family relationship and both old anchors are lost; concrete barrel/waterfall/survival episode earns that loss and full bearer/place/vehicle/outcome costs. Age, firstness, height and injury-free survival excluded; birth-year conflict retained in CONFLICTS. Editorial judgment, not an audience measurement."
+    }
+  }
+]
+```
+
+The base URL index below and later history are preserved verbatim. Its Kristine and Annie entries record earlier support; the current replacements and scopes above supersede those two entries. Other498 row sources are unchanged. Catalog/creator/rights contexts additionally read: https://www.gutenberg.org/ebooks/70419 ; https://www.gutenberg.org/ebooks/37683 ; https://www.gutenberg.org/ebooks/78938 ; https://www.behindthename.com/info/copyright ; https://www.behindthename.com/info/terms ; https://www.etymonline.com/columns/post/bio ; https://www.etymonline.com/columns/post/sources ; https://www.etymonline.com/legal/terms . Took publication/creator/compilation/upstream/rights scope, no additional independent factual votes or creative assets.
+
 ## Current fact-source URL index
 
 Each URL identifies retained fact support/quotes and selected identities. Mirrors and linked headwords remain one authored work; rights and limitations remain above.
