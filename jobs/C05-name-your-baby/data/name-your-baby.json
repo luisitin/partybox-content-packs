@@ -33583,29 +33583,29 @@
         }
       ],
       "id": "ssa:F:Katie",
-      "fact": "Katie and Kate are in Katherine’s name family.",
+      "fact": "Katie Ledecky won Olympic swimming gold at 15.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Behind the Name: Katie and explicitly linked name entries",
-          "workId": "behind-the-name:dictionary",
-          "quote": "Diminutive of Kate. […] Diminutive of Katherine, often used independently."
+          "url": "https://en.wikipedia.org/w/index.php?title=Katie_Ledecky&oldid=1376050476",
+          "publisher": "Wikipedia",
+          "author": "Wikipedia contributors",
+          "title": "Katie Ledecky",
+          "workId": "wikipedia:Katie-Ledecky:1376050476",
+          "quote": "In her international debut at the [[2012 Summer Olympics|2012 London Olympic Games]] as a 15-year-old, Ledecky unexpectedly won the gold medal in the women's [[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800-metre freestyle]]."
         },
         {
-          "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-          "publisher": "Macmillan and Co., London; digital text retained by GITenberg",
-          "author": "Charlotte Mary Yonge",
-          "title": "History of Christian Names (1884)",
-          "workId": "yonge-history-of-christian-names-1884",
-          "quote": "Our truest old English ones are Kate and Kitty […] by the Scottish Katie"
+          "url": "https://www.britannica.com/biography/Katie-Ledecky",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Adam Augustyn and The Editors of Encyclopaedia Britannica",
+          "title": "Katie Ledecky: Biography, Olympic Medals, Records, and Facts",
+          "workId": "britannica:Katie-Ledecky",
+          "quote": "Just 15 years old, she was the youngest member of the U.S. Olympic swimming team. At the Games she set an American record en route to the gold medal in the 800-meter freestyle."
         }
       ],
       "factReview": {
-        "reviewer": "Codex source research subagent /root/c05_bible_gap_facts",
-        "note": "Individual comparison of actual cached Charlotte Mary Yonge book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. The two BTN links count as ONE authored work. Yonge independently places both contractions in the Catherine/Katherine discussion; no present-day nationality is inferred. Recognition is separately reviewed below."
+        "reviewer": "ROOT",
+        "note": "ROOT read pinned Wiki lead/early life/complete2012 trials and Olympics units/all attached citations, actual contributor/revision/footer, whole BRT biography/history/author/editor units. Two composed encyclopedic families per predicate; shared Olympic results/TeamUSA history and underlying unread primary records disclosed, no primary-discovery/no-borrowing guarantee. Entire validold46/8 Katie/Kate/Katherine family lesson lost. New46/8 teen Olympic gold event judged worth whole lost relation and new surname/sport/context costs; equal length/source truth/counts/fame alone no gain. Individual editorial judgment, no audience or replacement consensus. No first/youngest-all-countries/current medal or winning-streak claims. Brief linked attributed evidence; WikiCC4/revision/change obligations retained, BRT copyright no open-corpus/MIT grant; corporateTerms CONNECT-denied/unread. RawHTML/most laterWiki sections unread."
       },
       "recognitionVerified": true,
       "recognitionReview": {
