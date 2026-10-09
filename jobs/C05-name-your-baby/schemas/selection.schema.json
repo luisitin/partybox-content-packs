@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://partybox.invalid/C05/selection.schema.json",
+  "type": "array",
+  "minItems": 500,
+  "maxItems": 500,
+  "uniqueItems": true,
+  "items": {
+    "type": "string",
+    "pattern": "^ssa:[FM]:[A-Za-z]{2,15}$"
+  }
+}

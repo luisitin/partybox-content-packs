@@ -1,0 +1,2781 @@
+{
+  "mode": "historical-sample",
+  "complete": false,
+  "currentMetricsVerified": false,
+  "analysis": {
+    "startYear": 1880,
+    "endYear": 2009,
+    "unit": "sum-of-published-SSA-name-counts"
+  },
+  "source": {
+    "publisher": "hadley/babynames",
+    "url": "https://raw.githubusercontent.com/hadley/babynames/4391c25ea10b8b0589cdbab63067de3bc8b3a628/data/babynames.rda",
+    "commit": "4391c25ea10b8b0589cdbab63067de3bc8b3a628",
+    "sha256": "1d5c601fa3c5177f4d9edb4c8c2f08fddc8d9bf04372b8a40dc6aecf92bfa324",
+    "license": "CC0",
+    "coverageStartYear": 1880,
+    "coverageEndYear": 2017
+  },
+  "rows": [
+    {
+      "id": "ssa:M:Thomas",
+      "name": "Thomas",
+      "sex": "M",
+      "totalPublishedCount": 2248621,
+      "peakDecade": 1950,
+      "peakCount": 454195,
+      "runnerUpCount": 350739,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 23750,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 21115,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 21785,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 91619,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 161111,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 183855,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 350739,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 454195,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 327158,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 186880,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 177781,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 146581,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 102052,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Christopher",
+      "name": "Christopher",
+      "sex": "M",
+      "totalPublishedCount": 1934692,
+      "peakDecade": 1980,
+      "peakCount": 554859,
+      "runnerUpCount": 475614,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 752,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 668,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 484,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 1961,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 2865,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 2734,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 15871,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 78228,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 237203,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 475614,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 554859,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 360204,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 203249,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Daniel",
+      "name": "Daniel",
+      "sex": "M",
+      "totalPublishedCount": 1795699,
+      "peakDecade": 1980,
+      "peakCount": 345478,
+      "runnerUpCount": 272227,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 5680,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 5185,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 5036,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 23980,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 43421,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 47990,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 112756,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 243613,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 242092,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 244557,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 345478,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 272227,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 203684,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Elizabeth",
+      "name": "Elizabeth",
+      "sex": "F",
+      "totalPublishedCount": 1552446,
+      "peakDecade": 1980,
+      "peakCount": 198965,
+      "runnerUpCount": 172624,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 25006,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 33879,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 41708,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 116811,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 139674,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 96470,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 116535,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 165646,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 168895,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 142858,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 198965,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 172624,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 133375,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Matthew",
+      "name": "Matthew",
+      "sex": "M",
+      "totalPublishedCount": 1485011,
+      "peakDecade": 1980,
+      "peakCount": 458955,
+      "runnerUpCount": 351606,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 1068,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1132,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1189,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 6228,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 8567,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 6255,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 8759,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 35800,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 106000,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 277959,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 458955,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 351606,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 221493,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Jennifer",
+      "name": "Jennifer",
+      "sex": "F",
+      "totalPublishedCount": 1452768,
+      "peakDecade": 1970,
+      "peakCount": 581772,
+      "runnerUpCount": 440859,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1890,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1900,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1910,
+          "count": 11,
+          "publishedYearCount": 2,
+          "omittedYearCount": 8
+        },
+        {
+          "decade": 1920,
+          "count": 87,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 368,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 10690,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 43073,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 164411,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 581772,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 440859,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 148019,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 63478,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:George",
+      "name": "George",
+      "sex": "M",
+      "totalPublishedCount": 1442121,
+      "peakDecade": 1920,
+      "peakCount": 261953,
+      "runnerUpCount": 208986,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 47651,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 43358,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 43589,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 176611,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 261953,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 192255,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 208986,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 180973,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 113049,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 64764,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 45694,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 35242,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 27996,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Barbara",
+      "name": "Barbara",
+      "sex": "F",
+      "totalPublishedCount": 1431426,
+      "peakDecade": 1940,
+      "peakCount": 425242,
+      "runnerUpCount": 345706,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 1820,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 2783,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 4001,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 23705,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 97213,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 296392,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 425242,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 345706,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 159749,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 42242,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 19128,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 8815,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 4630,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Mark",
+      "name": "Mark",
+      "sex": "M",
+      "totalPublishedCount": 1332379,
+      "peakDecade": 1960,
+      "peakCount": 441446,
+      "runnerUpCount": 382430,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 928,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 953,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 972,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 4134,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 6498,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 7447,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 50729,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 382430,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 441446,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 194415,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 129407,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 75797,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 37223,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Kenneth",
+      "name": "Kenneth",
+      "sex": "M",
+      "totalPublishedCount": 1255800,
+      "peakDecade": 1950,
+      "peakCount": 262718,
+      "runnerUpCount": 227528,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 363,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1298,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 4579,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 43249,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 99494,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 125081,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 198512,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 262718,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 227528,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 111542,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 89130,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 58244,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 34062,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Margaret",
+      "name": "Margaret",
+      "sex": "F",
+      "totalPublishedCount": 1231194,
+      "peakDecade": 1920,
+      "peakCount": 245007,
+      "runnerUpCount": 189232,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 21799,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 37938,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 57921,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 189232,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 245007,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 157361,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 173013,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 149571,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 81863,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 31952,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 30352,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 31287,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 23898,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Brian",
+      "name": "Brian",
+      "sex": "M",
+      "totalPublishedCount": 1143007,
+      "peakDecade": 1970,
+      "peakCount": 322841,
+      "runnerUpCount": 258214,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1890,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1900,
+          "count": 5,
+          "publishedYearCount": 1,
+          "omittedYearCount": 9
+        },
+        {
+          "decade": 1910,
+          "count": 116,
+          "publishedYearCount": 9,
+          "omittedYearCount": 1
+        },
+        {
+          "decade": 1920,
+          "count": 566,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 3176,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 22789,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 112298,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 258214,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 322841,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 233994,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 119264,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 69744,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Kevin",
+      "name": "Kevin",
+      "sex": "M",
+      "totalPublishedCount": 1121289,
+      "peakDecade": 1960,
+      "peakCount": 271463,
+      "runnerUpCount": 212367,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1890,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1900,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1910,
+          "count": 117,
+          "publishedYearCount": 8,
+          "omittedYearCount": 2
+        },
+        {
+          "decade": 1920,
+          "count": 600,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 1625,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 11278,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 158955,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 271463,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 212367,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 188679,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 165176,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 111029,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Susan",
+      "name": "Susan",
+      "sex": "F",
+      "totalPublishedCount": 1118903,
+      "peakDecade": 1950,
+      "peakCount": 437723,
+      "runnerUpCount": 287653,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 3231,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 3612,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 3448,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 6814,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 8407,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 21031,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 212012,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 437723,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 287653,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 88315,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 30542,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 10872,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 5243,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Joshua",
+      "name": "Joshua",
+      "sex": "M",
+      "totalPublishedCount": 1110691,
+      "peakDecade": 1980,
+      "peakCount": 396570,
+      "runnerUpCount": 329114,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 465,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 287,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 243,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 926,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 1143,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 949,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1158,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 2222,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 5333,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 140396,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 396570,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 329114,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 231885,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Dorothy",
+      "name": "Dorothy",
+      "sex": "F",
+      "totalPublishedCount": 1104233,
+      "peakDecade": 1920,
+      "peakCount": 368870,
+      "runnerUpCount": 210393,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 2088,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 10846,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 39112,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 207476,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 368870,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 210393,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 132245,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 74476,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 33008,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 11663,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 7142,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 4210,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 2704,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Timothy",
+      "name": "Timothy",
+      "sex": "M",
+      "totalPublishedCount": 1044886,
+      "peakDecade": 1960,
+      "peakCount": 276858,
+      "runnerUpCount": 198238,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 693,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 651,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 648,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 1920,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 2961,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 5110,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 43490,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 198238,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 276858,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 181340,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 172831,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 107738,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 52408,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Sarah",
+      "name": "Sarah",
+      "sex": "F",
+      "totalPublishedCount": 1034536,
+      "peakDecade": 1980,
+      "peakCount": 272607,
+      "runnerUpCount": 224310,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 14715,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 17154,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 17343,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 38120,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 46769,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 36509,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 39973,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 39963,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 43908,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 118832,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 272607,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 224310,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 124333,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Jessica",
+      "name": "Jessica",
+      "sex": "F",
+      "totalPublishedCount": 1028813,
+      "peakDecade": 1980,
+      "peakCount": 469472,
+      "runnerUpCount": 303086,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 94,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 135,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 159,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 411,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 410,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 499,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 2204,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 4558,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 13673,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 143491,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 469472,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 303086,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 90621,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Helen",
+      "name": "Helen",
+      "sex": "F",
+      "totalPublishedCount": 1012206,
+      "peakDecade": 1920,
+      "peakCount": 290398,
+      "runnerUpCount": 248155,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 11496,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 37802,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 69429,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 248155,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 290398,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 140412,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 90737,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 57566,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 29094,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 11466,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 8407,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 8400,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 8844,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Jason",
+      "name": "Jason",
+      "sex": "M",
+      "totalPublishedCount": 985828,
+      "peakDecade": 1970,
+      "peakCount": 462928,
+      "runnerUpCount": 292074,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 190,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 142,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 124,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 630,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 990,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 879,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 1314,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 3789,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 42571,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 462928,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 292074,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 91683,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 88514,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Karen",
+      "name": "Karen",
+      "sex": "F",
+      "totalPublishedCount": 979216,
+      "peakDecade": 1950,
+      "peakCount": 332485,
+      "runnerUpCount": 286044,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 49,
+          "publishedYearCount": 6,
+          "omittedYearCount": 4
+        },
+        {
+          "decade": 1890,
+          "count": 79,
+          "publishedYearCount": 9,
+          "omittedYearCount": 1
+        },
+        {
+          "decade": 1900,
+          "count": 98,
+          "publishedYearCount": 9,
+          "omittedYearCount": 1
+        },
+        {
+          "decade": 1910,
+          "count": 304,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 566,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 16697,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 167689,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 332485,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 286044,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 95186,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 34913,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 24511,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 20595,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Jeffrey",
+      "name": "Jeffrey",
+      "sex": "M",
+      "totalPublishedCount": 962922,
+      "peakDecade": 1960,
+      "peakCount": 302054,
+      "runnerUpCount": 202952,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 5,
+          "publishedYearCount": 1,
+          "omittedYearCount": 9
+        },
+        {
+          "decade": 1890,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1900,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1910,
+          "count": 147,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 263,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 905,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 34341,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 184569,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 302054,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 202952,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 144796,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 66985,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 25905,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Lisa",
+      "name": "Lisa",
+      "sex": "F",
+      "totalPublishedCount": 962037,
+      "peakDecade": 1960,
+      "peakCount": 496972,
+      "runnerUpCount": 228684,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 6,
+          "publishedYearCount": 1,
+          "omittedYearCount": 9
+        },
+        {
+          "decade": 1890,
+          "count": 12,
+          "publishedYearCount": 2,
+          "omittedYearCount": 8
+        },
+        {
+          "decade": 1900,
+          "count": 21,
+          "publishedYearCount": 3,
+          "omittedYearCount": 7
+        },
+        {
+          "decade": 1910,
+          "count": 120,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 180,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 446,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 2728,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 95816,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 496972,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 228684,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 102598,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 27432,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 7022,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Frank",
+      "name": "Frank",
+      "sex": "M",
+      "totalPublishedCount": 902452,
+      "peakDecade": 1920,
+      "peakCount": 151829,
+      "runnerUpCount": 119401,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 30967,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 28718,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 29046,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 116019,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 151829,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 108074,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 119401,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 112291,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 87167,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 46934,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 33587,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 23952,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 14467,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Gary",
+      "name": "Gary",
+      "sex": "M",
+      "totalPublishedCount": 896138,
+      "peakDecade": 1950,
+      "peakCount": 329814,
+      "runnerUpCount": 217732,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 54,
+          "publishedYearCount": 8,
+          "omittedYearCount": 2
+        },
+        {
+          "decade": 1890,
+          "count": 102,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 143,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 563,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 1517,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 43597,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 217732,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 329814,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 166030,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 68293,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 40231,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 19188,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 8874,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Ryan",
+      "name": "Ryan",
+      "sex": "M",
+      "totalPublishedCount": 847123,
+      "peakDecade": 1980,
+      "peakCount": 278916,
+      "runnerUpCount": 241181,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1890,
+          "count": 0,
+          "publishedYearCount": 0,
+          "omittedYearCount": 10
+        },
+        {
+          "decade": 1900,
+          "count": 10,
+          "publishedYearCount": 1,
+          "omittedYearCount": 9
+        },
+        {
+          "decade": 1910,
+          "count": 55,
+          "publishedYearCount": 7,
+          "omittedYearCount": 3
+        },
+        {
+          "decade": 1920,
+          "count": 111,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 134,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 500,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 1963,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 11346,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 139734,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 278916,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 241181,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 173173,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Stephen",
+      "name": "Stephen",
+      "sex": "M",
+      "totalPublishedCount": 844725,
+      "peakDecade": 1950,
+      "peakCount": 207193,
+      "runnerUpCount": 152249,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 1684,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 1733,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 2247,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 13502,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 15558,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 18270,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 106789,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 207193,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 152249,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 107871,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 113609,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 75145,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 28875,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:M:Nicholas",
+      "name": "Nicholas",
+      "sex": "M",
+      "totalPublishedCount": 838241,
+      "peakDecade": 1990,
+      "peakCount": 275282,
+      "runnerUpCount": 223311,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 730,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 857,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 1334,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 10233,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 13611,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 9712,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 15507,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 22612,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 22394,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 65108,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 223311,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 275282,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 177550,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    },
+    {
+      "id": "ssa:F:Donna",
+      "name": "Donna",
+      "sex": "F",
+      "totalPublishedCount": 829326,
+      "peakDecade": 1950,
+      "peakCount": 270325,
+      "runnerUpCount": 213453,
+      "sparkline": [
+        {
+          "decade": 1880,
+          "count": 266,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1890,
+          "count": 440,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1900,
+          "count": 792,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1910,
+          "count": 4294,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1920,
+          "count": 26159,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1930,
+          "count": 78840,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1940,
+          "count": 165519,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1950,
+          "count": 270325,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1960,
+          "count": 213453,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1970,
+          "count": 47353,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1980,
+          "count": 13040,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 1990,
+          "count": 5664,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        },
+        {
+          "decade": 2000,
+          "count": 3181,
+          "publishedYearCount": 10,
+          "omittedYearCount": 0
+        }
+      ],
+      "fact": null,
+      "factStatus": "unverified",
+      "recognitionVerified": false
+    }
+  ]
+}

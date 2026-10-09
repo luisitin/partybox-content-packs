@@ -1,0 +1,553 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "$id": "https://partybox.invalid/C05/pack.schema.json",
+  "required": [
+    "mode",
+    "complete",
+    "currentMetricsVerified",
+    "analysis",
+    "source",
+    "rows"
+  ],
+  "properties": {
+    "mode": {
+      "const": "historical-sample"
+    },
+    "complete": {
+      "const": false
+    },
+    "currentMetricsVerified": {
+      "const": false
+    },
+    "analysis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "startYear",
+        "endYear",
+        "unit"
+      ],
+      "properties": {
+        "startYear": {
+          "const": 1880
+        },
+        "endYear": {
+          "const": 2009
+        },
+        "unit": {
+          "const": "sum-of-published-SSA-name-counts"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "commit",
+        "coverageEndYear",
+        "coverageStartYear",
+        "license",
+        "publisher",
+        "sha256",
+        "url"
+      ],
+      "properties": {
+        "commit": {
+          "const": "4391c25ea10b8b0589cdbab63067de3bc8b3a628"
+        },
+        "coverageEndYear": {
+          "const": 2017
+        },
+        "coverageStartYear": {
+          "const": 1880
+        },
+        "license": {
+          "const": "CC0"
+        },
+        "publisher": {
+          "const": "hadley/babynames"
+        },
+        "sha256": {
+          "const": "1d5c601fa3c5177f4d9edb4c8c2f08fddc8d9bf04372b8a40dc6aecf92bfa324"
+        },
+        "url": {
+          "const": "https://raw.githubusercontent.com/hadley/babynames/4391c25ea10b8b0589cdbab63067de3bc8b3a628/data/babynames.rda"
+        }
+      }
+    },
+    "rows": {
+      "type": "array",
+      "minItems": 30,
+      "maxItems": 30,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "sex",
+          "totalPublishedCount",
+          "peakDecade",
+          "peakCount",
+          "runnerUpCount",
+          "sparkline",
+          "fact",
+          "factStatus",
+          "recognitionVerified"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^ssa:[FM]:[A-Za-z]{1,40}$"
+          },
+          "name": {
+            "type": "string",
+            "pattern": "^[A-Za-z]{1,40}$"
+          },
+          "sex": {
+            "enum": [
+              "F",
+              "M"
+            ]
+          },
+          "totalPublishedCount": {
+            "type": "integer",
+            "minimum": 50000,
+            "maximum": 9007199254740991
+          },
+          "peakDecade": {
+            "type": "integer",
+            "minimum": 1880,
+            "maximum": 2000,
+            "multipleOf": 10
+          },
+          "peakCount": {
+            "type": "integer",
+            "minimum": 5,
+            "maximum": 9007199254740991
+          },
+          "runnerUpCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "sparkline": {
+            "type": "array",
+            "minItems": 13,
+            "maxItems": 13,
+            "additionalItems": false,
+            "items": [
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1880
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1890
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1900
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1910
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1920
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1930
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1940
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1950
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1960
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1970
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1980
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 1990
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "$ref": "#/definitions/cell"
+                  },
+                  {
+                    "properties": {
+                      "decade": {
+                        "const": 2000
+                      }
+                    },
+                    "type": "object"
+                  }
+                ]
+              }
+            ]
+          },
+          "fact": {
+            "type": "null"
+          },
+          "factStatus": {
+            "const": "unverified"
+          },
+          "recognitionVerified": {
+            "const": false
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "cell": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "decade",
+        "count",
+        "publishedYearCount",
+        "omittedYearCount"
+      ],
+      "properties": {
+        "decade": {
+          "type": "integer",
+          "minimum": 1880,
+          "maximum": 2000,
+          "multipleOf": 10
+        },
+        "count": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "publishedYearCount": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "omittedYearCount": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10
+        }
+      },
+      "oneOf": [
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 0
+            },
+            "omittedYearCount": {
+              "const": 10
+            },
+            "count": {
+              "const": 0
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 1
+            },
+            "omittedYearCount": {
+              "const": 9
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 2
+            },
+            "omittedYearCount": {
+              "const": 8
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 10,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 3
+            },
+            "omittedYearCount": {
+              "const": 7
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 15,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 4
+            },
+            "omittedYearCount": {
+              "const": 6
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 20,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 5
+            },
+            "omittedYearCount": {
+              "const": 5
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 25,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 6
+            },
+            "omittedYearCount": {
+              "const": 4
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 30,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 7
+            },
+            "omittedYearCount": {
+              "const": 3
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 35,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 8
+            },
+            "omittedYearCount": {
+              "const": 2
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 40,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 9
+            },
+            "omittedYearCount": {
+              "const": 1
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 45,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        {
+          "properties": {
+            "publishedYearCount": {
+              "const": 10
+            },
+            "omittedYearCount": {
+              "const": 0
+            },
+            "count": {
+              "type": "integer",
+              "minimum": 50,
+              "maximum": 9007199254740991
+            }
+          }
+        }
+      ]
+    }
+  }
+}
