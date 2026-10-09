@@ -13344,36 +13344,28 @@
     }
   },
   {
-    "fact": "Cory is also a surname, with one proposed root in Old Norse Kori.",
+    "fact": "Cory Booker's 2025 Senate speech lasted over 25 hours.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/w/index.php?title=Cory_Booker%27s_marathon_speech&oldid=1360615500",
         "publisher": "Wikipedia",
-        "quote": "As a surname, it has a number of possible derivations, including an [[Old Norse]] personal name Kori of uncertain meaning",
-        "title": "Cory",
-        "url": "https://en.wikipedia.org/w/index.php?title=Cory&oldid=1374283337",
-        "workId": "wikipedia:Cory:1374283337"
+        "author": "Wikipedia contributors",
+        "title": "Cory Booker's marathon speech",
+        "workId": "wikipedia:Booker-marathon:1360615500",
+        "quote": "Booker began speaking at 7 p.m. [[Eastern Time Zone|EDT]] on March 31 and concluded at 8:05&nbsp;p.m. on April 1, 2025."
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Variant of Corey.",
-        "title": "Behind the Name first-name dictionary: Cory",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
-      },
-      {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "From a surname that was derived from the Old Norse given name Kóri, of unknown meaning.",
-        "title": "Behind the Name first-name dictionary: Corey",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://www.britannica.com/biography/Cory-Booker",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Gregory Lewis McNamee; The Editors of Encyclopaedia Britannica",
+        "title": "Cory Booker | Longest Senate Speech, Presidential Bid, Biography, & Facts",
+        "workId": "britannica:Cory-Booker:McNamee:2026-10-06",
+        "quote": "On March 31, 2025, Cory Booker began to speak on the floor of the U.S. Senate and said he intended to continue to speak for as long as he was “physically able.” He spoke for more than 25 hours, setting the record for the longest speech in Senate history."
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN reference scope checked; underlying cited works not directly read. Explicitly a proposed surname root, not a universal given-name derivation or a meaning claim. Accent variation Kori/Kóri is retained in source evidence.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "ROOT",
+      "note": "ROOT personally read the whole pinned Wikipedia speech account and whole displayed Britannica biography plus actual contributor/writer/editor and necessary rights context. Two separately composed treatments, not two links or independent observations; shared public-event/reporting upstream possible. Historical2025 elapsed speech duration includes colleagues questions while retaining the floor, not uninterrupted sole-voice speaking. Original short fact; no current record/filibuster/physiology or SSA claim. Direct NPR/AP/Guardian/Terms and archived Terms blocked; no open Britannica article/art license asserted. Separate full valid surname/Kori lesson loss and -11chars/-4words priced after source-only exact54/9 lock; only particular over-day event earns modest individual editorial gain."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Cory",
