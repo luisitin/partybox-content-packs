@@ -440,3 +440,7 @@ Byron45/9 uses an explicitly identified historical poet bearing Byron as surname
 ## Prospective63 checkpoint 2026-10-09T08:34:16.352822+00:00
 
 Own narrow source qualification and exact58/9 only; full59/11 place lesson loss remains pending. Current-age25 discrepancy rejected. Wrong v1 machine ID corrected in explicit v2 before mutation. No source/helper/execution authority transfers from agents. Saved116 requires Publish; no application claim. Checkpoint is not round63 or no-gain.
+
+## Round63 bounded source and editorial assumptions
+
+Historical became and eventage18; no current holder/age/team/F1/global/Indy500/pole/popularity claim. OwnactualWiki+AP composed works qualify with shared possible event upstream; official corporatebio doesnot supply age18. Mirrors/versions/dispatches onefamily; no eyewitness/first-writer/livecopy equality certificate. AP current25 rejected; importednewsfullproserights unestablished. Source peergenesis HOLD and independent different-ranking priorities retained. Own full59/11 place lesson lost and priced; concrete teenwin earns modest editorialgain, -1/-2alone0, noaudience trial. Exactv1 wrongID and lossv1 unsupportedoldtopic characterization explicitly superseded beforemutation. Helpers/agentreports/hashes nevertransfer source/execution authority. Native savingrequiresPublish; no activation/restart/restoration. All checkpoints/holds/nulls/reviews not noGain rounds;63actual/173editorial only after guarded tests/finish,0establishedconsecutive noGain.

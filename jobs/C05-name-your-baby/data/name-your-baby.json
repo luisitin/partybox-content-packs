@@ -50119,61 +50119,37 @@
         }
       ],
       "id": "ssa:M:Colton",
-      "fact": "Colton is a place name in both California and South Dakota.",
+      "fact": "At 18, Colton Herta became IndyCar's youngest race winner.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://download.geonames.org/export/dump/cities500.zip",
-          "publisher": "GeoNames",
-          "author": "GeoNames",
-          "title": "GeoNames cities500 export, retrieved 2026-10-07",
-          "workId": "geonames:geographic-database",
-          "quote": "5226993 Colton Colton Colton,Kolton,ke er dun,koruton,kwltwn,kwwltn dakwtay jnwby,kwwltn gwnyy dakwta,Колтон,كولتون,کولٹن، جنوبی ڈکوٹا,کوولتن، داکوتای جنوبی,کوولتن، گونئی داکوتا,コルトン,科尔顿 43.78609 -96.92756 P PPL US SD 099 13380 690 489 488 America/Chicago 2017-05-23"
-        },
-        {
-          "url": "https://download.geonames.org/export/dump/cities500.zip",
-          "publisher": "GeoNames",
-          "author": "GeoNames",
-          "title": "GeoNames cities500 export, retrieved 2026-10-07",
-          "workId": "geonames:geographic-database",
-          "quote": "5338783 Colton Colton Colton,Kolton,Koltun,Tohozho,Tóhózhǫ́,ke er dun,koltana,kolteon,koruton,kwltwn,kwltwn kalyfrnya,kwltwn kalyfwrnya,qwltwn,Колтон,Колтън,קולטון,كولتون,کولتون، کالیفرنیا,کولتون، کالیفورنیا,کولٹن، کیلیفورنیا,कोल्टन,കോൾട്ടൺ,コルトン,科尔顿,科爾頓,콜턴 34.0739 -117.31365 P PPL US CA 071 54621 306 309 America/Los_Angeles 2017-03-09"
-        },
-        {
-          "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-          "publisher": "GeoNames",
-          "author": "GeoNames",
-          "title": "GeoNames first-order administrative code names, read 2026-10-07",
-          "workId": "geonames:geographic-database",
-          "quote": "US.CA California California 5332921"
-        },
-        {
-          "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-          "publisher": "GeoNames",
-          "author": "GeoNames",
-          "title": "GeoNames first-order administrative code names, read 2026-10-07",
-          "workId": "geonames:geographic-database",
-          "quote": "US.SD South Dakota South Dakota 5769223"
-        },
-        {
-          "url": "https://en.wikipedia.org/w/index.php?title=Colton%2C+California&oldid=1377585740",
+          "url": "https://en.wikipedia.org/w/index.php?title=Colton_Herta&oldid=1378645638",
           "publisher": "Wikipedia",
           "author": "Wikipedia contributors",
-          "title": "Colton, California (revision 1377585740)",
-          "workId": "wikipedia:colton-california",
-          "quote": "'''Colton''' is a city in [[San Bernardino County, California]], United States."
+          "title": "Colton Herta; 2019 rookie season (revision1378645638)",
+          "workId": "wikipedia:colton-herta",
+          "quote": "On March 24, 2019, at the age of eighteen, Herta became the youngest-ever winner in IndyCar history by winning the IndyCar Classic at Circuit of the Americas."
         },
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Colton%2C+South+Dakota&oldid=1377158332",
-          "publisher": "Wikipedia",
-          "author": "Wikipedia contributors",
-          "title": "Colton, South Dakota (revision 1377158332)",
-          "workId": "wikipedia:colton-south-dakota",
-          "quote": "'''Colton''' is a city in [[Minnehaha County, South Dakota|Minnehaha County]], [[South Dakota]], United States."
+          "url": "https://raw.githubusercontent.com/MajorDigest/majordigest.github.io/a02a9b27b79226ab3a90f6a43de539a0d383e533/sports/2026/04/09/colton-hertas-indianapolis-500-hopes-blocked-by-formula-2-calendar-change/index.html",
+          "publisher": "Associated Press, via Local 4; preserved Major Digest import",
+          "author": "Associated Press",
+          "title": "Colton Herta's Indianapolis 500 hopes blocked by Formula 2 calendar change; April9,2026",
+          "workId": "ap:colton-herta:f2-calendar:2026-04-09",
+          "quote": "who became the series' youngest race winner at the age of 18 in 2019"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/neherdata/2024-indycar-longbeach-data/0c93140d109844e0d82eb3974a82dacfcf4095f9/driversfeed.json",
+          "publisher": "INDYCAR; preserved driverfeed import",
+          "author": "INDYCAR",
+          "title": "2024 driver biography: Colton Herta",
+          "workId": "indycar:colton-herta:2024-driver-bio",
+          "quote": "He is the youngest driver to win an INDYCAR SERIES race and pole position."
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review",
-        "note": "Independent agent review of the actual GeoNames cities500 ZIP, both Colton records, publisher field definitions/state-code mapping and cached Wikipedia city leads/infoboxes. Archive/member SHA256 and ZIP CRC match; each exact record has 19 fields, with name Colton and US.CA or US.SD mapped to California or South Dakota. Wikipedia hashes, revisions/timestamps, API-body equality and literal quotes match. Six references represent only two author/work groups: GeoNames and Wikipedia. No direct GeoNames dependence appears in the articles; shared upstream government sources remain unaudited. Approved fact states place-name occurrence only, excluding etymology, population, incorporation, naming causation and bearer ancestry. GeoNames publisher CC-BY-4.0 declaration read. Agent review only."
+        "reviewer": "ROOT",
+        "note": "ROOT read selected Wiki2019 narrative/lead/citations/footer, full credited AP2026 import/creator README/terms/disclaimer, and official2024bio/import README. Wiki+AP composed accounts support historic18/youngest series race win; Malsher/NBC originals/live Local4 blocked. Mirrors/versions/APdispatches one family; shared event upstream possible, no eyewitness/genesis certificate. Officialbio confirms youngest but not18. AP current25 conflicts DOB and is excluded. Full old59/11 two-state place lesson lost; surname/person/series/age costs charged. New58/9=-1char/-2words alone zero; concrete teen win earns modest editorial gain, no trial/consensus. Peer APgenesis HOLD retained; ROOT qualifies actual credited composition with import limits. Became excludes current-holder claim. No popularity/world/pole/Indy500 claim. Factual paraphrase/brief evidence only, no assets/corpus/contact fields; numeric/recognition unchanged."
       },
       "recognitionVerified": true,
       "recognitionReview": {
