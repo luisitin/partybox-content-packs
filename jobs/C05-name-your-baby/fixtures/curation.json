@@ -14368,28 +14368,36 @@
     }
   },
   {
-    "fact": "Maxine grew as a feminine form of Max.",
+    "fact": "Actress Maxine Elliott's barge held food and clothes for Belgians during World War I.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "created as a feminine version of the name [[Max (given name)|Max]]",
-        "title": "Maxine (given name)",
-        "url": "https://en.wikipedia.org/w/index.php?title=Maxine+%28given+name%29&oldid=1366334644",
-        "workId": "wikipedia:Maxine (given name):1366334644"
+        "url": "https://www.gutenberg.org/cache/epub/18364/pg18364.txt",
+        "publisher": "John Murray; PG digital delivery",
+        "author": "Sarah Macnaughtan; edited by Betty Keays-Young Salmon",
+        "title": "My War Experiences in Two Continents (1919): letter to her sisters, 28 February",
+        "workId": "macnaughtan:war-diary-letter:published1919",
+        "quote": "There is a barge on the canal at Adinkerke which is our only excitement. It is the property of Maxine Elliott, Lady Drogheda, and Miss Close, and to go to tea with them is everyone's ambition. The barge is crammed with things for Belgian refugees, and Maxine told me that the cargo represents \"nearer £10,000 than £5,000.\" It is piled with flour in sacks, clothing, medical comforts, etc. The work is good."
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Feminine form of Max.",
-        "title": "Behind the Name first-name dictionary: Maxine",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://raw.githubusercontent.com/CDRH/data_everyweek/ed16533b9f11b8c780cc583e853ff22a540d4402/source/tei/ew.issue.19160124.xml",
+        "publisher": "Every Week Corporation; UNL digital edition",
+        "author": "Every Week, unsigned editorial caption; personal prose author unestablished",
+        "title": "Every Week, January 24, 1916: Things Millionaires Have to Do, Maxine Elliott caption",
+        "workId": "everyweek:unsigned-editorial-caption:1916-01-24",
+        "quote": "MAXINE ELLIOTT, accredited with being the richest actress in America, lost all the polish off her pretty finger-nails last year when she hired a barge and distributed food and clothing to the starving Belgians"
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/59730/pg59730.txt",
+        "publisher": "George H. Doran Company; PG digital delivery",
+        "author": "Samuel Goldwyn, with acknowledged Corinne Lowe cooperation",
+        "title": "Behind the Screen (1923): chapter Eleven, Maxine Elliott and Pauline Frederick",
+        "workId": "goldwyn-lowe:behind-the-screen:1923",
+        "quote": "All this was far from heartening to further performance, yet in the midst of the storm called forth by her first picture Miss Elliott was busy on her second. She was now under the direction of Arthur Hopkins, who, although he had been studying studio methods for some months, had never before assumed full sway of a production. Probably nothing on the screen was more amusing than that inner drama of inexperience and bewilderment revealed in the making of this second picture."
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Different regular/common-use chronology and media influences are excluded.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "codex-queue; distinct exact source/full-loss/materiality: /root/c05_arthur_uncertainty_inquiry",
+      "note": "ROOT and distinct Arthur read full necessary Macnaughtan letter/editor/rights, Every Week editorial/creator/rights and Goldwyn/Lowe film/cooperation/rights contexts. Macnaughtan+Every Week qualify barge/cargo/Belgians; Every Week+Goldwyn qualify actress. WWI is bounded dating/context inference, not two literal label quotes; Goldwyn adds no aid votes. Unsigned caption writer remains unnamed; photo/digital/cooperator/version credits add no works. Positive separate compositions/import chains; manuscripts/scans/full Elliott-sister letter unread. Association, not sole ownership, steering/delivery; refugee subset/money/fame excluded. Whole feminine-Max relationship and Max anchor lost; +47chars/+6words and role/surname/boat/cargo/nationality/time costs earn modest visible actor/wartime-aid contrast in both exact85 judgments, not audience measurement. Earlier58 negatives and Colton source-null retained. Short attributed evidence; no art/bulk-source grant."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Maxine",

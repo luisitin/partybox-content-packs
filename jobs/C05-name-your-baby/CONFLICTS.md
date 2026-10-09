@@ -707,3 +707,7 @@ Round57 retains producer source-null disagreement under stricter selected-lineag
 ## Current checkpoint 2026-10-09T04:53:38.052362+00:00
 
 Maxine exact58 source-ready but Arthur materiality-negative; ROOT earlier positive preserved. Pick HOLD current58 wording and investigate visible wartime/relief/career contrast. This is an exact-wording disagreement, not source failure/noGain completion. Colton caption-authorship source-null versus ROOT/Arthur/Ava limited qualification remains. Fresh counter ranks Addison while ROOT ranks Maxine; neither is empirical player measurement.
+
+## Actual round58 2026-10-09T05:16:36.639303+00:00
+
+Round58 preserves Arthur and Ava exact58 sourcepositive/materialitynegative versus ROOT earlierpositive; pick separately reviewed85/14 actor+war revision only after distinct completed exactapproval. Colton attributed source-null is unresolved selected prose authorship/genesis and insufficient quoted-letter premises, not a named-person-only gate. Earlier ROOT personalbyline-only labels are inaccurate historical descriptions and corrected here; actual original editorial composition/import chains qualify in ROOT judgment without consensus or invented personalbyline/exhaustive genealogy. Historical58 proposal is not retroactively accepted, rejectedobjects not noGainrounds; specificallyrefugees/soleownership/delivery/wealth excluded. Counter worstAddison differs fromROOTMaxine; no availability-rerank.
