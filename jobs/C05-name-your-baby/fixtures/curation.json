@@ -2121,16 +2121,16 @@
   },
   {
     "id": "ssa:F:Nicole",
-    "fact": "Nicole is a feminine form of Nicholas.",
+    "fact": "Nicole, a feminine form of Nicholas, shares the shoe brand Nike's Greek 'victory' root.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Nicole (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "French feminine form of Nicholas"
+        "url": "https://nameberry.com/b/girl-baby-name-nicole",
+        "publisher": "Nameberry",
+        "author": "Clare Green; edited by Sophie Kihm",
+        "title": "Nameberry: Nicole (October 2026)",
+        "workId": "nameberry:name-dictionary",
+        "quote": "French feminine variation of Nicholas, Greek […] composed of the compounds nike , meaning \"victory,\" and laos , \"people.\""
       },
       {
         "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Nicole",
@@ -2138,12 +2138,36 @@
         "author": "J. Uckelman, S.L. Uckelman",
         "title": "The Dictionary of Medieval Names from European Sources: Nicole, edition 2023.1",
         "workId": "dmnes:dictionary:2023.1",
-        "quote": "Fem. of Nicholas."
+        "quote": "Fem. of Nicholas ."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Nicholas",
+        "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+        "author": "A. Brown, R. Le Get, J. Uckelman, S.L. Uckelman",
+        "title": "The Dictionary of Medieval Names from European Sources: Nicholas, edition 2023.1",
+        "workId": "dmnes:dictionary:2023.1",
+        "quote": "Greek νίκη 'victory' + Greek λαός 'people'."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Nike-Inc",
+        "publisher": "Encyclopaedia Britannica Money",
+        "author": "Debbie Carlson; fact-checked by Britannica editors",
+        "title": "Nike, Inc.: Founding and early history",
+        "workId": "britannica-money:carlson:nike-inc",
+        "quote": "Nike, after the Greek goddess of victory"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Nike,_Inc.&oldid=1378746109",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Nike, Inc. (revision 1378746109)",
+        "workId": "wikipedia:nike-inc",
+        "quote": "The company takes its name from Nike , the Greek goddess of victory."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-      "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+      "reviewer": "ROOT",
+      "note": "ROOT read necessary original contexts, credits/imports/rights. Nicole/feminine/Nicholas and Greek victory component: DMNES + composed Nameberry; two DMNES entries are one work. Nike shoe brand named after the victory goddess: Carlson Britannica + composed cited Wikipedia. Wiki cites unread/blocked Business Insider; deeper common company histories and Nameberry scholarly sources remain possible. No first-writer or primary-discovery certificate; current Wiki bot is not lead author. Exact 87/14 retains whole old38/7 lesson; +49chars/+7words/appositive/brand/root density charged, existing Nicholas/victory meanings earn no unique gain. Own separate materiality accepts the particular consumer-name bridge, no audience/consensus. Normalized text-node quote fragments retain punctuation spaces; ellipsis marks joins. DMNES/Nameberry/Britannica rights reserved, Britannica Terms blocked; Wiki CC BY-SA4.0. Only own brief fact/necessary attributed quotes, no corpus/assets licence."
     },
     "recognitionVerified": true,
     "recognitionReview": {
