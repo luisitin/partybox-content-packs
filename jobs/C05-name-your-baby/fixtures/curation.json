@@ -6569,29 +6569,29 @@
   },
   {
     "id": "ssa:F:Leslie",
-    "fact": "The surname Leslie derives from a Scottish place name.",
+    "fact": "Leslie Groves oversaw the Pentagon's construction and directed the Manhattan Project.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Leslie (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "From a Scottish surname that was derived from a Scottish place name"
+        "url": "https://www.britannica.com/biography/Leslie-Richard-Groves",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Robert S. Norris; fact-checked by Britannica Editors",
+        "title": "Leslie Richard Groves: Biography & Facts",
+        "workId": "britannica:norris-leslie-richard-groves",
+        "quote": "from 1940 to 1942, Groves eventually oversaw all army construction in the United States, a mammoth task involving building camps, munitions plants, airfields, depots, and the Pentagon […] In mid-1942, the Army Corps of Engineers was put in charge of the U.S. atomic bomb project—known as the Manhattan Engineer District (MED) or Manhattan Project—and Groves was selected as its head on September 17, 1942."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Clan_Leslie&oldid=1333463452",
-        "publisher": "English Wikipedia; Wikimedia Foundation",
+        "url": "https://en.wikipedia.org/w/index.php?title=Leslie_Groves&oldid=1373148986",
+        "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Clan Leslie (revision 1333463452)",
-        "workId": "wikipedia:Clan-Leslie:revision:1333463452",
-        "quote": "At Lesselyn he built a castle and it is from there that the name evolved into Leslie, and the various spelling variations."
+        "title": "Leslie Groves, revision 1373148986",
+        "workId": "wikipedia:LeslieGroves:1373148986",
+        "quote": "Leslie Richard Groves Jr. (17 August 1896 – 13 July 1970) was a United States Army Corps of Engineers officer who oversaw the construction of the Pentagon and directed the Manhattan Project"
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post_restart_fact_review/bardsley_lexical_review/wordnet_review",
-      "note": "Independent agent review of actual pinned BTN Leslie description and Clan Leslie revision 1333463452, including Lesselyn paragraph and the full immediate named Collins encyclopedia citation. Cached body hashes, BTN JSON pointer/quote and Wikipedia API revision/timestamp/body equality verified. Approved wording explicitly isolates the surname/place relationship corroborated by both authored editorial works. BTN mirrors/headwords count one work. Collins Scottish Clan & Family Encyclopedia (1994), pp.194–195 is cited by Wikipedia, not directly read. No identified BTN dependency in the article; deeper common authorities unaudited. Holly meaning, medieval narrative, given-name adoption and dates are excluded."
+      "reviewer": "ROOT",
+      "note": "ROOT read full Norris Britannica biography/credits/history/editorial process/contributor profile and Wiki fulllead/WorldWarII/bibliography/recenthistory/CCfooter. Two composed works per bearer/Pentagon oversight/Manhattan direction; Wiki cites Fine/Remington, Groves and Norris, so shared historical/Norris ancestry disclosed, not independent discovery/firstwriter. Versions/editions/contributors one family; underlying books unread, AI summaries excluded. Exact85/11 loses whole54/9 Scottish surname/place lesson; +31chars/+2words/surname/institution/role/density/context-switch costs separately priced for modest common-person connection, no audience/consensus. Oversaw not designed/solebuilt; directed not invented; no sequence/date/priority/popularity/sexexclusive claim. Female SSA numbers separate/exact. Wiki CC BY-SA4.0 attributed; Britannica rightsreserved/Terms403. Own fact/brief attributed excerpts, no media/corpus. Ellipsis joins two actual Britannica fragments."
     },
     "recognitionVerified": true,
     "recognitionReview": {
