@@ -679,3 +679,7 @@ Current root a827 Kristine-worst after ownGREEN/full500 is source-aware and reta
 ## Current d205 scope distinctions
 
 2026-10-09T02:54:21.757653+00:00 — ROOT corrected early five-note only after consuming all500 lines. Selected2008 cat clause cites IMDb, not AVClub film-role interview. Completed Sutherland report/scope/physical checks update earlier pending stage without transferring original prose reading. Annie memoir printed age/birthdate differs from currentWiki; proposal excludes age, birthday, firstness and height. Same-volume attributed narratives and certificates do not become independent votes by URL/format; ROOT and distinct judgments pending. Early ROOT book read preceded terminal, complete remainder followed exit0. No accepted change/round results from these records.
+
+## B4a source progress scope corrections
+
+2026-10-09T03:21:50.853818+00:00 — Governance4ca beforeGREEN; jobREADME b04942 afterGREEN before500; all4 again4bfe82 afterfive. PR corrected explicitly. Currentall500 lock follows consumption, historicalprematured205note preserved. Lilly mixedoutput clipping and producer pre-lock mental shorthand disclosed; no universal prewordingblindness. Lexical agent private hypothetical after6entries disclosed before neutral interpretation handoff. Sutherland historical40316byte body versus CONNECT4030 retained. Annie full age/date disagreement remains excluded, no autograph inspection. Prefix read attempt783be2 of75 oldNEXT lines clipped; filepins preservation is mechanical, not new full human reading.

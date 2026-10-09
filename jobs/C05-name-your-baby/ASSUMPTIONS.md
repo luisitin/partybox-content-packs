@@ -393,3 +393,7 @@ Reconnected filesystem retention is not fresh-task snapshot restoration. Native1
 ## Current d205 and supplementary Annie inquiry
 
 2026-10-09T02:54:21.757653+00:00 — Same corrected ROOT five, premature note retained and repaired after actual whole reading. Kristine remains worst; supplements are research. Every old lesson and context cost remains due. Separate credited eyewitness texts inside a common publication need positive independence qualification; no URL or certificate counting. Producer proposal and peer originals transfer no ROOT approval. Native109 actual save is not publication/restoration. No57/noGain; never replay56.
+
+## B4a source progress assumptions
+
+2026-10-09T03:21:50.853818+00:00 — Full old family loss and all new context remain payable. Annie same-volume separately credited firsthand works positively qualified, not counted by URL. Kristine still worst; supplementary readiness does not satisfy that condition. Lilly counts/category/time/source dependence unresolved. Lexical direction unverified; no people labels or shared approval. Draft110 saved is not published/restored. No57/noGain.
