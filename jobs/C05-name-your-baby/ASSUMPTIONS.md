@@ -526,3 +526,7 @@ Public source/CI reads working does not establish authenticated Git/API write ac
 ## Authentication recovery
 
 Actual Git pushes and API reads recovered during this turn without credential/proxy/TLS/policy changes. Do not infer that draft saves caused runtime recovery. The transient blocked line was actually published, then is restored to an owned timestamp by ordinary push. C05 continues; no extra accepted/no-gain round, no replay and no closure.
+
+### Round74 assumptions
+
+Whole validold CaitlinEnglish-rendering/Irish-Caitlín relation retained. Shared Kathleen form supplies a modest local editorial gain after +12chars/+1word, new name and repeated-family/opacity costs; no measured audience or consensus. Do not merge spellings/SSA sex/counts/recognition or assert universal pronunciation, pure meaning, causation. Returning source-aware ROOT/counter histories disclosed; ownpriority predates heldcounter opinions. Optional newpeer metadata does not confer original-reading or decision authority. Current BTN restrictions are not an openlicence; independently worded facts and minimum linked evidence only. Native saved draft requiresPublish and establishes no restoration. No actual3consecutive noGain or exhaustion established.

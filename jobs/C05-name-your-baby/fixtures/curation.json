@@ -14600,44 +14600,44 @@
     }
   },
   {
-    "fact": "Caitlin is an English rendering of the Irish name Caitlín.",
+    "fact": "Caitlin and Kathleen are English renderings of the Irish name Caitlín.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "the Irish name '''Caitlín''' was anglicized as [[Cathleen]] or [[Kathleen (given name)|Kathleen]].",
-        "title": "Caitlin",
         "url": "https://en.wikipedia.org/w/index.php?title=Caitlin&oldid=1373695301",
-        "workId": "wikipedia:Caitlin:1373695301"
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Caitlin",
+        "workId": "wikipedia:Caitlin:1373695301",
+        "quote": "the Irish name '''Caitlín''' was anglicized as [[Cathleen]] or [[Kathleen (given name)|Kathleen]]."
       },
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "non-Irish speakers began pronouncing the name according to English spelling rules",
-        "title": "Caitlin",
         "url": "https://en.wikipedia.org/w/index.php?title=Caitlin&oldid=1373695301",
-        "workId": "wikipedia:Caitlin:1373695301"
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Caitlin",
+        "workId": "wikipedia:Caitlin:1373695301",
+        "quote": "which led to many variations in spelling such as '''Caitlin'''"
       },
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "which led to many variations in spelling such as '''Caitlin'''",
-        "title": "Caitlin",
-        "url": "https://en.wikipedia.org/w/index.php?title=Caitlin&oldid=1373695301",
-        "workId": "wikipedia:Caitlin:1373695301"
-      },
-      {
-        "author": "Behind the Name",
+        "url": "https://www.behindthename.com/name/caitlin",
         "publisher": "Behind the Name",
-        "quote": "Anglicized form of Caitlín.",
-        "title": "Behind the Name first-name dictionary: Caitlin",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "author": "Mike Campbell",
+        "title": "Meaning, origin and history of the name Caitlin",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Anglicized form of Caitlín ."
+      },
+      {
+        "url": "https://www.behindthename.com/name/kathleen",
+        "publisher": "Behind the Name",
+        "author": "Mike Campbell",
+        "title": "Meaning, origin and history of the name Kathleen",
+        "workId": "behind-the-name:dictionary",
+        "quote": "Anglicized form of Caitlín ."
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with a pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN citation scope checked; cited underlying works not directly read. Chosen transliteration/pronunciation paragraph has a non-BTN cluster. Later Katherine root paragraph explicitly cites BTN and is excluded; deeper pure gloss is not selected. Original research lineage beyond visible citations is unaudited.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "ROOT",
+      "note": "Actual full pinned Wiki first paragraph/all citations and whole live BTN Caitlin/Kathleen main entries/creator/catalogue/rights read. Two composed editorial families per clause, not four URL votes: communal historical/pronunciation synthesis and Campbell-curated lexical entries; all BTN entries one family. Known general BTN Wiki consultation and unused explicit Wiki Katherine/BTN import disclosed; deeper ancestors and linked first-paragraph sources unread, no primary/no-borrowing guarantee. Old58/10 English-rendering/Irish-Caitlín lesson wholly retained; new70/11 adds Kathleen (+12 chars/+1 word). ROOT separately judged that specific shared-Irish-name link pays extra spelling/entity/density/repeated-family costs, modest individual gain, not sourcecount/truth/novelty/shortness or audience consensus. No universal pronunciation, pure/settled origin, popularity/SSA causation. Brief linked factual excerpts only; CC4/source rights and current BTN restrictions retained."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Caitlin",
