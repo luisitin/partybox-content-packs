@@ -15777,29 +15777,29 @@
   },
   {
     "id": "ssa:M:Nicolas",
-    "fact": "Nicolas is the French form of Nicholas.",
+    "fact": "Nicolas Appert preserved food by heating sealed glass bottles in boiling water.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Nicolas (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "French form of Nicholas."
+        "url": "https://www.gutenberg.org/ebooks/52551",
+        "publisher": "Black, Parry, and Kingsbury (1812); digitized by Project Gutenberg",
+        "author": "Nicolas Appert; English translator uncredited",
+        "title": "The Art of Preserving All Kinds of Animal and Vegetable Substances, second English edition (1812)",
+        "workId": "appert:art-of-preserving:1812",
+        "quote": "I chose glass, as being the matter most impenetrable by air, and have not ventured to make any experiment with a vessel made of any other substance. […] In inclosing in bottles the substances to be preserved. […] In corking the bottles with the utmost care; for it is chiefly on the corking that the success of the process depends. […] In submitting these inclosed substances to the action of boiling water in a water-bath (BALNEUM MARIAE), for a greater or less length of time, according to their nature, and in the manner pointed out with respect to each several kind of substance."
       },
       {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Macmillan and Co., London; public domain digital delivery by Project Gutenberg / GITenberg",
-        "author": "Charlotte Mary Yonge",
-        "title": "History of Christian Names, revised edition 1884",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "descendant of the patron of scholars is to be found in that quaint portrait, Baillie Nicol Jarvie. The _h_ with which Nicolas is usually spelt in English was probably introduced in the seventeenth century, which seemed to think good spelling consisted in the insertion of"
+        "url": "https://www.britannica.com/biography/Nicolas-Appert",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "The Editors of Encyclopaedia Britannica",
+        "title": "Nicolas Appert: Biography & Facts",
+        "workId": "britannica:nicolas-appert",
+        "quote": "Using corked-glass containers reinforced with wire and sealing wax and kept in boiling water for varying lengths of time, he preserved soups, fruits, vegetables, juices, dairy products, marmalades, jellies, and syrups."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts",
-      "note": "Individually read the modern dictionary description and the historical book passage or labeled variants table for this narrow relationship. Facts use original wording and omit disputed historical roots and chronology. BTN corporate dictionary identity is read-supported; individual author is not established. Distinct authored works; deeper upstream authorities remain unaudited. Agent source review only, with accepted into this candidate subset by root review of the source-pair evidence."
+      "reviewer": "ROOT",
+      "note": "ROOT read Appert1812 front/methodI/vesselIII/corkIV/corkingV/defectVI/licence and Britannica biography/credits/history/editorial process. Exact bearer/food/sealedglass/boiling-water heat have two composed works per predicate: Appert and editorial Britannica. Book translations/digitization/testimonials one family; Britannica names that book, so common ancestry possible, not independent discovery/first-writer certificate. Translator uncredited; digitizers not authors; catalog AI summary excluded. 79/12 loses whole old39/7 French-form/Nicholas lesson; +40chars/+5words/surname/material/technical density charged; separate materiality accepts concrete process, no audience/consensus. Historical account, no priority/date/popularity or modern validated recipe claim. PG public-domainUSA/quote guidance read; Britannica rights reserved/Terms blocked. Own brief fact/attributed evidence only. Book ellipses join actual normalized fragments."
     },
     "recognitionVerified": true,
     "recognitionReview": {
