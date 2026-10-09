@@ -683,3 +683,19 @@ Current root a827 Kristine-worst after ownGREEN/full500 is source-aware and reta
 ## B4a source progress scope corrections
 
 2026-10-09T03:21:50.853818+00:00 — Governance4ca beforeGREEN; jobREADME b04942 afterGREEN before500; all4 again4bfe82 afterfive. PR corrected explicitly. Currentall500 lock follows consumption, historicalprematured205note preserved. Lilly mixedoutput clipping and producer pre-lock mental shorthand disclosed; no universal prewordingblindness. Lexical agent private hypothetical after6entries disclosed before neutral interpretation handoff. Sutherland historical40316byte body versus CONNECT4030 retained. Annie full age/date disagreement remains excluded, no autograph inspection. Prefix read attempt783be2 of75 oldNEXT lines clipped; filepins preservation is mechanical, not new full human reading.
+
+## Actual source checkpoint 2026-10-09T03:51:08.739244+00:00
+
+{
+  "utc": "2026-10-09T03:50:08.289698+00:00",
+  "producerFullReportHumanReads": [
+    "40461b first15000characters",
+    "bf50a9 remainingcompletecharacters"
+  ],
+  "producerReportSHA256": "a5f44723e39f31e4ff9dc6f05082e12c2c14386247947acd4b0b3dbc33ecbac5",
+  "producerVerdict": "Literal null: no positive selected-clause creation/upstream genealogy sufficient under producer own gate; no materiality verdict. Preserved as disagreement, never called agreement/noGain.",
+  "bindingReread": "95605e whole README/RULES/JOBS/job README at03:49:14. RULES: Facts need 2 independent sources. Job README: two authored source works. No blanket requirement to personally read every ancestral dictionary or prove each compiler discovery independently.",
+  "ROOTPick": "Maintain bounded positive secondary-work qualification from own original contexts: Campbell own dictionary compilation plus Yonge own comparative authored synthesis for name/root; Harper research synthesis plus Davidson explicitly edited/condensed dictionary for cream/root. Selected texts and derivational scopes actually read; same dictionary entries/mirrors never extra votes. Davidson simpler ancestry and Harper substantive mixture/history account are separately authored treatments, not two URLs or known imports. Known common authorities disclosed; no positive assertion of wholly separate primary discoveries or exhaustive no-copy genealogy.",
+  "why": "Independent secondary editorial treatments can corroborate a narrow factual component even with common scholarly ancestry. Producer correctly identifies unaudited primary lineage and unread ancestors; this limits the certification but does not by itself make credited distinct secondary works copied mirrors. Their documented creation processes and substantive treatments provide positive work-level evidence. Underlying etymology is narrowed to remote shared root, not a modern consensus/exclusive-origin/blend-settlement claim.",
+  "unresolvedScope": "Primary philological origins, exhaustive clause genealogy, older 1898 exact entry, underlying cited scans/autographs are uninspected. No late source disagreement silently erased and no peer approval presumed. Exact-object review remains pending."
+}
