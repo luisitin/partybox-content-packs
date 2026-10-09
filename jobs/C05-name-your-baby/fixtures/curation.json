@@ -12081,61 +12081,29 @@
   },
   {
     "id": "ssa:F:Arlene",
-    "fact": "Arline sings 'I Dreamt I Dwelt in Marble Halls' in Balfe's opera The Bohemian Girl.",
+    "fact": "Arlene Blum's Annapurna team sold 'A woman's place is on top' T-shirts to fund its climb.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Arlene (pinned2021 retained context-only name link)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Arline."
-      },
-      {
-        "url": "https://en.wikipedia.org/w/index.php?title=The_Bohemian_Girl&oldid=1360620610",
+        "url": "https://en.wikipedia.org/w/index.php?title=Arlene_Blum&oldid=1377239182",
         "publisher": "Wikipedia, The Free Encyclopedia",
         "author": "Wikipedia contributors",
-        "title": "The Bohemian Girl, revision1360620610",
-        "workId": "wikipedia:encyclopedia",
-        "quote": "The best-known aria from the piece is \"[[I Dreamt I Dwelt in Marble Halls]]\" in which the main character, Arline, describes her vague memories of her childhood."
+        "title": "Arlene Blum, revision1377239182, complete biography and Major climbs",
+        "workId": "wikipedia:arlene-blum:1377239182-composed-biography",
+        "quote": "They raised money for the trip in part by selling T-shirts with the slogan \"A woman's place is on top\"."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=The_Bohemian_Girl&oldid=1360620610",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "The Bohemian Girl, revision1360620610, composer lead",
-        "workId": "wikipedia:encyclopedia",
-        "quote": "'''''The Bohemian Girl''''' is an English language Romantic [[opera]] composed by [[Michael William Balfe]] with a libretto by [[Alfred Bunn]]."
-      },
-      {
-        "url": "https://en.wikipedia.org/w/index.php?title=I_Dreamt_I_Dwelt_in_Marble_Halls&oldid=1322233722",
-        "publisher": "Wikipedia, The Free Encyclopedia",
-        "author": "Wikipedia contributors",
-        "title": "I Dreamt I Dwelt in Marble Halls, revision1322233722",
-        "workId": "wikipedia:encyclopedia",
-        "quote": "It is sung in the opera by the character Arline, who is in love with Thaddeus, a Polish nobleman and political exile."
-      },
-      {
-        "url": "https://www.gutenberg.org/cache/epub/14968/pg14968.txt",
-        "publisher": "A. C. McClurg and Company1897; Project Gutenberg eBook14968 digital delivery",
-        "author": "George P. Upton",
-        "title": "The Standard Operas: Their Plots, Their Music, and Their Composers, twelfth edition1897, Balfe/The Bohemian Girl",
-        "workId": "upton:standard-operas:1897",
-        "quote": "Arline wakes and relates her dream to Thaddeus in a joyous song (\"I dreamed I dwelt in Marble Halls\")"
-      },
-      {
-        "url": "https://www.gutenberg.org/cache/epub/14968/pg14968.txt",
-        "publisher": "A. C. McClurg and Company1897; Project Gutenberg eBook14968 digital delivery",
-        "author": "George P. Upton",
-        "title": "The Standard Operas, twelfth edition 1897, complete Balfe section, The Bohemian Girl definition",
-        "workId": "upton:standard-operas:1897",
-        "quote": "\"The Bohemian Girl,\" grand opera in three acts"
+        "url": "https://raw.githubusercontent.com/ilias-ant/american-alpine-club-articles/c707378ffcfb7ed0ce12af18670258da39e96a05/aac_articles/dataset/kaggle/articles.csv",
+        "publisher": "American Alpine Club, The American Alpine Journal; pinned Ilias Antonopoulos import",
+        "author": "Vera Komarkova",
+        "title": "American Women's Himalayan Expedition, Annapurna 1, AAJ1979; CSV record3218 (zero-based)",
+        "workId": "komarkova:aaj:1979:american-womens-himalayan-expedition",
+        "quote": "In the beginning we ordered a few dozen T-shirts with a slogan “A Woman’s Place is on Top … Annapurna” … about $60,000 worth of shirts were sold."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_post38_player_review:bounded-arlene-opera-medium-inquiry",
-      "note": "Personally read complete pinned Wiki opera/aria originals and Upton's entire Balfe section, preface, credits, catalogue and full licence. Wikipedia is one work; Upton the second authored presentation of opera/composer/Arline-song. Shared Balfe/Bunn fiction; deeper lineage unproved. Wiki cites Weaver, Bunn and later Grove; Upton acknowledges earlier Grove for dates/statistics and unnamed books. Underlying authorities unread. Upton 'dreamed' versus Wiki 'Dreamt' retained; unrelated cast/plot/date differences excluded. BTN Arlene-to-Arline stays single-work context, no new spelling/origin claim. Adding 'opera' states the work's medium: 77 to 83 characters, song/composer/work lessons retained, modest explanatory gain at six-character cost; no audience experiment. Six refs; Wiki CC BY-SA 4.0 notices and Upton/PG credits retained; 1897 text USA-PD only, worldwide status unverified. No lyrics, score, audio or art reused. Bounded source/materiality acceptance; root owns promotion."
+      "reviewer": "ROOT",
+      "note": "ROOT read the complete pinned Blum biography, creator citation and CC BY-SA4 footer, and Komarkova's complete AAJ1979 participant account via one pinned GitHub CSV import, plus importer credits/transformations/rights. Two actual composed works per predicate, not URLs/versions/importer votes; shared expedition/Blum history and possible deeper dependency disclosed. AAC original HTML/PDF blocked; import fidelity/capture date and open original licence not established. Dataset CC0/Apache does not license the AAC article. Own fact and essential short quotes only. Core six-word slogan quoted; AAC also prints an Annapurna suffix. No all-guides-women, personal summit, exclusive funding, headcount, date or SSA-causation claim. Separate materiality loses the entire valid Arline/song/Balfe/opera/name link; concrete slogan/fundraising/climb connection earns +6 characters/+1 word and context/quotation costs. Editorial judgment, no survey."
     },
     "recognitionVerified": true,
     "recognitionReview": {
