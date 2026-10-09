@@ -6871,7 +6871,7 @@
         }
       ],
       "id": "ssa:F:Stephanie",
-      "fact": "Stephanie is a feminine form of Stephen.",
+      "fact": "Stephanie is a feminine form of Stephen, Greek for 'crown' or 'wreath'.",
       "factStatus": "reviewed",
       "factReferences": [
         {
@@ -6889,11 +6889,35 @@
           "title": "The Dictionary of Medieval Names from European Sources: Stephanie, edition 2023.1",
           "workId": "dmnes:dictionary:2023.1",
           "quote": "Fem. of Stephen."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/uckelman/dmnes-dump/f91cf47fa790c3d67e6f028dbae8ebb9a3e35625/2023/1/name/Stephen",
+          "publisher": "Dictionary of Medieval Names from European Sources, The Editors",
+          "author": "A. Brown, G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman",
+          "title": "The Dictionary of Medieval Names from European Sources: Stephen, edition 2023.1",
+          "workId": "dmnes:dictionary:2023.1",
+          "quote": "Greek στέφανος 'crown, wreath; reward, honor'."
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/70419/",
+          "publisher": "Macmillan and Co.; Project Gutenberg transcription",
+          "author": "Charlotte M. Yonge",
+          "title": "History of Christian Names, revised1884: glossary, Stephanie",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "Stephanie, _f._ _Ger._ _Fr._ Gr. crown, 96"
+        },
+        {
+          "url": "https://www.gutenberg.org/files/70419/70419-0.txt",
+          "publisher": "Macmillan and Co.; Project Gutenberg transcription",
+          "author": "Charlotte M. Yonge",
+          "title": "History of Christian Names, revised1884: Greek names, Stephen and feminine forms",
+          "workId": "yonge:history-of-christian-names:1884",
+          "quote": "The wreath of the conqueror was an appropriate allusion to those games"
         }
       ],
       "factReview": {
-        "reviewer": "/root/c05_full_facts/modern_name_dictionary",
-        "note": "Both cached authored dictionary bodies read for this narrow original claim. Behind the Name is the corporate dictionary identity established by the scraper; individual authorship is unestablished. DMNES entry authors are read from its citeme citation. Distinct works; no BTN dependency found in DMNES. Shared deeper scholarship not exhaustively audited. This is an agent review, not a human manual spot check."
+        "reviewer": "ROOT; /root/c05_colton_historic_crossing_peer (source support; materiality dissent)",
+        "note": "ROOT personally read necessary DMNES entries/creator/guide/colophon and Yonge's complete relevant section, glossary, signed prefaces and rights; two independently composed works, repeated entries/PG copies one each. BTN retained corroboration supplies no required vote after bibliography dependency uncertainty. Crown explicit in Yonge, wreath contextual there/explicit DMNES; conjectural infant story excluded. Full old40/7 feminine-Stephen lesson retained; exact71/12 adds31/5 and Greek/noun/appositive costs. ROOT accepts modest self-contained row learning; current Stephen already repeats the same meaning. Colton independently sourcePASS but materialityNEGATIVE; dissent retained, no consensus/audience claim. No inherited original reading or approval."
       },
       "recognitionVerified": true,
       "recognitionReview": {
