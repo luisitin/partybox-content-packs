@@ -11616,28 +11616,36 @@
     }
   },
   {
-    "fact": "Addison is a surname that became a given name for girls and boys.",
+    "fact": "Addison, a surname meaning \"son of Adam,\" became a given name for girls and boys.",
     "factReferences": [
       {
-        "author": "Wikipedia contributors",
-        "publisher": "Wikipedia",
-        "quote": "a unisex given name derived from the surname [[Addison (surname)|Addison]]",
-        "title": "Addison (given name)",
-        "url": "https://en.wikipedia.org/w/index.php?title=Addison+%28given+name%29&oldid=1364877729",
-        "workId": "wikipedia:Addison (given name):1364877729"
+        "url": "https://nameberry.com/b/girl-baby-name-addison",
+        "publisher": "Nameberry",
+        "author": "Sophie Kihm; edited by Pamela Redmond",
+        "title": "Addison Name Meaning, Origin & Popularity",
+        "workId": "nameberry:addison-editorial",
+        "quote": "Borrowed from an English surname, meaning \"son of Adam,\" Addison joined Madison as one of the few \"son of\" names to be used almost exclusively on girls. ... Addison remains in usage for boys in the UK"
       },
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "From an English surname meaning \"son of Adam\".",
-        "title": "Behind the Name first-name dictionary: Addison",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://www.gutenberg.org/files/59959/59959-0.txt",
+        "publisher": "Chatto and Windus, 1875; Project Gutenberg transcription",
+        "author": "Charles Wareing Endell Bardsley",
+        "title": "English Surnames: Their Sources and Significations, second edition",
+        "workId": "bardsley:english-surnames-1875",
+        "quote": "The Saxon added ‘son,’ as a desinence, as ‘Williamson,’ that is, ‘William’s son,’ ... Thus was it with ‘Adam,’ already mentioned. ... With them therefore we must ally our ‘Addisons,’ ‘Adcocks,’[73] and ‘Adamsons.’"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Addison_(given_name)&oldid=1364877729",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Addison (given name)",
+        "workId": "wikipedia:addison-given-name",
+        "quote": "Addison is a unisex given name derived from the surname Addison."
       }
     ],
     "factReview": {
-      "note": "Individual agent comparison with pinned Wikipedia revision and read BTN dictionary corpus. Non-BTN reference scope checked; underlying cited works not directly read. BTN gender metadata MF corroborates use for girls and boys. Uncited Wiki infobox son-of-Adam meaning is excluded.",
-      "reviewer": "Codex source reviewer /root/c05_full_facts/wiki_review_250_350"
+      "reviewer": "ROOT",
+      "note": "ROOT read whole Nameberry entry/byline/editor and About/editorial/Terms/Sources, necessary Bardsley1875 title/three prefaces/patronymic/Adam/index/source keys/notes/licence/catalog, and whole Wiki narrative/references/footer. Meaning: Nameberry explicit gloss plus Bardsley contextual son/Adam grouping/index, not a standalone English gloss. Usage/surname origin: Nameberry girls/boys prose plus Wiki cited unisex narrative; uncited meaning excluded. Ellipsis quotes are separate necessary fragments. Nameberry books/URLs and Wiki versions onefamily each; shared Hanks/Yonge/BTN/Lower scholarship possible, not two field discoveries. Old BTN import not inherited. Entire65/13 surname/became-given/both-sex lesson retained; +16chars/+2words/appositive/root/density charged for modest specific Adam relation. No bearer ancestry, sex restriction, country/rank/causation or audience consensus. Own fact and brief evidence only, no corpus/assets."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Addison",
