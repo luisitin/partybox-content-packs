@@ -14520,44 +14520,36 @@
     }
   },
   {
-    "fact": "Hayden Panettiere played FBI agent Kirby Reed in Scream VI.",
+    "fact": "Hayden Planetarium excluded Pluto as a planet six years before its official demotion.",
     "factReferences": [
       {
-        "publisher": "Encyclopaedia Britannica",
-        "author": "Alison Eldridge; fact-checked by Britannica Editors",
-        "title": "Scream (complete human article; retrieved October 8, 2026)",
-        "workId": "britannica:encyclopedia",
-        "url": "https://www.britannica.com/topic/Scream-film-franchise",
-        "quote": "Kirby Reed (Hayden Panettiere):"
-      },
-      {
-        "publisher": "Encyclopaedia Britannica",
-        "author": "Alison Eldridge; fact-checked by Britannica Editors",
-        "title": "Scream (complete human article; retrieved October 8, 2026)",
-        "workId": "britannica:encyclopedia",
-        "url": "https://www.britannica.com/topic/Scream-film-franchise",
-        "quote": "Kirby becomes an FBI agent and investigates subsequent crimes in Scream VI (2023)."
-      },
-      {
+        "url": "https://en.wikipedia.org/w/index.php?title=Rose_Center_for_Earth_and_Space&oldid=1378864616",
         "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Kirby Reed, revision1375929156",
-        "workId": "wikipedia:encyclopedia",
-        "url": "https://en.wikipedia.org/w/index.php?title=Kirby_Reed&oldid=1375929156",
-        "quote": "portrayed by [[Hayden Panettiere]]"
+        "title": "Rose Center for Earth and Space",
+        "workId": "wikipedia:Rose-Center:1378864616",
+        "quote": "Notably, the new Rose Center opened on February 19, 2000, with a model depicting only eight planets, excluding [[Pluto]]"
       },
       {
+        "url": "https://en.wikipedia.org/w/index.php?title=Neil_deGrasse_Tyson&oldid=1375869196",
         "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Kirby Reed, revision1375929156",
-        "workId": "wikipedia:encyclopedia",
-        "url": "https://en.wikipedia.org/w/index.php?title=Kirby_Reed&oldid=1375929156",
-        "quote": "Kirby appears again in ''[[Scream VI]],'' now an FBI special agent"
+        "title": "Neil deGrasse Tyson",
+        "workId": "wikipedia:Neil-deGrasse-Tyson:1375869196",
+        "quote": "In 2006, the [[International Astronomical Union]] (IAU) confirmed this assessment by changing Pluto to the [[dwarf planet]] classification."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Neil-deGrasse-Tyson",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "Erik Gregersen; The Editors of Encyclopaedia Britannica",
+        "title": "Neil deGrasse Tyson | Biography, Books, TV Shows, & Facts",
+        "workId": "britannica:Neil-deGrasse-Tyson:Gregersen:2026-10-01",
+        "quote": "As director of the Hayden Planetarium, Tyson oversaw a complete replacement of the facility, which opened in 2000. The new planetarium’s exhibit categorized the solar system ’s bodies into groups. Pluto was not classified with either the terrestrial or Jovian planets but was grouped with the Kuiper belt objects. That decision (made six years before the International Astronomical Union designated Pluto as a dwarf planet )"
       }
     ],
     "factReview": {
-      "reviewer": "codex-c05-hayden-distinct-source-materiality-peer",
-      "note": "Distinct Hayden peer read full Britannica Scream article/credits/history and pinned Kirby Reed1375929156 body/footer; literal quotes match originals. Britannica credits Eldridge/Editors; history also lists Nayak without assigning this sentence. Two authored editorial groups support Panettiere as Kirby and her FBI role in Scream VI. They summarize shared film fiction; film/script, Wiki casting/EW/interview bodies and Britannica deeper lineage unread. Independence is editorial-work scope only. Positive common Variety death/news attachment supplies no required predicate; extra Wiki pages/quotes add no vote. Full CC BY-SA4.0 legal and CC0 repository texts read; Britannica copyright retained, Terms403 body0 unresolved. Narrow factual paraphrase/brief attributed quotes; no assets. Modest editorial gain from concrete bearer/role, losing explicit girls/boys usage and adding cast-role repetition. M counts/recognition unchanged; no origin, popularity causation or audience certificate."
+      "reviewer": "ROOT",
+      "note": "Two editorial families per predicate: Rose Center1378864616+BRT for2000 exclusion; Tyson1375869196+BRT for2006 IAU designation; BRT explicit six-year lead plus Wiki dates. Three entries are not three independent votes. Full Rose entry, necessary Tyson paragraphs/citations, whole displayed Gregersen biography and actual credits/rights read; common Tyson book/history disclosed. Separate source-only85/13 and whole valid59/10 Panettiere/FBI/Kirby/ScreamVI loss/+26chars/+3words/institution/name bridge/chronology/classification/template costs accepted narrowly by ROOT. No physical absence, museum official authority, vote/current exhibit/SSA claim. BRT excerpt whitespace normalized only; Wiki markup retained. Own short fact/essential quotes only."
     },
     "factStatus": "reviewed",
     "id": "ssa:M:Hayden",
