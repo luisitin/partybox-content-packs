@@ -20977,11 +20977,27 @@
           "title": "Tossa de Mar Rocks!, June8,2019",
           "workId": "andre-torgal:tossa-de-mar-rocks:2019",
           "quote": "There's even a statue of Ava Gardner in medieval town."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ava-Gardner",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "The Editors of Encyclopaedia Britannica",
+          "title": "Ava Gardner; composed biography and editorial history",
+          "workId": "britannica:encyclopedia",
+          "quote": "was an American film actress of the 1940s and ’50s"
+        },
+        {
+          "url": "https://www.britannica.com/place/Costa-Brava",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Vicente Rodriguez; Britannica Editors",
+          "title": "Costa Brava; composed geographical paragraph",
+          "workId": "britannica:encyclopedia",
+          "quote": "coastal region of the comunidad autónoma (autonomous community) of Catalonia, northeastern Spain"
         }
       ],
       "factReview": {
         "reviewer": "ROOT",
-        "note": "ROOT personally read pinned Wiki Gardner caption/lead/geography/rights and whole Torgal2019 travel/About with creator-history context. Wiki encyclopedia composition and independently authored first-person travel prose count two works; shared possible Commons-photo ancestry disclosed, photos zero votes. Core statue/bearer/place in both; Spain explicit in Wiki, geographic blog context; American actress Wiki lead and blog film context, not every qualifier literally duplicated. No bronze/date/sculptor/tourism or name-popularity cause. Original fact and brief attributed support only, no photo/corpus; MIT software is not blanket prose/photo permission. Full old57/11 Germanic branch/root/uncertainty/restraint lesson lost and priced, plus surname/identity/geography cost; ROOT accepts concrete American-actress/Spain statue connection as modest gain. Shorter -6characters/-2words is not the gain. Name recognition unchanged, not Gardner recognition or a survey."
+        "note": "ROOT read pinned Wiki biography/caption, whole Torgal travel/About/creator context and actual MIT-content footer, plus composed Britannica Gardner biography and Costa Brava geography with credits/history/copyright. Statue: Wiki+Torgal; American actress: Wiki+Britannica; Spain: Wiki and travel CostaBrava route with Britannica country bridge. Film context alone does not establish American. Both Britannica articles count one institutional family; Wiki external Britannica link/shared scholarship disclosed, selected composed narratives remain distinct. Shared Commons photo zero votes; no photos/corpus. Torgal footer explicitly MIT code AND content except noted photo; Britannica copyrighted, AI FAQs excluded. Same51/9 sentence unchanged; source-only repair earns no new visible editorial gain. Old57/11 loss and prior61 materiality are historical, not retroactively authorized. Name recognition unchanged."
       },
       "recognitionVerified": true,
       "recognitionReview": {
@@ -79367,29 +79383,29 @@
         }
       ],
       "id": "ssa:M:Byron",
-      "fact": "Byron began as a surname drawn from an English place name.",
+      "fact": "Poet Lord Byron kept a pet bear at Cambridge.",
       "factStatus": "reviewed",
       "factReferences": [
         {
-          "url": "https://en.wikipedia.org/w/index.php?title=Byron+%28name%29&oldid=1376833298",
-          "publisher": "Wikimedia Foundation",
-          "author": "Wikipedia contributors",
-          "title": "Byron (name)",
-          "workId": "wikipedia:Byron (name)",
-          "quote": "toponymic surname]] that is derived from [[Byram, North Yorkshire]]"
+          "url": "https://www.gutenberg.org/cache/epub/8901/pg8901.txt",
+          "publisher": "Project Gutenberg, edited correspondence of Lord Byron",
+          "author": "George Gordon Byron, Lord Byron; edition edited by Rowland E. Prothero",
+          "title": "The Works of Lord Byron: Letters and Journals, Vol. 1; letter81, October26,1807",
+          "workId": "byron:letter81:1807-10-26",
+          "quote": "I have got a new friend, the finest in the world, a _tame bear_."
         },
         {
-          "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-          "publisher": "Behind the Name",
-          "author": "Behind the Name",
-          "title": "Byron name entry",
-          "workId": "behind-the-name:dictionary",
-          "quote": "From a surname that was originally from a place name"
+          "url": "https://www.britannica.com/biography/Lord-Byron-poet",
+          "publisher": "Encyclopaedia Britannica",
+          "author": "Leslie A. Marchand; Britannica Editors",
+          "title": "Lord Byron; Education, budding eccentricity, and first poems",
+          "workId": "britannica:lord-byron-poet:marchand",
+          "quote": "he became known on campus for keeping a pet bear"
         }
       ],
       "factReview": {
-        "reviewer": "Codex subagent /root/c05_full_facts/wiki_review_150_250 (second slice 450:487)",
-        "note": "Agent read pinned Wikipedia article and preserved BTN entry, then compared the narrow original claim and selected citation scope. Wikipedia credits Patrick Hanks, Dictionary of American Family Names (2003), vol. 1 p. 264. That underlying authority was not directly read and is not counted as a third source. No BTN dependency is observed for this chosen citation scope; deeper shared scholarship is unaudited. The opening explicitly connects given-name use to the surname. Cow-shed root and poet identity are not asserted by this selected pair. Recognition is separately reviewed below."
+        "reviewer": "ROOT",
+        "note": "ROOT personally read entire1807 letter81 with edited-volume preface/header/catalog, and credited Marchand Britannica biography education unit/lead with contributor/bibliography/history. Poet identity and bear at Trinity College Cambridge supported. Byron self-reports tame-bear friend; separately composed biography says pet bear. Marchand also edited letters; shared primary evidence disclosed, not two eyewitnesses. Wikipedia quotation/editions/mirrors count zero extra works; AI FAQs excluded. Lord Byron is surname/title, not given name Byron. No dog-ban/motive/legal/date/purchase/rooms/training or popularity cause. Own45/9 replaced full58/11 English-place/surname-first/form-wide history, all loss and title/poet/place costs priced; -13chars/-2words alone zero gain. Concrete bear/academic connection earns modest editorial gain, no trial. Recognition/numeric fields unchanged. Original fact/brief attributed quotes only, no corpus/assets."
       },
       "recognitionVerified": true,
       "recognitionReview": {
