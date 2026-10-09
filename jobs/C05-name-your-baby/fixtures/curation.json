@@ -15513,61 +15513,29 @@
   },
   {
     "id": "ssa:F:Marsha",
-    "fact": "Marsha can be a form of Marcia, from Marcius, a Roman family name related to Marcus.",
+    "fact": "Activist Marsha P. Johnson said her P stood for 'pay it no mind'.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://www.behindthename.com/name/marsha",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Marsha (complete original entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Variant of Marcia."
+        "url": "https://www.britannica.com/biography/Marsha-P-Johnson",
+        "publisher": "Encyclopaedia Britannica",
+        "author": "The Editors of Encyclopaedia Britannica",
+        "title": "Marsha P. Johnson: Biography, Activism, & Facts",
+        "workId": "britannica:editors-marsha-p-johnson",
+        "quote": "was a Black American drag queen and activist who was dedicated to social justice for the gay and transgender communities […] a unique personality and style and eventually began calling herself Marsha P. Johnson. She stated that the middle initial stood for “pay it no mind,” a phrase she often used when questioned about her gender and lifestyle."
       },
       {
-        "url": "https://www.behindthename.com/name/marcia",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Marcia (complete original entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Feminine form of Marcius."
-      },
-      {
-        "url": "https://www.behindthename.com/name/marcius",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Marcius (complete original entry)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Roman family name that was a derivative of the praenomen Marcus."
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte M. Yonge",
-        "title": "History of Christian Names (revised 1884), Marcus section",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "From Marcus sprang the nomen Martius, or, as it was later written, Marcius"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/GITenberg/History-of-Christian-names_70419/e78bed0f0ab05ce6447247be0874dcc502778439/70419-0.txt",
-        "publisher": "Project Gutenberg, mirrored by GITenberg",
-        "author": "Charlotte M. Yonge",
-        "title": "History of Christian Names (revised 1884), Marcus section",
-        "workId": "yonge:history-of-christian-names:1884",
-        "quote": "The daughters of this gens were called Marcia"
-      },
-      {
-        "url": "https://nameberry.com/name/marsha",
-        "publisher": "Nameberry",
-        "author": "Grace Royal",
-        "title": "Marsha — Name Meaning, Origin & Popularity (main Origin field)",
-        "workId": "nameberry:name-dictionary",
-        "quote": "Variation of Marcia, diminutive of Marcella"
+        "url": "https://en.wikipedia.org/w/index.php?title=Marsha_P._Johnson&oldid=1376836759",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Marsha P. Johnson, revision 1376836759",
+        "workId": "wikipedia:MarshaPJohnson:1376836759",
+        "quote": "was an American LGBTQ activist, sex worker and performer. […] When asked about the meaning of the middle initial \"P\", Johnson gave various answers. At times, she said that it stood for \"pay it no mind\", particularly when questioned about her gender."
       }
     ],
     "factReview": {
-      "reviewer": "codex-c05-marsha-independent-actual-source-materiality-peer",
-      "note": "Actual originals read. BTN Marsha and Nameberry's main Origin explicitly give Marcia; Nameberry also gives Marcella, so 'can' keeps the route nonexclusive. BTN Marcia/Marcius and Yonge Marcus/Nomina sections preserve the Roman family/Marcus lesson. Marcia's separate feminine-Marcus route, mixed-sex usage and broader root uncertainty remain context, not unique ancestry claims. Nameberry prints Grace Royal and editor Sophie Kihm; BTN corporate authorship retained. Three authored works, two per clause; Nameberry's explicit BTN/Yonge/Hanks catalogue creates selected/deeper-lineage uncertainty, not a primary-independence certificate or absent-import proof. Mirrors/aliases count once; Yonge is historical and does not prove modern Marsha. Cited primary works and Grace's profile unread. Brief literal attributed quotes; dictionary copyright and PG regional/trademark limits retained. Adds an explicit card link at +19 characters without losing the valid Roman lesson; recognition unchanged."
+      "reviewer": "ROOT",
+      "note": "ROOT read full Britannica biography/credits/history/editorial profile; Wiki fulllead/Earlylife/EarlyyearsNY/bibliography/recenthistory/CCfooter. Two composed works per bearer/activist/reportedPexplanation. Wiki naming citesChan/KellerMorris; knownBritimport is otherEarlylifeclause, excludedselectedvote; commonhistory possible, not independentdiscovery/firstwriter. AI/versions/mirrors/contributors/unreadbooks add0. Wiki gives variedanswers/laterPiola; said reports one explanation, notonly/legal/birthname definition. Exact65/13 loses whole84/16 nonexclusive Marsha-Marcia-Marcius/Romanfamily-Marcus lesson; -19chars/-3words alone0, surname/initial/role/quotation/context costs separately priced for modest letter-to-phrase relation, no audience/consensus. Stats/recognition exact/separate; no dates/priority/firstbrick/popularity/sexexclusive claims. WikiCCBYSA4 attributed/Britrightsreserved Terms403. Ownbrief fact/excerpts only; ellipses join actualfragments."
     },
     "recognitionVerified": true,
     "recognitionReview": {
