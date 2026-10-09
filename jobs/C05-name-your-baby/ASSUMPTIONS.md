@@ -522,3 +522,7 @@ Three entries/two families perpredicate, shared Tyson Spacecom/book/public-histo
 ## Round73 external authentication prerequisite
 
 Public source/CI reads working does not establish authenticated Git/API write access. HTTP401 Badcredentials and native Git username failure are observed; expiry/cause is unconfirmed. Existing GH_TOKEN presence only, no value read or substitute/duplicate credential; configured runtime lists do not certify platform bootstrap readiness. Restore existing repository authorization through supported settings. Native130 saved draft requires Publish and preserves all existing fields/whole Start; no activation/restart/restoration or current authentication repair. Code fullCI and local45tests/36mutations/17pins passed, independently of this queue-write blocker. Four local handoff docs/proposed C05 BLOCKED claim need actual ordinary push evidence; never equate local commit with remote persistence. No next job claim can proceed if main-write prerequisite fails. Counters73/183/0 and LOOP unchanged; no invented time/tool exhaustion, no-gain round or cosmetic closure.
+
+## Authentication recovery
+
+Actual Git pushes and API reads recovered during this turn without credential/proxy/TLS/policy changes. Do not infer that draft saves caused runtime recovery. The transient blocked line was actually published, then is restored to an owned timestamp by ordinary push. C05 continues; no extra accepted/no-gain round, no replay and no closure.
