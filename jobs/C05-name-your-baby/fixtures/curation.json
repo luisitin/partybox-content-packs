@@ -11760,28 +11760,28 @@
     }
   },
   {
-    "fact": "Stacey can belong to Eustace’s name family.",
+    "fact": "Politician Stacey Abrams wrote romance novels as Selena Montgomery.",
     "factReferences": [
       {
-        "author": "Behind the Name",
-        "publisher": "Behind the Name",
-        "quote": "Variant of Stacy. […] surname that was derived from Stace, a medieval form of Eustace.",
-        "title": "Behind the Name: Stacey and explicitly linked name entries",
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "workId": "behind-the-name:dictionary"
+        "url": "https://en.wikipedia.org/w/index.php?title=Stacey_Abrams&oldid=1378994489",
+        "publisher": "Wikipedia",
+        "author": "Wikipedia contributors",
+        "title": "Stacey Abrams",
+        "workId": "wikipedia:Stacey-Abrams:1378994489",
+        "quote": "Stacey Abrams authored eight novels under the pen name Selena Montgomery."
       },
       {
-        "author": "Ernest Weekley",
-        "publisher": "John Murray, London; digital text retained by GITenberg",
-        "quote": "Stacey for Eustace",
-        "title": "The Romance of Names, third revised edition (1922)",
-        "url": "https://raw.githubusercontent.com/GITenberg/The-Romance-of-Names_24374/6c60c4f96f0ca92df4eadb3fbbb052a37a1bd6d3/24374.txt",
-        "workId": "weekley-romance-of-names-1922"
+        "url": "https://raw.githubusercontent.com/haoting-chan/Text-Vectorization/e051ba4546192beb1b7532ac585f04991e0190a8/articles/2018-05-25/The%20Guardian/The%20Guardian--2018-05-25--Americas%20first%20black%20female%20governor%20Stacey%20Abrams%20You%20dont%20tell%20yourself%20no",
+        "publisher": "The Guardian",
+        "author": "The Guardian (reporter byline absent from supplied import)",
+        "title": "Americas first black female governor Stacey Abrams You dont tell yourself no (collection filename)",
+        "workId": "guardian:Stacey-Abrams-profile:2018-05-25",
+        "quote": "She also wrote numerous romance novels, under the the nom de plume Selena Montgomery"
       }
     ],
     "factReview": {
-      "note": "Individual comparison of actual cached Ernest Weekley book passages and BTN editorial entry bodies. Distinct authored works; linked BTN entries and delivery archives count as one source. Shared older scholarship was not audited for independence of observation. Stacy/Stacey also has an Anastasia route. Both works independently support the Eustace route, so can preserves this alternative. Recognition is separately reviewed below.",
-      "reviewer": "Codex source research subagent /root/c05_bible_gap_facts"
+      "reviewer": "ROOT",
+      "note": "Two actual composed works: Wikipedia biography1378994489 and Guardian2018 first-person profile via pinned import. Whole Guardian body, Wiki necessary complete units, credits/import/rights personally read; report byline/originalURL absent, shared Abrams history and import fidelity/rights limits disclosed. Source qualification, exact67/9 wording and separate whole43/7 Eustace-family loss/+24chars/+2words/new person/role/genre/alias costs independently accepted. Britannica omits alias/romance and is excluded; no eight-bookcount/governorship result/SSA claim. Both supplied literal excerpts retain punctuation; Guardian versions count once."
     },
     "factStatus": "reviewed",
     "id": "ssa:F:Stacey",
