@@ -4553,29 +4553,29 @@
   },
   {
     "id": "ssa:F:Ava",
-    "fact": "The Germanic form of Ava has a root of uncertain meaning.",
+    "fact": "American actress Ava Gardner has a statue in Spain.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Ava+%28given+name%29&oldid=1364096158",
-        "publisher": "Wikipedia, The Free Encyclopedia",
+        "url": "https://en.wikipedia.org/w/index.php?title=Ava_Gardner&oldid=1375997464",
+        "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Ava (given name), revision 1364096158",
-        "workId": "wikipedia:Ava (given name):1364096158",
-        "quote": "and 9th centuries during the [[Middle Ages]] as an abbreviation of [[Germanic name|Germanic names]] containing the element {{lang|goh|aw-}}, which is of uncertain meaning.<ref name=\":0\">Förstemann, ''Altdeutsches Namenbuch'' (1847), [https://archive.org/stream/altdeutschesnam00frgoog#page/n116/mode/"
+        "title": "Ava Gardner (revision1375997464), statue caption and lead",
+        "workId": "wikipedia:Ava_Gardner",
+        "quote": "Gardner's statue in Tossa de Mar, Catalonia, Spain"
       },
       {
-        "url": "https://raw.githubusercontent.com/jeremander/baby_names/64575a0a450382fc6be272bf87a789a5de7c2bab/names.json",
-        "publisher": "Behind the Name",
-        "author": "Behind the Name",
-        "title": "Behind the Name: Ava (pinned 2021 dictionary distribution)",
-        "workId": "behind-the-name:dictionary",
-        "quote": "Originally a short form of Germanic names beginning with the element avi, of unknown meaning, possibly \"desired\". This was the name of a 9th-century Frankish saint. It was also borne by a 12t"
+        "url": "https://raw.githubusercontent.com/andrezero/andretorgal.site.old/94385d29e49f310a2d06b55039e3b092bfe88754/content/blog/2019-06-08/tossa-de-mar-rocks.md",
+        "publisher": "André Torgal's personal website, pinned source repository",
+        "author": "André Torgal",
+        "title": "Tossa de Mar Rocks!, June8,2019",
+        "workId": "andre-torgal:tossa-de-mar-rocks:2019",
+        "quote": "There's even a statue of Ava Gardner in medieval town."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_full_facts/modern_wiki_names",
-      "note": "Actual pinned Wiki and BTN bodies compared for this narrow claim. Wikipedia is an editorial work attributed to its contributors; the relevant citation cluster credits Ernst Förstemann, Altdeutsches Namenbuch, 1847, p.190; Hanks, Hardcastle and Hodges, A Dictionary of First Names, 2006, p.59. It excludes BTN dependence for this clause. Underlying cited work was not directly read; shared deeper lineage remains unaudited. BTN individual author unestablished; corporate dictionary identity read-supported. Agent review only; accepted into this candidate subset by root review of the source-pair evidence. The Germanic branch is explicit; English Eve and Persian sound branches are separate BTN entries and are not conflated. Neither aw-/avi’s exact original meaning is asserted."
+      "reviewer": "ROOT",
+      "note": "ROOT personally read pinned Wiki Gardner caption/lead/geography/rights and whole Torgal2019 travel/About with creator-history context. Wiki encyclopedia composition and independently authored first-person travel prose count two works; shared possible Commons-photo ancestry disclosed, photos zero votes. Core statue/bearer/place in both; Spain explicit in Wiki, geographic blog context; American actress Wiki lead and blog film context, not every qualifier literally duplicated. No bronze/date/sculptor/tourism or name-popularity cause. Original fact and brief attributed support only, no photo/corpus; MIT software is not blanket prose/photo permission. Full old57/11 Germanic branch/root/uncertainty/restraint lesson lost and priced, plus surname/identity/geography cost; ROOT accepts concrete American-actress/Spain statue connection as modest gain. Shorter -6characters/-2words is not the gain. Name recognition unchanged, not Gardner recognition or a survey."
     },
     "recognitionVerified": true,
     "recognitionReview": {
