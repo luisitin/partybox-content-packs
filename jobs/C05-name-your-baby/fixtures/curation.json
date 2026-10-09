@@ -17209,45 +17209,37 @@
   },
   {
     "id": "ssa:F:Velma",
-    "fact": "In Scooby-Doo, Velma is the gang’s brainy member.",
+    "fact": "Velma Johnston campaigned against using planes to round up wild horses.",
     "factStatus": "reviewed",
     "factReferences": [
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Velma_Dinkley&oldid=1374807025",
+        "url": "https://en.wikipedia.org/w/index.php?title=Velma_Bronn_Johnston&oldid=1335304151",
         "publisher": "Wikipedia",
         "author": "Wikipedia contributors",
-        "title": "Velma Dinkley, revision 1374807025",
-        "workId": "wikipedia:Velma_Dinkley",
-        "quote": "'''Velma Dinkley''' is a fictional [[cartoon]] character in the ''[[Scooby-Doo]]'' franchise."
+        "title": "Velma Bronn Johnston (revision 1335304151)",
+        "workId": "wikipedia:Velma_Bronn_Johnston",
+        "quote": "She was instrumental in passing legislation to stop using aircraft and land vehicles from inhumanely capturing wild horses and burros."
       },
       {
-        "url": "https://en.wikipedia.org/w/index.php?title=Velma_Dinkley&oldid=1374807025",
-        "publisher": "Wikipedia",
-        "author": "Wikipedia contributors",
-        "title": "Velma Dinkley, revision 1374807025",
-        "workId": "wikipedia:Velma_Dinkley",
-        "quote": "She is seen as the \"brains\" of the group."
+        "url": "https://raw.githubusercontent.com/csbailey5t/TRLN-Workshop-2020/6bd3d13ef37eb4b3e80a22bab84a1618528a6931/texts/mc00344_118816_20200129_1201.txt",
+        "publisher": "Society for Animal Protective Legislation; NCSU archival OCR imported by Scott Bailey",
+        "author": "Madeleine Bemelmans and Christine Stevens, for Society for Animal Protective Legislation",
+        "title": "To Humanitarians, July 28, 1959 (SAPL Letters, 1956-1965)",
+        "workId": "sapl:wild-horse-circulars:1959",
+        "quote": "The excellent testimony presented by Mrs. Velma Johnston of Nevada, statements by Membersof Congress, The Garden Clubs of America and humane organizations will be printed and available from the Clerk of the Judiciary Committee if you wish additional detailed information for future reference."
       },
       {
-        "url": "https://www.britannica.com/topic/Scooby-Doo",
-        "publisher": "Encyclopaedia Britannica",
-        "author": "Britannica Editors",
-        "title": "Scooby-Doo",
-        "workId": "britannica:encyclopedia",
-        "quote": "The original Scooby-Doo-based cartoon series, Scooby-Doo, Where Are You!"
-      },
-      {
-        "url": "https://www.britannica.com/topic/Scooby-Doo",
-        "publisher": "Encyclopaedia Britannica",
-        "author": "Britannica Editors",
-        "title": "Scooby-Doo",
-        "workId": "britannica:encyclopedia",
-        "quote": "and brainy, tomboyish Velma"
+        "url": "https://raw.githubusercontent.com/csbailey5t/TRLN-Workshop-2020/6bd3d13ef37eb4b3e80a22bab84a1618528a6931/texts/mc00344_118816_20200129_1201.txt",
+        "publisher": "Society for Animal Protective Legislation; NCSU archival OCR imported by Scott Bailey",
+        "author": "Madeleine Bemelmans and Christine Stevens, for Society for Animal Protective Legislation",
+        "title": "To Humanitarians, July 2, 1959 (SAPL Letters, 1956-1965)",
+        "workId": "sapl:wild-horse-circulars:1959",
+        "quote": "This amendment would allow the continuation of the present cruel pursuit of the horses by planes and trucks, merely transferring responsibility for this motorized persecution to government officials."
       }
     ],
     "factReview": {
-      "reviewer": "/root/c05_quality_review",
-      "note": "Independent agent reread of actual pinned Velma Dinkley lead and character description, including immediate Dresner/Ventura book citations, plus independently parsed visible Britannica Scooby-Doo article, its printed Britannica Editors byline and gang-description FAQ/original-series paragraph. Wikipedia calls Velma the group’s brains; Britannica separately calls her brainy among Mystery Inc. friends. Both support the fictional role explicitly framed In Scooby-Doo. Full Wiki body and Britannica HTML searched with no identified cross-dependency; the cited books were not directly read or counted. No unique given-name origin, plot chronology, role in every adaptation or claim about actual Velma bearers. Wiki CC-BY-SA4.0 attribution/revision retained; Britannica remains copyrighted prose with brief attributed support and original factual wording, not wholesale or MIT relicensing. Agent review only."
+      "reviewer": "ROOT",
+      "note": "ROOT independently acquired/read the complete Wikipedia Johnston main article and whole signed SAPL July2/July28/Aug18 1959 circulars, plus archival README/catalogue/import-source context. Wikipedia retrospective editorial composition and contemporary Bemelmans/Stevens organizational circular composition count two works; dates/signatories/mirrors count once. July28 names Johnston testimony; July2 explicitly defines planes/trucks for the same bill. Narrow advocacy only: no final enactment, sole success or name-popularity cause. Wiki CC-BY-SA attribution retained; OCR rights unestablished, original fact and brief attributed support only, no corpus/assets shipped. Full old49/8 cartoon/gang/brains/familiarity loss and +22characters/+3words, surname/history cost priced; ROOT judges concrete plane/horse action a player-visible gain. Name recognition is unchanged, not Johnston recognition or a survey."
     },
     "recognitionVerified": true,
     "recognitionReview": {
